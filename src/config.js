@@ -213,13 +213,13 @@ style: function (feature) {
 
 		},
 		{
-			group: 'Topics',
+			group: 'Test',
 			title: 'ES_1932-1939 II Spanish Republic',
 			query: '(nwr[~"^traffic_sign$"="ES:R2"]({{bbox}});node(w););out meta;',
 			iconSrc: imgSrc + 'base/circle.svg',
 			iconStyle: 'background-color:#714601',
 			style: function (feature) {
-				var key_regex = /^traffic_sign$"="ES:R2/
+				var key_regex = /^traffic_sign$=ES:R2/
 				var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
 				var name = feature.get(name_key) || '';
 				var styles = {
