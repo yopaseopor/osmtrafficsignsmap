@@ -213,7 +213,7 @@ style: function (feature) {
 
 		},
 		{
-			group: 'Test2',
+			group: 'Test',
 			title: 'ES:R2',
 			query: '(nwr[~"^traffic_sign"~"ES:R2"]({{bbox}});node(w););out meta;',
 			iconSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burger_King_2020.svg/220px-Burger_King_2020.svg.png',
@@ -238,7 +238,7 @@ style: function (feature) {
 						'ES:R2': new ol.style.Style({
 							image: new ol.style.Icon({
 							src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burger_King_2020.svg/220px-Burger_King_2020.svg.png',
-							rotation:180
+							rotation:180,
 							scale:0.10
 						}),
 							fill: new ol.style.Fill({
