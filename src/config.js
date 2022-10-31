@@ -213,7 +213,7 @@ style: function (feature) {
 
 		},
 		{
-			group: 'Test2',
+			group: 'Test',
 			title: 'ES:R2',
 			query: '(nwr[~"^traffic_sign"~"ES:R2"]({{bbox}});node(w););out meta;',
 			iconSrc: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.png',
