@@ -238,7 +238,7 @@ style: function (feature) {
 						'ES:R2': new ol.style.Style({
 							image: new ol.style.Icon({
 							src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.png',
-							rotation:8,
+							rotation:9,
 							scale:0.30
 						})
 						})
