@@ -228,7 +228,7 @@ style: function (feature) {
 							image: new ol.style.Icon({
 							src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.png',
 							rotation:0,
-							scale:0.10
+							scale:0.50
 						})
 						})
 					},
@@ -237,7 +237,9 @@ style: function (feature) {
 							image: new ol.style.Icon({
 							src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.png',
 							rotation:180,
-							scale:0.10
+							offsetX : 20,
+							offsetY : 30,
+							scale:0.50
 						})
 						})
 					},
