@@ -213,13 +213,13 @@ style: function (feature) {
 
 		},
 		{
-			group: 'Test',
+			group: 'Test2',
 			title: 'ES:R2',
 			query: '(nwr[~"^traffic_sign"~"ES:R2"]({{bbox}});node(w););out meta;',
 			iconSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burger_King_2020.svg/220px-Burger_King_2020.svg.png',
 			iconStyle: 'background-color:rgba(255,255,255,0.4)',
 			style: function (feature) {
-				var key_regex = /"^traffic_sign"~"ES:R2"/
+				var key_regex = /^traffic_sign/
 				var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
 				var name = feature.get(name_key) || '';
 				var styles = {
