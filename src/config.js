@@ -228,8 +228,9 @@ style: function (feature) {
 							image: new ol.style.Icon({
 							src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.png',
 							rotation:0,
-							offsetX :120,
-							offsetY :130,
+							rotation:0,
+							rotateWithView: true,
+							offset : [120,130],
 							scale:0.30
 						})
 						})
