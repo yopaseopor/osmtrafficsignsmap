@@ -213,7 +213,7 @@ style: function (feature) {
 
 		},
 		{
-			group: 'Test2',
+			group: 'Test',
 			title: 'ES:R2',
 			query: '(nwr[~"^traffic_sign"~"ES:R2"]({{bbox}});node(w););out meta;',
 			iconSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burger_King_2020.svg/220px-Burger_King_2020.svg.png',
@@ -225,10 +225,10 @@ style: function (feature) {
 				var styles = {
 					'amenity': {
 						'parking': new ol.style.Style({
-							stroke: new ol.style.Stroke({
-								color: 'rgba(170, 170, 170, 1.0)',
-								width: 1
-							}),
+							image: new ol.style.Icon({
+							src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burger_King_2020.svg/220px-Burger_King_2020.svg.png',
+							scale:0.10
+						}),
 							fill: new ol.style.Fill({
 								color: 'rgba(170, 170, 170, 0.3)'
 							})
@@ -236,11 +236,10 @@ style: function (feature) {
 					},
 					'traffic_sign:forward': {
 						'ES:R2': new ol.style.Style({
-							zIndex: 100,
-							stroke: new ol.style.Stroke({
-								color: 'rgba(246, 99, 79, 1.0)',
-								width: 1
-							}),
+							image: new ol.style.Icon({
+							src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Burger_King_2020.svg/220px-Burger_King_2020.svg.png',
+							scale:0.10
+						}),
 							fill: new ol.style.Fill({
 								color: 'rgba(246, 99, 79, 0.3)'
 							}),
