@@ -237,7 +237,7 @@ style: function (feature) {
 							image: new ol.style.Icon({
 							src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.png',
 							rotation:9.4,
-							scale:0.30
+							scale: 0.30
 						})
 						})
 					},
@@ -297,7 +297,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -357,7 +357,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_B1a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -417,7 +417,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_B1b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -477,7 +477,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_B2a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -537,7 +537,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_B2ar.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -597,7 +597,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_B2b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -657,7 +657,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_B2br.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -717,7 +717,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_B2c.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -777,7 +777,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_B2d.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -837,7 +837,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_B2e.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -897,7 +897,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_B3a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -957,7 +957,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_B3b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -1017,7 +1017,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_B3c.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -1077,7 +1077,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_B3d.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -1137,7 +1137,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_BE.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -1197,7 +1197,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_BS.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -1257,7 +1257,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CajGrua.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -1317,7 +1317,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_OR10.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -1377,7 +1377,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_OR10a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -1437,7 +1437,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_OR10b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -1497,7 +1497,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_OR21a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -1557,7 +1557,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_OR21b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -1617,7 +1617,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_OR21c.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -1677,7 +1677,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_OR24a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -1737,7 +1737,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_OR24b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -1797,7 +1797,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_OR24c.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -1857,7 +1857,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_OR30.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -1917,7 +1917,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_OR31.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -1977,7 +1977,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_OR32.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -2037,7 +2037,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_OR51.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -2097,7 +2097,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_OR61.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -2157,7 +2157,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_OR62.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -2217,7 +2217,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_OR63.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -2277,7 +2277,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_radar.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -2337,7 +2337,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_radar.svg.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -2397,7 +2397,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_S200.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -2457,7 +2457,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_S200b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -2517,7 +2517,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_S200c.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -2577,7 +2577,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_S230.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -2637,7 +2637,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_S270.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -2697,7 +2697,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_S300.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -2757,7 +2757,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_S300.svg.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -2817,7 +2817,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_S351.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -2877,7 +2877,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_S520.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -2937,7 +2937,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_S600.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -2997,7 +2997,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_S700.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -3057,7 +3057,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_S700b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -3117,7 +3117,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_CAT_S860.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -3177,7 +3177,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_com_traffic_sign_dir2.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -3237,7 +3237,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_FP21.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -3297,7 +3297,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_FP4.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -3357,7 +3357,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_FR101.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -3417,7 +3417,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_FR301.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -3477,7 +3477,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_motorway.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -3537,7 +3537,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P1.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -3597,7 +3597,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P10a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -3657,7 +3657,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P10b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -3717,7 +3717,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P10c.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -3777,7 +3777,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P11.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -3837,7 +3837,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P11a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -3897,7 +3897,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P12.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -3957,7 +3957,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P13a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -4017,7 +4017,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P13b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -4077,7 +4077,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P14a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -4137,7 +4137,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P14b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -4197,7 +4197,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P15.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -4257,7 +4257,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P15a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -4317,7 +4317,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P15b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -4377,7 +4377,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -4437,7 +4437,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16a_10.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -4497,7 +4497,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16a_11.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -4557,7 +4557,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16a_12.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -4617,7 +4617,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16a_13.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -4677,7 +4677,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16a_15.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -4737,7 +4737,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16a_17.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -4797,7 +4797,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16a_20.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -4857,7 +4857,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16a_4.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -4917,7 +4917,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16a_5.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -4977,7 +4977,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16a_6.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -5037,7 +5037,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16a_7.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -5097,7 +5097,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16a_75.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -5157,7 +5157,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16a_8.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -5217,7 +5217,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16a_9.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -5277,7 +5277,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -5337,7 +5337,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16b_001.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -5397,7 +5397,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16b_10.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -5457,7 +5457,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16b_12.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -5517,7 +5517,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16b_13.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -5577,7 +5577,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16b_15.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -5637,7 +5637,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16b_17.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -5697,7 +5697,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16b_20.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -5757,7 +5757,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16b_5.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -5817,7 +5817,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16b_6.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -5877,7 +5877,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16b_7.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -5937,7 +5937,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16b_75.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -5997,7 +5997,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16b_8.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -6057,7 +6057,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P16b_9.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -6117,7 +6117,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P17.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -6177,7 +6177,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P17a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -6237,7 +6237,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P17b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -6297,7 +6297,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P19.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -6357,7 +6357,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P1a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -6417,7 +6417,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P1b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -6477,7 +6477,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P1c.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -6537,7 +6537,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P1d.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -6597,7 +6597,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P2.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -6657,7 +6657,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P20.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -6717,7 +6717,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P20a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -6777,7 +6777,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P20aP.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -6837,7 +6837,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P21.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -6897,7 +6897,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P22.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -6957,7 +6957,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P23.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -7017,7 +7017,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P24.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -7077,7 +7077,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P25.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -7137,7 +7137,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P26.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -7197,7 +7197,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P27.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -7257,7 +7257,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P28.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -7317,7 +7317,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P29.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -7377,7 +7377,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P3.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -7437,7 +7437,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P30.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -7497,7 +7497,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P31.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -7557,7 +7557,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P32.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -7617,7 +7617,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P33.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -7677,7 +7677,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P34.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -7737,7 +7737,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P4.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -7797,7 +7797,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P4_r1.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -7857,7 +7857,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P5.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -7917,7 +7917,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P50.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -7977,7 +7977,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P6.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -8037,7 +8037,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P7.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -8097,7 +8097,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P8.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -8157,7 +8157,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P9a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -8217,7 +8217,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P9b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -8277,7 +8277,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P9c.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -8337,7 +8337,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_primary.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -8397,7 +8397,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R1.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -8457,7 +8457,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R100.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -8517,7 +8517,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R101.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -8577,7 +8577,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R102.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -8637,7 +8637,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R103.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -8697,7 +8697,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R104.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -8757,7 +8757,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R105.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -8817,7 +8817,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R106.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -8877,7 +8877,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -8937,7 +8937,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_10.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -8997,7 +8997,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_12.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -9057,7 +9057,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_16.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -9117,7 +9117,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_18.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -9177,7 +9177,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_2.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -9237,7 +9237,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_25.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -9297,7 +9297,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_3.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -9357,7 +9357,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_35.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -9417,7 +9417,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_4.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -9477,7 +9477,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_45.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -9537,7 +9537,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_5.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -9597,7 +9597,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_55.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -9657,7 +9657,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_6.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -9717,7 +9717,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_65.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -9777,7 +9777,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_7.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -9837,7 +9837,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_75.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -9897,7 +9897,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_8.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -9957,7 +9957,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_85.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -10017,7 +10017,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_9.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -10077,7 +10077,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R107_95.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -10137,7 +10137,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R108.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -10197,7 +10197,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R109.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -10257,7 +10257,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R110.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -10317,7 +10317,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R111.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -10377,7 +10377,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R112.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -10437,7 +10437,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R113.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -10497,7 +10497,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R114.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -10557,7 +10557,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R115.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -10617,7 +10617,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R116.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -10677,7 +10677,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R117.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -10737,7 +10737,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R2.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -10797,7 +10797,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R200.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -10857,7 +10857,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R200a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -10917,7 +10917,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -10977,7 +10977,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_10.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -11037,7 +11037,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_11.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -11097,7 +11097,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_12.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -11157,7 +11157,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_14.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -11217,7 +11217,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_15.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -11277,7 +11277,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_150.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -11337,7 +11337,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_16.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -11397,7 +11397,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_17.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -11457,7 +11457,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_20.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -11517,7 +11517,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_24.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -11577,7 +11577,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_29.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -11637,7 +11637,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_3.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -11697,7 +11697,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_35.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -11757,7 +11757,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_38.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -11817,7 +11817,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_4.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -11877,7 +11877,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_5.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -11937,7 +11937,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_55.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -11997,7 +11997,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_6.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -12057,7 +12057,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_65.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -12117,7 +12117,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_75.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -12177,7 +12177,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R201_8.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -12237,7 +12237,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R202.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -12297,7 +12297,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R202_10.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -12357,7 +12357,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R202_2.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -12417,7 +12417,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R202_24.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -12477,7 +12477,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R202_5.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -12537,7 +12537,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R202_7.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -12597,7 +12597,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R203.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -12657,7 +12657,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R203_10.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -12717,7 +12717,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R203_7.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -12777,7 +12777,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R204.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -12837,7 +12837,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R204_2.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -12897,7 +12897,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R204_21.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -12957,7 +12957,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R204_22.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -13017,7 +13017,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R204_23.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -13077,7 +13077,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R204_25.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -13137,7 +13137,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R204_3.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -13197,7 +13197,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R204_32.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -13257,7 +13257,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R204_34.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -13317,7 +13317,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R204_35.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -13377,7 +13377,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R204_36.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -13437,7 +13437,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R204_37.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -13497,7 +13497,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R204_38.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -13557,7 +13557,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R204_4.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -13617,7 +13617,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R204_41.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -13677,7 +13677,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R204_43.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -13737,7 +13737,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R204_45.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -13797,7 +13797,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -13857,7 +13857,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_2.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -13917,7 +13917,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_21.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -13977,7 +13977,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_22.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -14037,7 +14037,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_23.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -14097,7 +14097,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_24.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -14157,7 +14157,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_25.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -14217,7 +14217,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_26.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -14277,7 +14277,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_27.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -14337,7 +14337,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_28.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -14397,7 +14397,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_29.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -14457,7 +14457,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_3.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -14517,7 +14517,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_31.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -14577,7 +14577,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_32.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -14637,7 +14637,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_33.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -14697,7 +14697,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_34.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -14757,7 +14757,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_35.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -14817,7 +14817,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_36.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -14877,7 +14877,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_37.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -14937,7 +14937,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_38.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -14997,7 +14997,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_39.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -15057,7 +15057,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_4.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -15117,7 +15117,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_41.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -15177,7 +15177,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_42.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -15237,7 +15237,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_43.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -15297,7 +15297,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_44.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -15357,7 +15357,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_45.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -15417,7 +15417,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_46.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -15477,7 +15477,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_47.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -15537,7 +15537,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_48.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -15597,7 +15597,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_49.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -15657,7 +15657,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_5.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -15717,7 +15717,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_51.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -15777,7 +15777,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_52.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -15837,7 +15837,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_53.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -15897,7 +15897,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_54.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -15957,7 +15957,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_56.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -16017,7 +16017,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_59.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -16077,7 +16077,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R205_6.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -16137,7 +16137,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R3.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -16197,7 +16197,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R300.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -16257,7 +16257,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R300_100.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -16317,7 +16317,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R300_60.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -16377,7 +16377,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R300_70.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -16437,7 +16437,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R300_80.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -16497,7 +16497,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R301.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -16557,7 +16557,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R301_10.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -16617,7 +16617,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R301_100.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -16677,7 +16677,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R301_110.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -16737,7 +16737,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R301_120.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -16797,7 +16797,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R301_130.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -16857,7 +16857,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R301_140.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -16917,7 +16917,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R301_20.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -16977,7 +16977,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R301_30.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -17037,7 +17037,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R301_40.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -17097,7 +17097,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R301_50.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -17157,7 +17157,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R301_60.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -17217,7 +17217,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R301_70.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -17277,7 +17277,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R301_80.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -17337,7 +17337,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R301_90.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -17397,7 +17397,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R302.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -17457,7 +17457,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R303.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -17517,7 +17517,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R304.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -17577,7 +17577,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R305.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -17637,7 +17637,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R306.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -17697,7 +17697,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R307.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -17757,7 +17757,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R308.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -17817,7 +17817,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R308a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -17877,7 +17877,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R308b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -17937,7 +17937,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R308c.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -17997,7 +17997,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R308d.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -18057,7 +18057,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R308e.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -18117,7 +18117,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R309.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -18177,7 +18177,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R310.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -18237,7 +18237,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R4.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -18297,7 +18297,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R400a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -18357,7 +18357,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R400b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -18417,7 +18417,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R400c.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -18477,7 +18477,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R400d.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -18537,7 +18537,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R400e.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -18597,7 +18597,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R401a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -18657,7 +18657,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R401b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -18717,7 +18717,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R401c.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -18777,7 +18777,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R402.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -18837,7 +18837,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R403a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -18897,7 +18897,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R403b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -18957,7 +18957,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R403c.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -19017,7 +19017,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R404.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -19077,7 +19077,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R405.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -19137,7 +19137,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R406.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -19197,7 +19197,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R407.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -19257,7 +19257,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R407a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -19317,7 +19317,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R407b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -19377,7 +19377,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R408.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -19437,7 +19437,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R409.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -19497,7 +19497,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R410.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -19557,7 +19557,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R411.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -19617,7 +19617,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R411_20.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -19677,7 +19677,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R411_30.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -19737,7 +19737,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R411_50.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -19797,7 +19797,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R411_60.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -19857,7 +19857,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R411_70.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -19917,7 +19917,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R411_80.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -19977,7 +19977,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R411_90.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -20037,7 +20037,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R412.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -20097,7 +20097,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R413.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -20157,7 +20157,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R414.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -20217,7 +20217,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R415.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -20277,7 +20277,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R416.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -20337,7 +20337,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R417.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -20397,7 +20397,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R418.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -20457,7 +20457,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R5.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -20517,7 +20517,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R500.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -20577,7 +20577,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R501.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -20637,7 +20637,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R501_100.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -20697,7 +20697,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R501_20.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -20757,7 +20757,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R501_30.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -20817,7 +20817,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R501_40.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -20877,7 +20877,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R501_50.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -20937,7 +20937,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R501_60.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -20997,7 +20997,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R501_70.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -21057,7 +21057,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R501_80.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -21117,7 +21117,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R501_90.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -21177,7 +21177,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R502.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -21237,7 +21237,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R503.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -21297,7 +21297,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R504.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -21357,7 +21357,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R505.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -21417,7 +21417,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R506.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -21477,7 +21477,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R506_30.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -21537,7 +21537,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R506_50.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -21597,7 +21597,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R506_60.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -21657,7 +21657,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R506_70.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -21717,7 +21717,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R506_90.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -21777,7 +21777,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_R6.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -21837,7 +21837,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_road_beacon_big.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -21897,7 +21897,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_road_beacon_big_green.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -21957,7 +21957,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_road_beacon_little.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -22017,7 +22017,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_road_beacon_little_green.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -22077,7 +22077,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_road_beacon_little_green2.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -22137,7 +22137,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_Ruta_europea.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -22197,7 +22197,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S1.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -22257,7 +22257,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S10.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -22317,7 +22317,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S100.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -22377,7 +22377,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S100_200.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -22437,7 +22437,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S100_250.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -22497,7 +22497,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S100_300.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -22557,7 +22557,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S100_500.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -22617,7 +22617,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S101.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -22677,7 +22677,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S102.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -22737,7 +22737,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S103.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -22797,7 +22797,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S104.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -22857,7 +22857,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S105.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -22917,7 +22917,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S105_1000.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -22977,7 +22977,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S105_200.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -23037,7 +23037,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S105_300.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -23097,7 +23097,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S105_400.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -23157,7 +23157,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S105_500.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -23217,7 +23217,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S106.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -23277,7 +23277,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S107.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -23337,7 +23337,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S108.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -23397,7 +23397,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S109.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -23457,7 +23457,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S11.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -23517,7 +23517,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S110.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -23577,7 +23577,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S110_1000.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -23637,7 +23637,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S110_200.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -23697,7 +23697,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S110_300.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -23757,7 +23757,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S110_500.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -23817,7 +23817,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S111.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -23877,7 +23877,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S111_100.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -23937,7 +23937,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S111_1000.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -23997,7 +23997,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S111_200.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -24057,7 +24057,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S111_250.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -24117,7 +24117,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S111_300.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -24177,7 +24177,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S111_500.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -24237,7 +24237,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S112.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -24297,7 +24297,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S113.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -24357,7 +24357,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S114.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -24417,7 +24417,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S115.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -24477,7 +24477,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S116.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -24537,7 +24537,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S117.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -24597,7 +24597,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S118.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -24657,7 +24657,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S118_100.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -24717,7 +24717,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S118_1000.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -24777,7 +24777,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S118_200.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -24837,7 +24837,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S118_250.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -24897,7 +24897,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S118_300.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -24957,7 +24957,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S118_400.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -25017,7 +25017,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S118_500.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -25077,7 +25077,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S118_800.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -25137,7 +25137,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S119.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -25197,7 +25197,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S11a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -25257,7 +25257,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S11b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -25317,7 +25317,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S12.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -25377,7 +25377,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S120.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -25437,7 +25437,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S121.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -25497,7 +25497,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S122.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -25557,7 +25557,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S123.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -25617,7 +25617,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S124.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -25677,7 +25677,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S125.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -25737,7 +25737,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S126.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -25797,7 +25797,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S127.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -25857,7 +25857,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S13.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -25917,7 +25917,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S14a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -25977,7 +25977,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S14b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -26037,7 +26037,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S15a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -26097,7 +26097,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S15b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -26157,7 +26157,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S15c.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -26217,7 +26217,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S15d.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -26277,7 +26277,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S16.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -26337,7 +26337,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S17.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -26397,7 +26397,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S17_500.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -26457,7 +26457,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S18.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -26517,7 +26517,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S19.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -26577,7 +26577,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S1a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -26637,7 +26637,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S2.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -26697,7 +26697,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S20.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -26757,7 +26757,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S200.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -26817,7 +26817,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S21.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -26877,7 +26877,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S22.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -26937,7 +26937,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S220.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -26997,7 +26997,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S222.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -27057,7 +27057,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S222a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -27117,7 +27117,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S224.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -27177,7 +27177,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S225.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -27237,7 +27237,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S22_100.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -27297,7 +27297,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S22_1000.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -27357,7 +27357,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S22_1200.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -27417,7 +27417,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S22_1300.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -27477,7 +27477,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S22_150.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -27537,7 +27537,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S22_1500.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -27597,7 +27597,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S22_200.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -27657,7 +27657,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S22_250.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -27717,7 +27717,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S22_300.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -27777,7 +27777,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S22_400.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -27837,7 +27837,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S22_50.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -27897,7 +27897,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S22_500.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -27957,7 +27957,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S22_600.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -28017,7 +28017,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S22_700.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -28077,7 +28077,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S22_800.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -28137,7 +28137,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S22_900.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -28197,7 +28197,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S23.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -28257,7 +28257,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S230.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -28317,7 +28317,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S230a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -28377,7 +28377,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S232.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -28437,7 +28437,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S232a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -28497,7 +28497,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S235.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -28557,7 +28557,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S235a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -28617,7 +28617,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S24.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -28677,7 +28677,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S242.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -28737,7 +28737,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S242a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -28797,7 +28797,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S242b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -28857,7 +28857,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S242c.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -28917,7 +28917,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S25.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -28977,7 +28977,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S250.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -29037,7 +29037,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S260.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -29097,7 +29097,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S261.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -29157,7 +29157,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S263.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -29217,7 +29217,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S263a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -29277,7 +29277,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S264.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -29337,7 +29337,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S266.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -29397,7 +29397,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S266a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -29457,7 +29457,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S26a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -29517,7 +29517,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S26b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -29577,7 +29577,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S26c.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -29637,7 +29637,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S26Td_N.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -29697,7 +29697,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S26Ti_N.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -29757,7 +29757,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S27.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -29817,7 +29817,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S270.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -29877,7 +29877,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S271.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -29937,7 +29937,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S28.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -29997,7 +29997,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S29.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -30057,7 +30057,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S2a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -30117,7 +30117,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S3.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -30177,7 +30177,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S30.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -30237,7 +30237,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S300.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -30297,7 +30297,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S301.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -30357,7 +30357,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S31.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -30417,7 +30417,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S310.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -30477,7 +30477,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S32.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -30537,7 +30537,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S320.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -30597,7 +30597,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S321.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -30657,7 +30657,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S322.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -30717,7 +30717,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S33.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -30777,7 +30777,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S34.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -30837,7 +30837,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S341.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -30897,7 +30897,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S342.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -30957,7 +30957,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S344.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -31017,7 +31017,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S347.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -31077,7 +31077,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S34a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -31137,7 +31137,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S350.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -31197,7 +31197,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S351.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -31257,7 +31257,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S354.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -31317,7 +31317,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S355.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -31377,7 +31377,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S360.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -31437,7 +31437,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S362.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -31497,7 +31497,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S366.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -31557,7 +31557,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S368.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -31617,7 +31617,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S373.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -31677,7 +31677,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S375.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -31737,7 +31737,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S4.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -31797,7 +31797,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S400.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -31857,7 +31857,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S410.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -31917,7 +31917,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S420.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -31977,7 +31977,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S430.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -32037,7 +32037,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S440.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -32097,7 +32097,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S450.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -32157,7 +32157,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S5.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -32217,7 +32217,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S500.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -32277,7 +32277,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S500b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -32337,7 +32337,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S50a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -32397,7 +32397,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S50a_50.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -32457,7 +32457,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S50a_60.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -32517,7 +32517,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S50a_70.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -32577,7 +32577,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S50b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -32637,7 +32637,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S50b_60.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -32697,7 +32697,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S50b_70.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -32757,7 +32757,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S50c.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -32817,7 +32817,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S50d.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -32877,7 +32877,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S50d_50.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -32937,7 +32937,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S50d_60.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -32997,7 +32997,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S50d_70.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -33057,7 +33057,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S50e.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -33117,7 +33117,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S50e_50.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -33177,7 +33177,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S50e_60.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -33237,7 +33237,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S50e_70.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -33297,7 +33297,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S51.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -33357,7 +33357,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S510.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -33417,7 +33417,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S52.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -33477,7 +33477,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S520.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -33537,7 +33537,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S52a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -33597,7 +33597,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S52b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -33657,7 +33657,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S53.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -33717,7 +33717,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S53a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -33777,7 +33777,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S53b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -33837,7 +33837,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S53c.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -33897,7 +33897,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S540.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -33957,7 +33957,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S550.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -34017,7 +34017,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S560.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -34077,7 +34077,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S570.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -34137,7 +34137,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S570a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -34197,7 +34197,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S571.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -34257,7 +34257,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S572.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -34317,7 +34317,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S573.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -34377,7 +34377,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S574.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -34437,7 +34437,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S574a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -34497,7 +34497,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S574b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -34557,7 +34557,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S575.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -34617,7 +34617,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S6.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -34677,7 +34677,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S600.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -34737,7 +34737,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S602.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -34797,7 +34797,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S60a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -34857,7 +34857,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S60b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -34917,7 +34917,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S610.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -34977,7 +34977,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S61a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -35037,7 +35037,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S61b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -35097,7 +35097,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S62a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -35157,7 +35157,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S62b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -35217,7 +35217,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S63.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -35277,7 +35277,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S64a.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -35337,7 +35337,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S64b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -35397,7 +35397,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S7.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -35457,7 +35457,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S700.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -35517,7 +35517,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S710.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -35577,7 +35577,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S720.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -35637,7 +35637,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S730.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -35697,7 +35697,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S740.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -35757,7 +35757,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S750.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -35817,7 +35817,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S760.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -35877,7 +35877,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S770.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -35937,7 +35937,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S7b.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -35997,7 +35997,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S7b2.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -36057,7 +36057,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S7f.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -36117,7 +36117,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S7_10.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -36177,7 +36177,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S7_100.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -36237,7 +36237,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S7_20.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -36297,7 +36297,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S7_30.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -36357,7 +36357,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S7_40.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -36417,7 +36417,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S7_50.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -36477,7 +36477,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S7_60.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -36537,7 +36537,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S7_70.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -36597,7 +36597,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S7_80.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -36657,7 +36657,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S7_90.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -36717,7 +36717,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S8.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -36777,7 +36777,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -36837,7 +36837,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800e.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -36897,7 +36897,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800_100.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -36957,7 +36957,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800_1000.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -37017,7 +37017,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800_1300.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -37077,7 +37077,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800_150.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -37137,7 +37137,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800_1500.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -37197,7 +37197,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800_1km.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -37257,7 +37257,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800_200.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -37317,7 +37317,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800_250.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -37377,7 +37377,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800_300.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -37437,7 +37437,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800_350.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -37497,7 +37497,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800_400.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -37557,7 +37557,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800_450.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -37617,7 +37617,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800_50.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -37677,7 +37677,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800_500.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -37737,7 +37737,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800_5km.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -37797,7 +37797,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800_600.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -37857,7 +37857,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800_700.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -37917,7 +37917,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800_800.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -37977,7 +37977,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S800_900.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -38037,7 +38037,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S810.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -38097,7 +38097,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S810_100.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -38157,7 +38157,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S810_1000.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -38217,7 +38217,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S810_1500.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -38277,7 +38277,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S810_200.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -38337,7 +38337,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S810_2000.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -38397,7 +38397,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S810_2500.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -38457,7 +38457,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S810_3000.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -38517,7 +38517,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S810_350.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -38577,7 +38577,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S810_3500.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -38637,7 +38637,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S810_3500_2.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -38697,7 +38697,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S810_4000.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -38757,7 +38757,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S810_4250.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -38817,7 +38817,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S810_5000.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -38877,7 +38877,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S820.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -38937,7 +38937,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S821.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -38997,7 +38997,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S830.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -39057,7 +39057,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S840.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -39117,7 +39117,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S840_100.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -39177,7 +39177,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S840_1000.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -39237,7 +39237,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S840_150.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -39297,7 +39297,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S840_200.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -39357,7 +39357,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S840_300.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -39417,7 +39417,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S840_50.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -39477,7 +39477,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S840_900.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -39537,7 +39537,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S850.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -39597,7 +39597,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S851.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -39657,7 +39657,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S852.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -39717,7 +39717,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S853.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -39777,7 +39777,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S860.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -39837,7 +39837,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S870.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -39897,7 +39897,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S8_100.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -39957,7 +39957,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S8_20.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -40017,7 +40017,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S8_30.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -40077,7 +40077,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S8_40.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -40137,7 +40137,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S8_50.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -40197,7 +40197,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S8_60.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -40257,7 +40257,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S8_70.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -40317,7 +40317,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S8_80.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -40377,7 +40377,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S8_90.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -40437,7 +40437,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S9.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -40497,7 +40497,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S900.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -40557,7 +40557,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S910.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -40617,7 +40617,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S920.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -40677,7 +40677,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S930.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -40737,7 +40737,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S940.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -40797,7 +40797,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S950.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -40857,7 +40857,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S960.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -40917,7 +40917,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S970.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -40977,7 +40977,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S980.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -41037,7 +41037,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_S990.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -41097,7 +41097,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_secondary.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -41157,7 +41157,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_tertiary.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -41217,7 +41217,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_tp18.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -41277,7 +41277,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_traffic_sign_dir.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
@@ -41337,7 +41337,7 @@ style: function (feature) {
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_trunk.png',
        rotation:9.4,
-       scale:0.30
+       scale: 0.30
       })
       })
      },
