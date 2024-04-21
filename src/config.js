@@ -3476,9 +3476,9 @@ var config = {
 		},  
 		{
 group: 'ES - Test',
-title: 'ES:P1-',
-query: '(nwr["traffic_sign"="ES:P1"]({{bbox}});node(w););out meta;',
-iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.svg',
+title: 'ES:R2-',
+query: '(nwr["traffic_sign"="ES:R2"]({{bbox}});node(w););out meta;',
+iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
 iconStyle: 'background-color:rgba(255,255,255,0.4)',
 style: function (feature) {
 var key_regex = /^traffic_sign/
@@ -3486,9 +3486,9 @@ var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).
 var name = feature.get(name_key) || '';
 var styles = {
 'traffic_sign': {
-'ES:P2': new ol.style.Style({
+'ES:R2': new ol.style.Style({
 image: new ol.style.Icon({
-src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.svg',
+src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
 rotation: 180,
 scale: 0.20
 })
@@ -3497,7 +3497,7 @@ scale: 0.20
 'direction': {
 'backward': new ol.style.Style({
 image: new ol.style.Icon({
-src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.svg',
+src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
 rotation: 200,
 scale: 0.25
 })
@@ -3506,7 +3506,7 @@ scale: 0.25
 'direction': {
 'forward': new ol.style.Style({
 image: new ol.style.Icon({
-src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.svg',
+src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
 rotation:0,
 rotateWithView: false,
 anchor: [-1,0],
