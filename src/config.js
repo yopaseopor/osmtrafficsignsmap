@@ -3476,7 +3476,7 @@ var config = {
 		},  
 		{
 group: 'ES - Test',
-title: 'ES:R2+',
+title: 'ES:R1-',
 query: '(nwr["traffic_sign"="ES:R2"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
 iconStyle: 'background-color:rgba(255,255,255,0.4)',
@@ -3551,21 +3551,23 @@ return null;
 } 
 },
 		{
-			group: 'Test',
-			title: 'building',
-			query: '(node({{bbox}});rel(bn)->.foo;way(bn);node(w)->.foo;rel(bw););out;',
+			group: 'ES - Test',
+title: 'ES:R2-',
+query: '(nwr["traffic_sign"="ES:R2"]({{bbox}});node(w););out meta;',
+iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
+iconStyle: 'background-color:rgba(255,255,255,0.4)',
 			style: function (feature) {
 				var name = feature.get('name') || '';
 				var styles = {
-					'amenity': {
-						'parking': new ol.style.Style({
-							stroke: new ol.style.Stroke({
-								color: 'rgba(170, 170, 170, 1.0)',
-								width: 1
-							}),
-							fill: new ol.style.Fill({
-								color: 'rgba(170, 170, 170, 0.3)'
-							})
+					'traffic_sign:2': {
+						'ES:R2':  new ol.style.Style({
+							image: new ol.style.Icon({
+src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
+rotation:0,
+rotateWithView: false,
+anchor: [-20,0],
+scale: 0.05
+})
 						})
 					},
 					'building': {
