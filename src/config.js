@@ -3508,8 +3508,8 @@ var config = {
 								offsetY : 0,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,0.4)'
-                        }),
-							}),})
+                        })
+							})})
       })
      },
      'traffic_sign2': {
