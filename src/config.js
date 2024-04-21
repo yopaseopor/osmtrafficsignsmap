@@ -3477,7 +3477,7 @@ var config = {
  {
 
    group: 'ES - Test',
-   title: 'ES:P1',
+   title: 'ES:P1-',
    query: '(nwr["traffic_sign"="ES:P1"]({{bbox}});node(w););out meta;',
    iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.svg',
    iconStyle: 'background-color:rgba(255,255,255,0.4)',
@@ -3516,7 +3516,7 @@ var config = {
 text: new ol.style.Text({
 								text: name,
 								font: 'small-caps bold 10px/1 sans-serif',
-								offsetX : 60,
+								offsetX : 120,
 								offsetY : -4,
 								fill: new ol.style.Fill({
                             color: 'rgba(0,0,0,1)'
