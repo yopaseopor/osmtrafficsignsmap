@@ -3477,7 +3477,7 @@ var config = {
  {
 
    group: 'ES - Test',
-   title: 'ES:P1',
+   title: 'ES:P1-',
    query: '(nwr["traffic_sign"="ES:P1"]({{bbox}});node(w););out meta;',
    iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.svg',
    iconStyle: 'background-color:rgba(255,255,255,0.4)',
@@ -3486,8 +3486,8 @@ var config = {
     var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
     var name = feature.get(name_key) || '';
     var styles = {
-     'traffic_sign:forward': {
-      'ES:P1': new ol.style.Style({
+     'direction': {
+      'forward': new ol.style.Style({
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.svg',
        rotation: 0,
@@ -3495,8 +3495,8 @@ var config = {
       })
       })
      },
-     'traffic_sign:backward': {
-      'ES:P1': new ol.style.Style({
+     'direction': {
+      'backward': new ol.style.Style({
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.svg',
        rotation:9.4,
@@ -3509,14 +3509,14 @@ var config = {
 		image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.svg',
        rotation:0,
-	   rotateWithView: true,
+	   rotateWithView: false,
 	   anchor: [-1,0],
        scale: 0.25
        }),
 text: new ol.style.Text({
 								text: name,
 								font: 'small-caps bold 10px/1 sans-serif',
-								offsetX : 90,
+								offsetX : 80,
 								offsetY : -4,
 								fill: new ol.style.Fill({
                             color: 'rgba(0,0,0,1)'
