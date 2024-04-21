@@ -3509,7 +3509,9 @@ var config = {
 		image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.svg',
        rotation:0,
-       scale: 0.30
+	   offsetX : 3,
+	   offsetY : 0,
+       scale: 0.10
        }),
 text: new ol.style.Text({
 								text: name,
