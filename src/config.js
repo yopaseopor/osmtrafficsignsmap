@@ -3552,7 +3552,7 @@ return null;
 },
 		{
 			group: 'ES - Test',
-title: 'ES:R2-',
+title: 'ES:R2+',
 query: '(nwr[~"^traffic_sign"~"ES:R2"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
 iconStyle: 'background-color:rgba(255,255,255,0.4)',
@@ -3562,28 +3562,35 @@ iconStyle: 'background-color:rgba(255,255,255,0.4)',
 					'traffic_sign:2': {
 						'ES:R2':  new ol.style.Style({
 							image: new ol.style.Icon({
-src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
-rotation:0,
-rotateWithView: false,
-anchor: [1,0],
-scale: 0.05
-})
-						})
+							src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
+							rotation:0,
+							rotateWithView: false,
+							anchor: [1,0],
+							scale: 0.05
+													})
+													})
 					},
-					'building': {
-						'.*': new ol.style.Style({
-							zIndex: 100,
-							stroke: new ol.style.Stroke({
-								color: 'rgba(246, 99, 79, 1.0)',
-								width: 1
-							}),
-							fill: new ol.style.Fill({
-								color: 'rgba(246, 99, 79, 0.3)'
-							}),
-							text: new ol.style.Text({
-								text: name
-							})
-						})
+					'direction': {
+						'forward':  new ol.style.Style({
+							image: new ol.style.Icon({
+							src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
+							rotation:0,
+							rotateWithView: false,
+							anchor: [1,0],
+							scale: 0.01
+													})
+													})
+					},
+					'direction': {
+						'backward':  new ol.style.Style({
+							image: new ol.style.Icon({
+							src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
+							rotation:180,
+							rotateWithView: false,
+							anchor: [-1,0],
+							scale: 0.01
+													})
+													})
 					},
 					'highway': {
 						'service': new ol.style.Style({
