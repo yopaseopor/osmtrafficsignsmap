@@ -3542,13 +3542,8 @@ iconStyle: 'background-color:rgba(255,255,255,0.4)',
 					}
 				}
 				return null;
-			} 
-		},
-						
-						
-						
-						
-						
+			},
+				
 {
 group: 'ES - test',
 title: 'ES:P1-',
