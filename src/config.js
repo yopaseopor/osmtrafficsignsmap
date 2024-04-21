@@ -3552,8 +3552,8 @@ return null;
 },
 		{
 			group: 'ES - Test',
-title: 'ES:R2-',
-query: '(nwr["traffic_sign"="ES:R2"]({{bbox}});node(w););out meta;',
+title: 'ES:R2+',
+query: '(nwr[~"^traffic_sign"~"ES:R2"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
 iconStyle: 'background-color:rgba(255,255,255,0.4)',
 			style: function (feature) {
