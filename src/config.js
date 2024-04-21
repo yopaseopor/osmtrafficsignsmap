@@ -3489,7 +3489,7 @@ var styles = {
 'ES:P1': new ol.style.Style({
 image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.svg',
-rotation: 90,
+rotation: 180,
 scale: 0.20
 })
 })
