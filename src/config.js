@@ -3540,10 +3540,11 @@ iconStyle: 'background-color:rgba(255,255,255,0.4)',
 						}
 					}
 				}
-				return null;
-			},
-				
-{
+    return null;
+   } 
+   
+		},  
+		{
 group: 'ES - test',
 title: 'ES:P1-',
 query: '(nwr["traffic_sign"="ES:P1"]({{bbox}});node(w););out meta;',
