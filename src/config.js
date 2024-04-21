@@ -3510,7 +3510,7 @@ var config = {
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.svg',
        rotation:0,
 	   rotateWithView: true,
-	   anchor: [30,30],
+	   anchor: [3,3],
        scale: 0.25
        }),
 text: new ol.style.Text({
