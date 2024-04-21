@@ -2639,7 +2639,7 @@ var config = {
    group: 'ES – Català',
    title: 'ES:CAT:S300',
    query: '(nwr[~"^traffic_sign"~"ES:CAT:S300"]({{bbox}});node(w););out meta;',
-   iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_S300.png',
+   iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_S300.svg',
    iconStyle: 'background-color:rgba(255,255,255,0.4)',
    style: function (feature) {
     var key_regex = /^traffic_sign/
@@ -2649,7 +2649,7 @@ var config = {
      'traffic_sign:forward': {
       'ES:CAT:S300': new ol.style.Style({
        image: new ol.style.Icon({
-       src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_S300.png',
+       src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_S300.svg',
        rotation: 0,
        scale: 0.30
       })
@@ -2658,7 +2658,7 @@ var config = {
      'traffic_sign:backward': {
       'ES:CAT:S300': new ol.style.Style({
        image: new ol.style.Icon({
-       src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_S300.png',
+       src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_S300.svg',
        rotation:9.4,
        scale: 0.30
       })
@@ -3495,20 +3495,28 @@ var config = {
       })
       })
      },
-     'traffic_sign:backward': {
+     'traffic_sign': {
       'ES:P1': new ol.style.Style({
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.png',
        rotation:9.4,
        scale: 0.30
-      })
+								text: new ol.style.Text({
+								text: name,
+								font: '10px Verdana',
+								offsetX : 0,
+								offsetY : 0,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,0.4)'
+                        }),
+							})
       })
      },
-     'traffic_sign': {
+     'traffic_sign2': {
       'ES:P1': new ol.style.Style({
 		image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.png',
-       rotation:9.4,
+       rotation:0,
        scale: 0.30
        }),
        text: new ol.style.Text({
