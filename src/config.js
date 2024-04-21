@@ -3506,13 +3506,10 @@ var config = {
      },
      'traffic_sign': {
       'ES:P1': new ol.style.Style({
-       zIndex: 100,
-       stroke: new ol.style.Stroke({
-        color: 'rgba(246, 99, 79, 1.0)',
-        width: 1
-       }),
-       fill: new ol.style.Fill({
-        color: 'rgba(246, 99, 79, 0.3)'
+		image: new ol.style.Icon({
+       src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_ES_P1.png',
+       rotation:9.4,
+       scale: 0.30
        }),
        text: new ol.style.Text({
         text: name
