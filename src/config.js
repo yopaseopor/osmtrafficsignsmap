@@ -3639,8 +3639,7 @@ return null;
 				}
 				return null;
 			}
-		}
-},
+		},
  {
 
    group: 'ES – Peligro',
