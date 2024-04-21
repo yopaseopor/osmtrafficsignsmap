@@ -3509,14 +3509,13 @@ var config = {
 		image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.svg',
        rotation:0,
-offset: [30,30],
        scale: 0.25
        }),
 text: new ol.style.Text({
 								text: name,
 								font: 'small-caps bold 18px/1 sans-serif',
 								offsetX : 0,
-								offsetY : -30,
+								offsetY : -40,
 								fill: new ol.style.Fill({
                             color: 'rgba(0,0,0,0.4)'
                         }),
