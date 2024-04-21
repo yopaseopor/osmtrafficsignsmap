@@ -3478,7 +3478,7 @@ var config = {
 
    group: 'ES – Peligro',
    title: 'ES:P1',
-   query: '(nwr[~"^traffic_sign"~"ES:P1"]({{bbox}});node(w););out meta;',
+   query: '(nwr["traffic_sign"="ES:P1"]({{bbox}});node(w););out meta;',
    iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.png',
    iconStyle: 'background-color:rgba(255,255,255,0.4)',
    style: function (feature) {
