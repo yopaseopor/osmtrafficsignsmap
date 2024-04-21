@@ -3510,7 +3510,7 @@ var config = {
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.svg',
        rotation:0,
 	   rotateWithView: true,
-	   anchor: [3,3],
+	   anchor: [-0.1,0],
        scale: 0.25
        }),
 text: new ol.style.Text({
@@ -3544,7 +3544,7 @@ text: new ol.style.Text({
    group: 'ES – Peligro',
    title: 'ES:P1',
    query: '(nwr[~"^traffic_sign"~"ES:P1"]({{bbox}});node(w););out meta;',
-   iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P10a.png',
+   iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.png',
    iconStyle: 'background-color:rgba(255,255,255,0.4)',
    style: function (feature) {
     var key_regex = /^traffic_sign/
@@ -3554,7 +3554,7 @@ text: new ol.style.Text({
      'traffic_sign:forward': {
       'ES:P1': new ol.style.Style({
        image: new ol.style.Icon({
-       src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P10a.png',
+       src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.png',
        rotation: 0,
        scale: 0.30
       })
@@ -3563,7 +3563,7 @@ text: new ol.style.Text({
      'traffic_sign:backward': {
       'ES:P1': new ol.style.Style({
        image: new ol.style.Icon({
-       src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P10a.png',
+       src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.png',
        rotation:9.4,
        scale: 0.30
       })
