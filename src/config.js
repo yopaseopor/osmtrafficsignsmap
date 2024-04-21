@@ -3495,24 +3495,16 @@ var config = {
       })
       })
      },
-     'traffic_sign': {
+     'traffic_sign:backward': {
       'ES:P1': new ol.style.Style({
        image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.png',
        rotation:9.4,
        scale: 0.30
-								text: new ol.style.Text({
-								text: name,
-								font: '10px Verdana',
-								offsetX : 0,
-								offsetY : 0,
-								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,255,0.4)'
-                        })
-							})})
+      })
       })
      },
-     'traffic_sign2': {
+     'traffic_sign': {
       'ES:P1': new ol.style.Style({
 		image: new ol.style.Icon({
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.png',
