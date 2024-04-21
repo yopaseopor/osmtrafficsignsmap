@@ -3516,7 +3516,7 @@ var config = {
 text: new ol.style.Text({
 								text: name,
 								font: 'small-caps bold 10px/1 sans-serif',
-								offsetX : -10,
+								offsetX : -40,
 								offsetY : -4,
 								fill: new ol.style.Fill({
                             color: 'rgba(0,0,0,0.4)'
