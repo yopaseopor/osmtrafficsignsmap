@@ -3511,9 +3511,15 @@ var config = {
        rotation:0,
        scale: 0.30
        }),
-       text: new ol.style.Text({
-        text: name
-       })
+text: new ol.style.Text({
+								text: name,
+								font: 'small-caps bold 18px/1 sans-serif',
+								offsetX : 0,
+								offsetY : 0,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							})
       })
      }
     };
