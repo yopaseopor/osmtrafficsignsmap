@@ -3476,12 +3476,12 @@ var config = {
 		},  
 		{
 group: 'ES - Test',
-title: 'ES:R2-',
+title: 'ES:R2+',
 query: '(nwr["traffic_sign"="ES:R2"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
 iconStyle: 'background-color:rgba(255,255,255,0.4)',
 style: function (feature) {
-var key_regex = /^traffic_sign/
+var key_regex = /^direction/
 var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
 var name = feature.get(name_key) || '';
 var styles = {
