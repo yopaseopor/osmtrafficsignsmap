@@ -3510,14 +3510,14 @@ var config = {
        src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.svg',
        rotation:0,
 	   rotateWithView: true,
-	   anchor: [-3,0],
+	   anchor: [-1,0],
        scale: 0.25
        }),
 text: new ol.style.Text({
 								text: name,
 								font: 'small-caps bold 10px/1 sans-serif',
 								offsetX : -3,
-								offsetY : -40,
+								offsetY : -4,
 								fill: new ol.style.Fill({
                             color: 'rgba(0,0,0,0.4)'
                         }),
