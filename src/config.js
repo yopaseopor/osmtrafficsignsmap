@@ -3516,9 +3516,9 @@ text: new ol.style.Text({
 								text: name,
 								font: 'small-caps bold 18px/1 sans-serif',
 								offsetX : 0,
-								offsetY : 0,
+								offsetY : 4,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,255,1)'
+                            color: 'rgba(0,0,0,0.4)'
                         }),
 							})
       })
