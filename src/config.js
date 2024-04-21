@@ -3485,8 +3485,8 @@ var key_regex = /^traffic_sign/
 var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
 var name = feature.get(name_key) || '';
 var styles = {
-'direction': {
-'forward': new ol.style.Style({
+'traffic_sign': {
+'ES:P1': new ol.style.Style({
 image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.svg',
 rotation: 0,
@@ -3503,8 +3503,8 @@ scale: 0.30
 })
 })
 },
-'traffic_sign': {
-'ES:P1': new ol.style.Style({
+'direction': {
+'forward': new ol.style.Style({
 image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.svg',
 rotation:0,
