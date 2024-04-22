@@ -3559,17 +3559,6 @@ iconStyle: 'background-color:rgba(255,255,255,0.4)',
 			style: function (feature) {
 				var name = feature.get('name') || '';
 				var styles = {
-					'traffic_sign:2': {
-						'ES:R2':  new ol.style.Style({
-							image: new ol.style.Icon({
-							src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
-							rotation:0,
-							rotateWithView: false,
-							anchor: [1,0],
-							scale: 0.05
-													})
-													})
-					},
 					'direction': {
 						'forward':  new ol.style.Style({
 							image: new ol.style.Icon({
@@ -3577,17 +3566,17 @@ iconStyle: 'background-color:rgba(255,255,255,0.4)',
 							rotation:0,
 							rotateWithView: false,
 							anchor: [1,0],
-							scale: 0.05
-}),
-text: new ol.style.Text({
-text: name,
-font: 'small-caps bold 10px/1 sans-serif',
-offsetX : 80,
-offsetY : -4,
-fill: new ol.style.Fill({
-color: 'rgba(0,0,0,1)'
-})
-})
+							scale: 0.03
+							}),
+							text: new ol.style.Text({
+							text: name,
+							font: 'small-caps bold 10px/1 sans-serif',
+							offsetX : 80,
+							offsetY : -4,
+							fill: new ol.style.Fill({
+							color: 'rgba(0,0,0,1)'
+													})
+													})
 						}),
 						'backward':  new ol.style.Style({
 							image: new ol.style.Icon({
@@ -3598,49 +3587,6 @@ color: 'rgba(0,0,0,1)'
 							scale: 0.03
 													})
 													})
-					},
-					'highway': {
-						'service': new ol.style.Style({
-							stroke: new ol.style.Stroke({
-								color: 'rgba(255, 255, 255, 1.0)',
-								width: 2
-							}),
-							text: new ol.style.Text({
-								text: name,
-								placement: 'line'
-							})
-						}),
-						'.*': new ol.style.Style({
-							stroke: new ol.style.Stroke({
-								color: 'rgba(255, 255, 255, 1.0)',
-								width: 3
-							}),
-							text: new ol.style.Text({
-								text: name
-							})
-						})
-					},
-					'landuse': {
-						'forest|grass|allotments': new ol.style.Style({
-							stroke: new ol.style.Stroke({
-								color: 'rgba(140, 208, 95, 1.0)',
-								width: 1
-							}),
-							fill: new ol.style.Fill({
-								color: 'rgba(140, 208, 95, 0.3)'
-							})
-						})
-					},
-					'natural': {
-						'tree': new ol.style.Style({
-							image: new ol.style.Circle({
-								radius: 2,
-								fill: new ol.style.Fill({
-									color: 'rgba(140, 208, 95, 1.0)'
-								}),
-								stroke: null
-							})
-						})
 					}
 				};
 				for (var key in styles) {
