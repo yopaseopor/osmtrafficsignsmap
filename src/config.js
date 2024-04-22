@@ -3577,7 +3577,7 @@ iconStyle: 'background-color:rgba(255,255,255,0.4)',
 							rotation:0,
 							rotateWithView: false,
 							anchor: [1,0],
-							scale: 0.01
+							scale: 0.03
 													})
 													})
 					},
@@ -3588,7 +3588,7 @@ iconStyle: 'background-color:rgba(255,255,255,0.4)',
 							rotation:180,
 							rotateWithView: false,
 							anchor: [-1,0],
-							scale: 0.01
+							scale: 0.03
 													})
 													})
 					},
