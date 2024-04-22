@@ -3473,83 +3473,59 @@ var config = {
     return null;
    } 
    
-		},  
+},
 		{
-group: 'ES - Test',
-title: 'ES:R1-',
-query: '(nwr["traffic_sign"="ES:R2"]({{bbox}});node(w););out meta;',
+			group: 'Test',
+title: 'ES:R2+-',
+query: '(nwr[~"^traffic_sign"~"ES:R2"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
 iconStyle: 'background-color:rgba(255,255,255,0.4)',
-style: function (feature) {
-var key_regex = /^direction/
-var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
-var name = feature.get(name_key) || '';
-var styles = {
-'traffic_sign:2': {
-'ES:R2': new ol.style.Style({
-image: new ol.style.Icon({
-src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
-rotation:0,
-rotateWithView: false,
-anchor: [-20,0],
-scale: 0.05
-})
-})
-},
-'direction': {
-'backward': new ol.style.Style({
-image: new ol.style.Icon({
-src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
-rotation:50,
-rotateWithView: false,
-anchor: [-1,0],
-scale: 0.05
-}),
-text: new ol.style.Text({
-text: name,
-font: 'small-caps bold 10px/1 sans-serif',
-offsetX : 80,
-offsetY : -4,
-fill: new ol.style.Fill({
-color: 'rgba(0,0,0,1)'
-}),
-})
-})
-},
-'direction': {
-'forward': new ol.style.Style({
-image: new ol.style.Icon({
-src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
-rotation:0,
-rotateWithView: false,
-anchor: [-1,0],
-scale: 0.05
-}),
-text: new ol.style.Text({
-text: name,
-font: 'small-caps bold 10px/1 sans-serif',
-offsetX : 80,
-offsetY : -4,
-fill: new ol.style.Fill({
-color: 'rgba(0,0,0,1)'
-}),
-})
-})
-}
-};
-for (var key in styles) {
-var value = feature.get(key);
-if (value !== undefined) {
-for (var regexp in styles[key]) {
-if (new RegExp(regexp).test(value)) {
-return styles[key][regexp];
-}
-}
-}
-}
-return null;
-} 
-},
+			style: function (feature) {
+				var name = feature.get('name') || '';
+				var styles = {
+					'direction': {
+						'forward':  new ol.style.Style({
+							image: new ol.style.Icon({
+							src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
+							rotation:0,
+							rotateWithView: false,
+							anchor: [1,0],
+							scale: 0.03
+							}),
+							text: new ol.style.Text({
+							text: name,
+							font: 'small-caps bold 10px/1 sans-serif',
+							offsetX : 80,
+							offsetY : -4,
+							fill: new ol.style.Fill({
+							color: 'rgba(0,0,0,1)'
+													})
+													})
+						}),
+						'backward':  new ol.style.Style({
+							image: new ol.style.Icon({
+							src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
+							rotation:3.14,
+							rotateWithView: false,
+							anchor: [-1,0],
+							scale: 0.03
+													})
+													})
+					}
+				};
+				for (var key in styles) {
+					var value = feature.get(key);
+					if (value !== undefined) {
+						for (var regexp in styles[key]) {
+							if (new RegExp(regexp).test(value)) {
+								return styles[key][regexp];
+							}
+						}
+					}
+				}
+				return null;
+			}
+		},
 		{
 			group: 'ES - Test',
 title: 'ES:R2+-',
@@ -3601,7 +3577,58 @@ iconStyle: 'background-color:rgba(255,255,255,0.4)',
 				}
 				return null;
 			}
-		},
+},{
+group: 'ES',
+title: 'ES:R2',
+query: '(nwr[~"^traffic_sign"~"ES:R2"]({{bbox}});node(w););out meta;',
+iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
+iconStyle: 'background-color:rgba(255,255,255,0.4)',
+style: function (feature) {
+var name = feature.get('name') || '';
+var styles = {
+'direction': {
+'forward':  new ol.style.Style({
+image: new ol.style.Icon({
+src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
+rotation:0,
+rotateWithView: false,
+anchor: [1,0],
+scale: 0.03
+}),
+text: new ol.style.Text({
+text: name,
+font: 'small-caps bold 10px/1 sans-serif',
+offsetX : 80,
+offsetY : -4,
+fill: new ol.style.Fill({
+color: 'rgba(0,0,0,1)'
+})
+})
+}),
+'backward':  new ol.style.Style({
+image: new ol.style.Icon({
+src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
+rotation:3.14,
+rotateWithView: false,
+anchor: [-1,0],
+scale: 0.03
+})
+})
+}
+};
+for (var key in styles) {
+var value = feature.get(key);
+if (value !== undefined) {
+for (var regexp in styles[key]) {
+if (new RegExp(regexp).test(value)) {
+return styles[key][regexp];
+}
+}
+}
+}
+return null;
+}
+},
  {
 
    group: 'ES – Peligro',
