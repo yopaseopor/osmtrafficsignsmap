@@ -191,7 +191,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -209,7 +209,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -244,7 +244,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -262,7 +262,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -297,7 +297,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -315,7 +315,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -350,7 +350,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -368,7 +368,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -403,7 +403,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -421,7 +421,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -456,7 +456,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -474,7 +474,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -509,7 +509,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -527,7 +527,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -562,7 +562,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -580,7 +580,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -615,7 +615,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -633,7 +633,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -668,7 +668,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -686,7 +686,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -721,7 +721,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -739,7 +739,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -774,7 +774,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -792,7 +792,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -827,7 +827,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -845,7 +845,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -880,7 +880,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -898,7 +898,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -933,7 +933,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -951,7 +951,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -986,7 +986,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -1004,7 +1004,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -1039,7 +1039,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -1057,7 +1057,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -1092,7 +1092,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -1110,7 +1110,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -1145,7 +1145,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -1163,7 +1163,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -1198,7 +1198,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -1216,7 +1216,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -1251,7 +1251,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -1269,7 +1269,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -1304,7 +1304,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -1322,7 +1322,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -1357,7 +1357,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -1375,7 +1375,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -1410,7 +1410,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -1428,7 +1428,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -1463,7 +1463,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -1481,7 +1481,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -1516,7 +1516,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -1534,7 +1534,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -1569,7 +1569,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -1587,7 +1587,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -1622,7 +1622,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -1640,7 +1640,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -1675,7 +1675,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -1693,7 +1693,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -1728,7 +1728,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -1746,7 +1746,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -1781,7 +1781,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -1799,7 +1799,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -1834,7 +1834,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -1852,7 +1852,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -1887,7 +1887,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -1905,7 +1905,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -1940,7 +1940,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -1958,7 +1958,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -1993,7 +1993,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -2011,7 +2011,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -2046,7 +2046,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -2064,7 +2064,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -2099,7 +2099,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -2117,7 +2117,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -2152,7 +2152,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -2170,7 +2170,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -2205,7 +2205,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -2223,7 +2223,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -2258,7 +2258,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -2276,7 +2276,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -2311,7 +2311,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -2329,7 +2329,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -2364,7 +2364,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -2382,7 +2382,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -2417,7 +2417,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -2435,7 +2435,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -2470,7 +2470,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -2488,7 +2488,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -2523,7 +2523,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -2541,7 +2541,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -2576,7 +2576,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -2594,7 +2594,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -2629,7 +2629,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -2647,7 +2647,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -2682,7 +2682,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -2700,7 +2700,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -2735,7 +2735,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -2753,7 +2753,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -2788,7 +2788,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -2806,7 +2806,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -2841,7 +2841,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -2859,7 +2859,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -2894,7 +2894,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -2912,7 +2912,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -2947,7 +2947,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -2965,7 +2965,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -3000,7 +3000,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -3018,7 +3018,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -3053,7 +3053,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -3071,7 +3071,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -3106,7 +3106,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -3124,7 +3124,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -3159,7 +3159,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -3177,7 +3177,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -3212,7 +3212,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -3230,7 +3230,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -3265,7 +3265,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -3283,7 +3283,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -3318,7 +3318,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -3336,7 +3336,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -3371,7 +3371,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -3389,7 +3389,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -3424,7 +3424,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -3442,7 +3442,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -3477,7 +3477,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -3495,7 +3495,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -3530,7 +3530,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -3548,7 +3548,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -3583,7 +3583,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -3601,7 +3601,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -3636,7 +3636,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -3654,7 +3654,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -3689,7 +3689,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -3707,7 +3707,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -3742,7 +3742,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -3760,7 +3760,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -3795,7 +3795,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -3813,7 +3813,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -3848,7 +3848,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -3866,7 +3866,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -3901,7 +3901,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -3919,7 +3919,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -3954,7 +3954,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -3972,7 +3972,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -4007,7 +4007,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -4025,7 +4025,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -4060,7 +4060,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -4078,7 +4078,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -4113,7 +4113,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -4131,7 +4131,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -4166,7 +4166,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -4184,7 +4184,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -4219,7 +4219,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -4237,7 +4237,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -4272,7 +4272,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -4290,7 +4290,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -4325,7 +4325,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -4343,7 +4343,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -4378,7 +4378,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -4396,7 +4396,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -4431,7 +4431,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -4449,7 +4449,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -4484,7 +4484,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -4502,7 +4502,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -4537,7 +4537,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -4555,7 +4555,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -4590,7 +4590,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -4608,7 +4608,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -4643,7 +4643,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -4661,7 +4661,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -4696,7 +4696,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -4714,7 +4714,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -4749,7 +4749,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -4767,7 +4767,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -4802,7 +4802,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -4820,7 +4820,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -4855,7 +4855,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -4873,7 +4873,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -4908,7 +4908,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -4926,7 +4926,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -4961,7 +4961,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -4979,7 +4979,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -5014,7 +5014,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -5032,7 +5032,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -5067,7 +5067,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -5085,7 +5085,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -5120,7 +5120,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -5138,7 +5138,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -5173,7 +5173,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -5191,7 +5191,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -5226,7 +5226,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -5244,7 +5244,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -5279,7 +5279,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -5297,7 +5297,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -5332,7 +5332,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -5350,7 +5350,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -5385,7 +5385,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -5403,7 +5403,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -5438,7 +5438,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -5456,7 +5456,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -5491,7 +5491,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -5509,7 +5509,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -5544,7 +5544,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -5562,7 +5562,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -5597,7 +5597,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -5615,7 +5615,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -5650,7 +5650,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -5668,7 +5668,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -5703,7 +5703,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -5721,7 +5721,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -5756,7 +5756,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -5774,7 +5774,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -5809,7 +5809,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -5827,7 +5827,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -5862,7 +5862,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -5880,7 +5880,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -5915,7 +5915,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -5933,7 +5933,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -5968,7 +5968,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -5986,7 +5986,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -6021,7 +6021,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -6039,7 +6039,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -6074,7 +6074,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -6092,7 +6092,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -6127,7 +6127,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -6145,7 +6145,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -6180,7 +6180,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -6198,7 +6198,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -6233,7 +6233,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -6251,7 +6251,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -6286,7 +6286,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -6304,7 +6304,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -6339,7 +6339,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -6357,7 +6357,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -6392,7 +6392,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -6410,7 +6410,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -6445,7 +6445,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -6463,7 +6463,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -6498,7 +6498,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -6516,7 +6516,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -6551,7 +6551,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -6569,7 +6569,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -6604,7 +6604,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -6622,7 +6622,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -6657,7 +6657,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -6675,7 +6675,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -6710,7 +6710,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -6728,7 +6728,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -6763,7 +6763,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -6781,7 +6781,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -6816,7 +6816,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -6834,7 +6834,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -6869,7 +6869,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -6887,7 +6887,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -6922,7 +6922,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -6940,7 +6940,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -6975,7 +6975,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -6993,7 +6993,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -7028,7 +7028,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -7046,7 +7046,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -7081,7 +7081,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -7099,7 +7099,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -7134,7 +7134,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -7152,7 +7152,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -7187,7 +7187,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -7205,7 +7205,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -7240,7 +7240,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -7258,7 +7258,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -7293,7 +7293,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -7311,7 +7311,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -7346,7 +7346,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -7364,7 +7364,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -7399,7 +7399,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -7417,7 +7417,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -7452,7 +7452,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -7470,7 +7470,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -7505,7 +7505,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -7523,7 +7523,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -7558,7 +7558,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -7576,7 +7576,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -7611,7 +7611,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -7629,7 +7629,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -7664,7 +7664,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -7682,7 +7682,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -7717,7 +7717,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -7735,7 +7735,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -7770,7 +7770,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -7788,7 +7788,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -7823,7 +7823,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -7841,7 +7841,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -7876,7 +7876,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -7894,7 +7894,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -7929,7 +7929,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -7947,7 +7947,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -7982,7 +7982,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -8000,7 +8000,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -8035,7 +8035,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -8053,7 +8053,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -8088,7 +8088,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -8106,7 +8106,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -8141,7 +8141,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -8159,7 +8159,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -8194,7 +8194,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -8212,7 +8212,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -8247,7 +8247,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -8265,7 +8265,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -8300,7 +8300,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -8318,7 +8318,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -8353,7 +8353,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -8371,7 +8371,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -8406,7 +8406,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -8424,7 +8424,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -8459,7 +8459,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -8477,7 +8477,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -8512,7 +8512,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -8530,7 +8530,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -8565,7 +8565,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -8583,7 +8583,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -8618,7 +8618,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -8636,7 +8636,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -8671,7 +8671,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -8689,7 +8689,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -8724,7 +8724,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -8742,7 +8742,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -8777,7 +8777,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -8795,7 +8795,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -8830,7 +8830,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -8848,7 +8848,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -8883,7 +8883,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -8901,7 +8901,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -8936,7 +8936,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -8954,7 +8954,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -8989,7 +8989,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -9007,7 +9007,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -9042,7 +9042,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -9060,7 +9060,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -9095,7 +9095,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -9113,7 +9113,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -9148,7 +9148,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -9166,7 +9166,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -9201,7 +9201,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -9219,7 +9219,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -9254,7 +9254,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -9272,7 +9272,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -9307,7 +9307,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -9325,7 +9325,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -9360,7 +9360,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -9378,7 +9378,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -9413,7 +9413,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -9431,7 +9431,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -9466,7 +9466,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -9484,7 +9484,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -9519,7 +9519,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -9537,7 +9537,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -9572,7 +9572,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -9590,7 +9590,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -9625,7 +9625,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -9643,7 +9643,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -9678,7 +9678,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -9696,7 +9696,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -9731,7 +9731,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -9749,7 +9749,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -9784,7 +9784,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -9802,7 +9802,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -9837,7 +9837,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -9855,7 +9855,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -9890,7 +9890,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -9908,7 +9908,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -9943,7 +9943,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -9961,7 +9961,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -9996,7 +9996,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -10014,7 +10014,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -10049,7 +10049,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -10067,7 +10067,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -10102,7 +10102,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -10120,7 +10120,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -10155,7 +10155,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -10173,7 +10173,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -10208,7 +10208,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -10226,7 +10226,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -10261,7 +10261,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -10279,7 +10279,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -10314,7 +10314,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -10332,7 +10332,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -10367,7 +10367,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -10385,7 +10385,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -10420,7 +10420,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -10438,7 +10438,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -10473,7 +10473,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -10491,7 +10491,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -10526,7 +10526,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -10544,7 +10544,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -10579,7 +10579,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -10597,7 +10597,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -10632,7 +10632,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -10650,7 +10650,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -10685,7 +10685,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -10703,7 +10703,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -10738,7 +10738,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -10756,7 +10756,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -10791,7 +10791,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -10809,7 +10809,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -10844,7 +10844,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -10862,7 +10862,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -10897,7 +10897,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -10915,7 +10915,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -10950,7 +10950,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -10968,7 +10968,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -11003,7 +11003,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -11021,7 +11021,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -11056,7 +11056,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -11074,7 +11074,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -11109,7 +11109,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -11127,7 +11127,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -11162,7 +11162,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -11180,7 +11180,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -11215,7 +11215,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -11233,7 +11233,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -11268,7 +11268,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -11286,7 +11286,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -11321,7 +11321,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -11339,7 +11339,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -11374,7 +11374,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -11392,7 +11392,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -11427,7 +11427,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -11445,7 +11445,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -11480,7 +11480,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -11498,7 +11498,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -11533,7 +11533,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -11551,7 +11551,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -11586,7 +11586,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -11604,7 +11604,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -11639,7 +11639,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -11657,7 +11657,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -11692,7 +11692,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -11710,7 +11710,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -11745,7 +11745,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -11763,7 +11763,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -11798,7 +11798,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -11816,7 +11816,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -11851,7 +11851,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -11869,7 +11869,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -11904,7 +11904,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -11922,7 +11922,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -11957,7 +11957,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -11975,7 +11975,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -12010,7 +12010,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -12028,7 +12028,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -12063,7 +12063,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -12081,7 +12081,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -12116,7 +12116,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -12134,7 +12134,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -12169,7 +12169,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -12187,7 +12187,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -12222,7 +12222,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -12240,7 +12240,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -12275,7 +12275,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -12293,7 +12293,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -12328,7 +12328,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -12346,7 +12346,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -12381,7 +12381,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -12399,7 +12399,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -12434,7 +12434,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -12452,7 +12452,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -12487,7 +12487,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -12505,7 +12505,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -12540,7 +12540,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -12558,7 +12558,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -12593,7 +12593,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -12611,7 +12611,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -12646,7 +12646,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -12664,7 +12664,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -12699,7 +12699,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -12717,7 +12717,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -12752,7 +12752,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -12770,7 +12770,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -12805,7 +12805,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -12823,7 +12823,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -12858,7 +12858,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -12876,7 +12876,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -12911,7 +12911,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -12929,7 +12929,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -12964,7 +12964,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -12982,7 +12982,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -13017,7 +13017,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -13035,7 +13035,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -13070,7 +13070,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -13088,7 +13088,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -13123,7 +13123,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -13141,7 +13141,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -13176,7 +13176,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -13194,7 +13194,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -13229,7 +13229,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -13247,7 +13247,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -13282,7 +13282,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -13300,7 +13300,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -13335,7 +13335,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -13353,7 +13353,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -13388,7 +13388,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -13406,7 +13406,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -13441,7 +13441,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -13459,7 +13459,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -13494,7 +13494,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -13512,7 +13512,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -13547,7 +13547,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -13565,7 +13565,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -13600,7 +13600,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -13618,7 +13618,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -13653,7 +13653,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -13671,7 +13671,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -13706,7 +13706,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -13724,7 +13724,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -13759,7 +13759,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -13777,7 +13777,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -13812,7 +13812,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -13830,7 +13830,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -13865,7 +13865,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -13883,7 +13883,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -13918,7 +13918,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -13936,7 +13936,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -13971,7 +13971,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -13989,7 +13989,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -14024,7 +14024,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -14042,7 +14042,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -14077,7 +14077,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -14095,7 +14095,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -14130,7 +14130,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -14148,7 +14148,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -14183,7 +14183,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -14201,7 +14201,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -14236,7 +14236,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -14254,7 +14254,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -14289,7 +14289,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -14307,7 +14307,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -14342,7 +14342,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -14360,7 +14360,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -14395,7 +14395,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -14413,7 +14413,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -14448,7 +14448,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -14466,7 +14466,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -14501,7 +14501,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -14519,7 +14519,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -14554,7 +14554,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -14572,7 +14572,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -14607,7 +14607,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -14625,7 +14625,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -14660,7 +14660,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -14678,7 +14678,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -14713,7 +14713,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -14731,7 +14731,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -14766,7 +14766,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -14784,7 +14784,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -14819,7 +14819,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -14837,7 +14837,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -14872,7 +14872,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -14890,7 +14890,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -14925,7 +14925,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -14943,7 +14943,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -14978,7 +14978,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -14996,7 +14996,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -15031,7 +15031,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -15049,7 +15049,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -15084,7 +15084,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -15102,7 +15102,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -15137,7 +15137,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -15155,7 +15155,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -15190,7 +15190,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -15208,7 +15208,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -15243,7 +15243,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -15261,7 +15261,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -15296,7 +15296,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -15314,7 +15314,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -15349,7 +15349,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -15367,7 +15367,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -15402,7 +15402,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -15420,7 +15420,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -15455,7 +15455,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -15473,7 +15473,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -15508,7 +15508,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -15526,7 +15526,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -15561,7 +15561,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -15579,7 +15579,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -15614,7 +15614,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -15632,7 +15632,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -15667,7 +15667,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -15685,7 +15685,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -15720,7 +15720,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -15738,7 +15738,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -15773,7 +15773,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -15791,7 +15791,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -15826,7 +15826,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -15844,7 +15844,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -15879,7 +15879,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -15897,7 +15897,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -15932,7 +15932,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -15950,7 +15950,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -15985,7 +15985,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -16003,7 +16003,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -16038,7 +16038,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -16056,7 +16056,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -16091,7 +16091,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -16109,7 +16109,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -16144,7 +16144,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -16162,7 +16162,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -16197,7 +16197,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -16215,7 +16215,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -16250,7 +16250,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -16268,7 +16268,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -16303,7 +16303,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -16321,7 +16321,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -16356,7 +16356,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -16374,7 +16374,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -16409,7 +16409,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -16427,7 +16427,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -16462,7 +16462,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -16480,7 +16480,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -16515,7 +16515,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -16533,7 +16533,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -16568,7 +16568,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -16586,7 +16586,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -16621,7 +16621,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -16639,7 +16639,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -16674,7 +16674,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -16692,7 +16692,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -16727,7 +16727,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -16745,7 +16745,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -16780,7 +16780,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -16798,7 +16798,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -16833,7 +16833,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -16851,7 +16851,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -16886,7 +16886,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -16904,7 +16904,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -16939,7 +16939,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -16957,7 +16957,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -16992,7 +16992,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -17010,7 +17010,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -17045,7 +17045,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -17063,7 +17063,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -17098,7 +17098,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -17116,7 +17116,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -17151,7 +17151,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -17169,7 +17169,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -17204,7 +17204,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -17222,7 +17222,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -17257,7 +17257,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -17275,7 +17275,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -17310,7 +17310,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -17328,7 +17328,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -17363,7 +17363,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -17381,7 +17381,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -17416,7 +17416,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -17434,7 +17434,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -17469,7 +17469,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -17487,7 +17487,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -17522,7 +17522,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -17540,7 +17540,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -17575,7 +17575,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -17593,7 +17593,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -17628,7 +17628,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -17646,7 +17646,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -17681,7 +17681,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -17699,7 +17699,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -17734,7 +17734,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -17752,7 +17752,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -17787,7 +17787,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -17805,7 +17805,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -17840,7 +17840,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -17858,7 +17858,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -17893,7 +17893,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -17911,7 +17911,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -17946,7 +17946,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -17964,7 +17964,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -17999,7 +17999,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -18017,7 +18017,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -18052,7 +18052,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -18070,7 +18070,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -18105,7 +18105,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -18123,7 +18123,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -18158,7 +18158,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -18176,7 +18176,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -18211,7 +18211,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -18229,7 +18229,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -18264,7 +18264,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -18282,7 +18282,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -18317,7 +18317,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -18335,7 +18335,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -18370,7 +18370,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -18388,7 +18388,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -18423,7 +18423,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -18441,7 +18441,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -18476,7 +18476,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -18494,7 +18494,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -18529,7 +18529,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -18547,7 +18547,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -18582,7 +18582,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -18600,7 +18600,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -18635,7 +18635,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -18653,7 +18653,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -18688,7 +18688,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -18706,7 +18706,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -18741,7 +18741,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -18759,7 +18759,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -18794,7 +18794,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -18812,7 +18812,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -18847,7 +18847,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -18865,7 +18865,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -18900,7 +18900,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -18918,7 +18918,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -18953,7 +18953,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -18971,7 +18971,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -19006,7 +19006,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -19024,7 +19024,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -19059,7 +19059,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -19077,7 +19077,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -19112,7 +19112,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -19130,7 +19130,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -19165,7 +19165,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -19183,7 +19183,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -19218,7 +19218,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -19236,7 +19236,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -19271,7 +19271,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -19289,7 +19289,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -19324,7 +19324,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -19342,7 +19342,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -19377,7 +19377,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -19395,7 +19395,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -19430,7 +19430,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -19448,7 +19448,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -19483,7 +19483,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -19501,7 +19501,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -19536,7 +19536,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -19554,7 +19554,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -19589,7 +19589,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -19607,7 +19607,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -19642,7 +19642,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -19660,7 +19660,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -19695,7 +19695,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -19713,7 +19713,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -19748,7 +19748,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -19766,7 +19766,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -19801,7 +19801,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -19819,7 +19819,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -19854,7 +19854,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -19872,7 +19872,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -19907,7 +19907,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -19925,7 +19925,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -19960,7 +19960,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -19978,7 +19978,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -20013,7 +20013,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -20031,7 +20031,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -20066,7 +20066,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -20084,7 +20084,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -20119,7 +20119,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -20137,7 +20137,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -20172,7 +20172,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -20190,7 +20190,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -20225,7 +20225,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -20243,7 +20243,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -20278,7 +20278,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -20296,7 +20296,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -20331,7 +20331,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -20349,7 +20349,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -20384,7 +20384,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -20402,7 +20402,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -20437,7 +20437,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -20455,7 +20455,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -20490,7 +20490,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -20508,7 +20508,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -20543,7 +20543,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -20561,7 +20561,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -20596,7 +20596,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -20614,7 +20614,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -20649,7 +20649,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -20667,7 +20667,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -20702,7 +20702,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -20720,7 +20720,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -20755,7 +20755,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -20773,7 +20773,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -20808,7 +20808,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -20826,7 +20826,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -20861,7 +20861,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -20879,7 +20879,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -20914,7 +20914,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -20932,7 +20932,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -20967,7 +20967,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -20985,7 +20985,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -21020,7 +21020,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -21038,7 +21038,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -21073,7 +21073,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -21091,7 +21091,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -21126,7 +21126,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -21144,7 +21144,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -21179,7 +21179,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -21197,7 +21197,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -21232,7 +21232,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -21250,7 +21250,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -21285,7 +21285,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -21303,7 +21303,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -21338,7 +21338,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -21356,7 +21356,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -21391,7 +21391,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -21409,7 +21409,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -21444,7 +21444,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -21462,7 +21462,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -21497,7 +21497,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -21515,7 +21515,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -21550,7 +21550,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -21568,7 +21568,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -21603,7 +21603,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -21621,7 +21621,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -21656,7 +21656,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -21674,7 +21674,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -21709,7 +21709,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -21727,7 +21727,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -21762,7 +21762,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -21780,7 +21780,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -21815,7 +21815,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -21833,7 +21833,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -21868,7 +21868,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -21886,7 +21886,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -21921,7 +21921,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -21939,7 +21939,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -21974,7 +21974,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -21992,7 +21992,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -22027,7 +22027,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -22045,7 +22045,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -22080,7 +22080,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -22098,7 +22098,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -22133,7 +22133,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -22151,7 +22151,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -22186,7 +22186,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -22204,7 +22204,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -22239,7 +22239,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -22257,7 +22257,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -22292,7 +22292,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -22310,7 +22310,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -22345,7 +22345,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -22363,7 +22363,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -22398,7 +22398,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -22416,7 +22416,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -22451,7 +22451,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -22469,7 +22469,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -22504,7 +22504,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -22522,7 +22522,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -22557,7 +22557,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -22575,7 +22575,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -22610,7 +22610,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -22628,7 +22628,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -22663,7 +22663,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -22681,7 +22681,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -22716,7 +22716,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -22734,7 +22734,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -22769,7 +22769,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -22787,7 +22787,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -22822,7 +22822,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -22840,7 +22840,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -22875,7 +22875,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -22893,7 +22893,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -22928,7 +22928,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -22946,7 +22946,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -22981,7 +22981,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -22999,7 +22999,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -23034,7 +23034,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -23052,7 +23052,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -23087,7 +23087,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -23105,7 +23105,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -23140,7 +23140,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -23158,7 +23158,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -23193,7 +23193,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -23211,7 +23211,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -23246,7 +23246,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -23264,7 +23264,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -23299,7 +23299,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -23317,7 +23317,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -23352,7 +23352,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -23370,7 +23370,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -23405,7 +23405,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -23423,7 +23423,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -23458,7 +23458,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -23476,7 +23476,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -23511,7 +23511,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -23529,7 +23529,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -23564,7 +23564,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -23582,7 +23582,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -23617,7 +23617,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -23635,7 +23635,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -23670,7 +23670,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -23688,7 +23688,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -23723,7 +23723,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -23741,7 +23741,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -23776,7 +23776,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -23794,7 +23794,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -23829,7 +23829,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -23847,7 +23847,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -23882,7 +23882,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -23900,7 +23900,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -23935,7 +23935,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -23953,7 +23953,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -23988,7 +23988,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -24006,7 +24006,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -24041,7 +24041,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -24059,7 +24059,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -24094,7 +24094,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -24112,7 +24112,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -24147,7 +24147,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -24165,7 +24165,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -24200,7 +24200,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -24218,7 +24218,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -24253,7 +24253,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -24271,7 +24271,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -24306,7 +24306,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -24324,7 +24324,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -24359,7 +24359,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -24377,7 +24377,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -24412,7 +24412,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -24430,7 +24430,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -24465,7 +24465,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -24483,7 +24483,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -24518,7 +24518,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -24536,7 +24536,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -24571,7 +24571,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -24589,7 +24589,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -24624,7 +24624,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -24642,7 +24642,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -24677,7 +24677,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -24695,7 +24695,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -24730,7 +24730,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -24748,7 +24748,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -24783,7 +24783,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -24801,7 +24801,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -24836,7 +24836,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -24854,7 +24854,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -24889,7 +24889,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -24907,7 +24907,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -24942,7 +24942,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -24960,7 +24960,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -24995,7 +24995,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -25013,7 +25013,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -25048,7 +25048,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -25066,7 +25066,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -25101,7 +25101,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -25119,7 +25119,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -25154,7 +25154,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -25172,7 +25172,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -25207,7 +25207,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -25225,7 +25225,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -25260,7 +25260,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -25278,7 +25278,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -25313,7 +25313,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -25331,7 +25331,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -25366,7 +25366,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -25384,7 +25384,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -25419,7 +25419,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -25437,7 +25437,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -25472,7 +25472,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -25490,7 +25490,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -25525,7 +25525,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -25543,7 +25543,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -25578,7 +25578,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -25596,7 +25596,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -25631,7 +25631,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -25649,7 +25649,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -25684,7 +25684,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -25702,7 +25702,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -25737,7 +25737,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -25755,7 +25755,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -25790,7 +25790,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -25808,7 +25808,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -25843,7 +25843,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -25861,7 +25861,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -25896,7 +25896,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -25914,7 +25914,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -25949,7 +25949,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -25967,7 +25967,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -26002,7 +26002,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -26020,7 +26020,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -26055,7 +26055,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -26073,7 +26073,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -26108,7 +26108,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -26126,7 +26126,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -26161,7 +26161,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -26179,7 +26179,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -26214,7 +26214,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -26232,7 +26232,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -26267,7 +26267,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -26285,7 +26285,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -26320,7 +26320,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -26338,7 +26338,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -26373,7 +26373,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -26391,7 +26391,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -26426,7 +26426,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -26444,7 +26444,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -26479,7 +26479,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -26497,7 +26497,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -26532,7 +26532,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -26550,7 +26550,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -26585,7 +26585,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -26603,7 +26603,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -26638,7 +26638,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -26656,7 +26656,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -26691,7 +26691,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -26709,7 +26709,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -26744,7 +26744,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -26762,7 +26762,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -26797,7 +26797,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -26815,7 +26815,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -26850,7 +26850,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -26868,7 +26868,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -26903,7 +26903,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -26921,7 +26921,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -26956,7 +26956,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -26974,7 +26974,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -27009,7 +27009,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -27027,7 +27027,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -27062,7 +27062,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -27080,7 +27080,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -27115,7 +27115,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -27133,7 +27133,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -27168,7 +27168,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -27186,7 +27186,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -27221,7 +27221,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -27239,7 +27239,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -27274,7 +27274,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -27292,7 +27292,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -27327,7 +27327,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -27345,7 +27345,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -27380,7 +27380,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -27398,7 +27398,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -27433,7 +27433,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -27451,7 +27451,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -27486,7 +27486,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -27504,7 +27504,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -27539,7 +27539,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -27557,7 +27557,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -27592,7 +27592,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -27610,7 +27610,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -27645,7 +27645,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -27663,7 +27663,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -27698,7 +27698,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -27716,7 +27716,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -27751,7 +27751,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -27769,7 +27769,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -27804,7 +27804,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -27822,7 +27822,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -27857,7 +27857,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -27875,7 +27875,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -27910,7 +27910,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -27928,7 +27928,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -27963,7 +27963,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -27981,7 +27981,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -28016,7 +28016,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -28034,7 +28034,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -28069,7 +28069,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -28087,7 +28087,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -28122,7 +28122,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -28140,7 +28140,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -28175,7 +28175,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -28193,7 +28193,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -28228,7 +28228,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -28246,7 +28246,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -28281,7 +28281,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -28299,7 +28299,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -28334,7 +28334,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -28352,7 +28352,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -28387,7 +28387,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -28405,7 +28405,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -28440,7 +28440,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -28458,7 +28458,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -28493,7 +28493,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -28511,7 +28511,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -28546,7 +28546,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -28564,7 +28564,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -28599,7 +28599,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -28617,7 +28617,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -28652,7 +28652,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -28670,7 +28670,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -28705,7 +28705,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -28723,7 +28723,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -28758,7 +28758,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -28776,7 +28776,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -28811,7 +28811,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -28829,7 +28829,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -28864,7 +28864,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -28882,7 +28882,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -28917,7 +28917,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -28935,7 +28935,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -28970,7 +28970,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -28988,7 +28988,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -29023,7 +29023,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -29041,7 +29041,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -29076,7 +29076,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -29094,7 +29094,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -29129,7 +29129,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -29147,7 +29147,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -29182,7 +29182,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -29200,7 +29200,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -29235,7 +29235,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -29253,7 +29253,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -29288,7 +29288,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -29306,7 +29306,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -29341,7 +29341,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -29359,7 +29359,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -29394,7 +29394,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -29412,7 +29412,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -29447,7 +29447,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -29465,7 +29465,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -29500,7 +29500,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -29518,7 +29518,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -29553,7 +29553,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -29571,7 +29571,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -29606,7 +29606,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -29624,7 +29624,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -29659,7 +29659,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -29677,7 +29677,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -29712,7 +29712,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -29730,7 +29730,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -29765,7 +29765,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -29783,7 +29783,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -29818,7 +29818,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -29836,7 +29836,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -29871,7 +29871,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -29889,7 +29889,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -29924,7 +29924,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -29942,7 +29942,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -29977,7 +29977,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -29995,7 +29995,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -30030,7 +30030,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -30048,7 +30048,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -30083,7 +30083,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -30101,7 +30101,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -30136,7 +30136,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -30154,7 +30154,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -30189,7 +30189,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -30207,7 +30207,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -30242,7 +30242,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -30260,7 +30260,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -30295,7 +30295,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -30313,7 +30313,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -30348,7 +30348,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -30366,7 +30366,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -30401,7 +30401,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -30419,7 +30419,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -30454,7 +30454,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -30472,7 +30472,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -30507,7 +30507,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -30525,7 +30525,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -30560,7 +30560,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -30578,7 +30578,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -30613,7 +30613,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -30631,7 +30631,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -30666,7 +30666,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -30684,7 +30684,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -30719,7 +30719,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -30737,7 +30737,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -30772,7 +30772,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -30790,7 +30790,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -30825,7 +30825,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -30843,7 +30843,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -30878,7 +30878,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -30896,7 +30896,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -30931,7 +30931,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -30949,7 +30949,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -30984,7 +30984,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -31002,7 +31002,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -31037,7 +31037,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -31055,7 +31055,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -31090,7 +31090,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -31108,7 +31108,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -31143,7 +31143,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -31161,7 +31161,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -31196,7 +31196,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -31214,7 +31214,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -31249,7 +31249,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -31267,7 +31267,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -31302,7 +31302,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -31320,7 +31320,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -31355,7 +31355,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -31373,7 +31373,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -31408,7 +31408,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -31426,7 +31426,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -31461,7 +31461,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -31479,7 +31479,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -31514,7 +31514,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -31532,7 +31532,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -31567,7 +31567,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -31585,7 +31585,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -31620,7 +31620,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -31638,7 +31638,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -31673,7 +31673,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -31691,7 +31691,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -31726,7 +31726,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -31744,7 +31744,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -31779,7 +31779,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -31797,7 +31797,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -31832,7 +31832,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -31850,7 +31850,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -31885,7 +31885,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -31903,7 +31903,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -31938,7 +31938,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -31956,7 +31956,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -31991,7 +31991,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -32009,7 +32009,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -32044,7 +32044,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -32062,7 +32062,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -32097,7 +32097,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -32115,7 +32115,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -32150,7 +32150,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -32168,7 +32168,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -32203,7 +32203,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -32221,7 +32221,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -32256,7 +32256,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -32274,7 +32274,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -32309,7 +32309,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -32327,7 +32327,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -32362,7 +32362,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -32380,7 +32380,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -32415,7 +32415,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -32433,7 +32433,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -32468,7 +32468,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -32486,7 +32486,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -32521,7 +32521,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -32539,7 +32539,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -32574,7 +32574,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -32592,7 +32592,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -32627,7 +32627,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -32645,7 +32645,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -32680,7 +32680,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -32698,7 +32698,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -32733,7 +32733,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -32751,7 +32751,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -32786,7 +32786,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -32804,7 +32804,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -32839,7 +32839,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -32857,7 +32857,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -32892,7 +32892,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -32910,7 +32910,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -32945,7 +32945,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -32963,7 +32963,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -32998,7 +32998,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -33016,7 +33016,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -33051,7 +33051,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -33069,7 +33069,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -33104,7 +33104,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -33122,7 +33122,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -33157,7 +33157,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -33175,7 +33175,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -33210,7 +33210,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -33228,7 +33228,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -33263,7 +33263,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -33281,7 +33281,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -33316,7 +33316,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -33334,7 +33334,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -33369,7 +33369,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -33387,7 +33387,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -33422,7 +33422,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -33440,7 +33440,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -33475,7 +33475,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -33493,7 +33493,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -33528,7 +33528,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -33546,7 +33546,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -33581,7 +33581,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -33599,7 +33599,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -33634,7 +33634,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -33652,7 +33652,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -33687,7 +33687,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -33705,7 +33705,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -33740,7 +33740,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -33758,7 +33758,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -33793,7 +33793,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -33811,7 +33811,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -33846,7 +33846,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -33864,7 +33864,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -33899,7 +33899,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -33917,7 +33917,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -33952,7 +33952,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -33970,7 +33970,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -34005,7 +34005,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -34023,7 +34023,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -34058,7 +34058,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -34076,7 +34076,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -34111,7 +34111,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -34129,7 +34129,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -34164,7 +34164,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -34182,7 +34182,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -34217,7 +34217,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -34235,7 +34235,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -34270,7 +34270,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -34288,7 +34288,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -34323,7 +34323,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -34341,7 +34341,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -34376,7 +34376,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -34394,7 +34394,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -34429,7 +34429,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -34447,7 +34447,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -34482,7 +34482,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -34500,7 +34500,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -34535,7 +34535,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -34553,7 +34553,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -34588,7 +34588,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -34606,7 +34606,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -34641,7 +34641,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -34659,7 +34659,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -34694,7 +34694,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -34712,7 +34712,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -34747,7 +34747,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -34765,7 +34765,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -34800,7 +34800,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -34818,7 +34818,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -34853,7 +34853,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -34871,7 +34871,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -34906,7 +34906,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -34924,7 +34924,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -34959,7 +34959,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -34977,7 +34977,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -35012,7 +35012,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -35030,7 +35030,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -35065,7 +35065,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -35083,7 +35083,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -35118,7 +35118,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -35136,7 +35136,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -35171,7 +35171,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -35189,7 +35189,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -35224,7 +35224,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -35242,7 +35242,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -35277,7 +35277,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -35295,7 +35295,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -35330,7 +35330,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -35348,7 +35348,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -35383,7 +35383,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -35401,7 +35401,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -35436,7 +35436,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -35454,7 +35454,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -35489,7 +35489,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -35507,7 +35507,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -35542,7 +35542,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -35560,7 +35560,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -35595,7 +35595,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -35613,7 +35613,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -35648,7 +35648,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -35666,7 +35666,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -35701,7 +35701,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -35719,7 +35719,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -35754,7 +35754,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -35772,7 +35772,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -35807,7 +35807,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -35825,7 +35825,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -35860,7 +35860,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -35878,7 +35878,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -35913,7 +35913,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -35931,7 +35931,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -35966,7 +35966,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -35984,7 +35984,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -36019,7 +36019,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -36037,7 +36037,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -36072,7 +36072,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -36090,7 +36090,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -36125,7 +36125,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -36143,7 +36143,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -36178,7 +36178,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -36196,7 +36196,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -36231,7 +36231,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -36249,7 +36249,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -36284,7 +36284,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -36302,7 +36302,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -36337,7 +36337,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -36355,7 +36355,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -36390,7 +36390,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -36408,7 +36408,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -36443,7 +36443,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -36461,7 +36461,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -36496,7 +36496,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -36514,7 +36514,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -36549,7 +36549,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -36567,7 +36567,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -36602,7 +36602,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -36620,7 +36620,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -36655,7 +36655,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -36673,7 +36673,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -36708,7 +36708,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -36726,7 +36726,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -36761,7 +36761,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -36779,7 +36779,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
@@ -36814,7 +36814,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
-scale: 0.03
+scale: 0.10
 }),
 text: new ol.style.Text({
 text: name,
@@ -36832,7 +36832,7 @@ src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/tr
 rotation:3.14,
 rotateWithView: false,
 anchor: [-1,0],
-scale: 0.03
+scale: 0.10
 })
 })
 }
