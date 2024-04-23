@@ -190,7 +190,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -243,7 +243,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_B1a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -296,7 +296,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_B1b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -349,7 +349,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_B2a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -402,7 +402,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_B2b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -455,7 +455,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_B2c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -508,7 +508,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_B2d.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -561,7 +561,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_B2e.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -614,7 +614,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_com_s860.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -667,7 +667,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_ID400.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -720,7 +720,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_ID410.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -773,7 +773,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_ID420.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -826,7 +826,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_ID430.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -879,7 +879,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_ID440.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -932,7 +932,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_ID450.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -985,7 +985,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_LOC500.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -1038,7 +1038,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_LOC510.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -1091,7 +1091,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_LOC512.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -1144,7 +1144,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_LOC512a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -1197,7 +1197,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_LOC520.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -1250,7 +1250,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_LOC530.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -1303,7 +1303,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_LOC540.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -1356,7 +1356,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_LOC541.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -1409,7 +1409,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_LOC550.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -1462,7 +1462,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR10.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -1515,7 +1515,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR21.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -1568,7 +1568,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR21a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -1621,7 +1621,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR21b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -1674,7 +1674,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR21c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -1727,7 +1727,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR24a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -1780,7 +1780,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR24b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -1833,7 +1833,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR24c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -1886,7 +1886,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR25.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -1939,7 +1939,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR25b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -1992,7 +1992,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR25c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -2045,7 +2045,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR30.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -2098,7 +2098,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR31.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -2151,7 +2151,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR32.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -2204,7 +2204,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR41a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -2257,7 +2257,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR41b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -2310,7 +2310,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR41c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -2363,7 +2363,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR42a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -2416,7 +2416,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR42b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -2469,7 +2469,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR42c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -2522,7 +2522,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR43a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -2575,7 +2575,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR43b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -2628,7 +2628,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR43c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -2681,7 +2681,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR44a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -2734,7 +2734,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR44b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -2787,7 +2787,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR44c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -2840,7 +2840,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR51.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -2893,7 +2893,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR52.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -2946,7 +2946,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR53punt1.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -2999,7 +2999,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR53punt2.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -3052,7 +3052,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR59.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -3105,7 +3105,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR60.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -3158,7 +3158,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR61.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -3211,7 +3211,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR62.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -3264,7 +3264,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR63.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -3317,7 +3317,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_radar.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -3370,7 +3370,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_radar2.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -3423,7 +3423,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_S230.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -3476,7 +3476,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_S270.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -3529,7 +3529,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_S300.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -3582,7 +3582,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -3635,7 +3635,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URBL.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -3688,7 +3688,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_H75.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -3741,7 +3741,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_HV120.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -3794,7 +3794,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -3847,7 +3847,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P10a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -3900,7 +3900,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P10b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -3953,7 +3953,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P10c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -4006,7 +4006,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P11.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -4059,7 +4059,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P11a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -4112,7 +4112,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P12.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -4165,7 +4165,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P13a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -4218,7 +4218,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P13b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -4271,7 +4271,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P14a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -4324,7 +4324,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P14b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -4377,7 +4377,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P15.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -4430,7 +4430,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P15a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -4483,7 +4483,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P15b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -4536,7 +4536,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16a-10.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -4589,7 +4589,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16a-11.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -4642,7 +4642,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16a-12.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -4695,7 +4695,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16a-13.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -4748,7 +4748,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16a-15.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -4801,7 +4801,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16a-17.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -4854,7 +4854,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16a-20.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -4907,7 +4907,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16a-4.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -4960,7 +4960,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16a-5.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -5013,7 +5013,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16a-6.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -5066,7 +5066,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16a-7.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -5119,7 +5119,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16a-75.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -5172,7 +5172,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16a-8.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -5225,7 +5225,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16a-9.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -5278,7 +5278,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -5331,7 +5331,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16b-10.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -5384,7 +5384,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16b-11.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -5437,7 +5437,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16b-12.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -5490,7 +5490,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16b-13.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -5543,7 +5543,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16b-15.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -5596,7 +5596,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16b-17.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -5649,7 +5649,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16b-20.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -5702,7 +5702,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16b-4.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -5755,7 +5755,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16b-5.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -5808,7 +5808,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16b-6.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -5861,7 +5861,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16b-7.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -5914,7 +5914,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16b-75.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -5967,7 +5967,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16b-8.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -6020,7 +6020,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16b-9.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -6073,7 +6073,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P16b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -6126,7 +6126,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P17.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -6179,7 +6179,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P17a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -6232,7 +6232,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P17b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -6285,7 +6285,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P18.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -6338,7 +6338,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P19.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -6391,7 +6391,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -6444,7 +6444,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -6497,7 +6497,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -6550,7 +6550,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1d.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -6603,7 +6603,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P2.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -6656,7 +6656,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P20.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -6709,7 +6709,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P20aP.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -6762,7 +6762,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P21.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -6815,7 +6815,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P22.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -6868,7 +6868,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P23.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -6921,7 +6921,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P24.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -6974,7 +6974,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P25.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -7027,7 +7027,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P26.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -7080,7 +7080,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P27.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -7133,7 +7133,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P28.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -7186,7 +7186,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P29.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -7239,7 +7239,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P3.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -7292,7 +7292,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P30.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -7345,7 +7345,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P31.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -7398,7 +7398,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P32.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -7451,7 +7451,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P33.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -7504,7 +7504,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P34.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -7557,7 +7557,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P4.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -7610,7 +7610,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P5.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -7663,7 +7663,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P50.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -7716,7 +7716,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P6.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -7769,7 +7769,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P7.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -7822,7 +7822,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P8.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -7875,7 +7875,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P9a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -7928,7 +7928,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P9b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -7981,7 +7981,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P9c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -8034,7 +8034,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R1.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -8087,7 +8087,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R100.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -8140,7 +8140,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R101.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -8193,7 +8193,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R102.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -8246,7 +8246,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R103.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -8299,7 +8299,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R104.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -8352,7 +8352,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R105.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -8405,7 +8405,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R106.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -8458,7 +8458,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-10.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -8511,7 +8511,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-12.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -8564,7 +8564,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-16.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -8617,7 +8617,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-18.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -8670,7 +8670,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-2.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -8723,7 +8723,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-25.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -8776,7 +8776,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-3.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -8829,7 +8829,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-35.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -8882,7 +8882,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-4.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -8935,7 +8935,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-45.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -8988,7 +8988,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-5.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -9041,7 +9041,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-55.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -9094,7 +9094,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-6.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -9147,7 +9147,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-65.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -9200,7 +9200,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-7.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -9253,7 +9253,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-75.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -9306,7 +9306,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-8.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -9359,7 +9359,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-85.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -9412,7 +9412,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-9.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -9465,7 +9465,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107-95.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -9518,7 +9518,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R107.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -9571,7 +9571,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R108.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -9624,7 +9624,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R109.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -9677,7 +9677,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R110.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -9730,7 +9730,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R111.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -9783,7 +9783,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R112.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -9836,7 +9836,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R113.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -9889,7 +9889,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R114.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -9942,7 +9942,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R115.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -9995,7 +9995,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R116.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -10048,7 +10048,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R117.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -10101,7 +10101,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -10154,7 +10154,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R200.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -10207,7 +10207,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R200a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -10260,7 +10260,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-10.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -10313,7 +10313,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-11.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -10366,7 +10366,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-12.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -10419,7 +10419,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-14.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -10472,7 +10472,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-15.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -10525,7 +10525,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-16.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -10578,7 +10578,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-17.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -10631,7 +10631,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-20.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -10684,7 +10684,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-24.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -10737,7 +10737,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-29.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -10790,7 +10790,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-3.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -10843,7 +10843,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-35.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -10896,7 +10896,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-38.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -10949,7 +10949,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-4.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -11002,7 +11002,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-5.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -11055,7 +11055,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-55.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -11108,7 +11108,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-6.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -11161,7 +11161,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-65.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -11214,7 +11214,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-75.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -11267,7 +11267,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201-8.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -11320,7 +11320,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R201.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -11373,7 +11373,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R202-10.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -11426,7 +11426,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R202-2.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -11479,7 +11479,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R202-24.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -11532,7 +11532,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R202-5.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -11585,7 +11585,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R202-7.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -11638,7 +11638,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R202.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -11691,7 +11691,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R203-10.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -11744,7 +11744,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R203-7.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -11797,7 +11797,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R203.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -11850,7 +11850,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R204-2.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -11903,7 +11903,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R204-21.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -11956,7 +11956,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R204-22.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -12009,7 +12009,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R204-23.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -12062,7 +12062,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R204-25.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -12115,7 +12115,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R204-3.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -12168,7 +12168,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R204-32.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -12221,7 +12221,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R204-34.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -12274,7 +12274,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R204-35.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -12327,7 +12327,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R204-36.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -12380,7 +12380,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R204-37.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -12433,7 +12433,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R204-38.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -12486,7 +12486,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R204-4.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -12539,7 +12539,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R204-41.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -12592,7 +12592,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R204-43.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -12645,7 +12645,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R204-45.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -12698,7 +12698,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R204.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -12751,7 +12751,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-21.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -12804,7 +12804,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-22.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -12857,7 +12857,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-23.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -12910,7 +12910,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-24.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -12963,7 +12963,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-25.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -13016,7 +13016,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-26.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -13069,7 +13069,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-27.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -13122,7 +13122,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-28.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -13175,7 +13175,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-29.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -13228,7 +13228,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-31.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -13281,7 +13281,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-32.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -13334,7 +13334,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-33.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -13387,7 +13387,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-34.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -13440,7 +13440,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-35.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -13493,7 +13493,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-36.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -13546,7 +13546,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-37.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -13599,7 +13599,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-38.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -13652,7 +13652,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-39.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -13705,7 +13705,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-41.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -13758,7 +13758,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-42.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -13811,7 +13811,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-43.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -13864,7 +13864,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-44.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -13917,7 +13917,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-45.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -13970,7 +13970,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-46.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -14023,7 +14023,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-47.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -14076,7 +14076,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-48.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -14129,7 +14129,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-49.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -14182,7 +14182,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-51.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -14235,7 +14235,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-52.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -14288,7 +14288,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-53.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -14341,7 +14341,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-54.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -14394,7 +14394,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-55.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -14447,7 +14447,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-56.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -14500,7 +14500,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205-59.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -14553,7 +14553,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R205.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -14606,7 +14606,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R3.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -14659,7 +14659,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R300-100.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -14712,7 +14712,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R300-60.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -14765,7 +14765,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R300-70.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -14818,7 +14818,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R300-80.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -14871,7 +14871,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R300.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -14924,7 +14924,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R301-10.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -14977,7 +14977,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R301-100.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -15030,7 +15030,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R301-110.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -15083,7 +15083,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R301-120.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -15136,7 +15136,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R301-20.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -15189,7 +15189,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R301-30.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -15242,7 +15242,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R301-40.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -15295,7 +15295,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R301-50.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -15348,7 +15348,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R301-60.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -15401,7 +15401,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R301-70.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -15454,7 +15454,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R301-80.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -15507,7 +15507,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R301-90.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -15560,7 +15560,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R302.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -15613,7 +15613,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R303.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -15666,7 +15666,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R304.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -15719,7 +15719,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R305.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -15772,7 +15772,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R306.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -15825,7 +15825,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R307.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -15878,7 +15878,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R308.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -15931,7 +15931,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R308a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -15984,7 +15984,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R308b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -16037,7 +16037,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R308c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -16090,7 +16090,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R308d.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -16143,7 +16143,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R308e.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -16196,7 +16196,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R309.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -16249,7 +16249,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R310.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -16302,7 +16302,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R4.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -16355,7 +16355,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R400a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -16408,7 +16408,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R400b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -16461,7 +16461,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R400c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -16514,7 +16514,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R400d.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -16567,7 +16567,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R400e.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -16620,7 +16620,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R401a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -16673,7 +16673,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R401b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -16726,7 +16726,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R401c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -16779,7 +16779,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R402.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -16832,7 +16832,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R403a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -16885,7 +16885,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R403b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -16938,7 +16938,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R403c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -16991,7 +16991,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R404.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -17044,7 +17044,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R405.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -17097,7 +17097,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R406.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -17150,7 +17150,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R407.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -17203,7 +17203,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R407b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -17256,7 +17256,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R408.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -17309,7 +17309,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R409.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -17362,7 +17362,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R410.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -17415,7 +17415,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R411-20.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -17468,7 +17468,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R411-30.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -17521,7 +17521,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R411-50.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -17574,7 +17574,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R411-60.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -17627,7 +17627,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R411-70.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -17680,7 +17680,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R411-80.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -17733,7 +17733,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R411-90.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -17786,7 +17786,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R411.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -17839,7 +17839,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R412.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -17892,7 +17892,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R413.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -17945,7 +17945,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R414.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -17998,7 +17998,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R415.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -18051,7 +18051,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R416.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -18104,7 +18104,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R417.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -18157,7 +18157,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R418.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -18210,7 +18210,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R5.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -18263,7 +18263,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R500.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -18316,7 +18316,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R501-100.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -18369,7 +18369,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R501-20.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -18422,7 +18422,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R501-30.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -18475,7 +18475,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R501-40.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -18528,7 +18528,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R501-50.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -18581,7 +18581,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R501-60.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -18634,7 +18634,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R501-70.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -18687,7 +18687,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R501-80.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -18740,7 +18740,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R501-90.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -18793,7 +18793,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R501.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -18846,7 +18846,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R502.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -18899,7 +18899,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R503.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -18952,7 +18952,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R504.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -19005,7 +19005,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R505.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -19058,7 +19058,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R505a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -19111,7 +19111,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R506-30.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -19164,7 +19164,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R506-50.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -19217,7 +19217,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R506-60.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -19270,7 +19270,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R506-70.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -19323,7 +19323,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R506-90.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -19376,7 +19376,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R506.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -19429,7 +19429,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R6.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -19482,7 +19482,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_road_beacon_big.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -19535,7 +19535,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S1.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -19588,7 +19588,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S10.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -19641,7 +19641,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S100-200.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -19694,7 +19694,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S100-250.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -19747,7 +19747,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S100-300.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -19800,7 +19800,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S100-500.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -19853,7 +19853,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S100.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -19906,7 +19906,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S101.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -19959,7 +19959,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S102.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -20012,7 +20012,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S103.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -20065,7 +20065,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S104.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -20118,7 +20118,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S105-1000.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -20171,7 +20171,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S105-200.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -20224,7 +20224,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S105-300.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -20277,7 +20277,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S105-400.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -20330,7 +20330,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S105-500.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -20383,7 +20383,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S105.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -20436,7 +20436,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S106.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -20489,7 +20489,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S107.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -20542,7 +20542,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S108.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -20595,7 +20595,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S109.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -20648,7 +20648,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S11.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -20701,7 +20701,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S110-1000.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -20754,7 +20754,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S110-200.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -20807,7 +20807,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S110-300.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -20860,7 +20860,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S110-500.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -20913,7 +20913,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S110.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -20966,7 +20966,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S111-100.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -21019,7 +21019,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S111-1000.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -21072,7 +21072,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S111-200.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -21125,7 +21125,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S111-250.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -21178,7 +21178,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S111-300.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -21231,7 +21231,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S111-500.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -21284,7 +21284,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S111.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -21337,7 +21337,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S112.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -21390,7 +21390,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S113.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -21443,7 +21443,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S114.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -21496,7 +21496,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S115.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -21549,7 +21549,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S116.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -21602,7 +21602,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S117.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -21655,7 +21655,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S118-100.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -21708,7 +21708,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S118-1000.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -21761,7 +21761,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S118-200.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -21814,7 +21814,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S118-250.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -21867,7 +21867,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S118-300.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -21920,7 +21920,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S118-400.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -21973,7 +21973,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S118-500.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -22026,7 +22026,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S118-800.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -22079,7 +22079,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S118.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -22132,7 +22132,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S119.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -22185,7 +22185,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S11a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -22238,7 +22238,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S11b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -22291,7 +22291,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S12.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -22344,7 +22344,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S120.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -22397,7 +22397,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S121.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -22450,7 +22450,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S122.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -22503,7 +22503,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S123.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -22556,7 +22556,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S124.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -22609,7 +22609,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S125.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -22662,7 +22662,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S126.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -22715,7 +22715,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S127.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -22768,7 +22768,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S13.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -22821,7 +22821,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S14a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -22874,7 +22874,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S14b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -22927,7 +22927,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S15a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -22980,7 +22980,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S15b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -23033,7 +23033,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S15c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -23086,7 +23086,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S15d.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -23139,7 +23139,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S16.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -23192,7 +23192,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S17-500.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -23245,7 +23245,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S17.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -23298,7 +23298,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S18.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -23351,7 +23351,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S19.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -23404,7 +23404,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S1a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -23457,7 +23457,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S2.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -23510,7 +23510,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S20.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -23563,7 +23563,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S200.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -23616,7 +23616,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S21.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -23669,7 +23669,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S22.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -23722,7 +23722,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S220.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -23775,7 +23775,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S221.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -23828,7 +23828,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S221a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -23881,7 +23881,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S222.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -23934,7 +23934,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S222a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -23987,7 +23987,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S225.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -24040,7 +24040,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S22_100.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -24093,7 +24093,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S22_1000.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -24146,7 +24146,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S22_1200.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -24199,7 +24199,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S22_1300.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -24252,7 +24252,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S22_1500.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -24305,7 +24305,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S22_200.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -24358,7 +24358,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S22_300.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -24411,7 +24411,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S22_400.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -24464,7 +24464,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S22_50.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -24517,7 +24517,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S22_500.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -24570,7 +24570,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S22_600.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -24623,7 +24623,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S22_700.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -24676,7 +24676,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S22_800.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -24729,7 +24729,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S22_900.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -24782,7 +24782,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S23.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -24835,7 +24835,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S230.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -24888,7 +24888,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S230a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -24941,7 +24941,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S232.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -24994,7 +24994,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S232a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -25047,7 +25047,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S235.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -25100,7 +25100,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S235a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -25153,7 +25153,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S24.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -25206,7 +25206,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S242.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -25259,7 +25259,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S242a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -25312,7 +25312,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S25.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -25365,7 +25365,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S250.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -25418,7 +25418,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S260.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -25471,7 +25471,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S261.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -25524,7 +25524,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S263.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -25577,7 +25577,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S263a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -25630,7 +25630,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S264.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -25683,7 +25683,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S266.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -25736,7 +25736,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S266a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -25789,7 +25789,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S26a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -25842,7 +25842,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S26b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -25895,7 +25895,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S26c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -25948,7 +25948,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S27.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -26001,7 +26001,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S270.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -26054,7 +26054,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S271.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -26107,7 +26107,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S28.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -26160,7 +26160,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S29.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -26213,7 +26213,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S2a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -26266,7 +26266,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S3.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -26319,7 +26319,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S30.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -26372,7 +26372,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S300.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -26425,7 +26425,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S301.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -26478,7 +26478,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S31.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -26531,7 +26531,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S310.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -26584,7 +26584,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S32.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -26637,7 +26637,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S320.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -26690,7 +26690,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S321.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -26743,7 +26743,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S322.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -26796,7 +26796,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S33.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -26849,7 +26849,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S34.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -26902,7 +26902,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S341.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -26955,7 +26955,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S342.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -27008,7 +27008,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S344.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -27061,7 +27061,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S347.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -27114,7 +27114,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S34a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -27167,7 +27167,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S350.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -27220,7 +27220,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S351.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -27273,7 +27273,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S354.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -27326,7 +27326,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S355.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -27379,7 +27379,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S360.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -27432,7 +27432,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S362.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -27485,7 +27485,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S366.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -27538,7 +27538,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S368.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -27591,7 +27591,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S373.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -27644,7 +27644,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S375.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -27697,7 +27697,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S4.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -27750,7 +27750,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S400.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -27803,7 +27803,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S410.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -27856,7 +27856,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S420.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -27909,7 +27909,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S430.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -27962,7 +27962,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S440.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -28015,7 +28015,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S450.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -28068,7 +28068,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S5.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -28121,7 +28121,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S500.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -28174,7 +28174,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S50a-50.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -28227,7 +28227,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S50a-60.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -28280,7 +28280,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S50a-70.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -28333,7 +28333,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S50a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -28386,7 +28386,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S50b-60.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -28439,7 +28439,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S50b-70.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -28492,7 +28492,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S50b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -28545,7 +28545,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S50c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -28598,7 +28598,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S50d-50.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -28651,7 +28651,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S50d-60.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -28704,7 +28704,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S50d-70.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -28757,7 +28757,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S50d.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -28810,7 +28810,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S50e-50.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -28863,7 +28863,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S50e-60.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -28916,7 +28916,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S50e-70.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -28969,7 +28969,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S50e.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -29022,7 +29022,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S51.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -29075,7 +29075,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S510.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -29128,7 +29128,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S52.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -29181,7 +29181,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S520.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -29234,7 +29234,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S52a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -29287,7 +29287,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S52b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -29340,7 +29340,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S53.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -29393,7 +29393,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S53a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -29446,7 +29446,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S53b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -29499,7 +29499,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S53c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -29552,7 +29552,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S540.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -29605,7 +29605,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S550.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -29658,7 +29658,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S560.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -29711,7 +29711,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S570.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -29764,7 +29764,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S570a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -29817,7 +29817,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S571.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -29870,7 +29870,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S572.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -29923,7 +29923,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S572a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -29976,7 +29976,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S572n.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -30029,7 +30029,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S572r.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -30082,7 +30082,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S572v.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -30135,7 +30135,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S573.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -30188,7 +30188,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S574.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -30241,7 +30241,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S574a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -30294,7 +30294,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S574b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -30347,7 +30347,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S575.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -30400,7 +30400,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S575a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -30453,7 +30453,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S575n.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -30506,7 +30506,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S575v.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -30559,7 +30559,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S6.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -30612,7 +30612,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S600.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -30665,7 +30665,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S602.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -30718,7 +30718,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S60a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -30771,7 +30771,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S60b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -30824,7 +30824,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S610.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -30877,7 +30877,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S61a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -30930,7 +30930,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S61b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -30983,7 +30983,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S61b_(variant).svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -31036,7 +31036,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S62a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -31089,7 +31089,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S62b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -31142,7 +31142,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S62c.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -31195,7 +31195,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S63.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -31248,7 +31248,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S64a.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -31301,7 +31301,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S64b.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -31354,7 +31354,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S7.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -31407,7 +31407,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S700.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -31460,7 +31460,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S710.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -31513,7 +31513,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S720.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -31566,7 +31566,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S730.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -31619,7 +31619,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S740.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -31672,7 +31672,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S750.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -31725,7 +31725,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S760.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -31778,7 +31778,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S770.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -31831,7 +31831,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S7_10.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -31884,7 +31884,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S7_100.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -31937,7 +31937,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S7_20.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -31990,7 +31990,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S7_30.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -32043,7 +32043,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S7_40.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -32096,7 +32096,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S7_50.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -32149,7 +32149,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S7_60.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -32202,7 +32202,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S7_70.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -32255,7 +32255,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S7_80.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -32308,7 +32308,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S7_90.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -32361,7 +32361,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800-100.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -32414,7 +32414,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800-1000.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -32467,7 +32467,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800-1300.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -32520,7 +32520,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800-150.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -32573,7 +32573,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800-1500.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -32626,7 +32626,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800-1km.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -32679,7 +32679,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800-200.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -32732,7 +32732,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800-250.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -32785,7 +32785,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800-300.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -32838,7 +32838,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800-350.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -32891,7 +32891,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800-400.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -32944,7 +32944,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800-450.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -32997,7 +32997,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800-50.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -33050,7 +33050,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800-500.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -33103,7 +33103,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800-5km.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -33156,7 +33156,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800-600.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -33209,7 +33209,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800-700.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -33262,7 +33262,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800-800.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -33315,7 +33315,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800-900.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -33368,7 +33368,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S800.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -33421,7 +33421,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S810-100.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -33474,7 +33474,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S810-15km.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -33527,7 +33527,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S810-1km.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -33580,7 +33580,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S810-200.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -33633,7 +33633,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S810-25km.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -33686,7 +33686,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S810-2km.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -33739,7 +33739,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S810-350.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -33792,7 +33792,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S810-3500m.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -33845,7 +33845,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S810-35km.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -33898,7 +33898,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S810-3km.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -33951,7 +33951,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S810-425km.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -34004,7 +34004,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S810-4km.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -34057,7 +34057,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S810-5km.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -34110,7 +34110,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S810.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -34163,7 +34163,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S820.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -34216,7 +34216,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S821.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -34269,7 +34269,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S830.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -34322,7 +34322,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S840-1000m.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -34375,7 +34375,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S840-100m.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -34428,7 +34428,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S840-150m.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -34481,7 +34481,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S840-200m.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -34534,7 +34534,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S840-300m.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -34587,7 +34587,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S840-50m.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -34640,7 +34640,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S840-900m.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -34693,7 +34693,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S850.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -34746,7 +34746,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S851.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -34799,7 +34799,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S852.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -34852,7 +34852,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S853.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -34905,7 +34905,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S860-tow.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -34958,7 +34958,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S860.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -35011,7 +35011,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S860g.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -35064,7 +35064,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S870.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -35117,7 +35117,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S880-bicycle.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -35170,7 +35170,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S880-bus.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -35223,7 +35223,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S880-hgv.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -35276,7 +35276,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S880-truck.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -35329,7 +35329,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S890.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -35382,7 +35382,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S8_10.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -35435,7 +35435,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S8_100.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -35488,7 +35488,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S8_20.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -35541,7 +35541,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S8_30.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -35594,7 +35594,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S8_40.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -35647,7 +35647,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S8_50.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -35700,7 +35700,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S8_60.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -35753,7 +35753,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S8_70.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -35806,7 +35806,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S8_80.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -35859,7 +35859,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S8_90.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -35912,7 +35912,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S9.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -35965,7 +35965,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S900.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -36018,7 +36018,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S910.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -36071,7 +36071,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S920.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -36124,7 +36124,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S930.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -36177,7 +36177,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S940.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -36230,7 +36230,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S950.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -36283,7 +36283,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S960.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -36336,7 +36336,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S970.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -36389,7 +36389,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S980.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -36442,7 +36442,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S980l.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -36495,7 +36495,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S980r.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -36548,7 +36548,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S990.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -36601,7 +36601,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S990l.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -36654,7 +36654,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S990r.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -36707,7 +36707,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_TCA.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -36760,7 +36760,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_TCAF.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
@@ -36813,7 +36813,7 @@ image: new ol.style.Icon({
 src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_traffic_sign_dir.svg',
 rotation:0,
 rotateWithView: false,
-anchor: [1,0],
+anchor: [3,0],
 scale: 0.30
 }),
 text: new ol.style.Text({
