@@ -5640,7 +5640,7 @@ var styles = {
 'direction': {
 'forward':  new ol.style.Style({
 image: new ol.style.Icon({
-src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_S300.png'',
+src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_S300.png',
 rotation:0,
 rotateWithView: false,
 anchor: [1,0],
