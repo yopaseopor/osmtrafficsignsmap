@@ -221,57 +221,63 @@ return styles[key][regexp];
 return null;
 }
 },
+  
 {
-group: 'ES',
-title: 'ES:CAT:URB',
-query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
-iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
-iconStyle: 'background-color:rgba(255,255,255,0.4)',
-style: function (feature) {
-var name = feature.get('destination') || '';
-var styles = {
-'direction': {
-'forward':  new ol.style.Style({
-image: new ol.style.Icon({
-src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
-rotation:0,
-rotateWithView: false,
-anchor: [1,0],
-scale: 0.50
-}),
-text: new ol.style.Text({
-text: name,
-font: 'small-caps bold 10px/1 sans-serif',
-offsetX : 80,
-offsetY : -4,
-fill: new ol.style.Fill({
-color: 'rgba(0,0,0,1)'
-})
-})
-}),
-'backward':  new ol.style.Style({
-image: new ol.style.Icon({
-src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
-rotation:3.14,
-rotateWithView: false,
-anchor: [-1,0],
-scale: 0.50
-})
-})
-}
-};
-for (var key in styles) {
-var value = feature.get(key);
-if (value !== undefined) {
-for (var regexp in styles[key]) {
-if (new RegExp(regexp).test(value)) {
-return styles[key][regexp];
-}
-}
-}
-}
-return null;
-}
+			group: 'Test',
+			title: 'Biblioteca adaptada',
+			query: '(node["amenity"="library"]["wheelchair"="yes"]({{bbox}});node(w);way["amenity"="library"]["wheelchair"="yes"]({{bbox}});node(w);relation["amenity"="library"]["wheelchair"="yes"]({{bbox}});node(w););out meta;',
+			iconSrc: imgSrc + 'libraries/wheelchair_yes.svg',
+			iconStyle: 'background-color:#00FF00',
+			style: function (feature) {
+				var key_regex = /^name$/
+				var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
+				var name = feature.get(name_key) || '';
+				var key_regex2 = /^wheelchair$/
+				var name_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name2"
+				var name2 = feature.get(name_key2) || '';
+				var fill = new ol.style.Fill({
+					color: 'rgba(0,255,0,0.4)'
+				});
+
+				var stroke = new ol.style.Stroke({
+					color: '#00FF00',
+					width: 1.25
+				});
+				var style = new ol.style.Style({
+					image: new ol.style.Circle({
+						fill: fill,
+						stroke: stroke,
+						radius: 5
+					}),
+							text: new ol.style.Text({
+								text: name,
+								color: 'rgba(0,128,0,0.4)',
+								font: '10px Verdana',
+								offsetX : 0,
+								offsetY : 30
+							}),
+					fill: fill,
+					stroke: stroke
+				});
+				var style2 = new ol.style.Style({
+					image: new ol.style.Circle({
+						fill: fill,
+						stroke: stroke,
+						radius: 5
+					}),
+							text: new ol.style.Text({
+								text: 'Accessibilitat '+ name2,
+								color: 'rgba(0,128,0,0.4)',
+								font: '10px Arial',
+								offsetX : 0,
+								offsetY : 15
+							}),
+					fill: fill,
+					stroke: stroke
+				});
+				return [style, style2];
+			}
+
 },
 {
 group: 'ES',
