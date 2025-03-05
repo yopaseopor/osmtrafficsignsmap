@@ -281,7 +281,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
   
 {
 			group: 'Test',
-			title: 'ES_CAT_URB2',
+			title: 'ES_CAT_URB32',
 query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
 			iconStyle: 'background-color:#FFFFFF',
@@ -351,7 +351,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				});
 				var style4 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: 'ES/textures/content/black_slight_right_city.png',
+							src: 'ES/textures/content/black_right_city.png',
 							scale:0.50
 						}),
 							text: new ol.style.Text({
