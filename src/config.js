@@ -351,7 +351,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				});
 				var style4 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: 'ES/textures/content/black_right_city.png',
+							src: imgSrc + 'ES/textures/content/black_right_city.png',
 							scale:0.50
 						}),
 							text: new ol.style.Text({
