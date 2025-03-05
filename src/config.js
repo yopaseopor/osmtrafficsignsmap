@@ -332,14 +332,13 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var style3 = new ol.style.Style({
 					image: new ol.style.RegularShape({
 						radius: 20 / Math.SQRT2,
-      radius2: 20,
-      points: 4,
-      angle: 0,
-      scale: [1, 0.5],
+						  radius2: 20,
+						  points: 4,
+						  angle: 0,
+						  scale: [1, 0.5],
 						fill: fill,
 						stroke: stroke,
-						points: 4,
-					}),
+								}),
 							text: new ol.style.Text({
 								text: name3,
 								color: 'rgba(0,128,0,0.4)',
