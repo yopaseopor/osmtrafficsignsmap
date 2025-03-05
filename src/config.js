@@ -278,6 +278,63 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 			}
 
 },
+  
+{
+			group: 'Test',
+			title: 'ES_CAT_URB2',
+query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
+iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
+			iconStyle: 'background-color:#FFFFFF',
+			style: function (feature) {
+				var key_regex = /^destination$/
+				var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
+				var name = feature.get(name_key) || '';
+				var key_regex2 = /^destination:ref$/
+				var name_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name2"
+				var name2 = feature.get(name_key2) || '';
+				var fill = new ol.style.Fill({
+					color: 'rgba(0,255,0,0.4)'
+				});
+
+				var stroke = new ol.style.Stroke({
+					color: '#00FF00',
+					width: 1.25
+				});
+				var style = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.svg',
+							scale:0.50
+						}),
+							text: new ol.style.Text({
+								text: name,
+								color: 'rgba(0,128,0,0.4)',
+								font: '10px Verdana',
+								offsetX : 0,
+								offsetY : 30
+							}),
+					fill: fill,
+					stroke: stroke
+				});
+				var style2 = new ol.style.Style({
+					image: new ol.style.Circle({
+						fill: fill,
+						stroke: stroke,
+						radius: 5
+					}),
+							text: new ol.style.Text({
+								text: name2,
+								color: 'rgba(0,128,0,0.4)',
+								font: '10px Arial',
+								offsetX : 0,
+								offsetY : 15
+							}),
+					fill: fill,
+					stroke: stroke
+				});
+				return [style, style2];
+			}
+
+},
 {
 group: 'ES',
 title: 'ES:B1a',
