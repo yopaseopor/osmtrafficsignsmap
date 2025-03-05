@@ -281,7 +281,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
   
 {
 			group: 'Test',
-			title: 'ES_CAT_URB2',
+			title: 'ES_CAT_URB3',
 query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
 			iconStyle: 'background-color:#FFFFFF',
@@ -292,15 +292,24 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex2 = /^destination:ref$/
 				var name_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name2"
 				var name2 = feature.get(name_key2) || '';
-				var key_regex2 = /^colour:ref$/
-				var name_key3 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name3"
+				var key_regex3 = /^colour:ref$/
+				var name_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "name3"
 				var name3 = feature.get(name_key3) || '';
+				var key_regex4 = /^colour:back$/
+				var name_key4 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "name4"
+				var name4 = feature.get(name_key3) || '';
 				var canvas = document.createElement('canvas');
-canvas.width = 60;
-canvas.height = 20;
-var ctx = canvas.getContext('2d');
-ctx.fillStyle = name3;
-ctx.fillRect(0, 0, canvas.width, canvas.height);;
+				canvas.width = 60;
+				canvas.height = 20;
+				var ctx = canvas.getContext('2d');
+				ctx.fillStyle = name3;
+				ctx.fillRect(0, 0, canvas.width, canvas.height);;
+				var canvas2 = document.createElement('canvas2');
+				canvas2.width = 600;
+				canvas2.height = 20;
+				var ctx = canvas2.getContext('2d');
+				ctx.fillStyle = name4;
+				ctx.fillRect(0, 0, canvas.width, canvas.height);;
 
 
 				var fill = new ol.style.Fill({
@@ -339,8 +348,18 @@ ctx.fillRect(0, 0, canvas.width, canvas.height);;
 				});
 				var style3 = new ol.style.Style({
 					image: new ol.style.Icon({
-  img: canvas,
-  imgSize: [60, 20],
+					img: canvas,
+					imgSize: [60, 20],
+						fill: fill,
+						stroke: stroke,
+								}),
+					fill: fill,
+					stroke: stroke
+				});
+				var style4 = new ol.style.Style({
+					image: new ol.style.Icon({
+					img: canvas2,
+					imgSize: [600, 20],
 						fill: fill,
 						stroke: stroke,
 								}),
@@ -354,7 +373,7 @@ ctx.fillRect(0, 0, canvas.width, canvas.height);;
 					fill: fill,
 					stroke: stroke
 				});
-				return [style, style2, style3];
+				return [style, style2, style3, style4];
 			}
 
 },
