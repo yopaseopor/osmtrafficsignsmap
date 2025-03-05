@@ -224,7 +224,7 @@ return null;
   
 {
 			group: 'Test',
-			title: 'Biblioteca adaptada',
+			title: 'Biblioteca adaptad',
 query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});(._;>;); out meta;',
 			iconSrc: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_.png',
 			iconStyle: 'background-color:#00FF00',
