@@ -334,7 +334,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 						fill: fill,
 						stroke: stroke,
 						points: 4,
-						radius: 2
+						radius: 50
 					}),
 							text: new ol.style.Text({
 								text: name3,
