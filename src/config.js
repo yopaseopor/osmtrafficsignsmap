@@ -292,6 +292,9 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex2 = /^destination:ref$/
 				var name_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name2"
 				var name2 = feature.get(name_key2) || '';
+				var key_regex2 = /^colour:ref$/
+				var name_key3 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name3"
+				var name3 = feature.get(name_key3) || '';
 				var fill = new ol.style.Fill({
 					color: 'rgba(0,255,0,0.4)'
 				});
@@ -331,7 +334,23 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 					fill: fill,
 					stroke: stroke
 				});
-				return [style, style2];
+				var style3 = new ol.style.Style({
+					image: new ol.style.Circle({
+						fill: fill,
+						stroke: stroke,
+						radius: 5
+					}),
+							text: new ol.style.Text({
+								text: name3,
+								color: 'rgba(0,128,0,0.4)',
+								font: '10px Arial',
+								offsetX : 0,
+								offsetY : 15
+							}),
+					fill: fill,
+					stroke: stroke
+				});
+				return [style, style2, style3];
 			}
 
 },
