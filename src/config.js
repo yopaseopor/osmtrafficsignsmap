@@ -10,7 +10,7 @@ var config = {
 		lon: 1.59647,
 		lat: 41.69689,
 		rotation: 0, //in radians (positive rotation clockwise, 0 means North)
-		zoom: 15,
+		zoom: 8,
 		zoomGeolocation: 17,
 		units: 'metric'
 	},
@@ -221,7 +221,6 @@ return styles[key][regexp];
 return null;
 }
 },
-
 {
 group: 'ES',
 title: 'ES:CAT:URB2',
