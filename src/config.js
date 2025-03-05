@@ -229,7 +229,7 @@ query: '(nwr["traffic_sign"="ES:B2c"]({{bbox}});node(w););out meta;',
 			iconSrc: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_.png',
 			iconStyle: 'background-color:#00FF00',
 			style: function (feature) {
-				var key_regex = /^destination$/
+				var key_regex = /^direction$/
 				var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
 				var name = feature.get(name_key) || '';
 				var key_regex2 = /^wheelchair$/
