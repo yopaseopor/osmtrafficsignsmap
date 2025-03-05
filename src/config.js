@@ -284,7 +284,6 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 iconStyle: 'background-color:rgba(255,255,255,0.4)',
 style: function (feature) {
 var name = feature.get('destination') || '';
-var name2 = feature.get('destination:ref') || '';
 var styles = {
 			'direction': {
 			'forward':  new ol.style.Style({
