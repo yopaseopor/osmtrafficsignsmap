@@ -224,15 +224,15 @@ return null;
   
 {
 			group: 'Test',
-			title: 'ES:CAT:URB',
-			query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
-			iconSrc: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
+			title: 'Biblioteca adaptada',
+query: '(nwr["traffic_sign"="ES:B2c"]({{bbox}});node(w););out meta;',
+			iconSrc: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_.png',
 			iconStyle: 'background-color:#00FF00',
 			style: function (feature) {
-				var key_regex = /destination/
+				var key_regex = /^destination$/
 				var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
 				var name = feature.get(name_key) || '';
-				var key_regex2 = /destination:ref/
+				var key_regex2 = /^wheelchair$/
 				var name_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name2"
 				var name2 = feature.get(name_key2) || '';
 				var fill = new ol.style.Fill({
@@ -266,7 +266,7 @@ return null;
 						radius: 5
 					}),
 							text: new ol.style.Text({
-								text: 'Carretera '+ name2,
+								text: 'Accessibilitat '+ name2,
 								color: 'rgba(0,128,0,0.4)',
 								font: '10px Arial',
 								offsetX : 0,
