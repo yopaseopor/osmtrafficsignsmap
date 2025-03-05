@@ -296,7 +296,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var name_key3 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name3"
 				var name3 = feature.get(name_key3) || '';
 				var fill = new ol.style.Fill({
-					color: 'rgba(0,255,0,0.4)'
+					color: name3
 				});
 
 				var stroke = new ol.style.Stroke({
@@ -315,30 +315,26 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 								offsetX : 0,
 								offsetY : 30
 							}),
-					fill: fill,
+					
 					stroke: stroke
 				});
 				var style2 = new ol.style.Style({
-					image: new ol.style.Circle({
-						fill: fill,
-						stroke: stroke,
-						radius: 5
-					}),
-							text: new ol.style.Text({
+												text: new ol.style.Text({
 								text: name2,
 								color: 'rgba(0,128,0,0.4)',
 								font: '10px Arial',
 								offsetX : 0,
 								offsetY : 15
 							}),
-					fill: fill,
+					
 					stroke: stroke
 				});
 				var style3 = new ol.style.Style({
-					image: new ol.style.Circle({
+					image: new ol.style.RegularShape({
 						fill: fill,
 						stroke: stroke,
-						radius: 5
+						points: 4,
+						radius: 2
 					}),
 							text: new ol.style.Text({
 								text: name3,
