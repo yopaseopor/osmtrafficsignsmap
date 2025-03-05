@@ -299,7 +299,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 canvas.width = 60;
 canvas.height = 20;
 var ctx = canvas.getContext('2d');
-ctx.fillStyle = 'red';
+ctx.fillStyle = name3;
 ctx.fillRect(0, 0, canvas.width, canvas.height);;
 
 
