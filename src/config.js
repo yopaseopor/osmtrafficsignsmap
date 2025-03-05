@@ -225,7 +225,7 @@ return null;
 
 {
 group: 'ES',
-title: 'ES:CAT:URB2',
+title: 'ES:CAT:URB',
 query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
 iconStyle: 'background-color:rgba(255,255,255,0.4)',
@@ -278,67 +278,42 @@ return null;
 
 {
 group: 'Test',
-title: 'ES:CAT:URB2',
+title: 'ES:CAT:URB',
 query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
 iconStyle: 'background-color:rgba(255,255,255,0.4)',
 style: function (feature) {
 var name = feature.get('destination') || '';
 var styles = {
-			'direction': {
-			'forward':  new ol.style.Style({
-											image: new ol.style.Icon({
-																	src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
-																	rotation:0,
-																	rotateWithView: false,
-																	anchor: [1,0],
-																	scale: 0.50
-																	}),
-											text: new ol.style.Text({
-																	text: name,
-																	font: 'small-caps bold 10px/1 sans-serif',
-																	offsetX : 80,
-																	offsetY : -4,
-																	fill: new ol.style.Fill({
-																							color: 'rgba(0,0,0,1)'
-																							})
-																	})
-											}),
-			'backward':  new ol.style.Style({
-											image: new ol.style.Icon({
-																	src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
-																	rotation:3.14,
-																	rotateWithView: false,
-																	anchor: [-1,0],
-																	scale: 0.50
-																	})
-											})
-			},
-					'destination:ref': {
-						'.*': new ol.style.Style({
-							image: new ol.style.Icon({
-							src: imgSrc + 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.png',
-							offsetX : 7,
-							offsetY : -13,
-							scale:0.07
-						}),
-							text: new ol.style.Text({
-								text: name2,
-								offsetX : 7,
-								offsetY : -13,
-								fill: new ol.style.Fill({
-                            color: 'rgba(0,0,0,1)'
-                        }),
-						}),
-							stroke: new ol.style.Stroke({
-								color: 'rgba(170, 170, 170, 1.0)',
-								width: 1
-							}),
-							fill: new ol.style.Fill({
-								color: 'rgba(170, 170, 170, 0.3)'
-							})
-						})
-					}
+'direction': {
+'forward':  new ol.style.Style({
+image: new ol.style.Icon({
+src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
+rotation:0,
+rotateWithView: false,
+anchor: [1,0],
+scale: 0.50
+}),
+text: new ol.style.Text({
+text: name,
+font: 'small-caps bold 10px/1 sans-serif',
+offsetX : 80,
+offsetY : -4,
+fill: new ol.style.Fill({
+color: 'rgba(0,0,0,1)'
+})
+})
+}),
+'backward':  new ol.style.Style({
+image: new ol.style.Icon({
+src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
+rotation:3.14,
+rotateWithView: false,
+anchor: [-1,0],
+scale: 0.50
+})
+})
+}
 };
 for (var key in styles) {
 var value = feature.get(key);
