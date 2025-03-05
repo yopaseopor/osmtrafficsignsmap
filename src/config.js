@@ -295,7 +295,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex3 = /^colour:ref$/
 				var name_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "name3"
 				var name3 = feature.get(name_key3) || '';
-				var key_regex4 = /^colour:back$/
+				var key_regex4 = /^turn:destination$/
 				var name_key4 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "name4"
 				var name4 = feature.get(name_key3) || '';
 				var canvas = document.createElement('canvas');
@@ -303,16 +303,8 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				canvas.height = 20;
 				var ctx = canvas.getContext('2d');
 				ctx.fillStyle = name3;
-				ctx.fillRect(0, 0, canvas.width, canvas.height);
-				var canvas2 = document.createElement('canvas2');
-				canvas2.width = 300;
-				canvas2.height = 50;
-				var ctx2 = canvas2.getContext('3d');
-				ctx2.fillStyle = name4;
-				ctx2.fillRect(0, 0, canvas2.width, canvas2.height);;
+				ctx.fillRect(0, 0, canvas.width, canvas.height);;
 				
-
-
 				var fill = new ol.style.Fill({
 					color: name3
 				});
@@ -359,19 +351,17 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				});
 				var style4 = new ol.style.Style({
 					image: new ol.style.Icon({
-					img: canvas2,
-					imgSize: [100, 20],
-						fill: fill,
-						stroke: stroke,
-								}),
+							src: 'ES/textures/content/black_slight_right_city.png',
+							scale:0.50
+						}),
 							text: new ol.style.Text({
-								text: name3,
+								text: name4,
 								color: 'rgba(0,128,0,0.4)',
-								font: '10px Arial',
+								font: '10px Verdana',
 								offsetX : 0,
-								offsetY : 15
+								offsetY : 30
 							}),
-					fill: fill,
+					
 					stroke: stroke
 				});
 				return [style, style2, style3, style4];
