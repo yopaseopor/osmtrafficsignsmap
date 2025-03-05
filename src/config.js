@@ -281,7 +281,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
   
 {
 			group: 'Test',
-			title: 'ES_CAT_URB3',
+			title: 'ES_CAT_URB2',
 query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
 			iconStyle: 'background-color:#FFFFFF',
@@ -295,6 +295,17 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex2 = /^colour:ref$/
 				var name_key3 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name3"
 				var name3 = feature.get(name_key3) || '';
+				var canvas = document.createElement('canvas');
+canvas.width = 60;
+canvas.height = 20;
+var ctx = canvas.getContext('2d');
+ctx.fillStyle = 'red';
+ctx.fillRect(0, 0, canvas.width, canvas.height);;
+
+var imageStyle = new ol.style.Icon({
+  img: canvas,
+  imgSize: [60, 20]
+});
 				var fill = new ol.style.Fill({
 					color: name3
 				});
@@ -331,8 +342,8 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				});
 				var style3 = new ol.style.Style({
 					image: new ol.style.RegularShape({
-						radius: 50 / Math.SQRT2,
-						  radius2: 10,
+						radius: 20 / Math.SQRT2,
+						  radius2: 20,
 						  points: 4,
 						  angle: 0,
 						  scale: [1, 0.5],
