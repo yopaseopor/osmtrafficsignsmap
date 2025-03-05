@@ -308,8 +308,8 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				canvas2.width = 600;
 				canvas2.height = 20;
 				var ctx2 = canvas2.getContext('2d');
-				ctx.fillStyle2 = name4;
-				ctx.fillRect2(0, 0, canvas2.width, canvas2.height);;
+				ctx2.fillStyle2 = name4;
+				ctx2.fillRect2(0, 0, canvas2.width, canvas2.height);;
 
 
 				var fill = new ol.style.Fill({
