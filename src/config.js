@@ -275,7 +275,7 @@ return null;
 },
 {
 group: 'Test',
-title: 'ES:CAT:URB4',
+title: 'ES:CAT:URB3',
 query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
 iconStyle: 'background-color:rgba(255,255,255,0.4)',
@@ -308,15 +308,6 @@ style: function (feature) {
 																									rotateWithView: false,
 																									anchor: [-1,0],
 																									scale: 0.50
-																									}),
-																			text: new ol.style.Text({
-																									text: name,
-																									font: 'small-caps bold 10px/1 sans-serif',
-																									offsetX : 80,
-																									offsetY : -4,
-																									fill: new ol.style.Fill({
-																															color: 'rgba(0,0,0,1)'
-																															})
 																									})
 																				})
 												}
