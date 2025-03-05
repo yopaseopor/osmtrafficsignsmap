@@ -302,10 +302,7 @@ var ctx = canvas.getContext('2d');
 ctx.fillStyle = 'red';
 ctx.fillRect(0, 0, canvas.width, canvas.height);;
 
-var imageStyle = new ol.style.Icon({
-  img: canvas,
-  imgSize: [60, 20]
-});
+
 				var fill = new ol.style.Fill({
 					color: name3
 				});
@@ -341,12 +338,9 @@ var imageStyle = new ol.style.Icon({
 					stroke: stroke
 				});
 				var style3 = new ol.style.Style({
-					image: new ol.style.RegularShape({
-						radius: 20 / Math.SQRT2,
-						  radius2: 20,
-						  points: 4,
-						  angle: 0,
-						  scale: [1, 0.5],
+					image: new ol.style.Icon({
+  img: canvas,
+  imgSize: [60, 20],
 						fill: fill,
 						stroke: stroke,
 								}),
