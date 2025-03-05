@@ -225,14 +225,14 @@ return null;
 {
 			group: 'Test',
 			title: 'Biblioteca adaptada',
-			query: '(node["amenity"="library"]["wheelchair"="yes"]({{bbox}});node(w);way["amenity"="library"]["wheelchair"="yes"]({{bbox}});node(w);relation["amenity"="library"]["wheelchair"="yes"]({{bbox}});node(w););out meta;',
+			query: '(node["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
 			iconSrc: imgSrc + 'libraries/wheelchair_yes.svg',
 			iconStyle: 'background-color:#00FF00',
 			style: function (feature) {
-				var key_regex = /^name$/
+				var key_regex = /^destination$/
 				var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
 				var name = feature.get(name_key) || '';
-				var key_regex2 = /^wheelchair$/
+				var key_regex2 = /^destination:ref$/
 				var name_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name2"
 				var name2 = feature.get(name_key2) || '';
 				var fill = new ol.style.Fill({
@@ -266,7 +266,7 @@ return null;
 						radius: 5
 					}),
 							text: new ol.style.Text({
-								text: 'Accessibilitat '+ name2,
+								text: 'Carretera '+ name2,
 								color: 'rgba(0,128,0,0.4)',
 								font: '10px Arial',
 								offsetX : 0,
