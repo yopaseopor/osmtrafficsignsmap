@@ -281,7 +281,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
   
 {
 			group: 'Test',
-			title: 'ES_CAT_URB32',
+			title: 'ES_CAT_URB3',
 query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
 			iconStyle: 'background-color:#FFFFFF',
@@ -297,7 +297,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var name3 = feature.get(name_key3) || '';
 				var key_regex4 = /^turn:destination$/
 				var name_key4 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "name4"
-				var name4 = feature.get(name_key3) || '';
+				var name4 = feature.get(name_key4) || '';
 				var canvas = document.createElement('canvas');
 				canvas.width = 60;
 				canvas.height = 20;
@@ -351,7 +351,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				});
 				var style4 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/black_right_city.png',
+							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
 							scale:0.50
 						}),
 							text: new ol.style.Text({
