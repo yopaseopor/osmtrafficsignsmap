@@ -307,7 +307,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var canvas2 = document.createElement('canvas2');
 				canvas2.width = 300;
 				canvas2.height = 50;
-				var ctx2 = canvas2.getContext('2d');
+				var ctx2 = canvas2.getContext('3d');
 				ctx2.fillStyle = name4;
 				ctx2.fillRect(0, 0, canvas2.width, canvas2.height);;
 				
