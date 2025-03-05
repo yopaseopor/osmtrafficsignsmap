@@ -225,7 +225,7 @@ return null;
 {
 			group: 'Test',
 			title: 'Biblioteca adaptada',
-query: '(nwr["traffic_sign"="ES:B2c"]({{bbox}});node(w););out meta;',
+query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
 			iconSrc: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_.png',
 			iconStyle: 'background-color:#00FF00',
 			style: function (feature) {
