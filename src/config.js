@@ -331,8 +331,8 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				});
 				var style3 = new ol.style.Style({
 					image: new ol.style.RegularShape({
-						radius: 10 / Math.SQRT2,
-      radius2: 10,
+						radius: 20 / Math.SQRT2,
+      radius2: 20,
       points: 4,
       angle: 0,
       scale: [1, 0.5],
