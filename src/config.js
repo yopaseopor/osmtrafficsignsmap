@@ -224,9 +224,9 @@ return null;
   
 {
 			group: 'Test',
-			title: 'Biblioteca adaptada',
+			title: 'ES:CAT:URB',
 			query: '(node["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
-			iconSrc: imgSrc + 'libraries/wheelchair_yes.svg',
+			iconSrc: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_.png',
 			iconStyle: 'background-color:#00FF00',
 			style: function (feature) {
 				var key_regex = /^destination$/
