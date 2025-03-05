@@ -331,6 +331,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				});
 				var style3 = new ol.style.Style({
 					image: new ol.style.RegularShape({
+						rotation: 1.60,
 						fill: fill,
 						stroke: stroke,
 						points: 4,
