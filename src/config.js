@@ -639,7 +639,7 @@ canvas2.width = 100;
 canvas2.height = 25;
 var ctx2 = canvas2.getContext('2d');
 ctx2.fillStyle = 'white';
-ctx2.fillRect(30, 0, canvas2.width, canvas2.height);
+ctx2.fillRect(300, 0, canvas2.width, canvas2.height);
 document.body.appendChild(canvas2);
 				
 				var fill = new ol.style.Fill({
