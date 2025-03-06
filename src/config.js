@@ -696,7 +696,7 @@ document.body.appendChild(canvas2);
 				var style5 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas2,
-					imgSize: [60, 20],
+					imgSize: [200, 150],
 						fill: fill,
 						stroke: stroke,
 								}),
