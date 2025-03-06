@@ -608,7 +608,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
   
 {
 			group: 'Test',
-			title: 'ES_CAT_URB331',
+			title: 'ES_CAT_URB332',
 query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
 			iconStyle: 'background-color:#FFFFFF',
@@ -639,7 +639,7 @@ canvas2.width = 100;
 canvas2.height = 25;
 var ctx2 = canvas2.getContext('2d');
 ctx2.fillStyle = 'white';
-ctx2.fillRect(300, 0, canvas2.width, canvas2.height);
+ctx2.fillRect(100, 0, canvas2.width, canvas2.height);
 document.body.appendChild(canvas2);
 				
 				var fill = new ol.style.Fill({
