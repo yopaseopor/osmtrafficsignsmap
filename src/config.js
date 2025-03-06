@@ -632,6 +632,23 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				ctx.fillStyle = name3;
 				ctx.fillRect(0, 0, canvas.width, canvas.height);;
 				
+				
+				var canvas = document.createElement('canvas');
+canvas.width = 60;
+canvas.height = 20;
+var ctx = canvas.getContext('2d');
+ctx.fillStyle = name3;
+ctx.fillRect(0, 0, canvas.width, canvas.height);
+document.body.appendChild(canvas);
+
+var canvas2 = document.createElement('canvas2');
+canvas2.width = 200;
+canvas2.height = 150;
+var ctx2 = canvas2.getContext('2d');
+ctx2.fillStyle = name3;
+ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
+document.body.appendChild(canvas2);
+				
 				var fill = new ol.style.Fill({
 					color: name3
 				});
@@ -676,6 +693,16 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 					fill: fill,
 					stroke: stroke
 				});
+				var style5 = new ol.style.Style({
+					image: new ol.style.Icon({
+					img: canvas2,
+					imgSize: [60, 20],
+						fill: fill,
+						stroke: stroke,
+								}),
+					fill: fill,
+					stroke: stroke
+				});
 				var style4 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
@@ -691,7 +718,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 					
 					stroke: stroke
 				});
-				return [style, style2, style3, style4];
+				return [style, style2, style3, style4, style5];
 			}
 
 },
