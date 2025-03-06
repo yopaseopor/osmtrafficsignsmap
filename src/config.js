@@ -285,7 +285,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 query: '(nwr["direction"="forward"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
 			style: function (feature) {
-				var name = feature.get('name') || '';
+				var name = feature.get('direction') || '';
 				var styles = {
 					'amenity': {
 						'parking': new ol.style.Style({
