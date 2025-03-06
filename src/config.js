@@ -699,7 +699,7 @@ document.body.appendChild(canvas2);
 				var style5 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
-							displacement:[10,20],
+							displacement:[100,0],
 							offsetX : -500,
 							offsetY : 0,
 							scale:0.20
