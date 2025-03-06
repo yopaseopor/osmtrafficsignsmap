@@ -429,7 +429,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 
 		{
 			group: 'Test',
-			title: 'ES_CAT_URB5',
+			title: 'ES_CAT_URB6',
 query: '(nwr["direction"="forward"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
 			style: function (feature) {
@@ -522,7 +522,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 							})
 						})
 					},
-					'destination:ref': {
+					'destination:ref2': {
 						'.*': new ol.style.Style({
 							zIndex: 100,
 							stroke: new ol.style.Stroke({
