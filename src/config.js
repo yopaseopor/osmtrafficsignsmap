@@ -627,16 +627,16 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var name3 = feature.get(name_key3) || '';
 				
 				var canvas = document.createElement('canvas');
-canvas.width = 60;
-canvas.height = 20;
+canvas.width = 30;
+canvas.height = 10;
 var ctx = canvas.getContext('2d');
 ctx.fillStyle = name3;
 ctx.fillRect(0, 0, canvas.width, canvas.height);
 document.body.appendChild(canvas);
 
 var canvas2 = document.createElement('canvas');
-canvas2.width = 200;
-canvas2.height = 25;
+canvas2.width = 100;
+canvas2.height = 12;
 var ctx2 = canvas2.getContext('2d');
 ctx2.fillStyle = 'white';
 ctx2.fillRect(40, 0, canvas2.width, canvas2.height);
@@ -679,7 +679,7 @@ document.body.appendChild(canvas2);
 				var style5 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas,
-					imgSize: [60, 20],
+					imgSize: [30, 10],
 						fill: fill,
 						stroke: stroke,
 								}),
@@ -689,7 +689,7 @@ document.body.appendChild(canvas2);
 				var style3 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas2,
-					imgSize: [200, 25],
+					imgSize: [100, 12],
 						fill: fill,
 						stroke: stroke,
 								}),
@@ -706,7 +706,8 @@ document.body.appendChild(canvas2);
 								color: 'rgba(0,128,0,0.4)',
 								font: '10px Verdana',
 								offsetX : 0,
-								offsetY : 30
+								offsetY : 30,
+								scale:0.50
 							}),
 					
 					stroke: stroke
