@@ -625,13 +625,6 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex3 = /^colour:ref$/
 				var name_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "name3"
 				var name3 = feature.get(name_key3) || '';
-				var canvas = document.createElement('canvas');
-				canvas.width = 60;
-				canvas.height = 20;
-				var ctx = canvas.getContext('2d');
-				ctx.fillStyle = name3;
-				ctx.fillRect(0, 0, canvas.width, canvas.height);;
-				
 				
 				var canvas = document.createElement('canvas');
 canvas.width = 60;
@@ -646,7 +639,7 @@ canvas2.width = 100;
 canvas2.height = 25;
 var ctx2 = canvas2.getContext('2d');
 ctx2.fillStyle = 'white';
-ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
+ctx2.fillRect(30, 0, canvas2.width, canvas2.height);
 document.body.appendChild(canvas2);
 				
 				var fill = new ol.style.Fill({
