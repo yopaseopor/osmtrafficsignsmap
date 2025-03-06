@@ -671,7 +671,7 @@ document.body.appendChild(canvas2);
 								color: 'rgba(0,128,0,0.4)',
 								font: '10px Arial',
 								offsetX : 0,
-								offsetY : 30
+								offsetY : 0
 							}),
 					
 					stroke: stroke
