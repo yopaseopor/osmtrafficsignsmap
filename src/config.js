@@ -642,8 +642,8 @@ ctx.fillRect(0, 0, canvas.width, canvas.height);
 document.body.appendChild(canvas);
 
 var canvas2 = document.createElement('canvas');
-canvas2.width = 200;
-canvas2.height = 150;
+canvas2.width = 100;
+canvas2.height = 25;
 var ctx2 = canvas2.getContext('2d');
 ctx2.fillStyle = 'white';
 ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
@@ -696,9 +696,9 @@ document.body.appendChild(canvas2);
 				var style5 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas2,
-					imgSize: [200, 150],
+					imgSize: [100, 25],
 					offsetX : 30,
-							offsetY : -200,
+					offsetY : -200,
 						fill: fill,
 						stroke: stroke,
 								}),
