@@ -607,7 +607,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 		},
   
 {
-			group: 'Test',
+			group: 'ES',
 			title: 'ES_CAT_URB334',
 query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
@@ -699,7 +699,9 @@ document.body.appendChild(canvas2);
 				var style5 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
-							scale:0.40
+							offsetX : 7,
+							offsetY : 0,
+							scale:0.30
 						}),
 							text: new ol.style.Text({
 								text: name4,
