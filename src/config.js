@@ -665,7 +665,7 @@ document.body.appendChild(canvas2);
 					
 					stroke: stroke
 				});
-				var style2 = new ol.style.Style({
+				var style4 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: name2,
 								color: 'rgba(0,128,0,0.4)',
@@ -696,7 +696,7 @@ document.body.appendChild(canvas2);
 					fill: fill,
 					stroke: stroke
 				});
-				var style4 = new ol.style.Style({
+				var style2 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
 							scale:0.10
