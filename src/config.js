@@ -651,11 +651,7 @@ document.body.appendChild(canvas2);
 					width: 1.25
 				});
 				var style = new ol.style.Style({
-					image: new ol.style.Icon({
-							src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.svg',
-							scale:0.50
-						}),
-							text: new ol.style.Text({
+					text: new ol.style.Text({
 								text: name,
 								color: 'rgba(0,128,0,0.4)',
 								font: '10px Verdana',
@@ -714,7 +710,7 @@ document.body.appendChild(canvas2);
 					
 					stroke: stroke
 				});
-				return [style2, style4, style3, style5];
+				return [style, style2, style4, style3, style5];
 			}
 
 },
