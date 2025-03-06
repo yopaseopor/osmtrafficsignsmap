@@ -676,7 +676,7 @@ document.body.appendChild(canvas2);
 					
 					stroke: stroke
 				});
-				var style5 = new ol.style.Style({
+				var style2 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas,
 					imgSize: [40, 15],
@@ -696,7 +696,7 @@ document.body.appendChild(canvas2);
 					fill: fill,
 					stroke: stroke
 				});
-				var style2 = new ol.style.Style({
+				var style5 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
 							scale:0.50
