@@ -502,7 +502,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 							})
 						})
 					},
-					'building': {
+					'destination': {
 						'.*': new ol.style.Style({
 							zIndex: 100,
 							stroke: new ol.style.Stroke({
@@ -513,7 +513,11 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 								color: 'rgba(246, 99, 79, 0.3)'
 							}),
 							text: new ol.style.Text({
-								text: name
+								text: name,
+								color: 'rgba(0,128,0,0.4)',
+								font: '10px Verdana',
+								offsetX : 0,
+								offsetY : 30
 							})
 						})
 					},
