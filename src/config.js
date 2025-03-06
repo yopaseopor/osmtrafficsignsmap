@@ -281,11 +281,12 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 
 		{
 			group: 'Test',
-			title: 'ES_CAT_URB1',
+			title: 'ES_CAT_URB11',
 query: '(nwr["direction"="forward"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
 			style: function (feature) {
-				var name = feature.get('destination') || '';
+				var name = feature.get('destination') || ''
+				var name2 = feature.get('destination:ref') || '';
 				var styles = {
 					'amenity': {
 						'parking': new ol.style.Style({
@@ -354,7 +355,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 							})
 						})
 					},
-					'building': {
+					'destination:ref': {
 						'.*': new ol.style.Style({
 							zIndex: 100,
 							stroke: new ol.style.Stroke({
@@ -365,7 +366,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 								color: 'rgba(246, 99, 79, 0.3)'
 							}),
 							text: new ol.style.Text({
-								text: name
+								text: name2
 							})
 						})
 					},
