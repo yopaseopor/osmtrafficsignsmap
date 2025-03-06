@@ -635,7 +635,7 @@ ctx.fillRect(0, 0, canvas.width, canvas.height);
 document.body.appendChild(canvas);
 
 var canvas2 = document.createElement('canvas');
-canvas2.width = 150;
+canvas2.width = 200;
 canvas2.height = 20;
 var ctx2 = canvas2.getContext('2d');
 ctx2.fillStyle = 'white';
@@ -689,7 +689,7 @@ document.body.appendChild(canvas2);
 				var style3 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas2,
-					imgSize: [150, 20],
+					imgSize: [200, 20],
 						fill: fill,
 						stroke: stroke,
 								}),
@@ -699,7 +699,7 @@ document.body.appendChild(canvas2);
 				var style4 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
-							scale:0.50
+							scale:0.10
 						}),
 							text: new ol.style.Text({
 								text: name4,
@@ -707,7 +707,7 @@ document.body.appendChild(canvas2);
 								font: '10px Verdana',
 								offsetX : 0,
 								offsetY : 30,
-								scale:0.50
+								scale:1.0
 							}),
 					
 					stroke: stroke
