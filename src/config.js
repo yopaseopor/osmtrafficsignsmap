@@ -650,7 +650,7 @@ document.body.appendChild(canvas2);
 					color: '#00FF00',
 					width: 1.25
 				});
-				var style = new ol.style.Style({
+				var style5 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.svg',
 							scale:0.50
@@ -696,7 +696,7 @@ document.body.appendChild(canvas2);
 					fill: fill,
 					stroke: stroke
 				});
-				var style5 = new ol.style.Style({
+				var style = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
 							scale:0.50
