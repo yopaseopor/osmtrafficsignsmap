@@ -608,7 +608,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
   
 {
 			group: 'ES',
-			title: 'ES_CAT_URB1',
+			title: 'ES_CAT_URB',
 query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
 			iconStyle: 'background-color:#FFFFFF',
@@ -671,7 +671,7 @@ document.body.appendChild(canvas2);
 								color: 'rgba(0,128,0,0.4)',
 								font: '10px Arial',
 								offsetX : 0,
-								offsetY : 15
+								offsetY : 30
 							}),
 					
 					stroke: stroke
@@ -699,7 +699,7 @@ document.body.appendChild(canvas2);
 				var style5 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
-							displacement:[30,0],
+							displacement:[50,0],
 							offsetX : 0,
 							offsetY : 0,
 							scale:0.20
