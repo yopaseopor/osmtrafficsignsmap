@@ -655,7 +655,7 @@ document.body.appendChild(canvas2);
 								text: name,
 								color: 'rgba(0,128,0,0.4)',
 								font: '10px Verdana',
-								offsetX : 30,
+								offsetX : 50,
 								offsetY : 0
 							}),
 					
@@ -695,7 +695,7 @@ document.body.appendChild(canvas2);
 				var style5 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
-							displacement:[-100,0],
+							displacement:[-50,0],
 							offset:[0,0],
 							scale:0.20
 						}),
