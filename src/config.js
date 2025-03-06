@@ -291,7 +291,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 						'parking': new ol.style.Style({
 							image: new ol.style.Icon({
 						scale: 0.4,
-						src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.png'
+						src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.png'
 						}),
 							stroke: new ol.style.Stroke({
 								color: 'rgba(170, 170, 170, 1.0)',
@@ -306,7 +306,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 						'ES:R1': new ol.style.Style({
 							image: new ol.style.Icon({
 						scale: 0.4,
-						src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.png'
+						src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R1.png'
 						}),
 							stroke: new ol.style.Stroke({
 								color: 'rgba(170, 170, 170, 1.0)',
@@ -318,10 +318,10 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 						})
 										},
 					'traffic_sign': {
-						'ES:R3': new ol.style.Style({
+						'ES:R2': new ol.style.Style({
 							image: new ol.style.Icon({
 						scale: 0.4,
-						src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R1.png'
+						src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.png'
 						}),
 							stroke: new ol.style.Stroke({
 								color: 'rgba(170, 170, 170, 1.0)',
@@ -331,10 +331,10 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 								color: 'rgba(170, 170, 170, 0.3)'
 							})
 						}),
-						'ES:R2': new ol.style.Style({
+						'ES:S13': new ol.style.Style({
 							image: new ol.style.Icon({
 						scale: 0.4,
-						src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.png'
+						src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S13.png'
 						}),
 							stroke: new ol.style.Stroke({
 								color: 'rgba(170, 170, 170, 1.0)',
