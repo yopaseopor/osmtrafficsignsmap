@@ -281,9 +281,9 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 
 		{
 			group: 'Test',
-			title: 'Senyals Barcelona (Opendata Ajuntament BCN - NO OSM)',
-			iconSrc: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.png',
-			geojson: 'https://raw.githubusercontent.com/osm-catalan/osmcatmap/master/src/img/base/2021_06_27_senyals_transit_bcn.geojson',
+			title: 'ES_CAT_URB1',
+query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
+iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
 			style: function (feature) {
 				var name = feature.get('name') || '';
 				var styles = {
