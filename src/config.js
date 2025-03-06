@@ -282,7 +282,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 		{
 			group: 'Test',
 			title: 'ES_CAT_URB1',
-query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
+query: '(nwr["direction"="forward"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
 			style: function (feature) {
 				var name = feature.get('name') || '';
