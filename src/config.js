@@ -608,7 +608,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
   
 {
 			group: 'ES',
-			title: 'ES_CAT_URB6',
+			title: 'ES_CAT_URB7',
 query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
 			iconStyle: 'background-color:#FFFFFF',
@@ -678,9 +678,7 @@ document.body.appendChild(canvas2);
 					imgSize: [50, 15],
 					anchor: [0.5, 46],
 					anchorXUnits: 'fraction',
-					anchorYUnits: 'pixels',
-						fill: fill,
-						stroke: stroke,
+					anchorYUnits: 'pixels'
 								}),
 					fill: fill,
 					stroke: stroke
