@@ -667,8 +667,8 @@ document.body.appendChild(canvas2);
 								text: name2,
 								color: 'rgba(0,128,0,0.4)',
 								font: '10px Arial',
-								textAlign:'left',
-								offsetX : 0,
+								textAlign:'center',
+								offsetX : 10,
 								offsetY : 7
 							}),
 					
