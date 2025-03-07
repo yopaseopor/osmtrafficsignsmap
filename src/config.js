@@ -666,9 +666,9 @@ document.body.appendChild(canvas2);
 												text: new ol.style.Text({
 								text: name2,
 								color: 'rgba(0,128,0,0.4)',
-								font: '10px Arial',
+								font: 'bold 10px Arial',
 								textAlign:'center',
-								offsetX : 20,
+								offsetX : -10,
 								offsetY : 7
 							}),
 					
