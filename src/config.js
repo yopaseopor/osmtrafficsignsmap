@@ -620,13 +620,13 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var name_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name2"
 				var name2 = feature.get(name_key2) || '';
 				var key_regex4 = /^turn:destination$/
-				var name_key4 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "name4"
+				var name_key4 = feature.getKeys().filter(function(t){return t.match(key_regex4)}).pop() || "name4"
 				var name4 = feature.get(name_key4) || '';
 				var key_regex3 = /^colour:ref$/
 				var name_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "name3"
 				var name3 = feature.get(name_key3) || '';
 				var key_regex5 = /^destination:symbol$/
-				var name_key5 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name5"
+				var name_key5 = feature.getKeys().filter(function(t){return t.match(key_regex5)}).pop() || "name5"
 				var name5 = feature.get(name_key5) || '';
 				
 				var canvas = document.createElement('canvas');
