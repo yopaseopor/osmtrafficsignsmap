@@ -665,11 +665,13 @@ document.body.appendChild(canvas2);
 				var style2 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: name2,
-								color: 'rgba(0,128,0,0.4)',
-								font: 'bold 10px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
-								offsetX : -10,
-								offsetY : 7
+								offsetX : -8,
+								offsetY : 7,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
 							}),
 					
 					stroke: stroke
