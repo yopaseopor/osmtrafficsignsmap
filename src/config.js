@@ -690,7 +690,6 @@ document.body.appendChild(canvas2);
 					anchor: [60, 3],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
-
 								}),
 					fill: fill,
 					stroke: stroke
@@ -706,7 +705,7 @@ document.body.appendChild(canvas2);
 								font: '10px Verdana',
 								anchor: [30, 0],
 								anchorXUnits: 'pixels',
-								anchorYUnits: 'pixels'
+								anchorYUnits: 'pixels',
 								scale:1.0
 							}),
 					
