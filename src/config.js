@@ -625,6 +625,9 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex3 = /^colour:ref$/
 				var name_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "name3"
 				var name3 = feature.get(name_key3) || '';
+				var key_regex5 = /^destination:symbol$/
+				var name_key5 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name5"
+				var name5 = feature.get(name_key5) || '';
 				
 				var canvas = document.createElement('canvas');
 canvas.width = 50;
@@ -709,7 +712,18 @@ document.body.appendChild(canvas2);
 												
 					stroke: stroke
 				});
-				return [style, style2, style4, style3, style5];
+				var style6 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_black_'+ name5 +'.png',
+							anchor: [-60, 0],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.20
+						}),
+												
+					stroke: stroke
+				});
+				return [style, style2, style4, style3, style5, style6];
 			}
 
 },
