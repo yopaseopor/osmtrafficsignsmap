@@ -677,6 +677,8 @@ document.body.appendChild(canvas2);
 					img: canvas,
 					imgSize: [50, 15],
 					anchor: [0.5, 46],
+					anchorXUnits: 'fraction',
+					anchorYUnits: 'pixels',
 						fill: fill,
 						stroke: stroke,
 								}),
