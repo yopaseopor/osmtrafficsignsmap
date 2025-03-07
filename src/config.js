@@ -678,7 +678,7 @@ document.body.appendChild(canvas2);
 					image: new ol.style.Icon({
 					img: canvas,
 					imgSize: [50, 15],
-					anchor: [30, 0],
+					anchor: [50, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -699,7 +699,7 @@ document.body.appendChild(canvas2);
 				var style5 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
-							anchor: [30, 0],
+							anchor: [50, 0],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:0.20
