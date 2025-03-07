@@ -699,18 +699,12 @@ document.body.appendChild(canvas2);
 				var style5 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
-							scale:0.20
-						}),
-							text: new ol.style.Text({
-								text: name4,
-								color: 'rgba(0,128,0,0.4)',
-								font: '10px Verdana',
-								anchor: [30, 0],
+							anchor: [30, 0],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
-								scale:1.0
-							}),
-					
+							scale:0.20
+						}),
+												
 					stroke: stroke
 				});
 				return [style, style2, style4, style3, style5];
