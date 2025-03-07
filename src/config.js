@@ -631,7 +631,7 @@ canvas.width = 50;
 canvas.height = 15;
 var ctx = canvas.getContext('2d');
 ctx.fillStyle = name3;
-ctx.fillRect(-10, 0, canvas.width, canvas.height);
+ctx.fillRect(-30, 0, canvas.width, canvas.height);
 document.body.appendChild(canvas);
 
 var canvas2 = document.createElement('canvas');
