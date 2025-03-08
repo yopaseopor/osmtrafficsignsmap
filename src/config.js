@@ -735,7 +735,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							imgSize: [300, 20],
 					anchor: [-1200, 0],
 					anchorXUnits: 'pixels',
-					anchorYUnits: 'pixels'
+					anchorYUnits: 'pixels',
 							scale:0.30
 						}),
 												
