@@ -702,7 +702,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style5 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
-							anchor: [300, 0],
+							anchor: [280, 0],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:0.20
