@@ -750,7 +750,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 			group: 'ES',
 			title: 'ES_S200',
 query: '(nwr["traffic_sign"="ES:S200"]({{bbox}});node(w););out meta;',
-iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
+iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S200.png',
 			iconStyle: 'background-color:#FFFFFF',
 			style: function (feature) {
 				var key_regex = /^destination$/
@@ -871,7 +871,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style7 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/ES_CAT_URB_empty.svg',
+							src: imgSrc + 'ES/textures/ES_S200.svg',
 							imgSize: [602, 80],
 					anchor: [0, 0],
 					anchorXUnits: 'pixels',
