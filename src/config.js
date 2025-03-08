@@ -784,7 +784,7 @@ ctx.fillRect(0, 0, canvas.width, canvas.height);
 
 var canvas2 = document.createElement('canvas');
 canvas2.width = 300;
-canvas2.height = 250;
+canvas2.height = 200;
 var ctx2 = canvas2.getContext('2d');
 ctx2.fillStyle = word6;
 ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
@@ -839,7 +839,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style4 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas2,
-					imgSize: [300, 250],
+					imgSize: [300, 200],
 					anchor: [60, 3],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
