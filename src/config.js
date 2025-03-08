@@ -753,44 +753,44 @@ query: '(nwr["traffic_sign:id"="ES:S200"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S200.png',
 			iconStyle: 'background-color:#FFFFFF',
 			style: function (feature) {
-				var key_regex = /^destination$/
-				var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
-				var name = feature.get(name_key) || '';
-				var key_regex2 = /^destination:ref$/
-				var name_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name2"
-				var name2 = feature.get(name_key2) || '';
-				var key_regex4 = /^turn:destination$/
-				var name_key4 = feature.getKeys().filter(function(t){return t.match(key_regex4)}).pop() || "name4"
-				var name4 = feature.get(name_key4) || '';
-				var key_regex3 = /^colour:ref$/
-				var name_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "name3"
-				var name3 = feature.get(name_key3) || '';
+				var key_regex = /^destination:through$/
+				var word_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "word"
+				var word = feature.get(word_key) || '';
+				var key_regex2 = /^destination:ref:through$/
+				var word_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word2"
+				var word2 = feature.get(word_key2) || '';
+				var key_regex3 = /^colour:ref:through$/
+				var word_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "word3"
+				var word3 = feature.get(word_key3) || '';
+				var key_regex4 = /^through$/
+				var word_key4 = feature.getKeys().filter(function(t){return t.match(key_regex4)}).pop() || "word4"
+				var word4 = feature.get(word_key4) || '';
 				var key_regex5 = /^destination:symbol$/
-				var name_key5 = feature.getKeys().filter(function(t){return t.match(key_regex5)}).pop() || "name5"
-				var name5 = feature.get(name_key5) || '';
-				var key_regex6 = /^colour:back$/
-				var name_key6 = feature.getKeys().filter(function(t){return t.match(key_regex6)}).pop() || "name6"
-				var name6 = feature.get(name_key6) || '';
-				var key_regex7 = /^colour:text$/
-				var name_key7 = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "name7"
-				var name7 = feature.get(name_key7) || '';
+				var word_key5 = feature.getKeys().filter(function(t){return t.match(key_regex5)}).pop() || "word5"
+				var word5 = feature.get(word_key5) || '';
+				var key_regex6 = /^colour:back:through$/
+				var word_key6 = feature.getKeys().filter(function(t){return t.match(key_regex6)}).pop() || "word6"
+				var word6 = feature.get(word_key6) || '';
+				var key_regex7 = /^colour:text:through$/
+				var word_key7 = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "word7"
+				var word7 = feature.get(word_key7) || '';
 				
 				var canvas = document.createElement('canvas');
 canvas.width = 50;
 canvas.height = 15;
 var ctx = canvas.getContext('2d');
-ctx.fillStyle = name3;
+ctx.fillStyle = word3;
 ctx.fillRect(0, 0, canvas.width, canvas.height);
 
 var canvas2 = document.createElement('canvas');
-canvas2.width = 600;
-canvas2.height = 600;
+canvas2.width = 300;
+canvas2.height = 250;
 var ctx2 = canvas2.getContext('2d');
-ctx2.fillStyle = name6;
+ctx2.fillStyle = word6;
 ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				
 				var fill = new ol.style.Fill({
-					color: name3
+					color: word3
 				});
 
 				var stroke = new ol.style.Stroke({
@@ -799,13 +799,13 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style = new ol.style.Style({
 					text: new ol.style.Text({
-								text: name,
+								text: word,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 20,
 								offsetY : 7,
 								fill: new ol.style.Fill({
-                            color: name7
+                            color: word7
                         }),
 							}),
 					
@@ -813,7 +813,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style2 = new ol.style.Style({
 												text: new ol.style.Text({
-								text: name2,
+								text: word2,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : -6,
@@ -839,7 +839,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style4 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas2,
-					imgSize: [600, 600],
+					imgSize: [300, 250],
 					anchor: [60, 3],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
@@ -849,7 +849,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style5 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
+							src: imgSrc + 'ES/textures/content/black_'+ word4 +'_city.png',
 							anchor: [280, 0],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -860,7 +860,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style6 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/sign_black_'+ name5 +'.png',
+							src: imgSrc + 'ES/textures/content/sign_black_'+ word5 +'.png',
 							anchor: [-1150, 0],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
