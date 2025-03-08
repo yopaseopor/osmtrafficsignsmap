@@ -628,6 +628,12 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex5 = /^destination:symbol$/
 				var name_key5 = feature.getKeys().filter(function(t){return t.match(key_regex5)}).pop() || "name5"
 				var name5 = feature.get(name_key5) || '';
+				var key_regex6 = /^colour:back$/
+				var name_key6 = feature.getKeys().filter(function(t){return t.match(key_regex6)}).pop() || "name6"
+				var name6 = feature.get(name_key6) || '';
+				var key_regex7 = /^colour:text$/
+				var name_key7 = feature.getKeys().filter(function(t){return t.match(key_regex6)}).pop() || "name7"
+				var name7 = feature.get(name_key7) || '';
 				
 				var canvas = document.createElement('canvas');
 canvas.width = 50;
@@ -640,7 +646,7 @@ var canvas2 = document.createElement('canvas');
 canvas2.width = 300;
 canvas2.height = 20;
 var ctx2 = canvas2.getContext('2d');
-ctx2.fillStyle = 'white';
+ctx2.fillStyle = name6;
 ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				
 				var fill = new ol.style.Fill({
@@ -654,11 +660,13 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style = new ol.style.Style({
 					text: new ol.style.Text({
 								text: name,
-								color: 'rgba(0,128,0,0.4)',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 20,
-								offsetY : 7
+								offsetY : 7,
+								fill: new ol.style.Fill({
+                            color: name7
+                        }),
 							}),
 					
 					stroke: stroke
@@ -713,7 +721,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style6 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_black_'+ name5 +'.png',
-							anchor: [-1200, 0],
+							anchor: [-1180, 0],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:0.15
@@ -721,7 +729,19 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 												
 					stroke: stroke
 				});
-				return [style, style2, style4, style3, style5, style6];
+				var style7 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/rectangle_small_white.png',
+							imgSize: [300, 20],
+					anchor: [-1200, 0],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+							scale:0.30
+						}),
+												
+					stroke: stroke
+				});
+				return [style, style2, style4, style3, style5, style6, style7];
 			}
 
 },
