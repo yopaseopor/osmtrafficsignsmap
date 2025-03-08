@@ -774,6 +774,9 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex7 = /^colour:text:through$/
 				var word_key7 = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "word7"
 				var word7 = feature.get(word_key7) || '';
+				var key_regex8 = /^colour:back$/
+				var word_key8 = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "word8"
+				var word8 = feature.get(word_key8) || '';
 				
 				var canvas = document.createElement('canvas');
 canvas.width = 50;
@@ -786,7 +789,7 @@ var canvas2 = document.createElement('canvas');
 canvas2.width = 300;
 canvas2.height = 200;
 var ctx2 = canvas2.getContext('2d');
-ctx2.fillStyle = word6;
+ctx2.fillStyle = word8;
 ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				
 				var fill = new ol.style.Fill({
