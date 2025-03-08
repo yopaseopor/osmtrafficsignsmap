@@ -732,8 +732,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style7 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/rectangle_small_white.png',
-							imgSize: [1000, 100],
-					anchor: [250, -30],
+							imgSize: [1200, 100],
+					anchor: [250, -100],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels',
 							scale:0.30
