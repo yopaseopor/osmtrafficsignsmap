@@ -736,7 +736,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					anchor: [0, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels',
-							scale:1
+							scale:0.50
 						}),
 												
 					stroke: stroke
