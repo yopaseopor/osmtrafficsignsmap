@@ -839,7 +839,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style4 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas2,
-					imgSize: [300, 20],
+					imgSize: [600, 600],
 					anchor: [60, 3],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
@@ -872,7 +872,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style7 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/ES_S200.svg',
-							imgSize: [602, 80],
+							imgSize: [500, 225],
 					anchor: [0, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels',
