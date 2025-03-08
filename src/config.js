@@ -744,6 +744,146 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				return [style, style2, style7, style4, style3, style5, style6];
 			}
 
+		},
+  
+{
+			group: 'ES',
+			title: 'ES_S200',
+query: '(nwr["traffic_sign"="ES:S200"]({{bbox}});node(w););out meta;',
+iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
+			iconStyle: 'background-color:#FFFFFF',
+			style: function (feature) {
+				var key_regex = /^destination$/
+				var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
+				var name = feature.get(name_key) || '';
+				var key_regex2 = /^destination:ref$/
+				var name_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name2"
+				var name2 = feature.get(name_key2) || '';
+				var key_regex4 = /^turn:destination$/
+				var name_key4 = feature.getKeys().filter(function(t){return t.match(key_regex4)}).pop() || "name4"
+				var name4 = feature.get(name_key4) || '';
+				var key_regex3 = /^colour:ref$/
+				var name_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "name3"
+				var name3 = feature.get(name_key3) || '';
+				var key_regex5 = /^destination:symbol$/
+				var name_key5 = feature.getKeys().filter(function(t){return t.match(key_regex5)}).pop() || "name5"
+				var name5 = feature.get(name_key5) || '';
+				var key_regex6 = /^colour:back$/
+				var name_key6 = feature.getKeys().filter(function(t){return t.match(key_regex6)}).pop() || "name6"
+				var name6 = feature.get(name_key6) || '';
+				var key_regex7 = /^colour:text$/
+				var name_key7 = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "name7"
+				var name7 = feature.get(name_key7) || '';
+				
+				var canvas = document.createElement('canvas');
+canvas.width = 50;
+canvas.height = 15;
+var ctx = canvas.getContext('2d');
+ctx.fillStyle = name3;
+ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+var canvas2 = document.createElement('canvas');
+canvas2.width = 600;
+canvas2.height = 600;
+var ctx2 = canvas2.getContext('2d');
+ctx2.fillStyle = name6;
+ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
+				
+				var fill = new ol.style.Fill({
+					color: name3
+				});
+
+				var stroke = new ol.style.Stroke({
+					color: '#00FF00',
+					width: 1.25
+				});
+				var style = new ol.style.Style({
+					text: new ol.style.Text({
+								text: name,
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 20,
+								offsetY : 7,
+								fill: new ol.style.Fill({
+                            color: name7
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style2 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: name2,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : -6,
+								offsetY : 9,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style3 = new ol.style.Style({
+					image: new ol.style.Icon({
+					img: canvas,
+					imgSize: [50, 15],
+					anchor: [30, 0],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					fill: fill,
+					stroke: stroke
+				});
+				var style4 = new ol.style.Style({
+					image: new ol.style.Icon({
+					img: canvas2,
+					imgSize: [300, 20],
+					anchor: [60, 3],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					fill: fill,
+					stroke: stroke
+				});
+				var style5 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
+							anchor: [280, 0],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.20
+						}),
+												
+					stroke: stroke
+				});
+				var style6 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_black_'+ name5 +'.png',
+							anchor: [-1150, 0],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+				});
+				var style7 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/ES_CAT_URB_empty.svg',
+							imgSize: [602, 80],
+					anchor: [0, 0],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels',
+							scale:0.50
+						}),
+												
+					stroke: stroke
+				});
+				return [style, style2, style7, style4, style3, style5, style6];
+			}
+
 },
 {
 group: 'ES',
