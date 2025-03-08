@@ -657,7 +657,7 @@ document.body.appendChild(canvas2);
 					text: new ol.style.Text({
 								text: name,
 								color: 'rgba(0,128,0,0.4)',
-								font: '10px Verdana',
+								font: 'bold 12px Verdana',
 								textAlign:'left',
 								offsetX : 40,
 								offsetY : 7
@@ -668,7 +668,7 @@ document.body.appendChild(canvas2);
 				var style2 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: name2,
-								font: 'bolder 10px Arial',
+								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : -8,
 								offsetY : 7,
