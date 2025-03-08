@@ -632,7 +632,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var name_key6 = feature.getKeys().filter(function(t){return t.match(key_regex6)}).pop() || "name6"
 				var name6 = feature.get(name_key6) || '';
 				var key_regex7 = /^colour:text$/
-				var name_key7 = feature.getKeys().filter(function(t){return t.match(key_regex6)}).pop() || "name7"
+				var name_key7 = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "name7"
 				var name7 = feature.get(name_key7) || '';
 				
 				var canvas = document.createElement('canvas');
@@ -736,7 +736,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					anchor: [-1200, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels',
-							scale:0.30
+							scale:1
 						}),
 												
 					stroke: stroke
