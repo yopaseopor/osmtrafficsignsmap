@@ -731,12 +731,12 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style7 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/rectangle_small_white.png',
-							imgSize: [1500, 100],
-					anchor: [250, 100],
+							src: imgSrc + 'ES/textures/content/ES_CAT_URB_empty.svg',
+							imgSize: [602, 80],
+					anchor: [0, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels',
-							scale:0.45
+							scale:1
 						}),
 												
 					stroke: stroke
