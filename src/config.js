@@ -659,7 +659,7 @@ document.body.appendChild(canvas2);
 								color: 'rgba(0,128,0,0.4)',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 60,
+								offsetX : 20,
 								offsetY : 7
 							}),
 					
