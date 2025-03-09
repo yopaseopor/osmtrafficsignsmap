@@ -511,13 +511,7 @@ return null;
 				ctx3.fillStyle = name8;
 				ctx3.fillRect(0, 0, canvas3.width, canvas3.height);
 				
-				var canvas4 = document.createElement('canvas');
-				canvas4.width = 50;
-				canvas4.height = 15;
-				var ctx4 = canvas4.getContext('2d');
-				ctx4.fillStyle = name10;
-				ctx4.fillRect(0, 0, canvas4.width, canvas4.height);
-				
+
 				/*var fill = new ol.style.Fill({
 					color: name3
 				});*/
@@ -612,7 +606,7 @@ return null;
 				});
 				var style10 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/sign_black_'+ name5 +'.png',
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name10 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
 					anchor: [-90, 0],
