@@ -612,7 +612,7 @@ return null;
 				});
 				var style10 = new ol.style.Style({
 					image: new ol.style.Icon({
-					src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
+					img: canvas4,
 					imgSize: [50, 15],
 					rotateWithView: false,
 					anchor: [-90, 0],
