@@ -486,6 +486,8 @@ return null;
 				var key_regex10 = /^colour:ref:3$/
 				var name_key10 = feature.getKeys().filter(function(t){return t.match(key_regex10)}).pop() || "name10"
 				var name10 = feature.get(name_key10) || '';
+				name10 = name10 ? name10 : undefined; // Si name10 está vacío, asigna undefined
+				console.log(name10);
 				var key_regex11 = /^destination:ref:3$/
 				var name_key11 = feature.getKeys().filter(function(t){return t.match(key_regex9)}).pop() || "name11"
 				var name11 = feature.get(name_key11) || '';
@@ -511,12 +513,10 @@ return null;
 				ctx3.fillStyle = name8;
 				ctx3.fillRect(0, 0, canvas3.width, canvas3.height);
 				
-				if (name10) { // Solo ejecutar si name10 tiene valor
     var canvas4 = document.createElement('canvas');
     canvas4.width = 50;
     canvas4.height = 15;
     var ctx4 = canvas4.getContext('2d');
-
     ctx4.fillStyle = name10;
     ctx4.fillRect(0, 0, canvas4.width, canvas4.height);
 
@@ -534,7 +534,7 @@ return null;
     });
 
     // Aquí puedes aplicar style10 a la característica si es necesario
-}
+
 				
 				/*var fill = new ol.style.Fill({
 					color: name3
