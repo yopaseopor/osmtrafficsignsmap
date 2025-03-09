@@ -540,7 +540,7 @@ return null;
 								text: name9,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 40,
+								offsetX : 80,
 								offsetY : 9,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
@@ -555,7 +555,7 @@ return null;
 								text: name11,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 80,
+								offsetX : 160,
 								offsetY : 9,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
