@@ -675,9 +675,9 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				ctx4.fillStyle = name10;
 				ctx4.fillRect(0, 0, canvas4.width, canvas4.height);
 				
-				var fill = new ol.style.Fill({
+				/*var fill = new ol.style.Fill({
 					color: name3
-				});
+				});*/
 
 				var stroke = new ol.style.Stroke({
 					color: '#00FF00',
