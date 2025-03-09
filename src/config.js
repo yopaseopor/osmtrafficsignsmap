@@ -760,7 +760,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 					img: canvas3,
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [60, 0],
+					anchor: [-40, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -772,7 +772,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 					img: canvas4,
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [90, 0],
+					anchor: [-90, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
