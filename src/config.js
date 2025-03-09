@@ -513,12 +513,15 @@ return null;
 				ctx3.fillStyle = name8;
 				ctx3.fillRect(0, 0, canvas3.width, canvas3.height);
 				
+    if (name10 !== undefined) { // Solo ejecutar si name10 tiene un valor válido
     var canvas4 = document.createElement('canvas');
     canvas4.width = 50;
     canvas4.height = 15;
     var ctx4 = canvas4.getContext('2d');
+
     ctx4.fillStyle = name10;
     ctx4.fillRect(0, 0, canvas4.width, canvas4.height);
+}
 
     var style10 = new ol.style.Style({
         image: new ol.style.Icon({
