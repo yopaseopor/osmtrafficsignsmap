@@ -490,18 +490,7 @@ return null;
 				var name_key11 = feature.getKeys().filter(function(t){return t.match(key_regex9)}).pop() || "name11"
 				var name11 = feature.get(name_key11) || '';
 				
-				var style10 = new ol.style.Style({
-        image: new ol.style.Icon({
-            src: imgSrc + 'ES/textures/content/rectangle_small_'+ name10 +'.png',
-            imgSize: [50, 15],
-            rotateWithView: false,
-            anchor: [-90, 0],
-            anchorXUnits: 'pixels',
-            anchorYUnits: 'pixels'
-        }),
-        /*fill: fill,*/
-        stroke: stroke
-    });
+
 
     // Aquí puedes aplicar style10 a la característica si es necesario
 
