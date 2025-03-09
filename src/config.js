@@ -609,8 +609,8 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 {
 			group: 'ES',
 			title: 'ES_CAT_URB',
-query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
-iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
+			query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
+			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
 			iconStyle: 'background-color:#FFFFFF',
 			style: function (feature) {
 				var key_regex = /^destination$/
@@ -636,18 +636,18 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var name7 = feature.get(name_key7) || '';
 				
 				var canvas = document.createElement('canvas');
-canvas.width = 50;
-canvas.height = 15;
-var ctx = canvas.getContext('2d');
-ctx.fillStyle = name3;
-ctx.fillRect(0, 0, canvas.width, canvas.height);
+				canvas.width = 50;
+				canvas.height = 15;
+				var ctx = canvas.getContext('2d');
+				ctx.fillStyle = name3;
+				ctx.fillRect(0, 0, canvas.width, canvas.height);
 
-var canvas2 = document.createElement('canvas');
-canvas2.width = 300;
-canvas2.height = 20;
-var ctx2 = canvas2.getContext('2d');
-ctx2.fillStyle = name6;
-ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
+				var canvas2 = document.createElement('canvas');
+				canvas2.width = 300;
+				canvas2.height = 20;
+				var ctx2 = canvas2.getContext('2d');
+				ctx2.fillStyle = name6;
+				ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				
 				var fill = new ol.style.Fill({
 					color: name3
@@ -736,7 +736,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					anchor: [120, 30],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels',
-							scale:0.50
+							scale:0.70
 						}),
 												
 					stroke: stroke
