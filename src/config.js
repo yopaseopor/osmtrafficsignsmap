@@ -450,7 +450,7 @@ return null;
 },
   
 {
-			group: 'ES',
+			group: 'Test',
 			title: 'ES_CAT_URB',
 			query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
 			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
@@ -588,7 +588,7 @@ return null;
 				});
 				var style3 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
+					img: canvas2,
 					imgSize: [50, 15],
 					rotateWithView: false,
 					anchor: [30, 0],
@@ -600,7 +600,7 @@ return null;
 				});
 				var style8 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
+					img: canvas3,
 					imgSize: [50, 15],
 					rotateWithView: false,
 					anchor: [-40, 0],
@@ -612,7 +612,7 @@ return null;
 				});
 				var style10 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
+					img: canvas4,
 					imgSize: [50, 15],
 					rotateWithView: false,
 					anchor: [-90, 0],
@@ -623,13 +623,13 @@ return null;
 					stroke: stroke
 				});
 				var style4 = new ol.style.Style({
-							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
+					image: new ol.style.Icon({
+					img: canvas,
 					imgSize: [310, 20],
 					rotateWithView: false,
 					anchor: [60, 3],
 					anchorXUnits: 'pixels',
-					anchorYUnits: 'pixels',
-					scale:0.15
+					anchorYUnits: 'pixels'
 								}),
 					/*fill: fill,*/
 					stroke: stroke
@@ -674,7 +674,7 @@ return null;
 				return [style, style2, style9, style11, style7, style4, style3, style8, style10, style5, style6];
 			}
 
-		},
+},
   
 {
 			group: 'ES',
