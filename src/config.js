@@ -225,390 +225,6 @@ return null;
 {
 			group: 'Test',
 			title: 'ES_CAT_URB',
-query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
-iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
-			iconStyle: 'background-color:#FFFFFF',
-			style: function (feature) {
-				var key_regex = /^destination$/
-				var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
-				var name = feature.get(name_key) || '';
-				var key_regex2 = /^destination:ref$/
-				var name_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name2"
-				var name2 = feature.get(name_key2) || '';
-				var fill = new ol.style.Fill({
-					color: 'rgba(0,255,0,0.4)'
-				});
-
-				var stroke = new ol.style.Stroke({
-					color: '#00FF00',
-					width: 1.25
-				});
-				var style = new ol.style.Style({
-					image: new ol.style.Icon({
-							src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.svg',
-							scale:0.50
-						}),
-							text: new ol.style.Text({
-								text: name,
-								color: 'rgba(0,128,0,0.4)',
-								font: '10px Verdana',
-								offsetX : 0,
-								offsetY : 30
-							}),
-					fill: fill,
-					stroke: stroke
-				});
-				var style2 = new ol.style.Style({
-					image: new ol.style.Circle({
-						fill: fill,
-						stroke: stroke,
-						radius: 5
-					}),
-							text: new ol.style.Text({
-								text: name2,
-								color: 'rgba(0,128,0,0.4)',
-								font: '10px Arial',
-								offsetX : 0,
-								offsetY : 15
-							}),
-					fill: fill,
-					stroke: stroke
-				});
-				return [style, style2];
-			}
-
-},  
-
-		{
-			group: 'Test',
-			title: 'ES_CAT_URB16',
-query: '(nwr["direction"="forward"]({{bbox}});node(w););out meta;',
-iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
-			style: function (feature) {
-				var key_regex = /^destination$/
-				var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
-				var name = feature.get(name_key) || ''
-				var key_regex2 = /^destination:ref$/
-				var name_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name2"
-				var name2 = feature.get(name_key2) || '';
-				var styles = {
-					'amenity': {
-						'parking': new ol.style.Style({
-							image: new ol.style.Icon({
-						scale: 0.4,
-						src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.png'
-						}),
-							stroke: new ol.style.Stroke({
-								color: 'rgba(170, 170, 170, 1.0)',
-								width: 1
-							}),
-							fill: new ol.style.Fill({
-								color: 'rgba(170, 170, 170, 0.3)'
-							})
-						})
-					},
-					'traffic_sign': {
-						'ES:R1': new ol.style.Style({
-							image: new ol.style.Icon({
-						scale: 0.4,
-						src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R1.png'
-						}),
-							stroke: new ol.style.Stroke({
-								color: 'rgba(170, 170, 170, 1.0)',
-								width: 1
-							}),
-							fill: new ol.style.Fill({
-								color: 'rgba(170, 170, 170, 0.3)'
-							})
-						})
-										},
-					'traffic_sign': {
-						'ES:R2': new ol.style.Style({
-							image: new ol.style.Icon({
-						scale: 0.4,
-						src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.png'
-						}),
-							stroke: new ol.style.Stroke({
-								color: 'rgba(170, 170, 170, 1.0)',
-								width: 1
-							}),
-							fill: new ol.style.Fill({
-								color: 'rgba(170, 170, 170, 0.3)'
-							})
-						}),
-						'ES:S13': new ol.style.Style({
-							image: new ol.style.Icon({
-						scale: 0.4,
-						src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S13.png'
-						}),
-							stroke: new ol.style.Stroke({
-								color: 'rgba(170, 170, 170, 1.0)',
-								width: 1
-							}),
-							fill: new ol.style.Fill({
-								color: 'rgba(170, 170, 170, 0.3)'
-							})
-						}),
-						'.*': new ol.style.Style({
-							stroke: new ol.style.Stroke({
-								color: 'rgba(255, 255, 255, 1.0)',
-								width: 3
-							}),
-							text: new ol.style.Text({
-								text: name
-							})
-						})
-					},
-					'destination:ref': {
-						'.*': new ol.style.Style({
-							zIndex: 100,
-							stroke: new ol.style.Stroke({
-								color: 'rgba(246, 99, 79, 1.0)',
-								width: 1
-							}),
-							fill: new ol.style.Fill({
-								color: 'rgba(246, 99, 79, 0.3)'
-							}),
-							text: new ol.style.Text({
-								text: name2,
-								offsetX : 7,
-								offsetY : -10
-							})
-						})
-					},
-					'highway': {
-						'service': new ol.style.Style({
-							stroke: new ol.style.Stroke({
-								color: 'rgba(255, 255, 255, 1.0)',
-								width: 2
-							}),
-							text: new ol.style.Text({
-								text: name,
-								placement: 'line'
-							})
-						}),
-						'.*': new ol.style.Style({
-							stroke: new ol.style.Stroke({
-								color: 'rgba(255, 255, 255, 1.0)',
-								width: 3
-							}),
-							text: new ol.style.Text({
-								text: name
-							})
-						})
-					},
-					'landuse': {
-						'forest|grass|allotments': new ol.style.Style({
-							stroke: new ol.style.Stroke({
-								color: 'rgba(140, 208, 95, 1.0)',
-								width: 1
-							}),
-							fill: new ol.style.Fill({
-								color: 'rgba(140, 208, 95, 0.3)'
-							})
-						})
-					},
-					'natural': {
-						'tree': new ol.style.Style({
-							image: new ol.style.Circle({
-								radius: 2,
-								fill: new ol.style.Fill({
-									color: 'rgba(140, 208, 95, 1.0)'
-								}),
-								stroke: null
-							})
-						})
-					}
-				};
-				for (var key in styles) {
-					var value = feature.get(key);
-					if (value !== undefined) {
-						for (var regexp in styles[key]) {
-							if (new RegExp(regexp).test(value)) {
-								return styles[key][regexp];
-							}
-						}
-					}
-				}
-				return null;
-			} 
-},  
-
-		{
-			group: 'Test',
-			title: 'ES_CAT_URB6',
-query: '(nwr["direction"="forward"]({{bbox}});node(w););out meta;',
-iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
-			style: function (feature) {
-				var name = feature.get('destination') || '';
-				var name2 = feature.get('destination:ref') || '';
-				var styles = {
-					'amenity': {
-						'parking': new ol.style.Style({
-							image: new ol.style.Icon({
-						scale: 0.4,
-						src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_P1.png'
-						}),
-							stroke: new ol.style.Stroke({
-								color: 'rgba(170, 170, 170, 1.0)',
-								width: 1
-							}),
-							fill: new ol.style.Fill({
-								color: 'rgba(170, 170, 170, 0.3)'
-							})
-						})
-					},
-					'traffic_sign': {
-						'ES:R1': new ol.style.Style({
-							image: new ol.style.Icon({
-						scale: 0.4,
-						src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R1.png'
-						}),
-							stroke: new ol.style.Stroke({
-								color: 'rgba(170, 170, 170, 1.0)',
-								width: 1
-							}),
-							fill: new ol.style.Fill({
-								color: 'rgba(170, 170, 170, 0.3)'
-							})
-						})
-										},
-					'traffic_sign': {
-						'ES:R2': new ol.style.Style({
-							image: new ol.style.Icon({
-						scale: 0.4,
-						src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_R2.png'
-						}),
-							stroke: new ol.style.Stroke({
-								color: 'rgba(170, 170, 170, 1.0)',
-								width: 1
-							}),
-							fill: new ol.style.Fill({
-								color: 'rgba(170, 170, 170, 0.3)'
-							})
-						}),
-						'ES:CAT:URB': new ol.style.Style({
-							image: new ol.style.Icon({
-						scale: 0.4,
-						src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png'
-						}),
-							stroke: new ol.style.Stroke({
-								color: 'rgba(170, 170, 170, 1.0)',
-								width: 1
-							}),
-							fill: new ol.style.Fill({
-								color: 'rgba(170, 170, 170, 0.3)'
-							})
-						}),
-						'.*': new ol.style.Style({
-							stroke: new ol.style.Stroke({
-								color: 'rgba(255, 255, 255, 1.0)',
-								width: 3
-							}),
-							text: new ol.style.Text({
-								text: name
-							})
-						})
-					},
-					'destination': {
-						'.*': new ol.style.Style({
-							zIndex: 100,
-							stroke: new ol.style.Stroke({
-								color: 'rgba(246, 99, 79, 1.0)',
-								width: 1
-							}),
-							fill: new ol.style.Fill({
-								color: 'rgba(246, 99, 79, 0.3)'
-							}),
-							text: new ol.style.Text({
-								text: name,
-								color: 'rgba(0,128,0,0.4)',
-								font: '10px Verdana',
-								offsetX : 0,
-								offsetY : 30
-							})
-						})
-					},
-					'destination:ref2': {
-						'.*': new ol.style.Style({
-							zIndex: 100,
-							stroke: new ol.style.Stroke({
-								color: 'rgba(246, 99, 79, 1.0)',
-								width: 1
-							}),
-							fill: new ol.style.Fill({
-								color: 'rgba(246, 99, 79, 0.3)'
-							}),
-							text: new ol.style.Text({
-								text: name2,
-								color: 'rgba(0,128,0,0.4)',
-								font: '10px Verdana',
-								offsetX : 0,
-								offsetY : 30
-							})
-						})
-					},
-					'highway': {
-						'service': new ol.style.Style({
-							stroke: new ol.style.Stroke({
-								color: 'rgba(255, 255, 255, 1.0)',
-								width: 2
-							}),
-							text: new ol.style.Text({
-								text: name,
-								placement: 'line'
-							})
-						}),
-						'.*': new ol.style.Style({
-							stroke: new ol.style.Stroke({
-								color: 'rgba(255, 255, 255, 1.0)',
-								width: 3
-							}),
-							text: new ol.style.Text({
-								text: name
-							})
-						})
-					},
-					'landuse': {
-						'forest|grass|allotments': new ol.style.Style({
-							stroke: new ol.style.Stroke({
-								color: 'rgba(140, 208, 95, 1.0)',
-								width: 1
-							}),
-							fill: new ol.style.Fill({
-								color: 'rgba(140, 208, 95, 0.3)'
-							})
-						})
-					},
-					'natural': {
-						'tree': new ol.style.Style({
-							image: new ol.style.Circle({
-								radius: 2,
-								fill: new ol.style.Fill({
-									color: 'rgba(140, 208, 95, 1.0)'
-								}),
-								stroke: null
-							})
-						})
-					}
-				};
-				for (var key in styles) {
-					var value = feature.get(key);
-					if (value !== undefined) {
-						for (var regexp in styles[key]) {
-							if (new RegExp(regexp).test(value)) {
-								return styles[key][regexp];
-							}
-						}
-					}
-				}
-				return null;
-			} 
-		},
-  
-{
-			group: 'ES',
-			title: 'ES_CAT_URB',
 			query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
 			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
 			iconStyle: 'background-color:#FFFFFF',
@@ -773,6 +389,239 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 					imgSize: [50, 15],
 					rotateWithView: false,
 					anchor: [-90, 0],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style4 = new ol.style.Style({
+					image: new ol.style.Icon({
+					img: canvas,
+					imgSize: [310, 20],
+					rotateWithView: false,
+					anchor: [60, 3],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style5 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
+							anchor: [280, 0],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.20
+						}),
+												
+					stroke: stroke
+				});
+				var style6 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_black_'+ name5 +'.png',
+							anchor: [-1150, 0],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+				});
+				var style7 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/ES_CAT_URB_empty.svg',
+							imgSize: [602, 80],
+					anchor: [120, 30],
+					rotateWithView: false,
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels',
+							scale:0.52
+						}),
+												
+					stroke: stroke
+				});
+				return [style, style2, style9, style11, style7, style4, style3, style8, style10, style5, style6];
+			}
+
+		},
+  
+{
+			group: 'ES',
+			title: 'ES_CAT_URB',
+			query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
+			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
+			iconStyle: 'background-color:#FFFFFF',
+			style: function (feature) {
+				var key_regex = /^destination$/
+				var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
+				var name = feature.get(name_key) || '';
+				var key_regex2 = /^destination:ref$/
+				var name_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name2"
+				var name2 = feature.get(name_key2) || '';
+				var key_regex4 = /^turn:destination$/
+				var name_key4 = feature.getKeys().filter(function(t){return t.match(key_regex4)}).pop() || "name4"
+				var name4 = feature.get(name_key4) || '';
+				var key_regex3 = /^colour:ref$/
+				var name_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "name3"
+				var name3 = feature.get(name_key3) || '';
+				var key_regex5 = /^destination:symbol$/
+				var name_key5 = feature.getKeys().filter(function(t){return t.match(key_regex5)}).pop() || "name5"
+				var name5 = feature.get(name_key5) || '';
+				var key_regex6 = /^colour:back$/
+				var name_key6 = feature.getKeys().filter(function(t){return t.match(key_regex6)}).pop() || "name6"
+				var name6 = feature.get(name_key6) || '';
+				var key_regex7 = /^colour:text$/
+				var name_key7 = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "name7"
+				var name7 = feature.get(name_key7) || '';
+				var key_regex8 = /^colour:ref:2$/
+				var name_key8 = feature.getKeys().filter(function(t){return t.match(key_regex8)}).pop() || "name8"
+				var name8 = feature.get(name_key8) || '';
+				var key_regex9 = /^destination:ref:2$/
+				var name_key9 = feature.getKeys().filter(function(t){return t.match(key_regex9)}).pop() || "name9"
+				var name9 = feature.get(name_key9) || '';
+				var key_regex10 = /^colour:ref:3$/
+				var name_key10 = feature.getKeys().filter(function(t){return t.match(key_regex10)}).pop() || "name10"
+				var name10 = feature.get(name_key10) || '';
+				var key_regex11 = /^destination:ref:3$/
+				var name_key11 = feature.getKeys().filter(function(t){return t.match(key_regex9)}).pop() || "name11"
+				var name11 = feature.get(name_key11) || '';
+				
+				var canvas = document.createElement('canvas');
+				canvas.width = 310;
+				canvas.height = 20;
+				var ctx = canvas.getContext('2d');
+				ctx.fillStyle = name6;
+				ctx.fillRect(0, 0, canvas.width, canvas.height);
+				
+				var canvas2 = document.createElement('canvas');
+				canvas2.width = 50;
+				canvas2.height = 15;
+				var ctx2 = canvas2.getContext('2d');
+				ctx2.fillStyle = name3;
+				ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
+
+				var canvas3 = document.createElement('canvas');
+				canvas3.width = 50;
+				canvas3.height = 15;
+				var ctx3 = canvas3.getContext('2d');
+				ctx3.fillStyle = name8;
+				ctx3.fillRect(0, 0, canvas3.width, canvas3.height);
+				
+				if (name10) { // Solo ejecutar si name10 tiene valor
+    var canvas4 = document.createElement('canvas');
+    canvas4.width = 50;
+    canvas4.height = 15;
+    var ctx4 = canvas4.getContext('2d');
+
+    ctx4.fillStyle = name10;
+    ctx4.fillRect(0, 0, canvas4.width, canvas4.height);
+
+    var style10 = new ol.style.Style({
+        image: new ol.style.Icon({
+            img: canvas4,
+            imgSize: [50, 15],
+            rotateWithView: false,
+            anchor: [-90, 0],
+            anchorXUnits: 'pixels',
+            anchorYUnits: 'pixels'
+        }),
+        /*fill: fill,*/
+        stroke: stroke
+    });
+
+    // Aquí puedes aplicar style10 a la característica si es necesario
+}
+				
+				/*var fill = new ol.style.Fill({
+					color: name3
+				});*/
+
+				var stroke = new ol.style.Stroke({
+					color: '#00FF00',
+					width: 1.25
+				});
+				var style = new ol.style.Style({
+					text: new ol.style.Text({
+								text: name,
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 20,
+								offsetY : 7,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: name7
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style2 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: name2,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : -6,
+								offsetY : 9,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style9 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: name9,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : -6,
+								offsetY : 9,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style11 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: name11,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : -6,
+								offsetY : 9,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style3 = new ol.style.Style({
+					image: new ol.style.Icon({
+					img: canvas2,
+					imgSize: [50, 15],
+					rotateWithView: false,
+					anchor: [30, 0],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style8 = new ol.style.Style({
+					image: new ol.style.Icon({
+					img: canvas3,
+					imgSize: [50, 15],
+					rotateWithView: false,
+					anchor: [-40, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
