@@ -594,7 +594,7 @@ return null;
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name10 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-90, 0],
+					anchor: [-100, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
