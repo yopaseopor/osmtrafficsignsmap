@@ -487,7 +487,7 @@ return null;
 				var name_key10 = feature.getKeys().filter(function(t){return t.match(key_regex10)}).pop() || "name10"
 				var name10 = feature.get(name_key10) || '';
 				var key_regex11 = /^destination:ref:3$/
-				var name_key11 = feature.getKeys().filter(function(t){return t.match(key_regex9)}).pop() || "name11"
+				var name_key11 = feature.getKeys().filter(function(t){return t.match(key_regex11)}).pop() || "name11"
 				var name11 = feature.get(name_key11) || '';
 				
 				var canvas = document.createElement('canvas');
@@ -540,7 +540,7 @@ return null;
 								text: name9,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 60,
+								offsetX : 70,
 								offsetY : 9,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
@@ -555,7 +555,7 @@ return null;
 								text: name11,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 120,
+								offsetX : 140,
 								offsetY : 9,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
