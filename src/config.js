@@ -447,7 +447,7 @@ return null;
 				return [style, style2, style9, style11, style7, style4, style3, style8, style10, style5, style6];
 			}
 
-		},
+},
   
 {
 			group: 'ES',
@@ -490,10 +490,33 @@ return null;
 				var name_key11 = feature.getKeys().filter(function(t){return t.match(key_regex9)}).pop() || "name11"
 				var name11 = feature.get(name_key11) || '';
 				
+				var canvas = document.createElement('canvas');
+				canvas.width = 310;
+				canvas.height = 20;
+				var ctx = canvas.getContext('2d');
+				ctx.fillStyle = name6;
+				ctx.fillRect(0, 0, canvas.width, canvas.height);
+				
+				var canvas2 = document.createElement('canvas');
+				canvas2.width = 50;
+				canvas2.height = 15;
+				var ctx2 = canvas2.getContext('2d');
+				ctx2.fillStyle = name3;
+				ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 
-
-    // Aquí puedes aplicar style10 a la característica si es necesario
-
+				var canvas3 = document.createElement('canvas');
+				canvas3.width = 50;
+				canvas3.height = 15;
+				var ctx3 = canvas3.getContext('2d');
+				ctx3.fillStyle = name8;
+				ctx3.fillRect(0, 0, canvas3.width, canvas3.height);
+				
+				var canvas4 = document.createElement('canvas');
+				canvas4.width = 50;
+				canvas4.height = 15;
+				var ctx4 = canvas4.getContext('2d');
+				ctx4.fillStyle = name10;
+				ctx4.fillRect(0, 0, canvas4.width, canvas4.height);
 				
 				/*var fill = new ol.style.Fill({
 					color: name3
@@ -565,7 +588,7 @@ return null;
 				});
 				var style3 = new ol.style.Style({
 					image: new ol.style.Icon({
-            src: imgSrc + 'ES/textures/content/rectangle_small_'+ name3 +'.png',
+							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
 					anchor: [30, 0],
@@ -577,7 +600,7 @@ return null;
 				});
 				var style8 = new ol.style.Style({
 					image: new ol.style.Icon({
-            src: imgSrc + 'ES/textures/content/rectangle_small_'+ name8 +'.png',
+							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
 					anchor: [-40, 0],
@@ -586,7 +609,29 @@ return null;
 								}),
 					/*fill: fill,*/
 					stroke: stroke
-
+				});
+				var style10 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
+					imgSize: [50, 15],
+					rotateWithView: false,
+					anchor: [-90, 0],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style4 = new ol.style.Style({
+							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
+					imgSize: [310, 20],
+					rotateWithView: false,
+					anchor: [60, 3],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
 				});
 				var style5 = new ol.style.Style({
 					image: new ol.style.Icon({
