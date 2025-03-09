@@ -690,6 +690,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 								textAlign:'left',
 								offsetX : 20,
 								offsetY : 7,
+								rotateWithView: false,
 								fill: new ol.style.Fill({
                             color: name7
                         }),
@@ -704,6 +705,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 								textAlign:'center',
 								offsetX : -6,
 								offsetY : 9,
+								rotateWithView: false,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -715,6 +717,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 					image: new ol.style.Icon({
 					img: canvas2,
 					imgSize: [50, 15],
+					rotateWithView: false,
 					anchor: [30, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
@@ -726,6 +729,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 					image: new ol.style.Icon({
 					img: canvas,
 					imgSize: [310, 20],
+					rotateWithView: false,
 					anchor: [60, 3],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
@@ -737,6 +741,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
 							anchor: [280, 0],
+							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:0.20
@@ -748,6 +753,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_black_'+ name5 +'.png',
 							anchor: [-1150, 0],
+							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:0.15
@@ -760,6 +766,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 							src: imgSrc + 'ES/textures/ES_CAT_URB_empty.svg',
 							imgSize: [602, 80],
 					anchor: [120, 30],
+					rotateWithView: false,
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels',
 							scale:0.52
