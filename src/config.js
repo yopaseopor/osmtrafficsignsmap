@@ -634,20 +634,46 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex7 = /^colour:text$/
 				var name_key7 = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "name7"
 				var name7 = feature.get(name_key7) || '';
+				var key_regex8 = /^colour:ref:2$/
+				var name_key8 = feature.getKeys().filter(function(t){return t.match(key_regex8)}).pop() || "name8"
+				var name8 = feature.get(name_key8) || '';
+				var key_regex9 = /^destination:ref:2$/
+				var name_key9 = feature.getKeys().filter(function(t){return t.match(key_regex9)}).pop() || "name9"
+				var name9 = feature.get(name_key9) || '';
+				var key_regex10 = /^colour:ref:3$/
+				var name_key10 = feature.getKeys().filter(function(t){return t.match(key_regex10)}).pop() || "name10"
+				var name10 = feature.get(name_key10) || '';
+				var key_regex11 = /^destination:ref:3$/
+				var name_key11 = feature.getKeys().filter(function(t){return t.match(key_regex9)}).pop() || "name11"
+				var name11 = feature.get(name_key11) || '';
 				
 				var canvas = document.createElement('canvas');
-				canvas.width = 50;
-				canvas.height = 15;
+				canvas.width = 310;
+				canvas.height = 20;
 				var ctx = canvas.getContext('2d');
-				ctx.fillStyle = name3;
+				ctx.fillStyle = name6;
 				ctx.fillRect(0, 0, canvas.width, canvas.height);
-
+				
 				var canvas2 = document.createElement('canvas');
-				canvas2.width = 310;
-				canvas2.height = 20;
+				canvas2.width = 50;
+				canvas2.height = 15;
 				var ctx2 = canvas2.getContext('2d');
-				ctx2.fillStyle = name6;
+				ctx2.fillStyle = name3;
 				ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
+
+				var canvas3 = document.createElement('canvas');
+				canvas3.width = 50;
+				canvas3.height = 15;
+				var ctx3 = canvas3.getContext('2d');
+				ctx3.fillStyle = name8;
+				ctx3.fillRect(0, 0, canvas3.width, canvas3.height);
+				
+				var canvas4 = document.createElement('canvas');
+				canvas4.width = 50;
+				canvas4.height = 15;
+				var ctx4 = canvas4.getContext('2d');
+				ctx4.fillStyle = name10;
+				ctx4.fillRect(0, 0, canvas4.width, canvas4.height);
 				
 				var fill = new ol.style.Fill({
 					color: name3
@@ -687,7 +713,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				});
 				var style3 = new ol.style.Style({
 					image: new ol.style.Icon({
-					img: canvas,
+					img: canvas2,
 					imgSize: [50, 15],
 					anchor: [30, 0],
 					anchorXUnits: 'pixels',
@@ -698,7 +724,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				});
 				var style4 = new ol.style.Style({
 					image: new ol.style.Icon({
-					img: canvas2,
+					img: canvas,
 					imgSize: [310, 20],
 					anchor: [60, 3],
 					anchorXUnits: 'pixels',
