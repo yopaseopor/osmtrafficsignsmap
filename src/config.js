@@ -628,7 +628,8 @@ return null;
 					rotateWithView: false,
 					anchor: [60, 3],
 					anchorXUnits: 'pixels',
-					anchorYUnits: 'pixels'
+					anchorYUnits: 'pixels',
+					scale:0.15
 								}),
 					/*fill: fill,*/
 					stroke: stroke
