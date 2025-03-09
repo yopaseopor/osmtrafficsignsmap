@@ -713,9 +713,63 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 					
 					stroke: stroke
 				});
+				var style9 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: name9,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : -6,
+								offsetY : 9,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style11 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: name11,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : -6,
+								offsetY : 9,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
 				var style3 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas2,
+					imgSize: [50, 15],
+					rotateWithView: false,
+					anchor: [30, 0],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					fill: fill,
+					stroke: stroke
+				});
+				var style8 = new ol.style.Style({
+					image: new ol.style.Icon({
+					img: canvas3,
+					imgSize: [50, 15],
+					rotateWithView: false,
+					anchor: [30, 0],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					fill: fill,
+					stroke: stroke
+				});
+				var style10 = new ol.style.Style({
+					image: new ol.style.Icon({
+					img: canvas4,
 					imgSize: [50, 15],
 					rotateWithView: false,
 					anchor: [30, 0],
@@ -774,7 +828,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 												
 					stroke: stroke
 				});
-				return [style, style2, style7, style4, style3, style5, style6];
+				return [style, style2, style9, style11, style7, style4, style3, style8, style10, style5, style6];
 			}
 
 		},
