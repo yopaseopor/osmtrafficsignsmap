@@ -733,7 +733,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/ES_CAT_URB_empty.svg',
 							imgSize: [602, 80],
-					anchor: [0, -50],
+					anchor: [50, -150],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels',
 							scale:0.50
