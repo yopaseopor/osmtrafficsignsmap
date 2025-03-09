@@ -736,7 +736,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 					anchor: [120, 30],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels',
-							scale:0.60
+							scale:0.55
 						}),
 												
 					stroke: stroke
