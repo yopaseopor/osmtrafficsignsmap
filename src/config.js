@@ -612,7 +612,7 @@ return null;
 				});
 				var style10 = new ol.style.Style({
 					image: new ol.style.Icon({
-					img: canvas4,
+							src: imgSrc + 'ES/textures/content/sign_black_'+ name5 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
 					anchor: [-90, 0],
