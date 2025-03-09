@@ -450,7 +450,7 @@ return null;
 },
   
 {
-			group: 'Test',
+			group: 'ES',
 			title: 'ES_CAT_URB',
 			query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
 			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
@@ -612,7 +612,7 @@ return null;
 				});
 				var style10 = new ol.style.Style({
 					image: new ol.style.Icon({
-					img: canvas4,
+					src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
 					anchor: [-90, 0],
