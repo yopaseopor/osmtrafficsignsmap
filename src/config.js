@@ -643,7 +643,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				ctx.fillRect(0, 0, canvas.width, canvas.height);
 
 				var canvas2 = document.createElement('canvas');
-				canvas2.width = 300;
+				canvas2.width = 310;
 				canvas2.height = 20;
 				var ctx2 = canvas2.getContext('2d');
 				ctx2.fillStyle = name6;
@@ -699,7 +699,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var style4 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas2,
-					imgSize: [300, 20],
+					imgSize: [310, 20],
 					anchor: [60, 3],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
