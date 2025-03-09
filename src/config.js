@@ -497,21 +497,6 @@ return null;
 				ctx.fillStyle = name6;
 				ctx.fillRect(0, 0, canvas.width, canvas.height);
 				
-				var canvas2 = document.createElement('canvas');
-				canvas2.width = 50;
-				canvas2.height = 15;
-				var ctx2 = canvas2.getContext('2d');
-				ctx2.fillStyle = name3;
-				ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
-
-				var canvas3 = document.createElement('canvas');
-				canvas3.width = 50;
-				canvas3.height = 15;
-				var ctx3 = canvas3.getContext('2d');
-				ctx3.fillStyle = name8;
-				ctx3.fillRect(0, 0, canvas3.width, canvas3.height);
-				
-
 				/*var fill = new ol.style.Fill({
 					color: name3
 				});*/
@@ -582,7 +567,7 @@ return null;
 				});
 				var style3 = new ol.style.Style({
 					image: new ol.style.Icon({
-					img: canvas2,
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name3 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
 					anchor: [30, 0],
@@ -594,7 +579,7 @@ return null;
 				});
 				var style8 = new ol.style.Style({
 					image: new ol.style.Icon({
-					img: canvas3,
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name8 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
 					anchor: [-40, 0],
