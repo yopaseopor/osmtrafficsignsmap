@@ -752,7 +752,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
-					fill: fill,
+					/*fill: fill,*/
 					stroke: stroke
 				});
 				var style8 = new ol.style.Style({
@@ -764,7 +764,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
-					fill: fill,
+					/*fill: fill,*/
 					stroke: stroke
 				});
 				var style10 = new ol.style.Style({
@@ -776,7 +776,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
-					fill: fill,
+					/*fill: fill,*/
 					stroke: stroke
 				});
 				var style4 = new ol.style.Style({
@@ -788,7 +788,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
-					fill: fill,
+					/*fill: fill,*/
 					stroke: stroke
 				});
 				var style5 = new ol.style.Style({
