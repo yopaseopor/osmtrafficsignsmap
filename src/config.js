@@ -450,7 +450,7 @@ return null;
 },
   
 {
-			group: 'ES',
+			group: 'ES-Complex',
 			title: 'ES_CAT_URB',
 			query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
 			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
@@ -641,6 +641,212 @@ return null;
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/ES_CAT_URB_empty.svg',
 							imgSize: [602, 80],
+					anchor: [120, 30],
+					rotateWithView: false,
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels',
+							scale:0.52
+						}),
+												
+					stroke: stroke
+				});
+				return [style, style2, style9, style11, style7, style4, style3, style8, style10, style5, style6];
+			}
+
+},
+  
+{
+			group: 'ES',
+			title: 'ES_CAT_URBL',
+			query: '(nwr["traffic_sign"="ES:CAT:URBL"]({{bbox}});node(w););out meta;',
+			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URBL.png',
+			iconStyle: 'background-color:#FFFFFF',
+			style: function (feature) {
+				var key_regex = /^destination$/
+				var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
+				var name = feature.get(name_key) || '';
+				var key_regex2 = /^destination:ref$/
+				var name_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name2"
+				var name2 = feature.get(name_key2) || '';
+				var key_regex4 = /^turn:destination$/
+				var name_key4 = feature.getKeys().filter(function(t){return t.match(key_regex4)}).pop() || "name4"
+				var name4 = feature.get(name_key4) || '';
+				var key_regex3 = /^colour:ref$/
+				var name_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "name3"
+				var name3 = feature.get(name_key3) || '';
+				var key_regex5 = /^destination:symbol$/
+				var name_key5 = feature.getKeys().filter(function(t){return t.match(key_regex5)}).pop() || "name5"
+				var name5 = feature.get(name_key5) || '';
+				var key_regex6 = /^colour:back$/
+				var name_key6 = feature.getKeys().filter(function(t){return t.match(key_regex6)}).pop() || "name6"
+				var name6 = feature.get(name_key6) || '';
+				var key_regex7 = /^colour:text$/
+				var name_key7 = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "name7"
+				var name7 = feature.get(name_key7) || '';
+				var key_regex8 = /^colour:ref:2$/
+				var name_key8 = feature.getKeys().filter(function(t){return t.match(key_regex8)}).pop() || "name8"
+				var name8 = feature.get(name_key8) || '';
+				var key_regex9 = /^destination:ref:2$/
+				var name_key9 = feature.getKeys().filter(function(t){return t.match(key_regex9)}).pop() || "name9"
+				var name9 = feature.get(name_key9) || '';
+				var key_regex10 = /^colour:ref:3$/
+				var name_key10 = feature.getKeys().filter(function(t){return t.match(key_regex10)}).pop() || "name10"
+				var name10 = feature.get(name_key10) || '';
+				var key_regex11 = /^destination:ref:3$/
+				var name_key11 = feature.getKeys().filter(function(t){return t.match(key_regex11)}).pop() || "name11"
+				var name11 = feature.get(name_key11) || '';
+				
+				var canvas = document.createElement('canvas');
+				canvas.width = 310;
+				canvas.height = 20;
+				var ctx = canvas.getContext('2d');
+				ctx.fillStyle = name6;
+				ctx.fillRect(0, 0, canvas.width, canvas.height);
+				
+				/*var fill = new ol.style.Fill({
+					color: name3
+				});*/
+
+				var stroke = new ol.style.Stroke({
+					color: '#00FF00',
+					width: 1.25
+				});
+				var style = new ol.style.Style({
+					text: new ol.style.Text({
+								text: name,
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 20,
+								offsetY : 7,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: name7
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style2 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: name2,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : -3,
+								offsetY : 8,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style9 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: name9,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 73,
+								offsetY : 8,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style11 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: name11,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 143,
+								offsetY : 8,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style3 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name3 +'.png',
+					imgSize: [50, 15],
+					rotateWithView: false,
+					anchor: [30, 0],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style8 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name8 +'.png',
+					imgSize: [50, 15],
+					rotateWithView: false,
+					anchor: [-40, 0],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style10 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name10 +'.png',
+					imgSize: [50, 15],
+					rotateWithView: false,
+					anchor: [-110, 0],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style4 = new ol.style.Style({
+					image: new ol.style.Icon({
+					img: canvas,
+					imgSize: [310, 20],
+					rotateWithView: false,
+					anchor: [60, 3],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style5 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
+							anchor: [280, 0],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.20
+						}),
+												
+					stroke: stroke
+				});
+				var style6 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_black_'+ name5 +'.png',
+							anchor: [-1150, 0],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+				});
+				var style7 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/ES_CAT_URBL_empty.svg',
+							imgSize: [602, 154],
 					anchor: [120, 30],
 					rotateWithView: false,
 					anchorXUnits: 'pixels',
@@ -45316,6 +45522,212 @@ return styles[key][regexp];
 }
 return null;
 }
+},
+  
+{
+			group: 'Test',
+			title: 'ES_CAT_URB',
+			query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
+			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
+			iconStyle: 'background-color:#FFFFFF',
+			style: function (feature) {
+				var key_regex = /^destination$/
+				var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
+				var name = feature.get(name_key) || '';
+				var key_regex2 = /^destination:ref$/
+				var name_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name2"
+				var name2 = feature.get(name_key2) || '';
+				var key_regex4 = /^turn:destination$/
+				var name_key4 = feature.getKeys().filter(function(t){return t.match(key_regex4)}).pop() || "name4"
+				var name4 = feature.get(name_key4) || '';
+				var key_regex3 = /^colour:ref$/
+				var name_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "name3"
+				var name3 = feature.get(name_key3) || '';
+				var key_regex5 = /^destination:symbol$/
+				var name_key5 = feature.getKeys().filter(function(t){return t.match(key_regex5)}).pop() || "name5"
+				var name5 = feature.get(name_key5) || '';
+				var key_regex6 = /^colour:back$/
+				var name_key6 = feature.getKeys().filter(function(t){return t.match(key_regex6)}).pop() || "name6"
+				var name6 = feature.get(name_key6) || '';
+				var key_regex7 = /^colour:text$/
+				var name_key7 = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "name7"
+				var name7 = feature.get(name_key7) || '';
+				var key_regex8 = /^colour:ref:2$/
+				var name_key8 = feature.getKeys().filter(function(t){return t.match(key_regex8)}).pop() || "name8"
+				var name8 = feature.get(name_key8) || '';
+				var key_regex9 = /^destination:ref:2$/
+				var name_key9 = feature.getKeys().filter(function(t){return t.match(key_regex9)}).pop() || "name9"
+				var name9 = feature.get(name_key9) || '';
+				var key_regex10 = /^colour:ref:3$/
+				var name_key10 = feature.getKeys().filter(function(t){return t.match(key_regex10)}).pop() || "name10"
+				var name10 = feature.get(name_key10) || '';
+				var key_regex11 = /^destination:ref:3$/
+				var name_key11 = feature.getKeys().filter(function(t){return t.match(key_regex11)}).pop() || "name11"
+				var name11 = feature.get(name_key11) || '';
+				
+				var canvas = document.createElement('canvas');
+				canvas.width = 310;
+				canvas.height = 20;
+				var ctx = canvas.getContext('2d');
+				ctx.fillStyle = name6;
+				ctx.fillRect(0, 0, canvas.width, canvas.height);
+				
+				/*var fill = new ol.style.Fill({
+					color: name3
+				});*/
+
+				var stroke = new ol.style.Stroke({
+					color: '#00FF00',
+					width: 1.25
+				});
+				var style = new ol.style.Style({
+					text: new ol.style.Text({
+								text: name,
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 20,
+								offsetY : 7,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: name7
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style2 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: name2,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : -3,
+								offsetY : 8,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style9 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: name9,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 73,
+								offsetY : 8,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style11 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: name11,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 143,
+								offsetY : 8,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style3 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name3 +'.png',
+					imgSize: [50, 15],
+					rotateWithView: false,
+					anchor: [30, 0],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style8 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name8 +'.png',
+					imgSize: [50, 15],
+					rotateWithView: false,
+					anchor: [-40, 0],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style10 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name10 +'.png',
+					imgSize: [50, 15],
+					rotateWithView: false,
+					anchor: [-110, 0],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style4 = new ol.style.Style({
+					image: new ol.style.Icon({
+					img: canvas,
+					imgSize: [310, 20],
+					rotateWithView: false,
+					anchor: [60, 3],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style5 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
+							anchor: [280, 0],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.20
+						}),
+												
+					stroke: stroke
+				});
+				var style6 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_black_'+ name5 +'.png',
+							anchor: [-1150, 0],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+				});
+				var style7 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/ES_CAT_URB_empty.svg',
+							imgSize: [602, 80],
+					anchor: [120, 30],
+					rotateWithView: false,
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels',
+							scale:0.52
+						}),
+												
+					stroke: stroke
+				});
+				return [style, style2, style9, style11, style7, style4, style3, style8, style10, style5, style6];
+			}
+
 },
 
 {
