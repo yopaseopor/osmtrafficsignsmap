@@ -343,7 +343,7 @@ return null;
 				});
 				var style  = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/ES_man_made_pole.svg',
+							src: imgSrc + 'ES/textures/ES_man_made_pole.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
 					anchor: [0, 0],
@@ -362,8 +362,8 @@ return null;
 {
 			group: 'Generic',
 			title: 'Real position',
-			query: '(nwr["type"="node"]({{bbox}});node(w););out meta;',
-			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_real_place.svg',
+			query: '(relation["type"="node"]({{bbox}});node(w););out meta;',
+			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_real_place.png',
 			iconStyle: 'background-color:#FFFFFF',
 			style: function (feature) {
 				var key_regex = /^type$/
@@ -395,7 +395,7 @@ return null;
 {
 			group: 'Generic',
 			title: 'Highway point',
-			query: '(nwr["highway"="traffic_signs"]({{bbox}});node(w););out meta;',
+			query: '(nwr["highway"="traffic_sign"]({{bbox}});node(w););out meta;',
 			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_real_place_highway.svg',
 			iconStyle: 'background-color:#FFFFFF',
 			style: function (feature) {
