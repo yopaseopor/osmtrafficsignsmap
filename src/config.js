@@ -353,8 +353,8 @@ return null;
 								text: name9,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : -6,
-								offsetY : 9,
+								offsetX : 65,
+								offsetY : 8,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -368,8 +368,8 @@ return null;
 								text: name11,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : -6,
-								offsetY : 9,
+								offsetX : 135,
+								offsetY : 8,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -769,7 +769,7 @@ return null;
 								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : -3,
-								offsetY : 8,
+								offsetY : 28,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -783,8 +783,8 @@ return null;
 								text: name9,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 73,
-								offsetY : 8,
+								offsetX : 65,
+								offsetY : 28,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -798,8 +798,8 @@ return null;
 								text: name11,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 143,
-								offsetY : 8,
+								offsetX : 135,
+								offsetY : 28,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -813,7 +813,7 @@ return null;
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name3 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [30, 0],
+					anchor: [30, 20],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -825,7 +825,7 @@ return null;
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name8 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-40, 0],
+					anchor: [-40, 20],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -837,7 +837,7 @@ return null;
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name10 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-110, 0],
+					anchor: [-110, 20],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
