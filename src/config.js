@@ -262,6 +262,10 @@ return null;
 				var key_regex11 = /^destination:ref:3$/
 				var name_key11 = feature.getKeys().filter(function(t){return t.match(key_regex9)}).pop() || "name11"
 				var name11 = feature.get(name_key11) || '';
+				var key_regex12 = /^destination:street$/
+				var name_key12 = feature.getKeys().filter(function(t){return t.match(key_regex12)}).pop() || "name12"
+				var name12 = feature.get(name_key) || '';
+				
 				
 				var canvas = document.createElement('canvas');
 				canvas.width = 310;
@@ -302,6 +306,21 @@ return null;
 				var style = new ol.style.Style({
 					text: new ol.style.Text({
 								text: name,
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 20,
+								offsetY : 7,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: name7
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style12 = new ol.style.Style({
+					text: new ol.style.Text({
+								text: name12,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 20,
@@ -444,7 +463,7 @@ return null;
 												
 					stroke: stroke
 				});
-				return [style, style2, style9, style11, style7, style4, style3, style8, style10, style5, style6];
+				return [style, style12, style2, style9, style11, style7, style4, style3, style8, style10, style5, style6];
 			}
 
 },
@@ -489,6 +508,9 @@ return null;
 				var key_regex11 = /^destination:ref:3$/
 				var name_key11 = feature.getKeys().filter(function(t){return t.match(key_regex11)}).pop() || "name11"
 				var name11 = feature.get(name_key11) || '';
+				var key_regex12 = /^destination:street$/
+				var name_key12 = feature.getKeys().filter(function(t){return t.match(key_regex12)}).pop() || "name12"
+				var name12 = feature.get(name_key) || '';
 				
 				var canvas = document.createElement('canvas');
 				canvas.width = 310;
@@ -508,6 +530,21 @@ return null;
 				var style = new ol.style.Style({
 					text: new ol.style.Text({
 								text: name,
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 20,
+								offsetY : 7,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: name7
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style12 = new ol.style.Style({
+					text: new ol.style.Text({
+								text: name12,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 20,
@@ -650,7 +687,7 @@ return null;
 												
 					stroke: stroke
 				});
-				return [style, style2, style9, style11, style7, style4, style3, style8, style10, style5, style6];
+				return [style, style12, style2, style9, style11, style7, style4, style3, style8, style10, style5, style6];
 			}
 
 },
