@@ -376,7 +376,7 @@ return null;
 {
 			group: 'ES',
 			title: 'ES_S700',
-			query: '(nwr["traffic_sign"="ES:S7.."]({{bbox}});node(w););out meta;',
+			query: '(nwr["traffic_sign"~"ES:S7.."]({{bbox}});node(w););out meta;',
 			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S700.png',
 			iconStyle: 'background-color:#FFFFFF',
 			style: function (feature) {
