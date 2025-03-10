@@ -552,7 +552,7 @@ return null;
 				var style6 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_black_'+ name5 +'.png',
-							anchor: [-1150, 0],
+							anchor: [0, 0],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -561,20 +561,8 @@ return null;
 												
 					stroke: stroke
 				});
-				var style7 = new ol.style.Style({
-					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/ES_CAT_URBL_empty.svg',
-							imgSize: [602, 154],
-					anchor: [120, 30],
-					rotateWithView: false,
-					anchorXUnits: 'pixels',
-					anchorYUnits: 'pixels',
-							scale:0.52
-						}),
-												
-					stroke: stroke
-				});
-				return [style, style2, style9, style11, style7, style4, style3, style8, style10, style5, style6];
+				
+				return [style, style2, style9, style11, style4, style3, style8, style10, style5, style6];
 			}
 
 },
