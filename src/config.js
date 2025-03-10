@@ -414,8 +414,8 @@ return null;
 				var name_key11 = feature.getKeys().filter(function(t){return t.match(key_regex11)}).pop() || "name11"
 				var name11 = feature.get(name_key11) || '';
 				var key_regex12 = /^colour:arrow$/
-				var name_key12 = feature.getKeys().filter(function(t){return t.match(key_regex11)}).pop() || "name12"
-				var name12 = feature.get(name_key11) || '';
+				var name_key12 = feature.getKeys().filter(function(t){return t.match(key_regex12)}).pop() || "name12"
+				var name12 = feature.get(name_key12) || '';
 				
 				var canvas = document.createElement('canvas');
 				canvas.width = 310;
