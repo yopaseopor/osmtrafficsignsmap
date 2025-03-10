@@ -376,7 +376,7 @@ return null;
 				});
 				var style  = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/ES_real_place.svg',
+							src: imgSrc + 'ES/textures/ES_real_place.png',
 					imgSize: [50, 50],
 					rotateWithView: false,
 					anchor: [0, 0],
@@ -396,7 +396,7 @@ return null;
 			group: 'Generic',
 			title: 'Highway point',
 			query: '(nwr["highway"="traffic_sign"]({{bbox}});node(w););out meta;',
-			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_real_place_highway.svg',
+			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_real_place_highway.png',
 			iconStyle: 'background-color:#FFFFFF',
 			style: function (feature) {
 				var key_regex = /^type$/
@@ -409,7 +409,7 @@ return null;
 				});
 				var style  = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/ES_real_place_highway.svg',
+							src: imgSrc + 'ES/textures/ES_real_place_highway.png',
 					imgSize: [50, 50],
 					rotateWithView: false,
 					anchor: [0, 0],
