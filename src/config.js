@@ -413,6 +413,9 @@ return null;
 				var key_regex11 = /^destination:ref:3$/
 				var name_key11 = feature.getKeys().filter(function(t){return t.match(key_regex11)}).pop() || "name11"
 				var name11 = feature.get(name_key11) || '';
+				var key_regex12 = /^colour:arrow$/
+				var name_key12 = feature.getKeys().filter(function(t){return t.match(key_regex11)}).pop() || "name12"
+				var name12 = feature.get(name_key11) || '';
 				
 				var canvas = document.createElement('canvas');
 				canvas.width = 310;
@@ -539,7 +542,7 @@ return null;
 				});
 				var style5 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/black_'+ name4 +'_city.png',
+							src: imgSrc + 'ES/textures/content/'+ name12 + name4 +'_city.png',
 							anchor: [280, 0],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
