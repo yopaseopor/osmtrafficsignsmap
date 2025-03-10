@@ -494,7 +494,7 @@ return null;
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name3 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-170, -20],
+					anchor: [-170, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -506,7 +506,7 @@ return null;
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name8 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-170, -40],
+					anchor: [-170, -20],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -518,7 +518,7 @@ return null;
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name10 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-170, -60],
+					anchor: [-170, -40],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
