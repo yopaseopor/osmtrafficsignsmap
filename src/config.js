@@ -416,7 +416,7 @@ return null;
 				
 				var canvas = document.createElement('canvas');
 				canvas.width = 310;
-				canvas.height = 20;
+				canvas.height = 50;
 				var ctx = canvas.getContext('2d');
 				ctx.fillStyle = name6;
 				ctx.fillRect(0, 0, canvas.width, canvas.height);
@@ -528,7 +528,7 @@ return null;
 				var style4 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas,
-					imgSize: [310, 20],
+					imgSize: [310, 50],
 					rotateWithView: false,
 					anchor: [60, 3],
 					anchorXUnits: 'pixels',
