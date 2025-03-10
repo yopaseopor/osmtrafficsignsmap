@@ -221,6 +221,209 @@ return styles[key][regexp];
 return null;
 }
 },
+{
+group: 'Generic',
+title: 'Traffic_sign',
+query: '(nwr["traffic_sign"]({{bbox}});node(w););out meta;',
+iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_.png',
+iconStyle: 'background-color:rgba(255,255,255,0.4)',
+style: function (feature) {
+var name = feature.get('name') || '';
+var styles = {
+'direction': {
+'forward':  new ol.style.Style({
+image: new ol.style.Icon({
+src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_.png',
+rotation:0,
+rotateWithView: false,
+anchor: [1,0],
+scale: 0.50
+}),
+text: new ol.style.Text({
+text: name,
+font: 'small-caps bold 10px/1 sans-serif',
+offsetX : 80,
+offsetY : -4,
+fill: new ol.style.Fill({
+color: 'rgba(0,0,0,1)'
+})
+})
+}),
+'backward':  new ol.style.Style({
+image: new ol.style.Icon({
+src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_.png',
+rotation:3.14,
+rotateWithView: false,
+anchor: [-1,0],
+scale: 0.50
+})
+})
+}
+};
+for (var key in styles) {
+var value = feature.get(key);
+if (value !== undefined) {
+for (var regexp in styles[key]) {
+if (new RegExp(regexp).test(value)) {
+return styles[key][regexp];
+}
+}
+}
+}
+return null;
+}
+},
+{
+group: 'ES',
+title: 'ES:',
+query: '(nwr["traffic_sign"="ES:"]({{bbox}});node(w););out meta;',
+iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_.png',
+iconStyle: 'background-color:rgba(255,255,255,0.4)',
+style: function (feature) {
+var name = feature.get('name') || '';
+var styles = {
+'direction': {
+'forward':  new ol.style.Style({
+image: new ol.style.Icon({
+src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_.png',
+rotation:0,
+rotateWithView: false,
+anchor: [1,0],
+scale: 0.50
+}),
+text: new ol.style.Text({
+text: name,
+font: 'small-caps bold 10px/1 sans-serif',
+offsetX : 80,
+offsetY : -4,
+fill: new ol.style.Fill({
+color: 'rgba(0,0,0,1)'
+})
+})
+}),
+'backward':  new ol.style.Style({
+image: new ol.style.Icon({
+src: 'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_.png',
+rotation:3.14,
+rotateWithView: false,
+anchor: [-1,0],
+scale: 0.50
+})
+})
+}
+};
+for (var key in styles) {
+var value = feature.get(key);
+if (value !== undefined) {
+for (var regexp in styles[key]) {
+if (new RegExp(regexp).test(value)) {
+return styles[key][regexp];
+}
+}
+}
+}
+return null;
+}
+},
+  
+{
+			group: 'Generic',
+			title: 'Pole',
+			query: '(nwr["man_made"="pole"]({{bbox}});node(w););out meta;',
+			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_man_made_pole.png',
+			iconStyle: 'background-color:#FFFFFF',
+			style: function (feature) {
+				var key_regex = /^man_made$/
+				var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
+				var name = feature.get(name_key) || '';
+
+				var stroke = new ol.style.Stroke({
+					color: '#00FF00',
+					width: 1.25
+				});
+				var style  = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/ES_man_made_pole.svg',
+					imgSize: [50, 15],
+					rotateWithView: false,
+					anchor: [0, 0],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				
+				return [style];
+			}
+
+},
+  
+{
+			group: 'Generic',
+			title: 'Real position',
+			query: '(nwr["type"="node"]({{bbox}});node(w););out meta;',
+			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_real_place.svg',
+			iconStyle: 'background-color:#FFFFFF',
+			style: function (feature) {
+				var key_regex = /^type$/
+				var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
+				var name = feature.get(name_key) || '';
+
+				var stroke = new ol.style.Stroke({
+					color: '#00FF00',
+					width: 1.25
+				});
+				var style  = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/ES_real_place.svg',
+					imgSize: [50, 50],
+					rotateWithView: false,
+					anchor: [0, 0],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				
+				return [style];
+			}
+
+},
+  
+{
+			group: 'Generic',
+			title: 'Highway point',
+			query: '(nwr["highway"="traffic_signs"]({{bbox}});node(w););out meta;',
+			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_real_place_highway.svg',
+			iconStyle: 'background-color:#FFFFFF',
+			style: function (feature) {
+				var key_regex = /^type$/
+				var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
+				var name = feature.get(name_key) || '';
+
+				var stroke = new ol.style.Stroke({
+					color: '#00FF00',
+					width: 1.25
+				});
+				var style  = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/ES_real_place_highway.svg',
+					imgSize: [50, 50],
+					rotateWithView: false,
+					anchor: [0, 0],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				
+				return [style];
+			}
+
+},
   
 {
 			group: 'Test',
