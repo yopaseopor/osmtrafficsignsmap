@@ -772,7 +772,7 @@ return null;
 								offsetY : 28,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,255,1)'
+                            color: 'rgba(255,255,250,1)'
                         }),
 							}),
 					
@@ -787,7 +787,7 @@ return null;
 								offsetY : 28,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,255,1)'
+                            color: 'rgba(255,255,250,1)'
                         }),
 							}),
 					
@@ -802,7 +802,7 @@ return null;
 								offsetY : 28,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,255,1)'
+                            color: 'rgba(255,255,250,1)'
                         }),
 							}),
 					
@@ -813,7 +813,7 @@ return null;
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name3 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [30, 20],
+					anchor: [30, -20],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -825,7 +825,7 @@ return null;
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name8 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-40, 20],
+					anchor: [-40, -20],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -837,7 +837,7 @@ return null;
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name10 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-110, 20],
+					anchor: [-110, -20],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
