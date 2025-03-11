@@ -451,15 +451,15 @@ return null;
 					stroke: stroke
 				});
 				var style13 = new ol.style.Style({
-												text: new ol.style.Text({
+					text: new ol.style.Text({
 								text: name13,
-								font: 'bolder 12px Arial',
-								textAlign:'center',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
 								offsetX : 20,
-								offsetY : 28,
+								offsetY : 7,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,250,1)'
+                            color: name7
                         }),
 							}),
 					
