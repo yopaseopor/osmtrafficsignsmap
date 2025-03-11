@@ -452,7 +452,7 @@ return null;
 								text: name2,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 135,
+								offsetX : 150,
 								offsetY : 7,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
@@ -467,8 +467,8 @@ return null;
 								text: name9,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 135,
-								offsetY : -3,
+								offsetX : 150,
+								offsetY : 17,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,250,1)'
@@ -482,8 +482,8 @@ return null;
 								text: name11,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 135,
-								offsetY : -13,
+								offsetX : 150,
+								offsetY : 27,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,250,1)'
