@@ -416,6 +416,9 @@ return null;
 				var key_regex12 = /^colour:arrow$/
 				var name_key12 = feature.getKeys().filter(function(t){return t.match(key_regex12)}).pop() || "name12"
 				var name12 = feature.get(name_key12) || '';
+				var key_regex13 = /^destination:2$/
+				var name_key13 = feature.getKeys().filter(function(t){return t.match(key_regex13)}).pop() || "name13"
+				var name13 = feature.get(name_key13) || '';
 				
 				var canvas = document.createElement('canvas');
 				canvas.width = 310;
@@ -484,6 +487,21 @@ return null;
 								textAlign:'center',
 								offsetX : 195,
 								offsetY : 48,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,250,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style13 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: name13,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 195,
+								offsetY : 28,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,250,1)'
