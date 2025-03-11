@@ -500,7 +500,7 @@ return null;
 								text: name13,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 195,
+								offsetX : 20,
 								offsetY : 28,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
