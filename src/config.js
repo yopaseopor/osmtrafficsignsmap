@@ -421,7 +421,7 @@ return null;
 				var name13 = feature.get(name_key13) || '';
 				
 				var canvas = document.createElement('canvas');
-				canvas.width = 310;
+				canvas.width = 250;
 				canvas.height = 50;
 				var ctx = canvas.getContext('2d');
 				ctx.fillStyle = name6;
@@ -549,7 +549,7 @@ return null;
 				var style4 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas,
-					imgSize: [310, 50],
+					imgSize: [250, 50],
 					rotateWithView: false,
 					anchor: [60, 3],
 					anchorXUnits: 'pixels',
