@@ -452,7 +452,7 @@ return null;
 								text: name2,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 190,
+								offsetX : 195,
 								offsetY : 10,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
@@ -467,7 +467,7 @@ return null;
 								text: name9,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 190,
+								offsetX : 195,
 								offsetY : 30,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
@@ -482,7 +482,7 @@ return null;
 								text: name11,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 190,
+								offsetX : 195,
 								offsetY : 50,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
@@ -509,7 +509,7 @@ return null;
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name8 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-170, -23],
+					anchor: [-170, -20],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -521,7 +521,7 @@ return null;
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ name10 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-170, -43],
+					anchor: [-170, -40],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
