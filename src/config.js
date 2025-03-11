@@ -450,6 +450,21 @@ return null;
 					
 					stroke: stroke
 				});
+				var style13 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: name13,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 20,
+								offsetY : 28,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,250,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
 				var style2 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: name2,
@@ -487,21 +502,6 @@ return null;
 								textAlign:'center',
 								offsetX : 195,
 								offsetY : 48,
-								rotateWithView: false,
-								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,250,1)'
-                        }),
-							}),
-					
-					stroke: stroke
-				});
-				var style13 = new ol.style.Style({
-												text: new ol.style.Text({
-								text: name13,
-								font: 'bolder 12px Arial',
-								textAlign:'center',
-								offsetX : 20,
-								offsetY : 28,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,250,1)'
