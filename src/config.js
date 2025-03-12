@@ -1732,17 +1732,6 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					fill: fill,
 					stroke: stroke
 				});
-				var style5 = new ol.style.Style({
-					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/black_'+ word4 +'_city.png',
-							anchor: [280, 0],
-								anchorXUnits: 'pixels',
-								anchorYUnits: 'pixels',
-							scale:0.20
-						}),
-												
-					stroke: stroke
-				});
 				var style6 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_black_'+ word5 +'.png',
