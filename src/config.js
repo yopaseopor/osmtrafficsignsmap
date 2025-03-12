@@ -1541,7 +1541,6 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex3 = /^colour:ref:through$/
 				var word_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "word3"
 				var word3 = feature.get(word_key3) || '';
-				
 				var key_regex5 = /^destination:symbol$/
 				var word_key5 = feature.getKeys().filter(function(t){return t.match(key_regex5)}).pop() || "word5"
 				var word5 = feature.get(word_key5) || '';
@@ -1722,7 +1721,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					/*fill: fill,*/
 					stroke: stroke
 				});
-				var style4 = new ol.style.Style({
+				var style0 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas2,
 					imgSize: [300, 200],
@@ -1756,7 +1755,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style4, style10, style11, style12, style13, style14, style15, style16, style2, style3, style5, style, style6, style10];
+				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style3, style5, style, style6, style10];
 			}
 
 },
