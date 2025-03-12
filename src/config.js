@@ -1598,8 +1598,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 20,
-								offsetY : 7,
+								offsetX : 140,
+								offsetY : 33,
 								fill: new ol.style.Fill({
                             color: word7
                         }),
@@ -1621,6 +1621,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					
 					stroke: stroke
 				});
+
 				var style10 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_left_'+ word10 +'.png',
