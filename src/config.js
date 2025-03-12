@@ -1714,7 +1714,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word3 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [30, 0],
+					anchor: [-150, -5],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -1732,17 +1732,6 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					fill: fill,
 					stroke: stroke
 				});
-				var style5 = new ol.style.Style({
-					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/black_'+ word4 +'_city.png',
-							anchor: [280, 0],
-								anchorXUnits: 'pixels',
-								anchorYUnits: 'pixels',
-							scale:0.20
-						}),
-												
-					stroke: stroke
-				});
 				var style6 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_black_'+ word5 +'.png',
@@ -1755,7 +1744,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style4, style10, style11, style12, style13, style14, style15, style16, style2, style3, style5, style, style6, style10];
+				return [style4, style10, style11, style12, style13, style14, style15, style16, style2, style3, style, style6, style10];
 			}
 
 },
