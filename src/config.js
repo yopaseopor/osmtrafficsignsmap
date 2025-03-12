@@ -1561,11 +1561,6 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word10 = feature.get(word_key10) || '';
 				
 				var canvas = document.createElement('canvas');
-canvas.width = 50;
-canvas.height = 15;
-var ctx = canvas.getContext('2d');
-ctx.fillStyle = word3;
-ctx.fillRect(0, 0, canvas.width, canvas.height);
 
 var canvas2 = document.createElement('canvas');
 canvas2.width = 300;
@@ -1623,13 +1618,14 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style3 = new ol.style.Style({
 					image: new ol.style.Icon({
-					img: canvas,
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word3 +'.png',
 					imgSize: [50, 15],
+					rotateWithView: false,
 					anchor: [30, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
-					fill: fill,
+					/*fill: fill,*/
 					stroke: stroke
 				});
 				var style4 = new ol.style.Style({
