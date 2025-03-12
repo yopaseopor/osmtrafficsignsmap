@@ -1661,7 +1661,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 												
 					stroke: stroke
 				});
-				var style7 = new ol.style.Style({
+				/*var style7 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/ES_S200.svg',
 							imgSize: [500, 225],
@@ -1672,7 +1672,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 						}),
 												
 					stroke: stroke
-				});
+				});*/
 				return [style, style10, style2, style7, style3, style5, style4, style6];
 			}
 
