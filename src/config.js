@@ -1660,7 +1660,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style4, style10, style2, style3, style5, style, style6];
+				return [style4, style2, style3, style5, style, style6, style10];
 			}
 
 },
