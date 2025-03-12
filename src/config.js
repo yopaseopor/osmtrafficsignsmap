@@ -1601,7 +1601,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 135,
+								offsetX : 130,
 								offsetY : 30,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,200,1)'
@@ -1615,7 +1615,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: wordb,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 135,
+								offsetX : 130,
 								offsetY : 40,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,200,1)'
