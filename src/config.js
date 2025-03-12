@@ -374,7 +374,7 @@ return null;
 },
   
 {
-			group: 'ES',
+			group: 'ES-Complex',
 			title: 'ES_S700',
 			query: '(nwr["traffic_sign"~"ES:S7.."]({{bbox}});node(w););out meta;',
 			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S700.png',
@@ -1556,6 +1556,9 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex8 = /^colour:back$/
 				var word_key8 = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "word8"
 				var word8 = feature.get(word_key8) || '';
+				var key_regex10 = /^left$/
+				var word_key10 = feature.getKeys().filter(function(t){return t.match(key_regex10)}).pop() || "word10"
+				var word10 = feature.get(word_key10) || '';
 				
 				var canvas = document.createElement('canvas');
 canvas.width = 50;
@@ -1605,6 +1608,17 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
                         }),
 							}),
 					
+					stroke: stroke
+				});
+				var style10 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/roundabout_'+ word10 +'.png',
+							anchor: [-1150, 0],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
 					stroke: stroke
 				});
 				var style3 = new ol.style.Style({
@@ -1663,7 +1677,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 												
 					stroke: stroke
 				});
-				return [style, style2, style7, style4, style3, style5, style6];
+				return [style, style10, style2, style7, style4, style3, style5, style6];
 			}
 
 },
