@@ -1730,7 +1730,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style6b = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word6 +'.png',
-					imgSize: [100, 200],
+					imgSize: [1000, 2000],
 					rotateWithView: false,
 					anchor: [-120, -5],
 					anchorXUnits: 'pixels',
