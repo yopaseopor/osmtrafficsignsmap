@@ -419,6 +419,15 @@ return null;
 				var key_regex13 = /^destination:2$/
 				var name_key13 = feature.getKeys().filter(function(t){return t.match(key_regex13)}).pop() || "name13"
 				var name13 = feature.get(name_key13) || '';
+				var key_regex14 = /^colour:symbol$/
+				var name_key14 = feature.getKeys().filter(function(t){return t.match(key_regex14)}).pop() || "name14"
+				var name14 = feature.get(name_key14) || '';
+				var key_regex15 = /^colour:symbol:2$/
+				var name_key15 = feature.getKeys().filter(function(t){return t.match(key_regex15)}).pop() || "name15"
+				var name15 = feature.get(name_key15) || '';
+				var key_regex16 = /^colour:symbol:3$/
+				var name_key16 = feature.getKeys().filter(function(t){return t.match(key_regex16)}).pop() || "name16"
+				var name16 = feature.get(name_key16) || '';
 				
 				var canvas = document.createElement('canvas');
 				canvas.width = 310;
@@ -572,7 +581,7 @@ return null;
 				});
 				var style6 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/sign_black_'+ name5 +'.png',
+							src: imgSrc + 'ES/textures/content/sign_'+ name14 +'_'+ name5 +'.png',
 							anchor: [0, 0],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
@@ -628,6 +637,15 @@ return null;
 				var key_regex11 = /^destination:ref:3$/
 				var name_key11 = feature.getKeys().filter(function(t){return t.match(key_regex11)}).pop() || "name11"
 				var name11 = feature.get(name_key11) || '';
+				var key_regex14 = /^colour:symbol$/
+				var name_key14 = feature.getKeys().filter(function(t){return t.match(key_regex14)}).pop() || "name14"
+				var name14 = feature.get(name_key14) || '';
+				var key_regex15 = /^colour:symbol:2$/
+				var name_key15 = feature.getKeys().filter(function(t){return t.match(key_regex15)}).pop() || "name15"
+				var name15 = feature.get(name_key15) || '';
+				var key_regex16 = /^colour:symbol:3$/
+				var name_key16 = feature.getKeys().filter(function(t){return t.match(key_regex16)}).pop() || "name16"
+				var name16 = feature.get(name_key16) || '';
 				
 				var canvas = document.createElement('canvas');
 				canvas.width = 310;
@@ -766,7 +784,7 @@ return null;
 				});
 				var style6 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/sign_black_'+ name5 +'.png',
+							src: imgSrc + 'ES/textures/content/sign_'+ name14 +'_'+ name5 +'.png',
 							anchor: [-1150, 0],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
@@ -1083,6 +1101,16 @@ return null;
 				var key_regex12 = /^destination:street$/
 				var name_key12 = feature.getKeys().filter(function(t){return t.match(key_regex12)}).pop() || "name12"
 				var name12 = feature.get(name_key) || '';
+				var key_regex14 = /^colour:symbol$/
+				var name_key14 = feature.getKeys().filter(function(t){return t.match(key_regex14)}).pop() || "name14"
+				var name14 = feature.get(name_key14) || '';
+				var key_regex15 = /^colour:symbol:2$/
+				var name_key15 = feature.getKeys().filter(function(t){return t.match(key_regex15)}).pop() || "name15"
+				var name15 = feature.get(name_key15) || '';
+				var key_regex16 = /^colour:symbol:3$/
+				var name_key16 = feature.getKeys().filter(function(t){return t.match(key_regex16)}).pop() || "name16"
+				var name16 = feature.get(name_key16) || '';
+				
 				
 				var canvas = document.createElement('canvas');
 				canvas.width = 310;
@@ -1236,7 +1264,7 @@ return null;
 				});
 				var style6 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/sign_black_'+ name5 +'.png',
+							src: imgSrc + 'ES/textures/content/sign_'+ name14 +'_'+ name5 +'.png',
 							anchor: [-1150, 0],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
@@ -1304,6 +1332,18 @@ return null;
 				var key_regex11 = /^destination:ref:3$/
 				var name_key11 = feature.getKeys().filter(function(t){return t.match(key_regex11)}).pop() || "name11"
 				var name11 = feature.get(name_key11) || '';
+				var key_regex13 = /^destination:2$/
+				var name_key13 = feature.getKeys().filter(function(t){return t.match(key_regex13)}).pop() || "name13"
+				var name13 = feature.get(name_key13) || '';
+				var key_regex14 = /^colour:symbol$/
+				var name_key14 = feature.getKeys().filter(function(t){return t.match(key_regex14)}).pop() || "name14"
+				var name14 = feature.get(name_key14) || '';
+				var key_regex15 = /^colour:symbol:2$/
+				var name_key15 = feature.getKeys().filter(function(t){return t.match(key_regex15)}).pop() || "name15"
+				var name15 = feature.get(name_key15) || '';
+				var key_regex16 = /^colour:symbol:3$/
+				var name_key16 = feature.getKeys().filter(function(t){return t.match(key_regex16)}).pop() || "name16"
+				var name16 = feature.get(name_key16) || '';
 				
 				var canvas = document.createElement('canvas');
 				canvas.width = 310;
@@ -1327,6 +1367,21 @@ return null;
 								textAlign:'left',
 								offsetX : 20,
 								offsetY : 7,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: name7
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style13 = new ol.style.Style({
+					text: new ol.style.Text({
+								text: name13,
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 20,
+								offsetY : 27,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
                             color: name7
@@ -1442,7 +1497,7 @@ return null;
 				});
 				var style6 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/sign_black_'+ name5 +'.png',
+							src: imgSrc + 'ES/textures/content/sign_'+ name14 +'_'+ name5 +'.png',
 							anchor: [-1150, 0],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
