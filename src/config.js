@@ -1606,7 +1606,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style10 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_left_'+ word10 +'.png',
-							anchor: [-150, 0],
+							anchor: [-120, -20],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
