@@ -1560,8 +1560,6 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word_key10 = feature.getKeys().filter(function(t){return t.match(key_regex10)}).pop() || "word10"
 				var word10 = feature.get(word_key10) || '';
 				
-				var canvas = document.createElement('canvas');
-
 var canvas2 = document.createElement('canvas');
 canvas2.width = 300;
 canvas2.height = 200;
@@ -1673,7 +1671,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 												
 					stroke: stroke
 				});
-				return [style, style10, style2, style7, style3, style5, style4, style6];
+				return [style4, style10, style2, style7, style3, style5, style, style6];
 			}
 
 },
