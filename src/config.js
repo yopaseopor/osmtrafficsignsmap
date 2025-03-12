@@ -1608,10 +1608,10 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style10 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_'+ word10 +'.png',
-							anchor: [-1150, 0],
+							anchor: [0, 0],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
-							scale:0.15
+							scale:1
 						}),
 												
 					stroke: stroke
