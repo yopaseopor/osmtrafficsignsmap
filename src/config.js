@@ -1541,9 +1541,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex3 = /^colour:ref:through$/
 				var word_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "word3"
 				var word3 = feature.get(word_key3) || '';
-				var key_regex4 = /^through$/
-				var word_key4 = feature.getKeys().filter(function(t){return t.match(key_regex4)}).pop() || "word4"
-				var word4 = feature.get(word_key4) || '';
+				
 				var key_regex5 = /^destination:symbol$/
 				var word_key5 = feature.getKeys().filter(function(t){return t.match(key_regex5)}).pop() || "word5"
 				var word5 = feature.get(word_key5) || '';
@@ -1559,6 +1557,27 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex10 = /^left$/
 				var word_key10 = feature.getKeys().filter(function(t){return t.match(key_regex10)}).pop() || "word10"
 				var word10 = feature.get(word_key10) || '';
+				var key_regex11 = /^slight_left$/
+				var word_key11 = feature.getKeys().filter(function(t){return t.match(key_regex11)}).pop() || "word11"
+				var word11 = feature.get(word_key11) || '';
+				var key_regex4 = /^through$/
+				var word_key4 = feature.getKeys().filter(function(t){return t.match(key_regex4)}).pop() || "word4"
+				var word4 = feature.get(word_key4) || '';
+				var key_regex12 = /^slight_right$/
+				var word_key12 = feature.getKeys().filter(function(t){return t.match(key_regex12)}).pop() || "word12"
+				var word12 = feature.get(word_key12) || '';
+				var key_regex13 = /^right$/
+				var word_key13 = feature.getKeys().filter(function(t){return t.match(key_regex13)}).pop() || "word13"
+				var word13 = feature.get(word_key13) || '';
+				var key_regex14 = /^sharp_right$/
+				var word_key14 = feature.getKeys().filter(function(t){return t.match(key_regex14)}).pop() || "word14"
+				var word14 = feature.get(word_key14) || '';
+				var key_regex15 = /^u_turn$/
+				var word_key15 = feature.getKeys().filter(function(t){return t.match(key_regex15)}).pop() || "word15"
+				var word15 = feature.get(word_key15) || '';
+				var key_regex16 = /^sharp_left$/
+				var word_key16 = feature.getKeys().filter(function(t){return t.match(key_regex15)}).pop() || "word16"
+				var word16 = feature.get(word_key16) || '';
 				
 var canvas2 = document.createElement('canvas');
 canvas2.width = 300;
@@ -1614,6 +1633,83 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 												
 					stroke: stroke
 				});
+				var style11 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/roundabout_slight_left_'+ word11 +'.png',
+							anchor: [-100, -60],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:1
+						}),
+												
+					stroke: stroke
+				});
+				var style4 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/roundabout_through_'+ word4 +'.png',
+							anchor: [-100, -60],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:1
+						}),
+												
+					stroke: stroke
+				});
+				var style12 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/roundabout_slight_right_'+ word12 +'.png',
+							anchor: [-100, -60],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:1
+						}),
+												
+					stroke: stroke
+				});
+				var style13 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/roundabout_right_'+ word13 +'.png',
+							anchor: [-100, -60],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:1
+						}),
+												
+					stroke: stroke
+				});
+				var style14 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/roundabout_sharp_right_'+ word14 +'.png',
+							anchor: [-100, -60],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:1
+						}),
+												
+					stroke: stroke
+				});
+				var style15 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/roundabout_u_turn_'+ word15 +'.png',
+							anchor: [-100, -60],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:1
+						}),
+												
+					stroke: stroke
+				});
+				var style16 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/roundabout_sharp_left_'+ word16 +'.png',
+							anchor: [-100, -60],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:1
+						}),
+												
+					stroke: stroke
+				});
 				var style3 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word3 +'.png',
@@ -1660,7 +1756,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style4, style2, style3, style5, style, style6, style10];
+				return [style4, style10, style11, style12, style13, style14, style15, style16, style2, style3, style5, style, style6, style10];
 			}
 
 },
