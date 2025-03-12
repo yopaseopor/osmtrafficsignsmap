@@ -1661,7 +1661,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style7 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/ES_S200.svg',
+							src: imgSrc + 'ES/textures/ES_S200_empty.svg',
 							imgSize: [500, 225],
 					anchor: [0, 0],
 					anchorXUnits: 'pixels',
