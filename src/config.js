@@ -1598,10 +1598,10 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 140,
+								offsetX : 145,
 								offsetY : 33,
 								fill: new ol.style.Fill({
-                            color: word7
+                            color: 'rgba(255,255,200,1)'
                         }),
 							}),
 					
