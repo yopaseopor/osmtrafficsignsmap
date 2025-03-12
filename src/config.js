@@ -1721,7 +1721,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					/*fill: fill,*/
 					stroke: stroke
 				});
-				var style4 = new ol.style.Style({
+				var style0 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas2,
 					imgSize: [300, 200],
@@ -1744,7 +1744,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style4, style10, style11, style12, style13, style14, style15, style16, style2, style3, style, style6, style10];
+				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style3, style, style6, style10];
 			}
 
 },
