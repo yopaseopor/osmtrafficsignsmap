@@ -1528,7 +1528,7 @@ return null;
 {
 			group: 'ES',
 			title: 'ES_S200',
-query: '(nwr["traffic_sign:id"="ES:S200"]({{bbox}});node(w););out meta;',
+query: '(nwr["traffic_sign:id"="ES:S200-1"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S200.png',
 			iconStyle: 'background-color:#FFFFFF',
 			style: function (feature) {
