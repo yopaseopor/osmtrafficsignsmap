@@ -1750,8 +1750,10 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								}),
 					/*fill: fill,*/
 					stroke: new ol.style.Stroke({
-					color: '#FFFFFF',
-					width: 50
+					fill: new ol.style.Fill({
+                            color: 'rgba(255,255,200,1)',
+							width: 50
+                        }),
 				}),
 				});
 				var style0 = new ol.style.Style({
