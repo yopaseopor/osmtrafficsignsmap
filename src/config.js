@@ -1538,13 +1538,16 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regexb = /^destination:through:2$/
 				var word_keyb = feature.getKeys().filter(function(t){return t.match(key_regexb)}).pop() || "wordb"
 				var wordb = feature.get(word_keyb) || '';
+				var key_regexc = /^destination:through:3$/
+				var word_keyc = feature.getKeys().filter(function(t){return t.match(key_regexb)}).pop() || "wordc"
+				var wordc = feature.get(word_keyc) || '';
 				var key_regex2 = /^destination:ref:through$/
 				var word_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word2"
 				var word2 = feature.get(word_key2) || '';
 				var key_regex3 = /^colour:ref:through$/
 				var word_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "word3"
 				var word3 = feature.get(word_key3) || '';
-				var key_regex5 = /^destination:symbol$/
+				var key_regex5 = /^destination:symbol:through$/
 				var word_key5 = feature.getKeys().filter(function(t){return t.match(key_regex5)}).pop() || "word5"
 				var word5 = feature.get(word_key5) || '';
 				var key_regex6 = /^colour:back:through$/
@@ -1580,6 +1583,30 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex16 = /^sharp_left$/
 				var word_key16 = feature.getKeys().filter(function(t){return t.match(key_regex15)}).pop() || "word16"
 				var word16 = feature.get(word_key16) || '';
+				var key_regex20 = /^destination:slight_left$/
+				var word_key20 = feature.getKeys().filter(function(t){return t.match(key_regex20)}).pop() || "word20"
+				var word = feature.get(word_key) || '';
+				var key_regex20b = /^destination:slight_left:2$/
+				var word_key20b = feature.getKeys().filter(function(t){return t.match(key_regex20b)}).pop() || "word20b"
+				var word20b = feature.get(word_key20b) || '';
+				var key_regex20c = /^destination:slight_left:3$/
+				var word_key20c = feature.getKeys().filter(function(t){return t.match(key_regex20c)}).pop() || "word20c"
+				var word20c = feature.get(word_keyc) || '';
+				var key_regex22 = /^destination:ref:slight_left$/
+				var word_key22 = feature.getKeys().filter(function(t){return t.match(key_regex22)}).pop() || "word22"
+				var word22 = feature.get(word_key22) || '';
+				var key_regex23 = /^colour:ref:slight_left$/
+				var word_key23 = feature.getKeys().filter(function(t){return t.match(key_regex23)}).pop() || "word23"
+				var word23 = feature.get(word_key23) || '';
+				var key_regex25 = /^destination:symbol:slight_left$/
+				var word_key25 = feature.getKeys().filter(function(t){return t.match(key_regex25)}).pop() || "word25"
+				var word25 = feature.get(word_key25) || '';
+				var key_regex26 = /^colour:back:slight_left$/
+				var word_key26 = feature.getKeys().filter(function(t){return t.match(key_regex26)}).pop() || "word26"
+				var word26 = feature.get(word_key26) || '';
+				var key_regex27 = /^colour:text:slight_left$/
+				var word_key27 = feature.getKeys().filter(function(t){return t.match(key_regex27)}).pop() || "word27"
+				var word27 = feature.get(word_key27) || '';
 				
 var canvas2 = document.createElement('canvas');
 canvas2.width = 300;
@@ -1604,7 +1631,21 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 130,
 								offsetY : 30,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,200,1)'
+                            color: word7
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style20 = new ol.style.Style({
+					text: new ol.style.Text({
+								text: word20,
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 30,
+								offsetY : 30,
+								fill: new ol.style.Fill({
+                            color: word7
                         }),
 							}),
 					
@@ -1779,7 +1820,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style6b, style3, style,styleb, style6, style10];
+				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style6b, style3, style, styleb, style20, style6, style10];
 			}
 
 },
