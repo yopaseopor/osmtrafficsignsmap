@@ -1851,10 +1851,10 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style33 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word3 +'.png',
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word33 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-150, -45],
+					anchor: [-150, -105],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
