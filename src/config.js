@@ -1866,6 +1866,20 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
                         }),
 				}),
 				});
+				var style32 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word32,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 85,
+								offsetY : -90,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
 				var style0 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas2,
@@ -1889,7 +1903,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style6b, style3, style33, style, styleb, style20, style30, style30b, style6, style10];
+				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style32, style6b, style3, style33, style, styleb, style20, style30, style30b, style6, style10];
 			}
 
 },
