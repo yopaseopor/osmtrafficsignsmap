@@ -1645,7 +1645,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 30,
 								offsetY : 30,
 								fill: new ol.style.Fill({
-                            color: word7
+                            color: word27
                         }),
 							}),
 					
