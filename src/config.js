@@ -1732,7 +1732,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word6 +'.png',
 					imgSize: [102, 59],
 					rotateWithView: false,
-					anchor: [-120, -5],
+					anchor: [-100, -5],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
