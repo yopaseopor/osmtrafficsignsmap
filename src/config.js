@@ -1527,7 +1527,7 @@ return null;
   
 {
 			group: 'ES',
-			title: 'ES_S200-2',
+			title: 'ES_S200-1',
 query: '(nwr["traffic_sign:id"="ES:S200"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S200.png',
 			iconStyle: 'background-color:#FFFFFF',
@@ -1585,7 +1585,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word16 = feature.get(word_key16) || '';
 				var key_regex20 = /^destination:slight_left$/
 				var word_key20 = feature.getKeys().filter(function(t){return t.match(key_regex20)}).pop() || "word20"
-				var word = feature.get(word_key20) || '';
+				var word20 = feature.get(word_key20) || '';
 				var key_regex20b = /^destination:slight_left:2$/
 				var word_key20b = feature.getKeys().filter(function(t){return t.match(key_regex20b)}).pop() || "word20b"
 				var word20b = feature.get(word_key20b) || '';
