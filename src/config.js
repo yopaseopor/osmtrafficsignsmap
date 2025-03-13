@@ -1631,6 +1631,102 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex37 = /^colour:text:left$/
 				var word_key37 = feature.getKeys().filter(function(t){return t.match(key_regex37)}).pop() || "word37"
 				var word37 = feature.get(word_key37) || '';
+				var key_regex40 = /^destination:sharp_left$/
+				var word_key40 = feature.getKeys().filter(function(t){return t.match(key_regex40)}).pop() || "word40"
+				var word40 = feature.get(word_key40) || '';
+				var key_regex40b = /^destination:sharp_left:2$/
+				var word_key40b = feature.getKeys().filter(function(t){return t.match(key_regex40b)}).pop() || "word40b"
+				var word40b = feature.get(word_key40b) || '';
+				var key_regex40c = /^destination:sharp_left:3$/
+				var word_key40c = feature.getKeys().filter(function(t){return t.match(key_regex40c)}).pop() || "word40c"
+				var word40c = feature.get(word_key40c) || '';
+				var key_regex42 = /^destination:ref:sharp_left$/
+				var word_key42 = feature.getKeys().filter(function(t){return t.match(key_regex42)}).pop() || "word42"
+				var word42 = feature.get(word_key42) || '';
+				var key_regex43 = /^colour:ref:sharp_left$/
+				var word_key43 = feature.getKeys().filter(function(t){return t.match(key_regex43)}).pop() || "word43"
+				var word43 = feature.get(word_key43) || '';
+				var key_regex45 = /^destination:symbol:sharp_left$/
+				var word_key45 = feature.getKeys().filter(function(t){return t.match(key_regex45)}).pop() || "word45"
+				var word45 = feature.get(word_key45) || '';
+				var key_regex46 = /^colour:back:sharp_left$/
+				var word_key46 = feature.getKeys().filter(function(t){return t.match(key_regex46)}).pop() || "word46"
+				var word46 = feature.get(word_key46) || '';
+				var key_regex47 = /^colour:text:sharp_left$/
+				var word_key47 = feature.getKeys().filter(function(t){return t.match(key_regex47)}).pop() || "word47"
+				var word47 = feature.get(word_key47) || '';
+				var key_regex50 = /^destination:u_turn$/
+				var word_key50 = feature.getKeys().filter(function(t){return t.match(key_regex50)}).pop() || "word50"
+				var word50 = feature.get(word_key50) || '';
+				var key_regex50b = /^destination:u_turn:2$/
+				var word_key50b = feature.getKeys().filter(function(t){return t.match(key_regex50b)}).pop() || "word50b"
+				var word50b = feature.get(word_key50b) || '';
+				var key_regex50c = /^destination:u_turn:3$/
+				var word_key50c = feature.getKeys().filter(function(t){return t.match(key_regex50c)}).pop() || "word50c"
+				var word50c = feature.get(word_key50c) || '';
+				var key_regex52 = /^destination:ref:u_turn$/
+				var word_key52 = feature.getKeys().filter(function(t){return t.match(key_regex52)}).pop() || "word52"
+				var word52 = feature.get(word_key52) || '';
+				var key_regex53 = /^colour:ref:u_turn$/
+				var word_key53 = feature.getKeys().filter(function(t){return t.match(key_regex53)}).pop() || "word53"
+				var word53 = feature.get(word_key53) || '';
+				var key_regex55 = /^destination:symbol:u_turn$/
+				var word_key55 = feature.getKeys().filter(function(t){return t.match(key_regex55)}).pop() || "word55"
+				var word55 = feature.get(word_key55) || '';
+				var key_regex56 = /^colour:back:u_turn$/
+				var word_key56 = feature.getKeys().filter(function(t){return t.match(key_regex56)}).pop() || "word56"
+				var word56 = feature.get(word_key56) || '';
+				var key_regex57 = /^colour:text:u_turn$/
+				var word_key57 = feature.getKeys().filter(function(t){return t.match(key_regex57)}).pop() || "word57"
+				var word57 = feature.get(word_key57) || '';
+				var key_regex60 = /^destination:sharp_right$/
+				var word_key60 = feature.getKeys().filter(function(t){return t.match(key_regex60)}).pop() || "word60"
+				var word60 = feature.get(word_key60) || '';
+				var key_regex60b = /^destination:sharp_right:2$/
+				var word_key60b = feature.getKeys().filter(function(t){return t.match(key_regex60b)}).pop() || "word60b"
+				var word60b = feature.get(word_key60b) || '';
+				var key_regex60c = /^destination:sharp_right:3$/
+				var word_key60c = feature.getKeys().filter(function(t){return t.match(key_regex60c)}).pop() || "word60c"
+				var word60c = feature.get(word_key60c) || '';
+				var key_regex62 = /^destination:ref:sharp_right$/
+				var word_key62 = feature.getKeys().filter(function(t){return t.match(key_regex62)}).pop() || "word62"
+				var word62 = feature.get(word_key62) || '';
+				var key_regex63 = /^colour:ref:sharp_right$/
+				var word_key63 = feature.getKeys().filter(function(t){return t.match(key_regex63)}).pop() || "word63"
+				var word63 = feature.get(word_key63) || '';
+				var key_regex65 = /^destination:symbol:sharp_right$/
+				var word_key65 = feature.getKeys().filter(function(t){return t.match(key_regex65)}).pop() || "word65"
+				var word65 = feature.get(word_key65) || '';
+				var key_regex66 = /^colour:back:sharp_right$/
+				var word_key66 = feature.getKeys().filter(function(t){return t.match(key_regex66)}).pop() || "word66"
+				var word66 = feature.get(word_key66) || '';
+				var key_regex67 = /^colour:text:sharp_right$/
+				var word_key67 = feature.getKeys().filter(function(t){return t.match(key_regex67)}).pop() || "word67"
+				var word67 = feature.get(word_key67) || '';
+				var key_regex70 = /^destination:right$/
+				var word_key70 = feature.getKeys().filter(function(t){return t.match(key_regex70)}).pop() || "word70"
+				var word70 = feature.get(word_key70) || '';
+				var key_regex70b = /^destination:right:2$/
+				var word_key70b = feature.getKeys().filter(function(t){return t.match(key_regex70b)}).pop() || "word70b"
+				var word70b = feature.get(word_key70b) || '';
+				var key_regex70c = /^destination:right:3$/
+				var word_key70c = feature.getKeys().filter(function(t){return t.match(key_regex70c)}).pop() || "word70c"
+				var word70c = feature.get(word_key70c) || '';
+				var key_regex72 = /^destination:ref:right$/
+				var word_key72 = feature.getKeys().filter(function(t){return t.match(key_regex72)}).pop() || "word72"
+				var word72 = feature.get(word_key72) || '';
+				var key_regex73 = /^colour:ref:right$/
+				var word_key73 = feature.getKeys().filter(function(t){return t.match(key_regex73)}).pop() || "word73"
+				var word73 = feature.get(word_key73) || '';
+				var key_regex75 = /^destination:symbol:right$/
+				var word_key75 = feature.getKeys().filter(function(t){return t.match(key_regex75)}).pop() || "word75"
+				var word75 = feature.get(word_key75) || '';
+				var key_regex76 = /^colour:back:right$/
+				var word_key76 = feature.getKeys().filter(function(t){return t.match(key_regex76)}).pop() || "word76"
+				var word76 = feature.get(word_key76) || '';
+				var key_regex77 = /^colour:text:right$/
+				var word_key77 = feature.getKeys().filter(function(t){return t.match(key_regex77)}).pop() || "word77"
+				var word77 = feature.get(word_key77) || '';
 				
 var canvas2 = document.createElement('canvas');
 canvas2.width = 300;
@@ -1684,6 +1780,20 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetY : 95,
 								fill: new ol.style.Fill({
                             color: word37
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style70 = new ol.style.Style({
+					text: new ol.style.Text({
+								text: word30,
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 140,
+								offsetY : 95,
+								fill: new ol.style.Fill({
+                            color: word77
                         }),
 							}),
 					
@@ -1903,7 +2013,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style32, style6b, style3, style33, style, styleb, style20, style30, style30b, style6, style10];
+				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style32, style6b, style3, style33, style, styleb, style20, style30, style30b, style70, style6, style10];
 			}
 
 },
