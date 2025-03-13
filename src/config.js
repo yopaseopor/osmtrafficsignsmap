@@ -1689,6 +1689,20 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					
 					stroke: stroke
 				});
+				var style30b = new ol.style.Style({
+					text: new ol.style.Text({
+								text: word30b,
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 40,
+								offsetY : 100,
+								fill: new ol.style.Fill({
+                            color: word37
+                        }),
+							}),
+					
+					stroke: stroke
+				});
 				var styleb = new ol.style.Style({
 					text: new ol.style.Text({
 								text: wordb,
@@ -1858,7 +1872,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style6b, style3, style, styleb, style20, style30, style6, style10];
+				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style6b, style3, style, styleb, style20, style30, style30b, style6, style10];
 			}
 
 },
