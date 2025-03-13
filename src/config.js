@@ -1787,10 +1787,10 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style70 = new ol.style.Style({
 					text: new ol.style.Text({
-								text: word30,
+								text: word70,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 140,
+								offsetX : 200,
 								offsetY : 95,
 								fill: new ol.style.Fill({
                             color: word77
