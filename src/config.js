@@ -1749,7 +1749,10 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					anchorYUnits: 'pixels'
 								}),
 					/*fill: fill,*/
-					stroke: stroke
+					stroke: new ol.style.Stroke({
+					color: '#FFFFFF',
+					width: 1.25
+				}),
 				});
 				var style0 = new ol.style.Style({
 					image: new ol.style.Icon({
