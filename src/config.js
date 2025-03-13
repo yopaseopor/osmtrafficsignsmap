@@ -1849,6 +1849,23 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
                         }),
 				}),
 				});
+				var style33 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word3 +'.png',
+					imgSize: [50, 15],
+					rotateWithView: false,
+					anchor: [-150, -45],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: new ol.style.Stroke({
+					fill: new ol.style.Fill({
+                            color: 'rgba(255,255,200,1)',
+							width: 50
+                        }),
+				}),
+				});
 				var style0 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas2,
@@ -1872,7 +1889,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style6b, style3, style, styleb, style20, style30, style30b, style6, style10];
+				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style6b, style3, style33, style, styleb, style20, style30, style30b, style6, style10];
 			}
 
 },
