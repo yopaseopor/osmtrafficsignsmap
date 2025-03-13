@@ -1585,13 +1585,13 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word16 = feature.get(word_key16) || '';
 				var key_regex20 = /^destination:slight_left$/
 				var word_key20 = feature.getKeys().filter(function(t){return t.match(key_regex20)}).pop() || "word20"
-				var word = feature.get(word_key) || '';
+				var word = feature.get(word_key20) || '';
 				var key_regex20b = /^destination:slight_left:2$/
 				var word_key20b = feature.getKeys().filter(function(t){return t.match(key_regex20b)}).pop() || "word20b"
 				var word20b = feature.get(word_key20b) || '';
 				var key_regex20c = /^destination:slight_left:3$/
 				var word_key20c = feature.getKeys().filter(function(t){return t.match(key_regex20c)}).pop() || "word20c"
-				var word20c = feature.get(word_keyc) || '';
+				var word20c = feature.get(word_key20c) || '';
 				var key_regex22 = /^destination:ref:slight_left$/
 				var word_key22 = feature.getKeys().filter(function(t){return t.match(key_regex22)}).pop() || "word22"
 				var word22 = feature.get(word_key22) || '';
