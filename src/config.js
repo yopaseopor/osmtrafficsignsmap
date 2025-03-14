@@ -1557,7 +1557,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word_key7 = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "word7"
 				var word7 = feature.get(word_key7) || '';
 				var key_regex8 = /^colour:back$/
-				var word_key8 = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "word8"
+				var word_key8 = feature.getKeys().filter(function(t){return t.match(key_regex8)}).pop() || "word8"
 				var word8 = feature.get(word_key8) || '';
 				var key_regex10 = /^left$/
 				var word_key10 = feature.getKeys().filter(function(t){return t.match(key_regex10)}).pop() || "word10"
