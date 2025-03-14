@@ -2092,6 +2092,19 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							}),
 					
 					stroke: stroke
+				var style72 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word72,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 170,
+								offsetY : 80,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							}),
+					
+					stroke: stroke
 				});
 				var style0 = new ol.style.Style({
 					image: new ol.style.Icon({
