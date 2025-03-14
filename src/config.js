@@ -2033,7 +2033,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word36 +'.png',
 					imgSize: [102, 59],
 					rotateWithView: false,
-					anchor: [150, -75],
+					anchor: [100, -70],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2045,7 +2045,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word76 +'.png',
 					imgSize: [102, 59],
 					rotateWithView: false,
-					anchor: [-200, -75],
+					anchor: [-195, -70],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
