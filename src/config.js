@@ -2101,7 +2101,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 170,
 								offsetY : 80,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,255,1)'
+                            color: 'rgba(255,255,200,1)'
                         }),
 							}),
 					
