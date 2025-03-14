@@ -2033,7 +2033,19 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word36 +'.png',
 					imgSize: [102, 59],
 					rotateWithView: false,
-					anchor: [-200, 55],
+					anchor: [200, -55],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style76 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word76 +'.png',
+					imgSize: [102, 59],
+					rotateWithView: false,
+					anchor: [-180, -55],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2142,7 +2154,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style32, style72, style6b, style36, style3, style33, style73, style, styleb, stylec,style20,style20b, style20c, style30, style30b, style30c, style70, style70b, style70c, style6, style10];
+				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style32, style72, style6b, style36, style76, style3, style33, style73, style, styleb, stylec,style20,style20b, style20c, style30, style30b, style30c, style70, style70b, style70c, style6, style10];
 			}
 
 },
