@@ -1771,6 +1771,34 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					
 					stroke: stroke
 				});
+				var style20b = new ol.style.Style({
+					text: new ol.style.Text({
+								text: word20b,
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 30,
+								offsetY : 45,
+								fill: new ol.style.Fill({
+                            color: word27
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style20c = new ol.style.Style({
+					text: new ol.style.Text({
+								text: word20c,
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 30,
+								offsetY : 55,
+								fill: new ol.style.Fill({
+                            color: word27
+                        }),
+							}),
+					
+					stroke: stroke
+				});
 				var style30 = new ol.style.Style({
 					text: new ol.style.Text({
 								text: word30,
@@ -1778,6 +1806,34 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								textAlign:'left',
 								offsetX : 40,
 								offsetY : 95,
+								fill: new ol.style.Fill({
+                            color: word37
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style30b = new ol.style.Style({
+					text: new ol.style.Text({
+								text: word30b,
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 40,
+								offsetY : 110,
+								fill: new ol.style.Fill({
+                            color: word37
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style30c = new ol.style.Style({
+					text: new ol.style.Text({
+								text: word30c,
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 40,
+								offsetY : 125,
 								fill: new ol.style.Fill({
                             color: word37
                         }),
@@ -1799,19 +1855,35 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					
 					stroke: stroke
 				});
-				var style30b = new ol.style.Style({
+				var style70b = new ol.style.Style({
 					text: new ol.style.Text({
-								text: word30b,
+								text: word70b,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 40,
+								offsetX : 200,
 								offsetY : 110,
 								fill: new ol.style.Fill({
-                            color: word37
+                            color: word77
                         }),
 							}),
 					
 					stroke: stroke
+				
+				});
+				var style70c = new ol.style.Style({
+					text: new ol.style.Text({
+								text: word70c,
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 200,
+								offsetY : 125,
+								fill: new ol.style.Fill({
+                            color: word77
+                        }),
+							}),
+					
+					stroke: stroke
+				
 				});
 				var styleb = new ol.style.Style({
 					text: new ol.style.Text({
@@ -1821,7 +1893,21 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 130,
 								offsetY : 40,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,200,1)'
+                            color: word7
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var stylec = new ol.style.Style({
+					text: new ol.style.Text({
+								text: wordc,
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 130,
+								offsetY : 55,
+								fill: new ol.style.Fill({
+                            color: word7
                         }),
 							}),
 					
@@ -2013,7 +2099,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style32, style6b, style3, style33, style, styleb, style20, style30, style30b, style70, style6, style10];
+				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style32, style6b, style3, style33, style, styleb, stylec,style20,style20b, style20c, style30, style30b, style30c, style70, style70b, style70c, style6, style10];
 			}
 
 },
