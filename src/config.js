@@ -2180,7 +2180,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style5 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/sign_black_'+ word5 +'.png',
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word5 +'.png',
 							anchor: [-1150, 0],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -2191,7 +2191,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style35 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/sign_'+ name14 +'_'+ word35 +'.png',
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word35 +'.png',
 							anchor: [-1150, 0],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
