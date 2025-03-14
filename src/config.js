@@ -1539,7 +1539,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word_keyb = feature.getKeys().filter(function(t){return t.match(key_regexb)}).pop() || "wordb"
 				var wordb = feature.get(word_keyb) || '';
 				var key_regexc = /^destination:through:3$/
-				var word_keyc = feature.getKeys().filter(function(t){return t.match(key_regexb)}).pop() || "wordc"
+				var word_keyc = feature.getKeys().filter(function(t){return t.match(key_regexc)}).pop() || "wordc"
 				var wordc = feature.get(word_keyc) || '';
 				var key_regex2 = /^destination:ref:through$/
 				var word_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word2"
@@ -2051,6 +2051,23 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					imgSize: [50, 15],
 					rotateWithView: false,
 					anchor: [-45, -72],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: new ol.style.Stroke({
+					fill: new ol.style.Fill({
+                            color: 'rgba(255,255,200,1)',
+							width: 50
+                        }),
+				}),
+				});
+				var style73 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word33 +'.png',
+					imgSize: [50, 15],
+					rotateWithView: false,
+					anchor: [120, -72],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
