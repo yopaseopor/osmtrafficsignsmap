@@ -1766,7 +1766,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				
 var canvas2 = document.createElement('canvas');
 canvas2.width = 300;
-canvas2.height = 200;
+canvas2.height = 250;
 var ctx2 = canvas2.getContext('2d');
 ctx2.fillStyle = word8;
 ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
@@ -2170,7 +2170,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style0 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas2,
-					imgSize: [300, 200],
+					imgSize: [300, 250],
 					anchor: [0, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
