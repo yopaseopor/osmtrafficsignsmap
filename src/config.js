@@ -1550,6 +1550,12 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex5 = /^destination:symbol:through$/
 				var word_key5 = feature.getKeys().filter(function(t){return t.match(key_regex5)}).pop() || "word5"
 				var word5 = feature.get(word_key5) || '';
+				var key_regex5b = /^destination:symbol:through:2$/
+				var word_key5b = feature.getKeys().filter(function(t){return t.match(key_regex5b)}).pop() || "word5b"
+				var word5b = feature.get(word_key5b) || '';
+				var key_regex5c = /^destination:symbol:through:3$/
+				var word_key5c = feature.getKeys().filter(function(t){return t.match(key_regex5c)}).pop() || "word5c"
+				var word5c = feature.get(word_key5c) || '';
 				var key_regex6 = /^colour:back:through$/
 				var word_key6 = feature.getKeys().filter(function(t){return t.match(key_regex6)}).pop() || "word6"
 				var word6 = feature.get(word_key6) || '';
@@ -2288,7 +2294,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style32, style72, style6, style36, style76, style3, style33, style73, style, styleb, stylec,style20,style20b, style20c, style30, style30b, style30c, style70, style70b, style70c, style5, style35, style35b, style35c, style75, style75b, style75c, style10];
+				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style32, style72, style6, style36, style76, style3, style33, style73, style, styleb, stylec,style20,style20b, style20c, style30, style30b, style30c, style70, style70b, style70c, style5, style5b, style5c, style35, style35b, style35c, style75, style75b, style75c, style10];
 			}
 
 },
