@@ -2056,9 +2056,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style6 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word6 +'.png',
-					imgSize: [117, 85],
+					imgSize: [117, 80],
 					rotateWithView: false,
-					anchor: [-85, -5],
+					anchor: [-115, -5],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2094,7 +2094,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word3 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-135, -5],
+					anchor: [-150, -5],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2111,7 +2111,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word33 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-30, -87],
+					anchor: [-60, -87],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2125,10 +2125,10 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style73 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word33 +'.png',
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word73 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-185, -87],
+					anchor: [-215, -87],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
