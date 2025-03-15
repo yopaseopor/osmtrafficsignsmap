@@ -1527,7 +1527,7 @@ return null;
   
 {
 			group: 'ES',
-			title: 'ES_S200-1',
+			title: 'ES_S200-2',
 query: '(nwr["traffic_sign:id"="ES:S200"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S200.png',
 			iconStyle: 'background-color:#FFFFFF',
@@ -1955,7 +1955,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word2,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 200,
+								offsetX : 180,
 								offsetY : 13,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -1969,8 +1969,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word32,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 70,
-								offsetY : 105,
+								offsetX : 100,
+								offsetY : 110,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -1984,7 +1984,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : 310,
-								offsetY : 105,
+								offsetY : 110,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -2122,7 +2122,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word3 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-150, -5],
+					anchor: [-170, -5],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2139,7 +2139,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word33 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-50, -100],
+					anchor: [-60, -100],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2156,7 +2156,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word73 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-255, -100],
+					anchor: [-285, -100],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
