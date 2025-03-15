@@ -2070,7 +2070,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word36 +'.png',
 					imgSize: [117, 85],
 					rotateWithView: false,
-					anchor: [-15, -85],
+					anchor: [-15, -90],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2082,7 +2082,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word76 +'.png',
 					imgSize: [117, 85],
 					rotateWithView: false,
-					anchor: [-225, -85],
+					anchor: [-225, -90],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2111,7 +2111,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word33 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-50, -87],
+					anchor: [-50, -100],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2128,7 +2128,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word73 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-245, -87],
+					anchor: [-255, -100],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
