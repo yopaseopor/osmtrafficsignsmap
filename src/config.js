@@ -2192,7 +2192,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style35 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word35 +'.png',
-							anchor: [-300, -600],
+							anchor: [-200, -700],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
