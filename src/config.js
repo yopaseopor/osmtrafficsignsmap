@@ -1855,7 +1855,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 40,
-								offsetY : 110,
+								offsetY : 125,
 								fill: new ol.style.Fill({
                             color: word37
                         }),
@@ -1869,7 +1869,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 40,
-								offsetY : 125,
+								offsetY : 140,
 								fill: new ol.style.Fill({
                             color: word37
                         }),
@@ -1883,7 +1883,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 200,
-								offsetY : 95,
+								offsetY : 110,
 								fill: new ol.style.Fill({
                             color: word77
                         }),
@@ -1897,7 +1897,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 200,
-								offsetY : 110,
+								offsetY : 125,
 								fill: new ol.style.Fill({
                             color: word77
                         }),
@@ -1912,7 +1912,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 200,
-								offsetY : 125,
+								offsetY : 140,
 								fill: new ol.style.Fill({
                             color: word77
                         }),
@@ -1967,7 +1967,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style10 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_left_'+ word10 +'.png',
-							anchor: [-100, -60],
+							anchor: [-100, -75],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -1978,7 +1978,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style11 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_slight_left_'+ word11 +'.png',
-							anchor: [-100, -60],
+							anchor: [-100, -75],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -1989,7 +1989,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style4 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_through_'+ word4 +'.png',
-							anchor: [-100, -60],
+							anchor: [-100, -75],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -2000,7 +2000,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style12 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_slight_right_'+ word12 +'.png',
-							anchor: [-100, -60],
+							anchor: [-100, -75],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -2011,7 +2011,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style13 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_right_'+ word13 +'.png',
-							anchor: [-100, -60],
+							anchor: [-100, -75],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -2033,7 +2033,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style15 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_u_turn_'+ word15 +'.png',
-							anchor: [-100, -60],
+							anchor: [-100, -75],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -2044,7 +2044,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style16 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_sharp_left_'+ word16 +'.png',
-							anchor: [-100, -60],
+							anchor: [-100, -75],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
