@@ -1731,7 +1731,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word_key75b = feature.getKeys().filter(function(t){return t.match(key_regex75b)}).pop() || "word75b"
 				var word75b = feature.get(word_key75b) || '';
 				var key_regex75c = /^destination:symbol:right:3$/
-				var word_key75c = feature.getKeys().filter(function(t){return t.match(key_regex30c)}).pop() || "word75c"
+				var word_key75c = feature.getKeys().filter(function(t){return t.match(key_regex75c)}).pop() || "word75c"
 				var word75c = feature.get(word_key75c) || '';
 				var key_regex76 = /^colour:back:right$/
 				var word_key76 = feature.getKeys().filter(function(t){return t.match(key_regex76)}).pop() || "word76"
@@ -2231,7 +2231,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style75 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word75 +'.png',
-							anchor: [-1185, -1000],
+							anchor: [-2185, -1000],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -2244,7 +2244,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style75b = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word75b +'.png',
-							anchor: [-1385, -1000],
+							anchor: [-2385, -1000],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -2256,7 +2256,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style75c = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word75c +'.png',
-							anchor: [-1585, -1000],
+							anchor: [-2585, -1000],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
