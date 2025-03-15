@@ -1869,7 +1869,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 47,
-								offsetY : 110,
+								offsetY : 125,
 								fill: new ol.style.Fill({
                             color: word37
                         }),
@@ -1883,7 +1883,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 47,
-								offsetY : 125,
+								offsetY : 140,
 								fill: new ol.style.Fill({
                             color: word37
                         }),
@@ -1897,7 +1897,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 47,
-								offsetY : 140,
+								offsetY : 155,
 								fill: new ol.style.Fill({
                             color: word37
                         }),
@@ -1911,7 +1911,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 222,
-								offsetY : 110,
+								offsetY : 125,
 								fill: new ol.style.Fill({
                             color: word77
                         }),
@@ -1925,7 +1925,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 222,
-								offsetY : 125,
+								offsetY : 140,
 								fill: new ol.style.Fill({
                             color: word77
                         }),
@@ -1940,7 +1940,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 222,
-								offsetY : 140,
+								offsetY : 155,
 								fill: new ol.style.Fill({
                             color: word77
                         }),
@@ -1955,8 +1955,36 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word2,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 167,
+								offsetX : 130,
 								offsetY : 13,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style32 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word32,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 45,
+								offsetY : 120,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style72 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word72,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 250,
+								offsetY : 120,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -2140,34 +2168,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
                         }),
 				}),
 				});
-				var style32 = new ol.style.Style({
-												text: new ol.style.Text({
-								text: word32,
-								font: 'bolder 12px Arial',
-								textAlign:'center',
-								offsetX : 60,
-								offsetY : 100,
-								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,255,1)'
-                        }),
-							}),
-					
-					stroke: stroke
-				});
-				var style72 = new ol.style.Style({
-												text: new ol.style.Text({
-								text: word72,
-								font: 'bolder 12px Arial',
-								textAlign:'center',
-								offsetX : 240,
-								offsetY : 100,
-								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,255,1)'
-                        }),
-							}),
-					
-					stroke: stroke
-				});
+				
 				var style0 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas2,
