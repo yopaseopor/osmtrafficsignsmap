@@ -2228,8 +2228,45 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 												
 					stroke: stroke
 				});
+				var style75 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word75 +'.png',
+							anchor: [-1185, -1000],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+					
+				});
+				var style75b = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word75b +'.png',
+							anchor: [-1385, -1000],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+				});
+				var style75c = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word75c +'.png',
+							anchor: [-1585, -1000],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+				});
 				
-				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style32, style72, style6, style36, style76, style3, style33, style73, style, styleb, stylec,style20,style20b, style20c, style30, style30b, style30c, style70, style70b, style70c, style5, style35, style35b, style35c, style10];
+				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style32, style72, style6, style36, style76, style3, style33, style73, style, styleb, stylec,style20,style20b, style20c, style30, style30b, style30c, style70, style70b, style70c, style5, style35, style35b, style35c, style75, style75b, style75c, style10];
 			}
 
 },
