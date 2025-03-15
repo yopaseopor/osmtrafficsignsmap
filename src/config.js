@@ -1784,8 +1784,36 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 145,
+								offsetX : 152,
 								offsetY : 25,
+								fill: new ol.style.Fill({
+                            color: word7
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+								var styleb = new ol.style.Style({
+					text: new ol.style.Text({
+								text: wordb,
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 152,
+								offsetY : 40,
+								fill: new ol.style.Fill({
+                            color: word7
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var stylec = new ol.style.Style({
+					text: new ol.style.Text({
+								text: wordc,
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 152,
+								offsetY : 55,
 								fill: new ol.style.Fill({
                             color: word7
                         }),
@@ -1798,7 +1826,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word20,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 45,
+								offsetX : 52,
 								offsetY : 30,
 								fill: new ol.style.Fill({
                             color: word27
@@ -1812,7 +1840,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word20b,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 45,
+								offsetX : 52,
 								offsetY : 45,
 								fill: new ol.style.Fill({
                             color: word27
@@ -1826,7 +1854,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word20c,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 45,
+								offsetX : 52,
 								offsetY : 55,
 								fill: new ol.style.Fill({
                             color: word27
@@ -1840,7 +1868,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word30,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 40,
+								offsetX : 47,
 								offsetY : 110,
 								fill: new ol.style.Fill({
                             color: word37
@@ -1854,7 +1882,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word30b,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 40,
+								offsetX : 47,
 								offsetY : 125,
 								fill: new ol.style.Fill({
                             color: word37
@@ -1868,7 +1896,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word30c,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 40,
+								offsetX : 47,
 								offsetY : 140,
 								fill: new ol.style.Fill({
                             color: word37
@@ -1882,7 +1910,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word70,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 215,
+								offsetX : 222,
 								offsetY : 110,
 								fill: new ol.style.Fill({
                             color: word77
@@ -1896,7 +1924,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word70b,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 215,
+								offsetX : 222,
 								offsetY : 125,
 								fill: new ol.style.Fill({
                             color: word77
@@ -1911,7 +1939,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word70c,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 215,
+								offsetX : 222,
 								offsetY : 140,
 								fill: new ol.style.Fill({
                             color: word77
@@ -1921,40 +1949,13 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				
 				});
-				var styleb = new ol.style.Style({
-					text: new ol.style.Text({
-								text: wordb,
-								font: 'bold 10px Verdana',
-								textAlign:'left',
-								offsetX : 145,
-								offsetY : 40,
-								fill: new ol.style.Fill({
-                            color: word7
-                        }),
-							}),
-					
-					stroke: stroke
-				});
-				var stylec = new ol.style.Style({
-					text: new ol.style.Text({
-								text: wordc,
-								font: 'bold 10px Verdana',
-								textAlign:'left',
-								offsetX : 145,
-								offsetY : 55,
-								fill: new ol.style.Fill({
-                            color: word7
-                        }),
-							}),
-					
-					stroke: stroke
-				});
+
 				var style2 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word2,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 160,
+								offsetX : 167,
 								offsetY : 13,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -1967,7 +1968,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style10 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_left_'+ word10 +'.png',
-							anchor: [-115, -90],
+							anchor: [-100, -90],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -1978,7 +1979,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style11 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_slight_left_'+ word11 +'.png',
-							anchor: [-115, -90],
+							anchor: [-100, -90],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -1989,7 +1990,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style4 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_through_'+ word4 +'.png',
-							anchor: [-115, -90],
+							anchor: [-100, -90],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -2000,7 +2001,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style12 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_slight_right_'+ word12 +'.png',
-							anchor: [-115, -90],
+							anchor: [-100, -90],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -2011,7 +2012,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style13 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_right_'+ word13 +'.png',
-							anchor: [-115, -90],
+							anchor: [-100, -90],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -2022,7 +2023,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style14 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_sharp_right_'+ word14 +'.png',
-							anchor: [-115, -90],
+							anchor: [-100, -90],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -2033,7 +2034,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style15 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_u_turn_'+ word15 +'.png',
-							anchor: [-115, -90],
+							anchor: [-100, -90],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -2044,7 +2045,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style16 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_sharp_left_'+ word16 +'.png',
-							anchor: [-115, -90],
+							anchor: [-100, -90],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -2055,7 +2056,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style6b = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word6 +'.png',
-					imgSize: [117, 80],
+					imgSize: [122, 80],
 					rotateWithView: false,
 					anchor: [-85, -5],
 					anchorXUnits: 'pixels',
@@ -2067,7 +2068,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style36 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word36 +'.png',
-					imgSize: [117, 80],
+					imgSize: [122, 80],
 					rotateWithView: false,
 					anchor: [0, -85],
 					anchorXUnits: 'pixels',
@@ -2079,7 +2080,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style76 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word76 +'.png',
-					imgSize: [117, 80],
+					imgSize: [122, 80],
 					rotateWithView: false,
 					anchor: [-210, -85],
 					anchorXUnits: 'pixels',
