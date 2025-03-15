@@ -2207,7 +2207,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style35b = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word35b +'.png',
-							anchor: [-200, -1000],
+							anchor: [-280, -1000],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -2219,7 +2219,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style35c = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word35c +'.png',
-							anchor: [-215, -1000],
+							anchor: [-385, -1000],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
