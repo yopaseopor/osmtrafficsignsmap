@@ -1527,7 +1527,7 @@ return null;
   
 {
 			group: 'ES',
-			title: 'ES_S200-2',
+			title: 'ES_S200-1',
 query: '(nwr["traffic_sign:id"="ES:S200"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S200.png',
 			iconStyle: 'background-color:#FFFFFF',
@@ -2111,7 +2111,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word33 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-60, -87],
+					anchor: [-50, -87],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2128,7 +2128,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word73 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-215, -87],
+					anchor: [-245, -87],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2145,8 +2145,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word32,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 85,
-								offsetY : 95,
+								offsetX : 60,
+								offsetY : 100,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -2160,7 +2160,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : 240,
-								offsetY : 95,
+								offsetY : 100,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
