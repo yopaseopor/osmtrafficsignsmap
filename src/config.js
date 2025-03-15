@@ -1955,7 +1955,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word2,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 150,
+								offsetX : 200,
 								offsetY : 13,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -1969,8 +1969,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word32,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 40,
-								offsetY : 120,
+								offsetX : 70,
+								offsetY : 105,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -1983,8 +1983,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word72,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 290,
-								offsetY : 120,
+								offsetX : 310,
+								offsetY : 105,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
