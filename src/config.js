@@ -2069,7 +2069,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word36 +'.png',
 					imgSize: [102, 70],
 					rotateWithView: false,
-					anchor: [0, -70],
+					anchor: [0, -85],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2079,9 +2079,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style76 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word76 +'.png',
-					imgSize: [102, 59],
+					imgSize: [102, 70],
 					rotateWithView: false,
-					anchor: [-195, -70],
+					anchor: [-195, -85],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2110,7 +2110,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word33 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-45, -72],
+					anchor: [-45, -87],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2127,7 +2127,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word33 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-200, -72],
+					anchor: [-200, -87],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2145,7 +2145,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : 70,
-								offsetY : 80,
+								offsetY : 65,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -2159,7 +2159,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : 225,
-								offsetY : 80,
+								offsetY : 65,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -2192,7 +2192,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style35 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word35 +'.png',
-							anchor: [-200, -700],
+							anchor: [-200, -715],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
