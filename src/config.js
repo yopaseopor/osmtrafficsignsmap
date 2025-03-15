@@ -1840,7 +1840,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word30,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 55,
+								offsetX : 70,
 								offsetY : 110,
 								fill: new ol.style.Fill({
                             color: word37
@@ -1854,7 +1854,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word30b,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 55,
+								offsetX : 70,
 								offsetY : 125,
 								fill: new ol.style.Fill({
                             color: word37
@@ -1868,7 +1868,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word30c,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 55,
+								offsetX : 70,
 								offsetY : 140,
 								fill: new ol.style.Fill({
                             color: word37
@@ -2011,7 +2011,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style13 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_right_'+ word13 +'.png',
-							anchor: [-55, -90],
+							anchor: [-115, -90],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
