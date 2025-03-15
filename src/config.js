@@ -1967,7 +1967,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style10 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_left_'+ word10 +'.png',
-							anchor: [-100, -60],
+							anchor: [-85, -75],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -1978,7 +1978,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style11 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_slight_left_'+ word11 +'.png',
-							anchor: [-100, -75],
+							anchor: [-85, -75],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -1989,7 +1989,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style4 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_through_'+ word4 +'.png',
-							anchor: [-100, -75],
+							anchor: [-85, -75],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -2000,7 +2000,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style12 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_slight_right_'+ word12 +'.png',
-							anchor: [-100, -75],
+							anchor: [-85, -75],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -2011,7 +2011,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style13 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_right_'+ word13 +'.png',
-							anchor: [-100, -75],
+							anchor: [-85, -75],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -2022,7 +2022,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style14 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_sharp_right_'+ word14 +'.png',
-							anchor: [-100, -60],
+							anchor: [-85, -75],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -2033,7 +2033,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style15 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_u_turn_'+ word15 +'.png',
-							anchor: [-100, -75],
+							anchor: [-85, -75],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -2044,7 +2044,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style16 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_sharp_left_'+ word16 +'.png',
-							anchor: [-100, -75],
+							anchor: [-85, -75],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -2055,9 +2055,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style6b = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word6 +'.png',
-					imgSize: [102, 70],
+					imgSize: [117, 85],
 					rotateWithView: false,
-					anchor: [-100, -5],
+					anchor: [-85, -5],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2079,9 +2079,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style76 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word76 +'.png',
-					imgSize: [102, 70],
+					imgSize: [117, 85],
 					rotateWithView: false,
-					anchor: [-195, -85],
+					anchor: [-180, -85],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2093,7 +2093,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word3 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-120, -5],
+					anchor: [-105, -5],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2110,7 +2110,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word33 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-45, -87],
+					anchor: [-30, -87],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2127,7 +2127,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word33 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-200, -87],
+					anchor: [-185, -87],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2144,7 +2144,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word32,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 70,
+								offsetX : 85,
 								offsetY : 95,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -2158,7 +2158,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word72,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 225,
+								offsetX : 240,
 								offsetY : 95,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -2181,7 +2181,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style5 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word5 +'.png',
-							anchor: [-1150, 0],
+							anchor: [-1135, 0],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:0.15
@@ -2192,7 +2192,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style35 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word35 +'.png',
-							anchor: [-200, -715],
+							anchor: [-185, -715],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
