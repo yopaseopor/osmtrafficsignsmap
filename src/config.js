@@ -1629,7 +1629,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word_key35b = feature.getKeys().filter(function(t){return t.match(key_regex35b)}).pop() || "word35b"
 				var word35b = feature.get(word_key35b) || '';
 				var key_regex35c = /^destination:symbol:left:3$/
-				var word_key35c = feature.getKeys().filter(function(t){return t.match(key_regex30c)}).pop() || "word35c"
+				var word_key35c = feature.getKeys().filter(function(t){return t.match(key_regex35c)}).pop() || "word35c"
 				var word35c = feature.get(word_key35c) || '';
 				var key_regex36 = /^colour:back:left$/
 				var word_key36 = feature.getKeys().filter(function(t){return t.match(key_regex36)}).pop() || "word36"
