@@ -2081,7 +2081,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word76 +'.png',
 					imgSize: [117, 80],
 					rotateWithView: false,
-					anchor: [-195, -85],
+					anchor: [-210, -85],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
