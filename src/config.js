@@ -1625,6 +1625,12 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex32 = /^destination:ref:left$/
 				var word_key32 = feature.getKeys().filter(function(t){return t.match(key_regex32)}).pop() || "word32"
 				var word32 = feature.get(word_key32) || '';
+				var key_regex32b = /^destination:ref:left:2$/
+				var word_key32b = feature.getKeys().filter(function(t){return t.match(key_regex32b)}).pop() || "word32b"
+				var word32b = feature.get(word_key32) || '';
+				var key_regex32c = /^destination:ref:left:3$/
+				var word_key32c = feature.getKeys().filter(function(t){return t.match(key_regex32c)}).pop() || "word32c"
+				var word32c = feature.get(word_key32) || '';
 				var key_regex33 = /^colour:ref:left$/
 				var word_key33 = feature.getKeys().filter(function(t){return t.match(key_regex33)}).pop() || "word33"
 				var word33 = feature.get(word_key33) || '';
@@ -1984,6 +1990,21 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					
 					stroke: stroke
 				});
+				var style32b = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word32b,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 15,
+								offsetY : 138,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				
 				var style72 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word72,
