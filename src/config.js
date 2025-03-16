@@ -1535,15 +1535,21 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex = /^destination:through$/
 				var word_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "word"
 				var word = feature.get(word_key) || '';
-				var key_regexb = /^destination:through:1b$/
+				var key_regexb1 = /^destination:through:1b$/
+				var word_keyb1 = feature.getKeys().filter(function(t){return t.match(key_regexb1)}).pop() || "wordb1"
+				var wordb1 = feature.get(word_keyb1) || '';
+				var key_regexb = /^destination:through:2$/
 				var word_keyb = feature.getKeys().filter(function(t){return t.match(key_regexb)}).pop() || "wordb"
 				var wordb = feature.get(word_keyb) || '';
-				var key_regexc = /^destination:through:2$/
+				var key_regexb2 = /^destination:through:2b$/
+				var word_keyb2 = feature.getKeys().filter(function(t){return t.match(key_regexb2)}).pop() || "wordb2"
+				var wordb2 = feature.get(word_keyb2) || '';
+				var key_regexc = /^destination:through:3$/
 				var word_keyc = feature.getKeys().filter(function(t){return t.match(key_regexc)}).pop() || "wordc"
 				var wordc = feature.get(word_keyc) || '';
-				var key_regexd = /^destination:through:3$/
-				var word_keyd = feature.getKeys().filter(function(t){return t.match(key_regexd)}).pop() || "wordd"
-				var wordd = feature.get(word_keyd) || '';
+				var key_regexc2 = /^destination:through:3b$/
+				var word_keyc2 = feature.getKeys().filter(function(t){return t.match(key_regexc2)}).pop() || "wordc2"
+				var wordc2 = feature.get(word_keyc2) || '';				
 				var key_regex2 = /^destination:ref:through$/
 				var word_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word2"
 				var word2 = feature.get(word_key2) || '';
@@ -1802,7 +1808,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style = new ol.style.Style({
 					text: new ol.style.Text({
-								text: ''+ word +'\n'+ wordb +'',
+								text: ''+ word +'\n'+ wordb1 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 152,
@@ -1816,7 +1822,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 								var styleb = new ol.style.Style({
 					text: new ol.style.Text({
-								text: wordc,
+								text: ''+ wordb +'\n'+ wordb2 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 152,
@@ -1830,7 +1836,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var stylec = new ol.style.Style({
 					text: new ol.style.Text({
-								text: wordd,
+								text: ''+ wordc +'\n'+ wordc2 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 152,
