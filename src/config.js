@@ -1888,6 +1888,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								textAlign:'left',
 								offsetX : 57,
 								offsetY : 125,
+								overflow: false,
 								fill: new ol.style.Fill({
                             color: word37
                         }),
