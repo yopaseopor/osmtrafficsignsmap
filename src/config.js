@@ -2203,7 +2203,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word33b +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [0, -150],
+					anchor: [0, -130],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2220,7 +2220,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word33c +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [0, -200],
+					anchor: [0, -160],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
