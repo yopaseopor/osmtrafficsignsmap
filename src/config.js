@@ -1634,6 +1634,12 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex33 = /^colour:ref:left$/
 				var word_key33 = feature.getKeys().filter(function(t){return t.match(key_regex33)}).pop() || "word33"
 				var word33 = feature.get(word_key33) || '';
+				var key_regex33b = /^colour:ref:left:2$/
+				var word_key33b = feature.getKeys().filter(function(t){return t.match(key_regex33b)}).pop() || "word33b"
+				var word33b = feature.get(word_key33b) || '';
+				var key_regex33c = /^colour:ref:left:3$/
+				var word_key33c = feature.getKeys().filter(function(t){return t.match(key_regex33c)}).pop() || "word33c"
+				var word33c = feature.get(word_key33c) || '';
 				var key_regex35 = /^destination:symbol:left$/
 				var word_key35 = feature.getKeys().filter(function(t){return t.match(key_regex35)}).pop() || "word35"
 				var word35 = feature.get(word_key35) || '';
@@ -2004,6 +2010,20 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					
 					stroke: stroke
 				});
+				var style32c = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word32c,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 15,
+								offsetY : 138,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
 				
 				var style72 = new ol.style.Style({
 												text: new ol.style.Text({
@@ -2178,6 +2198,40 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
                         }),
 				}),
 				});
+				var style33b = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word33b +'.png',
+					imgSize: [50, 15],
+					rotateWithView: false,
+					anchor: [-15, -200],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: new ol.style.Stroke({
+					fill: new ol.style.Fill({
+                            color: 'rgba(255,255,200,1)',
+							width: 50
+                        }),
+				}),
+				});
+				var style33c = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word33c +'.png',
+					imgSize: [50, 15],
+					rotateWithView: false,
+					anchor: [-15, -300],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: new ol.style.Stroke({
+					fill: new ol.style.Fill({
+                            color: 'rgba(255,255,200,1)',
+							width: 50
+                        }),
+				}),
+				});
 				var style73 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word73 +'.png',
@@ -2315,7 +2369,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style32, style72, style6, style36, style76, style3, style33, style73, style, styleb, stylec,style20,style20b, style20c, style30, style30b, style30c, style70, style70b, style70c, style5, style5b, style5c, style35, style35b, style35c, style75, style75b, style75c, style10];
+				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style32, style32b, style32c, style72, style6, style36, style76, style3, style33, style33b, style33c, style73, style, styleb, stylec,style20,style20b, style20c, style30, style30b, style30c, style70, style70b, style70c, style5, style5b, style5c, style35, style35b, style35c, style75, style75b, style75c, style10];
 			}
 
 },
