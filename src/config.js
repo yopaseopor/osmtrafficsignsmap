@@ -1775,6 +1775,12 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex72 = /^destination:ref:right$/
 				var word_key72 = feature.getKeys().filter(function(t){return t.match(key_regex72)}).pop() || "word72"
 				var word72 = feature.get(word_key72) || '';
+				var key_regex72b = /^destination:ref:right:2$/
+				var word_key72b = feature.getKeys().filter(function(t){return t.match(key_regex72b)}).pop() || "word72b"
+				var word72b = feature.get(word_key72b) || '';
+				var key_regex72c = /^destination:ref:right:3$/
+				var word_key72c = feature.getKeys().filter(function(t){return t.match(key_regex72c)}).pop() || "word72c"
+				var word72c = feature.get(word_key72c) || '';
 				var key_regex73 = /^colour:ref:right$/
 				var word_key73 = feature.getKeys().filter(function(t){return t.match(key_regex73)}).pop() || "word73"
 				var word73 = feature.get(word_key73) || '';
