@@ -1902,7 +1902,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								textAlign:'left',
 								offsetX : 57,
 								offsetY : 140,
-								padding: [1,1,1,1],
+								padding: [10,10,10,10],
 								backgroundFill: new ol.style.Fill({
                             color: 'rgba(255,255,200,1)'
                         }),
