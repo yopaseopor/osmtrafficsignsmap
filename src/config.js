@@ -1826,7 +1826,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 152,
-								offsetY : 45,
+								offsetY : 50,
 								fill: new ol.style.Fill({
                             color: word7
                         }),
@@ -1840,7 +1840,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 152,
-								offsetY : 60,
+								offsetY : 70,
 								fill: new ol.style.Fill({
                             color: word7
                         }),
