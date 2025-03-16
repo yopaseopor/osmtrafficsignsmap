@@ -1850,7 +1850,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style20 = new ol.style.Style({
 					text: new ol.style.Text({
-								text: word20,
+								text: ''+ word20 +'\n'+ wordb20 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 52,
@@ -1862,13 +1862,13 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					
 					stroke: stroke
 				});
-				var style20b = new ol.style.Style({
+								var style20b = new ol.style.Style({
 					text: new ol.style.Text({
-								text: word20b,
+								text: ''+ word20b +'\n'+ word20b2 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 52,
-								offsetY : 45,
+								offsetY : 50,
 								fill: new ol.style.Fill({
                             color: word27
                         }),
@@ -1878,11 +1878,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style20c = new ol.style.Style({
 					text: new ol.style.Text({
-								text: word20c,
+								text: ''+ word20c +'\n'+ word20c2 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 52,
-								offsetY : 55,
+								offsetY : 70,
 								fill: new ol.style.Fill({
                             color: word27
                         }),
@@ -1892,12 +1892,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style30 = new ol.style.Style({
 					text: new ol.style.Text({
-								text: word30,
+								text: ''+ word30 +'\n'+ wordb30 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 57,
 								offsetY : 125,
-								overflow: true,
 								fill: new ol.style.Fill({
                             color: word37
                         }),
@@ -1905,13 +1904,13 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					
 					stroke: stroke
 				});
-				var style30b = new ol.style.Style({
+								var style30b = new ol.style.Style({
 					text: new ol.style.Text({
-								text: word30b,
+								text: ''+ word30b +'\n'+ word30b2 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 57,
-								offsetY : 140,
+								offsetY : 145,
 								fill: new ol.style.Fill({
                             color: word37
                         }),
@@ -1921,11 +1920,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style30c = new ol.style.Style({
 					text: new ol.style.Text({
-								text: word30c,
+								text: ''+ word30c +'\n'+ word30c2 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 57,
-								offsetY : 155,
+								offsetY : 165,
 								fill: new ol.style.Fill({
                             color: word37
                         }),
@@ -1935,7 +1934,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style70 = new ol.style.Style({
 					text: new ol.style.Text({
-								text: word70,
+								text: ''+ word70 +'\n'+ wordb70 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 232,
@@ -1947,37 +1946,35 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					
 					stroke: stroke
 				});
-				var style70b = new ol.style.Style({
+								var style70b = new ol.style.Style({
 					text: new ol.style.Text({
-								text: word70b,
+								text: ''+ word70b +'\n'+ word70b2 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 232,
-								offsetY : 140,
+								offsetY : 145,
 								fill: new ol.style.Fill({
                             color: word77
                         }),
 							}),
 					
 					stroke: stroke
-				
 				});
 				var style70c = new ol.style.Style({
 					text: new ol.style.Text({
-								text: word70c,
+								text: ''+ word70c +'\n'+ word70c2 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 232,
-								offsetY : 155,
+								offsetY : 165,
 								fill: new ol.style.Fill({
                             color: word77
                         }),
 							}),
 					
 					stroke: stroke
-				
 				});
-
+				
 				var style2 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word2,
