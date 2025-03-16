@@ -1802,7 +1802,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style = new ol.style.Style({
 					text: new ol.style.Text({
-								text: word,
+								text: word,\n,wordb,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 152,
