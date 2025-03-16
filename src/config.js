@@ -2001,7 +2001,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word32b,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 15,
+								offsetX : 0,
 								offsetY : 138,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -2015,7 +2015,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word32c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 15,
+								offsetX : 0,
 								offsetY : 138,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -2203,7 +2203,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word33b +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-15, -200],
+					anchor: [0, -150],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -2220,7 +2220,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word33c +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-15, -300],
+					anchor: [0, -200],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
