@@ -1757,12 +1757,21 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex70 = /^destination:right$/
 				var word_key70 = feature.getKeys().filter(function(t){return t.match(key_regex70)}).pop() || "word70"
 				var word70 = feature.get(word_key70) || '';
+				var key_regex70b1 = /^destination:right:1b$/
+				var word_key70b1 = feature.getKeys().filter(function(t){return t.match(key_regex70b1)}).pop() || "word70b1"
+				var word70b1 = feature.get(word_key70) || '';
 				var key_regex70b = /^destination:right:2$/
 				var word_key70b = feature.getKeys().filter(function(t){return t.match(key_regex70b)}).pop() || "word70b"
 				var word70b = feature.get(word_key70b) || '';
+				var key_regex70b2 = /^destination:right:2b$/
+				var word_key70b2 = feature.getKeys().filter(function(t){return t.match(key_regex70b2)}).pop() || "word70b2"
+				var word70b2 = feature.get(word_key70b2) || '';
 				var key_regex70c = /^destination:right:3$/
 				var word_key70c = feature.getKeys().filter(function(t){return t.match(key_regex70c)}).pop() || "word70c"
 				var word70c = feature.get(word_key70c) || '';
+				var key_regex70c2 = /^destination:right:3b$/
+				var word_key70c2 = feature.getKeys().filter(function(t){return t.match(key_regex70c2)}).pop() || "word70c2"
+				var word70c2 = feature.get(word_key70c2) || '';
 				var key_regex72 = /^destination:ref:right$/
 				var word_key72 = feature.getKeys().filter(function(t){return t.match(key_regex72)}).pop() || "word72"
 				var word72 = feature.get(word_key72) || '';
@@ -1952,7 +1961,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style70 = new ol.style.Style({
 					text: new ol.style.Text({
-								text: ''+ word70 +'\n'+ wordb70 +'',
+								text: ''+ word70 +'\n'+ word70b1 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 232,
