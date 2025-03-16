@@ -1609,7 +1609,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word20b = feature.get(word_key20b) || '';
 				var key_regex20b2 = /^destination:slight_left:2b$/
 				var word_key20b2 = feature.getKeys().filter(function(t){return t.match(key_regex20b2)}).pop() || "word20b2"
-				var wordb20b2 = feature.get(word_keyb20b2) || '';
+				var word20b2 = feature.get(word_key20b2) || '';
 				var key_regex20c = /^destination:slight_left:3$/
 				var word_key20c = feature.getKeys().filter(function(t){return t.match(key_regex20c)}).pop() || "word20c"
 				var word20c = feature.get(word_key20c) || '';
