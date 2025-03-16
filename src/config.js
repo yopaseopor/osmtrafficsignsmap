@@ -1992,7 +1992,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
-							padding: [2,2,2,2],
+							padding: [1,1,1,1],
 								backgroundFill: new ol.style.Fill({
                             color: word3
                         }),
