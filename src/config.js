@@ -1627,10 +1627,10 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word32 = feature.get(word_key32) || '';
 				var key_regex32b = /^destination:ref:left:2$/
 				var word_key32b = feature.getKeys().filter(function(t){return t.match(key_regex32b)}).pop() || "word32b"
-				var word32b = feature.get(word_key32) || '';
+				var word32b = feature.get(word_key32b) || '';
 				var key_regex32c = /^destination:ref:left:3$/
 				var word_key32c = feature.getKeys().filter(function(t){return t.match(key_regex32c)}).pop() || "word32c"
-				var word32c = feature.get(word_key32) || '';
+				var word32c = feature.get(word_key32c) || '';
 				var key_regex33 = /^colour:ref:left$/
 				var word_key33 = feature.getKeys().filter(function(t){return t.match(key_regex33)}).pop() || "word33"
 				var word33 = feature.get(word_key33) || '';
