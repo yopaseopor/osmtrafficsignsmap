@@ -1996,7 +1996,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								backgroundFill: new ol.style.Fill({
                             color: word3
                         }),
-					
+					}),
 					stroke: stroke
 				});
 				var style32 = new ol.style.Style({
