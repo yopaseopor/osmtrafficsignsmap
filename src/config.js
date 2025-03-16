@@ -2001,7 +2001,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word32b,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 0,
+								offsetX : 30,
 								offsetY : 138,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -2015,7 +2015,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word32c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 0,
+								offsetX : 30,
 								offsetY : 138,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
