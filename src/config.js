@@ -1902,8 +1902,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								textAlign:'left',
 								offsetX : 57,
 								offsetY : 140,
-								fill: new ol.style.Fill({
-                            color: word37
+								backgroundFill: new ol.style.Fill({
+                            color: 'rgba(255,255,200,1)'
                         }),
 							}),
 					
@@ -2193,7 +2193,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					/*fill: fill,*/
 					stroke: new ol.style.Stroke({
 					fill: new ol.style.Fill({
-                            color: 'rgba(255,255,200,1)',
+                            color: 'rgba(255,255,255,1)',
 							width: 50
                         }),
 				}),
@@ -2210,7 +2210,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					/*fill: fill,*/
 					stroke: new ol.style.Stroke({
 					fill: new ol.style.Fill({
-                            color: 'rgba(255,255,200,1)',
+                            color: 'rgba(255,255,255,1)',
 							width: 50
                         }),
 				}),
