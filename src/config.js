@@ -2107,7 +2107,25 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word73
+                            color: word73b
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style72c = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word72b,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 310,
+								offsetY : 108,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word73c
                         }),
 					}),
 					stroke: stroke
