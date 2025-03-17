@@ -1636,7 +1636,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word30 = feature.get(word_key30) || '';
 				var key_regex30b1 = /^destination:left:1b$/
 				var word_key30b1 = feature.getKeys().filter(function(t){return t.match(key_regex30b1)}).pop() || "word30b1"
-				var word30b1 = feature.get(word_key30) || '';
+				var word30b1 = feature.get(word_key30b1) || '';
 				var key_regex30b = /^destination:left:2$/
 				var word_key30b = feature.getKeys().filter(function(t){return t.match(key_regex30b)}).pop() || "word30b"
 				var word30b = feature.get(word_key30b) || '';
