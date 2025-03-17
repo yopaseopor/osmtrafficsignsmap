@@ -1635,7 +1635,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word_key30 = feature.getKeys().filter(function(t){return t.match(key_regex30)}).pop() || "word30"
 				var word30 = feature.get(word_key30) || '';
 				var key_regex30b1 = /^destination:left:1b$/
-				var word_key30b1 = feature.getKeys().filter(function(t){return t.match(key_regex30)}).pop() || "word30b1"
+				var word_key30b1 = feature.getKeys().filter(function(t){return t.match(key_regex30b1)}).pop() || "word30b1"
 				var word30b1 = feature.get(word_key30) || '';
 				var key_regex30b = /^destination:left:2$/
 				var word_key30b = feature.getKeys().filter(function(t){return t.match(key_regex30b)}).pop() || "word30b"
@@ -1759,7 +1759,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word70 = feature.get(word_key70) || '';
 				var key_regex70b1 = /^destination:right:1b$/
 				var word_key70b1 = feature.getKeys().filter(function(t){return t.match(key_regex70b1)}).pop() || "word70b1"
-				var word70b1 = feature.get(word_key70) || '';
+				var word70b1 = feature.get(word_key70b1) || '';
 				var key_regex70b = /^destination:right:2$/
 				var word_key70b = feature.getKeys().filter(function(t){return t.match(key_regex70b)}).pop() || "word70b"
 				var word70b = feature.get(word_key70b) || '';
@@ -1985,7 +1985,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					
 					stroke: stroke
 				});
-								var style70b = new ol.style.Style({
+					var style70b = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ word70b +'\n'+ word70b2 +'',
 								font: 'bold 10px Verdana',
