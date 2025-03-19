@@ -27,7 +27,7 @@
      id="namedview5859"
      showgrid="false"
      inkscape:zoom="1.6234774"
-     inkscape:cx="130.58389"
+     inkscape:cx="187.25238"
      inkscape:cy="73.60743"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -58,21 +58,20 @@
      id="g3182"
      transform="translate(-5.201316,-104.57251)">
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0"
+       style="fill:#ffffff;stroke-width:0"
        id="rect1"
-       width="372.65686"
-       height="90.546379"
-       x="1.2319224"
-       y="1.7023808e-07"
-       transform="translate(5.201316,104.57251)" />
+       width="374.50473"
+       height="91.162346"
+       x="4.5853543"
+       y="105.18847" />
     <path
        d="m 16.86774,120.23086 9.308,45.429 11.492,-18.066 28.457,32.848 10.95,-10.946 -32.84,-28.468 18.062,-11.493 -45.429,-9.304"
        id="polyline3085"
-       style="display:inline;fill:#1c1d20" />
+       style="fill:#1c1d20" />
     <path
        d="m 376.522,171.75218 c 0,5.86268 0.24113,14.28526 -0.63631,18.04828 -0.88501,3.79551 -2.91418,2.90646 -8.92592,2.91258 L 17.011951,193.06918 C 5.0439572,193.08136 8.0994571,194.9245 8.163,183.14867 l 0.3561402,-66.00022 c 0.063532,-11.77383 7.2100448,-9.94093 19.1770188,-9.91551 l 335.347071,0.71228 c 11.97197,0.0254 13.47977,-1.85949 13.47977,9.91551 v 53.89145 z"
        id="path3101"
-       style="display:inline;fill:none;stroke:#1c1d20;stroke-width:5;stroke-miterlimit:3.864"
+       style="fill:none;stroke:#1c1d20;stroke-width:5;stroke-miterlimit:3.864"
        sodipodi:nodetypes="csssssssscc" />
     <g
        id="g3115">

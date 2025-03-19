@@ -26,9 +26,9 @@
      inkscape:window-height="1017"
      id="namedview5859"
      showgrid="false"
-     inkscape:zoom="1.6234774"
-     inkscape:cx="397.9113"
-     inkscape:cy="73.607431"
+     inkscape:zoom="1.7354414"
+     inkscape:cx="187.27224"
+     inkscape:cy="73.468342"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -57,11 +57,14 @@
   <g
      id="g3182"
      transform="translate(-5.201316,-104.57251)">
-    <path
-       id="rect1"
+    <rect
        style="fill:#ffffff;stroke-width:0"
-       transform="translate(5.201316,104.57251)"
-       d="M -0.61596143,-0.61596173 H 374.50477 V 91.778302 H -0.61596143 Z" />
+       id="rect1"
+       width="375.1207"
+       height="92.195564"
+       x="-2.6954544e-07"
+       y="-2.3417221e-07"
+       transform="translate(5.201316,104.57251)" />
     <path
        d="m 363.05536,180.44186 -9.308,-45.429 -11.492,18.066 -28.457,-32.848 -10.95,10.946 32.84,28.468 -18.062,11.493 45.429,9.304"
        id="polyline3085"
