@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="500"
    height="160"
    viewBox="0 0 132.29166 42.333334"
    version="1.1"
    id="svg4433"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="ES_CAT_OR53punt1.svg">
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="ES_CAT_OR53punt1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4427">
     <rect
@@ -42,21 +42,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="202.01971"
-     inkscape:cy="46.24738"
+     inkscape:zoom="1.0636576"
+     inkscape:cx="202.13271"
+     inkscape:cy="46.537532"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:showpageshadow="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata4430">
     <rdf:RDF>
@@ -87,15 +88,15 @@
     <text
        xml:space="preserve"
        id="text5312"
-       style="font-size:11.2889px;line-height:6.61458px;font-family:'Highway Gothic Wide';-inkscape-font-specification:'Highway Gothic Wide';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5314);display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;" />
+       style="font-size:11.2889px;line-height:6.61458px;font-family:'Highway Gothic Wide';-inkscape-font-specification:'Highway Gothic Wide';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5314);display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
        id="text5318"
-       style="font-size:11.2889px;line-height:6.61458px;font-family:'Highway Gothic Wide';-inkscape-font-specification:'Highway Gothic Wide';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5320);display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;" />
+       style="font-size:11.2889px;line-height:6.61458px;font-family:'Highway Gothic Wide';-inkscape-font-specification:'Highway Gothic Wide';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5320);display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
        id="text5324"
-       style="font-size:11.2889px;line-height:6.61458px;font-family:'Highway Gothic Wide';-inkscape-font-specification:'Highway Gothic Wide';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5326);display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;" />
+       style="font-size:11.2889px;line-height:6.61458px;font-family:'Highway Gothic Wide';-inkscape-font-specification:'Highway Gothic Wide';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5326);display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-size:11.2889px;line-height:6.61458px;font-family:'Highway Gothic Wide';-inkscape-font-specification:'Highway Gothic Wide';letter-spacing:0px;word-spacing:0px;display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -107,17 +108,11 @@
          x="10.110864"
          y="40.91592"
          style="stroke-width:0.264583px" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:41.8656px;line-height:10.7322px;font-family:'Highway Gothic Wide';-inkscape-font-specification:'Highway Gothic Wide';letter-spacing:4.18656px;word-spacing:0px;display:inline;fill:#ffffff;stroke:none;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;"
-       x="47.282131"
-       y="34.795925"
-       id="text5288-1-9"><tspan
-         sodipodi:role="line"
-         id="tspan5286-9-2"
-         x="47.282131"
-         y="34.795925"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.8656px;font-family:'Highway Gothic Wide';-inkscape-font-specification:'Highway Gothic Wide';fill:#ffffff;stroke:none;stroke-width:0.264584px;fill-opacity:1;">22</tspan></text>
+    <path
+       d="M 71.857239,34.795925 H 49.249814 q 0.837312,-11.010653 11.471175,-15.490272 2.76313,-1.130371 4.521485,-2.177011 1.758355,-1.088506 1.632758,-2.511936 0,-1.381565 -1.381565,-2.302608 -1.381564,-0.962909 -4.312156,-1.004775 -4.395888,0.125597 -7.787002,3.516711 l -4.060963,-3.265517 q 5.065737,-5.1913347 11.722368,-5.2750659 4.940141,0 7.870733,2.4700705 2.930592,2.4282044 2.930592,5.8611844 -0.04187,2.972457 -1.590893,4.730813 -1.549027,1.716489 -5.90305,3.600441 -6.907824,3.307383 -8.247523,6.824093 h 15.741466 z m 30.771221,0 H 80.021039 q 0.837312,-11.010653 11.471175,-15.490272 2.76313,-1.130371 4.521485,-2.177011 1.758355,-1.088506 1.632758,-2.511936 0,-1.381565 -1.381565,-2.302608 -1.381564,-0.962909 -4.312156,-1.004775 -4.395888,0.125597 -7.787002,3.516711 l -4.060963,-3.265517 q 5.065737,-5.1913347 11.722368,-5.2750659 4.940141,0 7.870733,2.4700705 2.930588,2.4282044 2.930588,5.8611844 -0.0419,2.972457 -1.59089,4.730813 -1.549026,1.716489 -5.903049,3.600441 -6.907824,3.307383 -8.247523,6.824093 h 15.741462 z"
+       id="text5288-1-9"
+       style="font-size:41.8656px;line-height:10.7322px;font-family:'Highway Gothic Wide';-inkscape-font-specification:'Highway Gothic Wide';letter-spacing:4.18656px;word-spacing:0px;fill:#ffffff;stroke-width:0.264584px"
+       aria-label="22" />
   </g>
   <g
      inkscape:groupmode="layer"
