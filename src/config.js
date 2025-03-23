@@ -1280,7 +1280,7 @@ return null;
 				var style6b = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_'+ name15 +'_'+ name5b +'.png',
-							anchor: [-1350, 0],
+							anchor: [-1650, 0],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
