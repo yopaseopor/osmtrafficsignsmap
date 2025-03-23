@@ -1302,6 +1302,9 @@ return null;
 				var key_regex = /^destination$/
 				var name_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "name"
 				var name = feature.get(name_key) || '';
+				var key_regexb1 = /^destination:1b$/
+				var name_keyb1 = feature.getKeys().filter(function(t){return t.match(key_regexb1)}).pop() || "nameb1"
+				var name = feature.get(name_key) || '';
 				var key_regex2 = /^destination:ref$/
 				var name_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "name2"
 				var name2 = feature.get(name_key2) || '';
@@ -1362,7 +1365,7 @@ return null;
 				});
 				var style = new ol.style.Style({
 					text: new ol.style.Text({
-								text: name,
+								text: ''+ name +'\n'+ nameb1 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 20,
