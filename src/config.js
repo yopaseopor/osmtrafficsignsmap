@@ -1060,8 +1060,8 @@ return null;
   
 {
 			group: 'ES-Complex',
-			title: 'ES_CAT_URB',
-			query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w););out meta;',
+			title: 'ES_CT_URB',
+			query: '(nwr["traffic_sign"="ES:CAT:URB"]({{bbox}});node(w);nwr["traffic_sign"="ES:CT:URB"]({{bbox}});node(w););out meta;',
 			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
 			iconStyle: 'background-color:#FFFFFF',
 			style: function (feature) {
@@ -1294,8 +1294,8 @@ return null;
   
 {
 			group: 'ES-Complex',
-			title: 'ES_CAT_URBL',
-			query: '(nwr["traffic_sign"="ES:CAT:URBL"]({{bbox}});node(w););out meta;',
+			title: 'ES_CT_URBL',
+			query: '(nwr["traffic_sign"="ES:CAT:URBL"]({{bbox}});node(w);nwr["traffic_sign"="ES:CT:URBL"]({{bbox}});node(w););out meta;',
 			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URBL.png',
 			iconStyle: 'background-color:#FFFFFF',
 			style: function (feature) {
