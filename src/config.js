@@ -1080,6 +1080,9 @@ return null;
 				var key_regex5 = /^destination:symbol$/
 				var name_key5 = feature.getKeys().filter(function(t){return t.match(key_regex5)}).pop() || "name5"
 				var name5 = feature.get(name_key5) || '';
+				var key_regex5b = /^destination:symbol:2$/
+				var name_key5b = feature.getKeys().filter(function(t){return t.match(key_regex5b)}).pop() || "name5b"
+				var name5b = feature.get(name_key5b) || '';
 				var key_regex6 = /^colour:back$/
 				var name_key6 = feature.getKeys().filter(function(t){return t.match(key_regex6)}).pop() || "name6"
 				var name6 = feature.get(name_key6) || '';
@@ -1266,6 +1269,18 @@ return null;
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_'+ name14 +'_'+ name5 +'.png',
 							anchor: [-1150, 0],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+				});
+				var style6b = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_'+ name15 +'_'+ name5b +'.png',
+							anchor: [-1350, 0],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
