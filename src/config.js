@@ -1544,6 +1544,127 @@ return null;
 },
   
 {
+			group: 'ES-Complex',
+			title: 'ES_CT_URBC',
+			query: '(nwr["traffic_sign"="ES:CAT:URBC"]({{bbox}});node(w);nwr["traffic_sign"="ES:CT:URBC"]({{bbox}});node(w););out meta;',
+			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_URB.png',
+			iconStyle: 'background-color:#FFFFFF',
+			style: function (feature) {
+				var key_regex5 = /^destination:symbol$/
+				var name_key5 = feature.getKeys().filter(function(t){return t.match(key_regex5)}).pop() || "name5"
+				var name5 = feature.get(name_key5) || '';
+				var key_regex5b = /^destination:symbol:2$/
+				var name_key5b = feature.getKeys().filter(function(t){return t.match(key_regex5b)}).pop() || "name5b"
+				var name5b = feature.get(name_key5b) || '';
+				var key_regex6 = /^colour:back$/
+				var name_key6 = feature.getKeys().filter(function(t){return t.match(key_regex6)}).pop() || "name6"
+				var name6 = feature.get(name_key6) || '';
+				var key_regex7 = /^colour:text$/
+				var name_key7 = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "name7"
+				var name7 = feature.get(name_key7) || '';
+				var key_regex12 = /^destination:street$/
+				var name_key12 = feature.getKeys().filter(function(t){return t.match(key_regex12)}).pop() || "name12"
+				var name12 = feature.get(name_key) || '';
+				var key_regex12b1 = /^destination:street:1b$/
+				var name_key12b1 = feature.getKeys().filter(function(t){return t.match(key_regex12b1)}).pop() || "name12b1"
+				var name12b1 = feature.get(name_keyb1) || '';
+				var key_regex14 = /^colour:symbol$/
+				var name_key14 = feature.getKeys().filter(function(t){return t.match(key_regex14)}).pop() || "name14"
+				var name14 = feature.get(name_key14) || '';
+				var key_regex15 = /^colour:symbol:2$/
+				var name_key15 = feature.getKeys().filter(function(t){return t.match(key_regex15)}).pop() || "name15"
+				var name15 = feature.get(name_key15) || '';
+				var key_regex16 = /^colour:symbol:3$/
+				var name_key16 = feature.getKeys().filter(function(t){return t.match(key_regex16)}).pop() || "name16"
+				var name16 = feature.get(name_key16) || '';
+				
+				
+				var canvas = document.createElement('canvas');
+				canvas.width = 310;
+				canvas.height = 20;
+				var ctx = canvas.getContext('2d');
+				ctx.fillStyle = name6;
+				ctx.fillRect(0, 0, canvas.width, canvas.height);
+				
+				/*var fill = new ol.style.Fill({
+					color: name3
+				});*/
+
+				var stroke = new ol.style.Stroke({
+					color: '#00FF00',
+					width: 1.25
+				});
+				var style12 = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ name12 +'\n'+ name12b1 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 20,
+								offsetY : 7,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: name7
+                        }),
+							}),
+					
+					stroke: stroke
+			});
+
+			var style4 = new ol.style.Style({
+					image: new ol.style.Icon({
+					img: canvas,
+					imgSize: [310, 20],
+					rotateWithView: false,
+					anchor: [60, 3],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style6 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_'+ name14 +'_'+ name5 +'.png',
+							anchor: [-1150, 0],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+				});
+				var style6b = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_'+ name15 +'_'+ name5b +'.png',
+							anchor: [-1350, 0],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+				});
+				var style7 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/ES_CAT_URB_empty.svg',
+							imgSize: [602, 80],
+					anchor: [120, 30],
+					rotateWithView: false,
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels',
+							scale:0.52
+						}),
+												
+					stroke: stroke
+				});
+				return [style12, style4, style6, style6b, style7];
+			}
+
+},
+  
+{
 			group: 'ES',
 			title: 'ES_S200-1',
 query: '(nwr["traffic_sign:id"="ES:S200"]({{bbox}});node(w););out meta;',
