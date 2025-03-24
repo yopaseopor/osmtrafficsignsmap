@@ -1735,7 +1735,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word_key15 = feature.getKeys().filter(function(t){return t.match(key_regex15)}).pop() || "word15"
 				var word15 = feature.get(word_key15) || '';
 				var key_regex16 = /^sharp_left$/
-				var word_key16 = feature.getKeys().filter(function(t){return t.match(key_regex15)}).pop() || "word16"
+				var word_key16 = feature.getKeys().filter(function(t){return t.match(key_regex16)}).pop() || "word16"
 				var word16 = feature.get(word_key16) || '';
 				var key_regex20 = /^destination:slight_left$/
 				var word_key20 = feature.getKeys().filter(function(t){return t.match(key_regex20)}).pop() || "word20"
@@ -2105,6 +2105,48 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetY : 165,
 								fill: new ol.style.Fill({
                             color: word37
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style40 = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word40 +'\n'+ word40b1 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 47,
+								offsetY : 225,
+								fill: new ol.style.Fill({
+                            color: word47
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+								var style40b = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word40b +'\n'+ word40b2 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 57,
+								offsetY : 245,
+								fill: new ol.style.Fill({
+                            color: word47
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style40c = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word40c +'\n'+ word40c2 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 57,
+								offsetY : 265,
+								fill: new ol.style.Fill({
+                            color: word47
                         }),
 							}),
 					
@@ -2520,7 +2562,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style32, style32b, style32c, style72, style72b, style72c, style6, style36, style76, style, styleb, stylec, style20, style20b, style20c, style30, style30b, style30c, style70, style70b, style70c, style5, style5b, style5c, style35, style35b, style35c, style75, style75b, style75c, style10];
+				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style32, style32b, style32c, style72, style72b, style72c, style6, style36, style76, style, styleb, stylec, style20, style20b, style20c, style30, style30b, style30c, style40, style40b, style40c, style70, style70b, style70c, style5, style5b, style5c, style35, style35b, style35c, style75, style75b, style75c, style10];
 			}
 
 },
