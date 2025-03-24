@@ -1600,7 +1600,7 @@ return null;
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 20,
-								offsetY : 7,
+								offsetY : 5,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
                             color: name7
