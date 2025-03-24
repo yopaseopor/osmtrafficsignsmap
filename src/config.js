@@ -1564,10 +1564,10 @@ return null;
 				var name7 = feature.get(name_key7) || '';
 				var key_regex12 = /^destination:street$/
 				var name_key12 = feature.getKeys().filter(function(t){return t.match(key_regex12)}).pop() || "name12"
-				var name12 = feature.get(name_key) || '';
+				var name12 = feature.get(name_key12) || '';
 				var key_regex12b1 = /^destination:street:1b$/
 				var name_key12b1 = feature.getKeys().filter(function(t){return t.match(key_regex12b1)}).pop() || "name12b1"
-				var name12b1 = feature.get(name_keyb1) || '';
+				var name12b1 = feature.get(name_key12b1) || '';
 				var key_regex14 = /^colour:symbol$/
 				var name_key14 = feature.getKeys().filter(function(t){return t.match(key_regex14)}).pop() || "name14"
 				var name14 = feature.get(name_key14) || '';
