@@ -15,16 +15,16 @@ var config = {
 		units: 'metric'
 	},
 	i18n: {
-		layersLabel: 'Capas',
-		completeWith: 'Completar con:',
-		editWith: 'Editar con:',
-		openWith: 'Abrir con:',
-		showWith: 'Mostrar con:',
-		show2With: 'Mostrar también con:',
-		checkTools: 'Validar con:',
+		layersLabel: 'Capes/Capas',
+		completeWith: 'Completar amb/con:',
+		editWith: 'Editar amb/con:',
+		openWith: 'Obrir amb/Abrir con:',
+		showWith: 'Mostrar amb/con:',
+		show2With: 'Mostrar també amb/también con:',
+		checkTools: 'Validar amb/con:',
 		copyDialog: 'S\'ha copiat l\'enllaç al porta-retalls.Enlace copiado. Link has been copied',
-		nodeLabel: 'Nodo:',
-		noNodesFound: 'No se ha encontrado información.',
+		nodeLabel: 'Node/Nodo:',
+		noNodesFound: 'No s\'ha trobat informació/No se ha encontrado información.',
 		wayLabel: 'Vía:'
 	},
 	overpassApi: function(){
