@@ -2125,7 +2125,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 47,
-								offsetY : 225,
+								offsetY : 175,
 								fill: new ol.style.Fill({
                             color: word47
                         }),
@@ -2139,7 +2139,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 57,
-								offsetY : 245,
+								offsetY : 195,
 								fill: new ol.style.Fill({
                             color: word47
                         }),
@@ -2153,7 +2153,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 57,
-								offsetY : 265,
+								offsetY : 215,
 								fill: new ol.style.Fill({
                             color: word47
                         }),
