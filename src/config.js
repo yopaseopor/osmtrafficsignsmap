@@ -1659,7 +1659,7 @@ return null;
 												
 					stroke: stroke
 				});
-				return [style12, style7, style6, style6b, style4];
+				return [style12, style6, style6b, style7, style4];
 			}
 
 },
