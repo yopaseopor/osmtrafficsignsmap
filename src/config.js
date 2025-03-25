@@ -2628,7 +2628,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				
 var canvas2 = document.createElement('canvas');
 canvas2.width = 250;
-canvas2.height = 150;
+canvas2.height = 100;
 var ctx2 = canvas2.getContext('2d');
 ctx2.fillStyle = word6;
 ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
@@ -2646,7 +2646,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: ''+ word +'\n'+ wordb1 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 52,
+								offsetX : 72,
 								offsetY : 10,
 								fill: new ol.style.Fill({
                             color: word7
@@ -2660,7 +2660,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: ''+ wordb +'\n'+ wordb2 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 52,
+								offsetX : 92,
 								offsetY : 30,
 								fill: new ol.style.Fill({
                             color: word7
@@ -2674,7 +2674,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: ''+ wordc +'\n'+ wordc2 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 52,
+								offsetX : 112,
 								offsetY : 50,
 								fill: new ol.style.Fill({
                             color: word7
