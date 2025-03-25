@@ -2796,7 +2796,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style7 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/ES_CAT_OR51.svg',
+							src: imgSrc + 'ES/textures/content/ES_CAT_OR51_empty_'+ word4 +'.svg',
 							imgSize: [602, 154],
 					anchor: [120, 30],
 					rotateWithView: false,
