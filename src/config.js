@@ -2578,9 +2578,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
   
 {
 			group: 'ES',
-			title: 'ES_CT_OR52',
-			query: '(nwr["traffic_sign"="ES:CAT:OR52"]({{bbox}});node(w);nwr["traffic_sign"="ES:CT:OR52"]({{bbox}});node(w););out meta;',
-iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR52.png',
+			title: 'ES_CT_OR51',
+			query: '(nwr["traffic_sign"="ES:CAT:OR51"]({{bbox}});node(w);nwr["traffic_sign"="ES:CT:OR51"]({{bbox}});node(w););out meta;',
+			iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR51.png',
 			iconStyle: 'background-color:#FFFFFF',
 			style: function (feature) {
 				var key_regex = /^destination$/
@@ -2588,54 +2588,60 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word = feature.get(word_key) || '';
 				var key_regexb1 = /^destination:1b$/
 				var word_keyb1 = feature.getKeys().filter(function(t){return t.match(key_regexb1)}).pop() || "wordb1"
-				var wordb1 = feature.get(word_keyb1) || '';
-				var key_regexb = /^destination:2$/
-				var word_keyb = feature.getKeys().filter(function(t){return t.match(key_regexb)}).pop() || "wordb"
-				var wordb = feature.get(word_keyb) || '';
-				var key_regexb2 = /^destination:2b$/
-				var word_keyb2 = feature.getKeys().filter(function(t){return t.match(key_regexb2)}).pop() || "wordb2"
-				var wordb2 = feature.get(word_keyb2) || '';
-				var key_regexc = /^destination:3$/
-				var word_keyc = feature.getKeys().filter(function(t){return t.match(key_regexc)}).pop() || "wordc"
-				var wordc = feature.get(word_keyc) || '';
-				var key_regexc2 = /^destination:3b$/
-				var word_keyc2 = feature.getKeys().filter(function(t){return t.match(key_regexc2)}).pop() || "wordc2"
-				var wordc2 = feature.get(word_keyc2) || '';				
+				var wordb1= feature.get(word_keyb1) || '';
 				var key_regex2 = /^destination:ref$/
 				var word_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word2"
 				var word2 = feature.get(word_key2) || '';
-				var key_regex3 = /^colour:ref$/
-				var word_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "word3"
-				var word3 = feature.get(word_key3) || '';
 				var key_regex4 = /^turn:destination$/
 				var word_key4 = feature.getKeys().filter(function(t){return t.match(key_regex4)}).pop() || "word4"
 				var word4 = feature.get(word_key4) || '';
+				var key_regex3 = /^colour:ref$/
+				var word_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "word3"
+				var word3 = feature.get(word_key3) || '';
 				var key_regex5 = /^destination:symbol$/
 				var word_key5 = feature.getKeys().filter(function(t){return t.match(key_regex5)}).pop() || "word5"
 				var word5 = feature.get(word_key5) || '';
-				var key_regex5b = /^destination:symbol:2$/
-				var word_key5b = feature.getKeys().filter(function(t){return t.match(key_regex5b)}).pop() || "word5b"
-				var word5b = feature.get(word_key5b) || '';
-				var key_regex5c = /^destination:symbol:3$/
-				var word_key5c = feature.getKeys().filter(function(t){return t.match(key_regex5c)}).pop() || "word5c"
-				var word5c = feature.get(word_key5c) || '';
 				var key_regex6 = /^colour:back$/
 				var word_key6 = feature.getKeys().filter(function(t){return t.match(key_regex6)}).pop() || "word6"
 				var word6 = feature.get(word_key6) || '';
 				var key_regex7 = /^colour:text$/
 				var word_key7 = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "word7"
 				var word7 = feature.get(word_key7) || '';
+				var key_regex8 = /^colour:ref:2$/
+				var word_key8 = feature.getKeys().filter(function(t){return t.match(key_regex8)}).pop() || "word8"
+				var word8 = feature.get(word_key8) || '';
+				var key_regex9 = /^destination:ref:2$/
+				var word_key9 = feature.getKeys().filter(function(t){return t.match(key_regex9)}).pop() || "word9"
+				var word9 = feature.get(word_key9) || '';
+				var key_regex10 = /^colour:ref:3$/
+				var word_key10 = feature.getKeys().filter(function(t){return t.match(key_regex10)}).pop() || "word10"
+				var word10 = feature.get(word_key10) || '';
+				var key_regex11 = /^destination:ref:3$/
+				var word_key11 = feature.getKeys().filter(function(t){return t.match(key_regex11)}).pop() || "word11"
+				var word11 = feature.get(word_key11) || '';
+				var key_regex13 = /^destination:2$/
+				var word_key13 = feature.getKeys().filter(function(t){return t.match(key_regex13)}).pop() || "word13"
+				var word13 = feature.get(word_key13) || '';
+				var key_regex14 = /^colour:symbol$/
+				var word_key14 = feature.getKeys().filter(function(t){return t.match(key_regex14)}).pop() || "word14"
+				var word14 = feature.get(word_key14) || '';
+				var key_regex15 = /^colour:symbol:2$/
+				var word_key15 = feature.getKeys().filter(function(t){return t.match(key_regex15)}).pop() || "word15"
+				var word15 = feature.get(word_key15) || '';
+				var key_regex16 = /^colour:symbol:3$/
+				var word_key16 = feature.getKeys().filter(function(t){return t.match(key_regex16)}).pop() || "word16"
+				var word16 = feature.get(word_key16) || '';
 				
-var canvas2 = document.createElement('canvas');
-canvas2.width = 250;
-canvas2.height = 100;
-var ctx2 = canvas2.getContext('2d');
-ctx2.fillStyle = word6;
-ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
+				var canvas = document.createElement('canvas');
+				canvas.width = 310;
+				canvas.height = 20;
+				var ctx = canvas.getContext('2d');
+				ctx.fillStyle = word6;
+				ctx.fillRect(0, 0, canvas.width, canvas.height);
 				
-				var fill = new ol.style.Fill({
+				/*var fill = new ol.style.Fill({
 					color: word3
-				});
+				});*/
 
 				var stroke = new ol.style.Stroke({
 					color: '#00FF00',
@@ -2646,8 +2652,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: ''+ word +'\n'+ wordb1 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 72,
-								offsetY : 10,
+								offsetX : 20,
+								offsetY : 7,
+								rotateWithView: false,
 								fill: new ol.style.Fill({
                             color: word7
                         }),
@@ -2655,13 +2662,14 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					
 					stroke: stroke
 				});
-								var styleb = new ol.style.Style({
+				var style13 = new ol.style.Style({
 					text: new ol.style.Text({
-								text: ''+ wordb +'\n'+ wordb2 +'',
+								text: word13,
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 92,
-								offsetY : 30,
+								offsetX : 20,
+								offsetY : 27,
+								rotateWithView: false,
 								fill: new ol.style.Fill({
                             color: word7
                         }),
@@ -2669,68 +2677,127 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					
 					stroke: stroke
 				});
-				var stylec = new ol.style.Style({
-					text: new ol.style.Text({
-								text: ''+ wordc +'\n'+ wordc2 +'',
-								font: 'bold 10px Verdana',
-								textAlign:'left',
-								offsetX : 112,
-								offsetY : 50,
-								fill: new ol.style.Fill({
-                            color: word7
-                        }),
-							}),
-					
-					stroke: stroke
-				});			
 				var style2 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word2,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 195,
-								offsetY : 13,
+								offsetX : -3,
+								offsetY : 28,
+								rotateWithView: false,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,255,1)'
+                            color: 'rgba(255,255,250,1)'
                         }),
-							padding: [0,1,0,1],
-								backgroundFill: new ol.style.Fill({
-                            color: word3
-                        }),
-					}),
+							}),
+					
 					stroke: stroke
 				});
-				
-
-				
-				var style6 = new ol.style.Style({
+				var style9 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word9,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 65,
+								offsetY : 28,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,250,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style11 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word11,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 135,
+								offsetY : 28,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,250,1)'
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style3 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word6 +'.png',
-					imgSize: [117, 90],
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word3 +'.png',
+					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-115, -2],
+					anchor: [30, -20],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
 					/*fill: fill,*/
 					stroke: stroke
 				});
-				
-				var style0 = new ol.style.Style({
+				var style8 = new ol.style.Style({
 					image: new ol.style.Icon({
-					img: canvas2,
-					imgSize: [350, 250],
-					anchor: [0, 0],
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word8 +'.png',
+					imgSize: [50, 15],
+					rotateWithView: false,
+					anchor: [-40, -20],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
-					fill: fill,
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style10 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word10 +'.png',
+					imgSize: [50, 15],
+					rotateWithView: false,
+					anchor: [-110, -20],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style4 = new ol.style.Style({
+					image: new ol.style.Icon({
+					img: canvas,
+					imgSize: [310, 20],
+					rotateWithView: false,
+					anchor: [60, 3],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style5 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/black_'+ word4 +'_city.png',
+							anchor: [280, 0],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.20
+						}),
+												
+					stroke: stroke
+				});
+				var style6 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_'+ word14 +'_'+ word5 +'.png',
+							anchor: [-1150, 0],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
 					stroke: stroke
 				});
 				var style7 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/ES_CAT_OR51_'+ word4 +'_empty.svg',
-							imgSize: [942, 290],
+							src: imgSrc + 'ES/textures/ES_CAT_OR51.svg',
+							imgSize: [602, 154],
 					anchor: [120, 30],
 					rotateWithView: false,
 					anchorXUnits: 'pixels',
@@ -2740,42 +2807,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 												
 					stroke: stroke
 				});
-				var style5 = new ol.style.Style({
-					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/sign_white_'+ word5 +'.png',
-							anchor: [-900, -400],
-								anchorXUnits: 'pixels',
-								anchorYUnits: 'pixels',
-							scale:0.15
-						}),
-												
-					stroke: stroke
-				});
-				var style5b = new ol.style.Style({
-					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/sign_white_'+ word5b +'.png',
-							anchor: [-1100, -400],
-								anchorXUnits: 'pixels',
-								anchorYUnits: 'pixels',
-							scale:0.15
-						}),
-												
-					stroke: stroke
-				});
-				var style5c = new ol.style.Style({
-					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/sign_white_'+ word5c +'.png',
-							anchor: [-1300, -400],
-								anchorXUnits: 'pixels',
-								anchorYUnits: 'pixels',
-							scale:0.15
-						}),
-												
-					stroke: stroke
-				});
-				
-				
-				return [style0, style2, style6, style, styleb, stylec, style5, style5b, style5c, style7];
+				return [style, style2, style9, style11, style7, style4, style3, style8, style10, style5, style6];
 			}
 
 },
