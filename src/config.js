@@ -2627,7 +2627,7 @@ var canvas2 = document.createElement('canvas');
 canvas2.width = 150;
 canvas2.height = 50;
 var ctx2 = canvas2.getContext('2d');
-ctx2.fillStyle = word8;
+ctx2.fillStyle = word6;
 ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				
 				var fill = new ol.style.Fill({
