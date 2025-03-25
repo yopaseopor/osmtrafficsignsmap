@@ -2607,6 +2607,9 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex3 = /^colour:ref$/
 				var word_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "word3"
 				var word3 = feature.get(word_key3) || '';
+				var key_regex4 = /^turn:destination$/
+				var word_key4 = feature.getKeys().filter(function(t){return t.match(key_regex4)}).pop() || "word4"
+				var word4 = feature.get(word_key4) || '';
 				var key_regex5 = /^destination:symbol$/
 				var word_key5 = feature.getKeys().filter(function(t){return t.match(key_regex5)}).pop() || "word5"
 				var word5 = feature.get(word_key5) || '';
@@ -2734,6 +2737,19 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					fill: fill,
 					stroke: stroke
 				});
+				var style7 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/ES_CAT_OR51_'+ word4 +'_empty.svg',
+							imgSize: [942, 290],
+					anchor: [120, 30],
+					rotateWithView: false,
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels',
+							scale:0.52
+						}),
+												
+					stroke: stroke
+				});
 				var style5 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word5 +'.png',
@@ -2769,7 +2785,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				
 				
-				return [style0, style4, style2, style6, style, styleb, stylec, style5, style5b, style5c];
+				return [style0, style4, style2, style6, style, styleb, stylec, style5, style5b, style5c, style7];
 			}
 
 },
