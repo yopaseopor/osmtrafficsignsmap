@@ -1665,8 +1665,8 @@ return null;
 },
   
 {
-			group: 'ES',
-			title: 'ES_S200-1',
+			group: 'ES-Complex',
+			title: 'ES_S200',
 query: '(nwr["traffic_sign:id"="ES:S200"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S200.png',
 			iconStyle: 'background-color:#FFFFFF',
@@ -1981,6 +1981,651 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 var canvas2 = document.createElement('canvas');
 canvas2.width = 350;
 canvas2.height = 250;
+var ctx2 = canvas2.getContext('2d');
+ctx2.fillStyle = word8;
+ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
+				
+				var fill = new ol.style.Fill({
+					color: word3
+				});
+
+				var stroke = new ol.style.Stroke({
+					color: '#00FF00',
+					width: 1.25
+				});
+				var style = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word +'\n'+ wordb1 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 152,
+								offsetY : 30,
+								fill: new ol.style.Fill({
+                            color: word7
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+								var styleb = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ wordb +'\n'+ wordb2 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 152,
+								offsetY : 50,
+								fill: new ol.style.Fill({
+                            color: word7
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var stylec = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ wordc +'\n'+ wordc2 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 152,
+								offsetY : 70,
+								fill: new ol.style.Fill({
+                            color: word7
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style20 = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word20 +'\n'+ word20b1 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 52,
+								offsetY : 30,
+								fill: new ol.style.Fill({
+                            color: word27
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style20b = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word20b +'\n'+ word20b2 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 52,
+								offsetY : 50,
+								fill: new ol.style.Fill({
+                            color: word27
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style20c = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word20c +'\n'+ word20c2 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 52,
+								offsetY : 70,
+								fill: new ol.style.Fill({
+                            color: word27
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style30 = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word30 +'\n'+ word30b1 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 47,
+								offsetY : 125,
+								fill: new ol.style.Fill({
+                            color: word37
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+								var style30b = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word30b +'\n'+ word30b2 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 57,
+								offsetY : 145,
+								fill: new ol.style.Fill({
+                            color: word37
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style30c = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word30c +'\n'+ word30c2 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 57,
+								offsetY : 165,
+								fill: new ol.style.Fill({
+                            color: word37
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style40 = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word40 +'\n'+ word40b1 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 47,
+								offsetY : 175,
+								fill: new ol.style.Fill({
+                            color: word47
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+								var style40b = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word40b +'\n'+ word40b2 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 57,
+								offsetY : 195,
+								fill: new ol.style.Fill({
+                            color: word47
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style40c = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word40c +'\n'+ word40c2 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 57,
+								offsetY : 215,
+								fill: new ol.style.Fill({
+                            color: word47
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style70 = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word70 +'\n'+ word70b1 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 232,
+								offsetY : 125,
+								fill: new ol.style.Fill({
+                            color: word77
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+					var style70b = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word70b +'\n'+ word70b2 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 232,
+								offsetY : 145,
+								fill: new ol.style.Fill({
+                            color: word77
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style70c = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word70c +'\n'+ word70c2 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 232,
+								offsetY : 165,
+								fill: new ol.style.Fill({
+                            color: word77
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				
+				var style2 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word2,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 195,
+								offsetY : 13,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word3
+                        }),
+					}),
+					stroke: stroke
+				});
+				var style32 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word32,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 100,
+								offsetY : 108,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word33
+                        }),
+					}),
+					stroke: stroke
+				});
+				var style32b = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word32b,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 30,
+								offsetY : 138,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word33b
+                        }),
+					}),
+					stroke: stroke
+				});
+				var style32c = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word32c,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 30,
+								offsetY : 168,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word33c
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style72 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word72,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 310,
+								offsetY : 108,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word73
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style72b = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word72b,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 310,
+								offsetY : 108,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word73b
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style72c = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word72b,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 310,
+								offsetY : 108,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word73c
+                        }),
+					}),
+					stroke: stroke
+				});
+
+				var style10 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/roundabout_left_'+ word10 +'.png',
+							anchor: [-130, -90],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:1
+						}),
+												
+					stroke: stroke
+				});
+				var style11 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/roundabout_slight_left_'+ word11 +'.png',
+							anchor: [-130, -90],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:1
+						}),
+												
+					stroke: stroke
+				});
+				var style4 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/roundabout_through_'+ word4 +'.png',
+							anchor: [-130, -90],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:1
+						}),
+												
+					stroke: stroke
+				});
+				var style12 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/roundabout_slight_right_'+ word12 +'.png',
+							anchor: [-130, -90],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:1
+						}),
+												
+					stroke: stroke
+				});
+				var style13 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/roundabout_right_'+ word13 +'.png',
+							anchor: [-130, -90],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:1
+						}),
+												
+					stroke: stroke
+				});
+				var style14 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/roundabout_sharp_right_'+ word14 +'.png',
+							anchor: [-130, -90],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:1
+						}),
+												
+					stroke: stroke
+				});
+				var style15 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/roundabout_u_turn_'+ word15 +'.png',
+							anchor: [-130, -90],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:1
+						}),
+												
+					stroke: stroke
+				});
+				var style16 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/roundabout_sharp_left_'+ word16 +'.png',
+							anchor: [-130, -90],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:1
+						}),
+												
+					stroke: stroke
+				});
+				var style6 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word6 +'.png',
+					imgSize: [117, 90],
+					rotateWithView: false,
+					anchor: [-115, -2],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style36 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word36 +'.png',
+					imgSize: [117, 85],
+					rotateWithView: false,
+					anchor: [-15, -90],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style76 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word76 +'.png',
+					imgSize: [117, 85],
+					rotateWithView: false,
+					anchor: [-225, -90],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+			
+				var style0 = new ol.style.Style({
+					image: new ol.style.Icon({
+					img: canvas2,
+					imgSize: [350, 250],
+					anchor: [0, 0],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					fill: fill,
+					stroke: stroke
+				});
+				var style5 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word5 +'.png',
+							anchor: [-900, -400],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+				});
+				var style5b = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word5b +'.png',
+							anchor: [-1100, -400],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+				});
+				var style5c = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word5c +'.png',
+							anchor: [-1300, -400],
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+				});
+				var style35 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word35 +'.png',
+							anchor: [-100, -800],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+					
+				});
+				var style35b = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word35b +'.png',
+							anchor: [-385, -1000],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+				});
+				var style35c = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word35c +'.png',
+							anchor: [-585, -1000],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+				});
+				var style75 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word75 +'.png',
+							anchor: [-1685, -1000],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+					
+				});
+				var style75b = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word75b +'.png',
+							anchor: [-1885, -1000],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+				});
+				var style75c = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word75c +'.png',
+							anchor: [-2085, -1000],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+				});
+				
+				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style32, style32b, style32c, style72, style72b, style72c, style6, style36, style76, style, styleb, stylec, style20, style20b, style20c, style30, style30b, style30c, style40, style40b, style40c, style70, style70b, style70c, style5, style5b, style5c, style35, style35b, style35c, style75, style75b, style75c, style10];
+			}
+
+},
+  
+{
+			group: 'ES',
+			title: 'ES_CT_OR52',
+query: '(nwr["traffic_sign:id"="ES:CT:OR52"]({{bbox}});node(w););out meta;',
+iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_CAT_OR52.png',
+			iconStyle: 'background-color:#FFFFFF',
+			style: function (feature) {
+				var key_regex = /^destination$/
+				var word_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "word"
+				var word = feature.get(word_key) || '';
+				var key_regexb1 = /^destination:1b$/
+				var word_keyb1 = feature.getKeys().filter(function(t){return t.match(key_regexb1)}).pop() || "wordb1"
+				var wordb1 = feature.get(word_keyb1) || '';
+				var key_regexb = /^destination:2$/
+				var word_keyb = feature.getKeys().filter(function(t){return t.match(key_regexb)}).pop() || "wordb"
+				var wordb = feature.get(word_keyb) || '';
+				var key_regexb2 = /^destination:2b$/
+				var word_keyb2 = feature.getKeys().filter(function(t){return t.match(key_regexb2)}).pop() || "wordb2"
+				var wordb2 = feature.get(word_keyb2) || '';
+				var key_regexc = /^destination:3$/
+				var word_keyc = feature.getKeys().filter(function(t){return t.match(key_regexc)}).pop() || "wordc"
+				var wordc = feature.get(word_keyc) || '';
+				var key_regexc2 = /^destination:3b$/
+				var word_keyc2 = feature.getKeys().filter(function(t){return t.match(key_regexc2)}).pop() || "wordc2"
+				var wordc2 = feature.get(word_keyc2) || '';				
+				var key_regex2 = /^destination:ref$/
+				var word_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word2"
+				var word2 = feature.get(word_key2) || '';
+				var key_regex3 = /^colour:ref$/
+				var word_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "word3"
+				var word3 = feature.get(word_key3) || '';
+				var key_regex5 = /^destination:symbol$/
+				var word_key5 = feature.getKeys().filter(function(t){return t.match(key_regex5)}).pop() || "word5"
+				var word5 = feature.get(word_key5) || '';
+				var key_regex5b = /^destination:symbol:2$/
+				var word_key5b = feature.getKeys().filter(function(t){return t.match(key_regex5b)}).pop() || "word5b"
+				var word5b = feature.get(word_key5b) || '';
+				var key_regex5c = /^destination:symbol:3$/
+				var word_key5c = feature.getKeys().filter(function(t){return t.match(key_regex5c)}).pop() || "word5c"
+				var word5c = feature.get(word_key5c) || '';
+				var key_regex6 = /^colour:back$/
+				var word_key6 = feature.getKeys().filter(function(t){return t.match(key_regex6)}).pop() || "word6"
+				var word6 = feature.get(word_key6) || '';
+				var key_regex7 = /^colour:text$/
+				var word_key7 = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "word7"
+				var word7 = feature.get(word_key7) || '';
+				
+var canvas2 = document.createElement('canvas');
+canvas2.width = 150;
+canvas2.height = 50;
 var ctx2 = canvas2.getContext('2d');
 ctx2.fillStyle = word8;
 ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
