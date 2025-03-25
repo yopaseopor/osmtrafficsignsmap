@@ -2627,8 +2627,8 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word7 = feature.get(word_key7) || '';
 				
 var canvas2 = document.createElement('canvas');
-canvas2.width = 150;
-canvas2.height = 50;
+canvas2.width = 250;
+canvas2.height = 150;
 var ctx2 = canvas2.getContext('2d');
 ctx2.fillStyle = word6;
 ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
@@ -2646,8 +2646,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: ''+ word +'\n'+ wordb1 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 152,
-								offsetY : 30,
+								offsetX : 52,
+								offsetY : 10,
 								fill: new ol.style.Fill({
                             color: word7
                         }),
@@ -2660,8 +2660,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: ''+ wordb +'\n'+ wordb2 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 152,
-								offsetY : 50,
+								offsetX : 52,
+								offsetY : 30,
 								fill: new ol.style.Fill({
                             color: word7
                         }),
@@ -2674,8 +2674,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: ''+ wordc +'\n'+ wordc2 +'',
 								font: 'bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 152,
-								offsetY : 70,
+								offsetX : 52,
+								offsetY : 50,
 								fill: new ol.style.Fill({
                             color: word7
                         }),
@@ -2701,17 +2701,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				var style4 = new ol.style.Style({
-					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/roundabout_through_'+ word4 +'.png',
-							anchor: [-130, -90],
-								anchorXUnits: 'pixels',
-								anchorYUnits: 'pixels',
-							scale:1
-						}),
-												
-					stroke: stroke
-				});
+
 				
 				var style6 = new ol.style.Style({
 					image: new ol.style.Icon({
@@ -2785,7 +2775,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				
 				
-				return [style0, style4, style2, style6, style, styleb, stylec, style5, style5b, style5c, style7];
+				return [style0, style2, style6, style, styleb, stylec, style5, style5b, style5c, style7];
 			}
 
 },
