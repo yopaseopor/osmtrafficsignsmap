@@ -2792,7 +2792,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word3 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [60, 15],
+					anchor: [50, 20],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
