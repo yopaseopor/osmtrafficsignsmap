@@ -2797,12 +2797,12 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style7 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/ES_CAT_OR51_'+ word4 +'_empty.png',
-							imgSize: [602, 154],
+							imgSize: [942, 290],
 					anchor: [120, 30],
 					rotateWithView: false,
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels',
-							scale:0.52
+							scale:0.25
 						}),
 												
 					stroke: stroke
