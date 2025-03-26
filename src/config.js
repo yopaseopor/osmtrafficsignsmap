@@ -2823,30 +2823,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					/*fill: fill,*/
 					stroke: stroke
 				});
-				var style4 = new ol.style.Style({
-					image: new ol.style.Icon({
-					img: canvas,
-					imgSize: [310, 20],
-					rotateWithView: false,
-					anchor: [60, 3],
-					anchorXUnits: 'pixels',
-					anchorYUnits: 'pixels'
-								}),
-					/*fill: fill,*/
-					stroke: stroke
-				});
-				var style5 = new ol.style.Style({
-					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/black_'+ word4 +'_city.png',
-							anchor: [280, 0],
-							rotateWithView: false,
-								anchorXUnits: 'pixels',
-								anchorYUnits: 'pixels',
-							scale:0.20
-						}),
-												
-					stroke: stroke
-				});
+
 				var style6 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_'+ word14 +'_'+ word5 +'.png',
@@ -2872,7 +2849,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 												
 					stroke: stroke
 				});
-				return [style, style2, style9, style11, style7, style4, style3, style8, style10, style5, style6];
+				return [style, style2, style9, style11, style7, style3, style8, style10, style6];
 			}
 
 },
