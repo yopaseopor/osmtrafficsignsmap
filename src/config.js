@@ -2747,8 +2747,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word2,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : -3,
-								offsetY : 28,
+								offsetX : -20,
+								offsetY : 0,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
                             color: 'rgba(248,248,255,1)'
