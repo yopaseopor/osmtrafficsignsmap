@@ -2176,7 +2176,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style70 = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ word70 +'\n'+ word70b1 +'',
-								font: 'bold 12px Arial',
+								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 232,
 								offsetY : 125,
