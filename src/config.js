@@ -483,7 +483,7 @@ return null;
 								offsetY : 8,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,250,1)'
+                            color: 'rgba(248,248,255,1)'
                         }),
 							}),
 					
@@ -498,7 +498,7 @@ return null;
 								offsetY : 28,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,250,1)'
+                            color: 'rgba(248,248,255,1)'
                         }),
 							}),
 					
@@ -513,7 +513,7 @@ return null;
 								offsetY : 48,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,250,1)'
+                            color: 'rgba(248,248,255,1)'
                         }),
 							}),
 					
@@ -686,7 +686,7 @@ return null;
 								offsetY : 28,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,250,1)'
+                            color: 'rgba(248,248,255,1)'
                         }),
 							}),
 					
@@ -701,7 +701,7 @@ return null;
 								offsetY : 28,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,250,1)'
+                            color: 'rgba(248,248,255,1)'
                         }),
 							}),
 					
@@ -716,7 +716,7 @@ return null;
 								offsetY : 28,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,250,1)'
+                            color: 'rgba(248,248,255,1)'
                         }),
 							}),
 					
@@ -1417,7 +1417,7 @@ return null;
 								offsetY : 28,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,250,1)'
+                            color: 'rgba(248,248,255,1)'
                         }),
 							}),
 					
@@ -1432,7 +1432,7 @@ return null;
 								offsetY : 28,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,250,1)'
+                            color: 'rgba(248,248,255,1)'
                         }),
 							}),
 					
@@ -1447,7 +1447,7 @@ return null;
 								offsetY : 28,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,250,1)'
+                            color: 'rgba(248,248,255,1)'
                         }),
 							}),
 					
@@ -2751,7 +2751,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetY : 28,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,250,1)'
+                            color: 'rgba(248,248,255,1)'
                         }),
 							}),
 					
@@ -2766,7 +2766,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetY : 28,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,250,1)'
+                            color: 'rgba(248,248,255,1)'
                         }),
 							}),
 					
@@ -2781,7 +2781,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetY : 28,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
-                            color: 'rgba(255,255,250,1)'
+                            color: 'rgba(248,248,255,1)'
                         }),
 							}),
 					
