@@ -2748,7 +2748,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : 60,
-								offsetY : -10,
+								offsetY : -15,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
                             color: 'rgba(248,248,255,1)'
@@ -2792,7 +2792,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word3 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [60, -10],
+					anchor: [60, -15],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
