@@ -2587,7 +2587,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style75 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word75 +'.png',
-							anchor: [-1685, -1000],
+							anchor: [-1000, -800],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
