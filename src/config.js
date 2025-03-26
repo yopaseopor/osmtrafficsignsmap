@@ -1665,7 +1665,7 @@ return null;
 },
   
 {
-			group: 'ES-Complex',
+			group: 'ES',
 			title: 'ES_S200',
 query: '(nwr["traffic_sign:id"="ES:S200"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S200.png',
@@ -2203,6 +2203,48 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					
 					stroke: stroke
 				});
+				var style80 = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word80 +'\n'+ word80b1 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 47,
+								offsetY : 175,
+								fill: new ol.style.Fill({
+                            color: word87
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+								var style80b = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word80b +'\n'+ word80b2 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 57,
+								offsetY : 195,
+								fill: new ol.style.Fill({
+                            color: word87
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style80c = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word80c +'\n'+ word80c2 +'',
+								font: 'bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 57,
+								offsetY : 215,
+								fill: new ol.style.Fill({
+                            color: word87
+                        }),
+							}),
+					
+					stroke: stroke
+				});
 				
 				var style2 = new ol.style.Style({
 												text: new ol.style.Text({
@@ -2571,7 +2613,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style32, style32b, style32c, style72, style72b, style72c, style6, style36, style76, style, styleb, stylec, style20, style20b, style20c, style30, style30b, style30c, style40, style40b, style40c, style70, style70b, style70c, style5, style5b, style5c, style35, style35b, style35c, style75, style75b, style75c, style10];
+				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style2, style32, style32b, style32c, style72, style72b, style72c, style6, style36, style76, style, styleb, stylec, style20, style20b, style20c, style30, style30b, style30c, style40, style40b, style40c, style70, style70b, style70c, style80, style80b, style80c, style5, style5b, style5c, style35, style35b, style35c, style75, style75b, style75c, style10];
 			}
 
 },
