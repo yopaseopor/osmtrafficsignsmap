@@ -2008,7 +2008,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ word +'\n'+ wordb1 +'',
-								font: 'bold 10px Verdana',
+								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 152,
 								offsetY : 30,
@@ -2022,7 +2022,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								var styleb = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ wordb +'\n'+ wordb2 +'',
-								font: 'bold 10px Verdana',
+								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 152,
 								offsetY : 50,
@@ -2036,7 +2036,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var stylec = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ wordc +'\n'+ wordc2 +'',
-								font: 'bold 10px Verdana',
+								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 152,
 								offsetY : 70,
@@ -2050,7 +2050,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style20 = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ word20 +'\n'+ word20b1 +'',
-								font: 'bold 10px Verdana',
+								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 52,
 								offsetY : 30,
@@ -2064,7 +2064,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style20b = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ word20b +'\n'+ word20b2 +'',
-								font: 'bold 10px Verdana',
+								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 52,
 								offsetY : 50,
@@ -2078,7 +2078,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style20c = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ word20c +'\n'+ word20c2 +'',
-								font: 'bold 10px Verdana',
+								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 52,
 								offsetY : 70,
@@ -2092,7 +2092,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style30 = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ word30 +'\n'+ word30b1 +'',
-								font: 'bold 10px Verdana',
+								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 47,
 								offsetY : 125,
@@ -2106,7 +2106,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								var style30b = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ word30b +'\n'+ word30b2 +'',
-								font: 'bold 10px Verdana',
+								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 57,
 								offsetY : 145,
@@ -2120,7 +2120,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style30c = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ word30c +'\n'+ word30c2 +'',
-								font: 'bold 10px Verdana',
+								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 57,
 								offsetY : 165,
@@ -2134,7 +2134,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style40 = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ word40 +'\n'+ word40b1 +'',
-								font: 'bold 10px Verdana',
+								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 47,
 								offsetY : 175,
@@ -2148,7 +2148,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								var style40b = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ word40b +'\n'+ word40b2 +'',
-								font: 'bold 10px Verdana',
+								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 57,
 								offsetY : 195,
@@ -2162,7 +2162,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style40c = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ word40c +'\n'+ word40c2 +'',
-								font: 'bold 10px Verdana',
+								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 57,
 								offsetY : 215,
@@ -2190,7 +2190,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					var style70b = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ word70b +'\n'+ word70b2 +'',
-								font: 'bold 10px Verdana',
+								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 232,
 								offsetY : 145,
@@ -2218,7 +2218,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style80 = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ word80 +'\n'+ word80b1 +'',
-								font: 'bold 10px Verdana',
+								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 47,
 								offsetY : 175,
@@ -2232,7 +2232,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								var style80b = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ word80b +'\n'+ word80b2 +'',
-								font: 'bold 10px Verdana',
+								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 57,
 								offsetY : 195,
@@ -2246,7 +2246,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style80c = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ word80c +'\n'+ word80c2 +'',
-								font: 'bold 10px Verdana',
+								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 57,
 								offsetY : 215,
@@ -2715,7 +2715,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ word +'\n'+ wordb1 +'',
-								font: 'bold 10px Verdana',
+								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 20,
 								offsetY : 7,
@@ -2730,7 +2730,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style13 = new ol.style.Style({
 					text: new ol.style.Text({
 								text: word13,
-								font: 'bold 10px Verdana',
+								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 20,
 								offsetY : 27,
