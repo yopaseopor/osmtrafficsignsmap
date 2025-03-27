@@ -3005,7 +3005,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word3 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-35, 23],
+					anchor: [-35, 25],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
