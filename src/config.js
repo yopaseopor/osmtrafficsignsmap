@@ -2889,7 +2889,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var word_key10 = feature.getKeys().filter(function(t){return t.match(key_regex10)}).pop() || "word10"
 				var word10 = feature.get(word_key10) || '';
 				var key_regex10b2 = /^destination:2b$/
-				var word_key10b2 = feature.getKeys().filter(function(t){return t.match(key_regex10)}).pop() || "word10b2"
+				var word_key10b2 = feature.getKeys().filter(function(t){return t.match(key_regex10b2)}).pop() || "word10b2"
 				var word10b2 = feature.get(word_key10b2) || '';
 				var key_regex11 = /^destination:symbol:2$/
 				var word_key11 = feature.getKeys().filter(function(t){return t.match(key_regex11)}).pop() || "word11"
@@ -2898,22 +2898,22 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var word_key13 = feature.getKeys().filter(function(t){return t.match(key_regex13)}).pop() || "word13"
 				var word13 = feature.get(word_key13) || '';
 				var key_regex12 = /^destination:ref:2$/
-				var word_key12 = feature.getKeys().filter(function(t){return t.match(key_regex9)}).pop() || "word12"
+				var word_key12 = feature.getKeys().filter(function(t){return t.match(key_regex12)}).pop() || "word12"
 				var word12 = feature.get(word_key12) || '';
 				var key_regex16 = /^colour:back:2$/
-				var word_key16 = feature.getKeys().filter(function(t){return t.match(key_regex6)}).pop() || "word16"
+				var word_key16 = feature.getKeys().filter(function(t){return t.match(key_regex16)}).pop() || "word16"
 				var word16 = feature.get(word_key16) || '';
 				var key_regex20 = /^destination:3$/
-				var word_key20 = feature.getKeys().filter(function(t){return t.match(key_regex10)}).pop() || "word20"
+				var word_key20 = feature.getKeys().filter(function(t){return t.match(key_regex20)}).pop() || "word20"
 				var word20 = feature.get(word_key20) || '';
 				var key_regex20b2 = /^destination:3b$/
 				var word_key20b2 = feature.getKeys().filter(function(t){return t.match(key_regex20b2)}).pop() || "word20b2"
 				var word20b2 = feature.get(word_key20b2) || '';
 				var key_regex21 = /^destination:symbol:3$/
-				var word_key21 = feature.getKeys().filter(function(t){return t.match(key_regex11)}).pop() || "word11"
+				var word_key21 = feature.getKeys().filter(function(t){return t.match(key_regex21)}).pop() || "word11"
 				var word21 = feature.get(word_key11) || '';
 				var key_regex23 = /^colour:ref:3$/
-				var word_key23 = feature.getKeys().filter(function(t){return t.match(key_regex13)}).pop() || "word23"
+				var word_key23 = feature.getKeys().filter(function(t){return t.match(key_regex23)}).pop() || "word23"
 				var word23 = feature.get(word_key23) || '';
 				var key_regex22 = /^destination:ref:3$/
 				var word_key22 = feature.getKeys().filter(function(t){return t.match(key_regex22)}).pop() || "word22"
@@ -2921,18 +2921,6 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var key_regex26 = /^colour:back:3$/
 				var word_key26 = feature.getKeys().filter(function(t){return t.match(key_regex26)}).pop() || "word26"
 				var word26 = feature.get(word_key26) || '';
-				
-				
-				
-				var key_regex23 = /^colour:ref:3$/
-				var word_key23 = feature.getKeys().filter(function(t){return t.match(key_regex20)}).pop() || "word10"
-				var word20 = feature.get(word_key10) || '';
-				var key_regex21 = /^destination:ref:3$/
-				var word_key21 = feature.getKeys().filter(function(t){return t.match(key_regex21)}).pop() || "word11"
-				var word11 = feature.get(word_key11) || '';
-				var key_regex17 = /^destination:3$/
-				var word_key17 = feature.getKeys().filter(function(t){return t.match(key_regex17)}).pop() || "word17"
-				var word17 = feature.get(word_key17) || '';
 				
 				var canvas = document.createElement('canvas');
 				canvas.width = 310;
