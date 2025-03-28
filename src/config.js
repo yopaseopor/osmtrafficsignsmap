@@ -3100,6 +3100,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 						}),
 												
 					stroke: stroke
+					});
 				var style16 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_'+ word26 +'_'+ word21 +'.png',
