@@ -2865,7 +2865,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var word_key = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "word"
 				var word = feature.get(word_key) || '';
 				var key_regexb1 = /^destination:1b$/
-				var word_keyb1 = feature.getKeys().filter(function(t){return t.match(key_regexb1)}).pop() || "wordb2"
+				var word_keyb1 = feature.getKeys().filter(function(t){return t.match(key_regexb1)}).pop() || "wordb1"
 				var wordb1= feature.get(word_keyb1) || '';
 				var key_regex2 = /^destination:ref$/
 				var word_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word2"
