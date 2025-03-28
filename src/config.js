@@ -2942,7 +2942,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: ''+ word +'\n'+ wordb1 +'',
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 15,
+								offsetX : 13,
 								offsetY : 7,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
@@ -2957,7 +2957,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: ''+ word10 +'\n'+ word10b2 +'',
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 15,
+								offsetX : 13,
 								offsetY : 27,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
@@ -2972,7 +2972,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: ''+ word20 +'\n'+ word20b2 +'',
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 15,
+								offsetX : 13,
 								offsetY : 47,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
@@ -3067,7 +3067,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style6 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_'+ word6 +'_'+ word5 +'.png',
-							anchor: [-950, 0],
+							anchor: [-350, 0],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
