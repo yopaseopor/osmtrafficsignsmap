@@ -3012,9 +3012,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					
 					stroke: stroke
 				});
-				var style21 = new ol.style.Style({
+				var style22 = new ol.style.Style({
 												text: new ol.style.Text({
-								text: word21,
+								text: word22,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : 135,
