@@ -3062,7 +3062,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 												
 					stroke: stroke
 				});
-				return [style, style13, style2, style9, style11, style3, style8, style10, style6, style7];
+				return [style7, style, style13, style2, style9, style11, style3, style8, style10, style6];
 			}
 
 },
