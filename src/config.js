@@ -2910,7 +2910,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var word_key20b2 = feature.getKeys().filter(function(t){return t.match(key_regex20b2)}).pop() || "word20b2"
 				var word20b2 = feature.get(word_key20b2) || '';
 				var key_regex21 = /^destination:symbol:3$/
-				var word_key21 = feature.getKeys().filter(function(t){return t.match(key_regex21)}).pop() || "word11"
+				var word_key21 = feature.getKeys().filter(function(t){return t.match(key_regex21)}).pop() || "word21"
 				var word21 = feature.get(word_key11) || '';
 				var key_regex23 = /^colour:ref:3$/
 				var word_key23 = feature.getKeys().filter(function(t){return t.match(key_regex23)}).pop() || "word23"
@@ -3089,7 +3089,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 												
 					stroke: stroke
 					});
-				var style16 = new ol.style.Style({
+				var style26 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_'+ word26 +'_'+ word21 +'.png',
 							anchor: [-1150, 0],
