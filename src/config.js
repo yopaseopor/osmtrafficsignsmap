@@ -1666,7 +1666,7 @@ return null;
   
 {
 			group: 'ES',
-			title: 'ES_S200',
+			title: 'ES_S200-1',
 query: '(nwr["traffic_sign:id"="ES:S200"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S200.png',
 			iconStyle: 'background-color:#FFFFFF',
@@ -2220,8 +2220,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
                             ccolor: word77
                         }),
 							padding: [0,1,0,1],
-								backgroundFill: new ol.style.Fill({
-                            color: word76
+								backgroundFill: (word76 !== undefined) ? new ol.style.Fill({ color: word76 }) : undefined,
                         }),
 					}),
 					stroke: stroke
