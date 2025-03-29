@@ -2220,10 +2220,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
                             color: word77
                         }),
 							padding: [0,1,0,1],
-								backgroundFill: new ol.style.Fill({
-                            color: word76 !== undefined ? word76 : null
-                        }),
-					}),
+								backgroundFill: word6 !== undefined ? new ol.style.Fill({ color: word6 }) : undefined, // Conditionally set the backgroundFill
+    }),
 					stroke: stroke
 				});
 					var style70b = new ol.style.Style({
