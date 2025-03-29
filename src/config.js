@@ -2217,7 +2217,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 232,
 								offsetY : 125,
 								fill: new ol.style.Fill({
-                            ccolor: word77
+                            color: word77
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
