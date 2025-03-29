@@ -2218,13 +2218,13 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetY : 125,
 								fill: new ol.style.Fill({
                             ccolor: word77
-                        }),
-							padding: [0,1,0,1],
-								backgroundFill: new ol.style.Fill({
-                            color: word76
-                        }),
-					}),
-					stroke: stroke
+                         }),
+        padding: [0,1,0,1],
+        backgroundFill: typeof word76 !== 'undefined' ? new ol.style.Fill({
+            color: word76
+        }) : undefined,
+    }),
+    stroke: stroke
 				});
 					var style70b = new ol.style.Style({
 					text: new ol.style.Text({
