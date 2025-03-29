@@ -1952,7 +1952,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word75c = feature.get(word_key75c) || '';
 				var key_regex76 = /^colour:back:right$/
 				var word_key76 = feature.getKeys().filter(function(t){return t.match(key_regex76)}).pop() || "word76"
-				var word76 = typeof word76 !== 'undefined' ? word76 : undefined;
+				var word76 = feature.get(word_key76) || null;
 				var key_regex77 = /^colour:text:right$/
 				var word_key77 = feature.getKeys().filter(function(t){return t.match(key_regex77)}).pop() || "word77"
 				var word77 = feature.get(word_key77) || '';
@@ -2220,7 +2220,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
                             ccolor: word77
                         }),
 							padding: [0,1,0,1],
-								backgroundFill: (word76 !== undefined) ? new ol.style.Fill({ color: word76 }) : undefined,
+								backgroundFill: new ol.style.Fill({
+                            color: word76
                         }),
 					}),
 					stroke: stroke
