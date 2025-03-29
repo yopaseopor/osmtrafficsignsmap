@@ -2209,23 +2209,28 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					}),
 					stroke: stroke
 				});
-				var style70 = new ol.style.Style({
-					text: new ol.style.Text({
-								text: ''+ word70 +'\n'+ word70b1 +'',
-								font: 'small-caps bold 10px Verdana',
-								textAlign:'left',
-								offsetX : 232,
-								offsetY : 125,
-								fill: new ol.style.Fill({
-                            ccolor: word77
-                        }),
-							padding: [0,1,0,1],
-								backgroundFill: new ol.style.Fill({
-                            color: word76
-                        }),
-					}),
-					stroke: stroke
-				});
+				var textConfig = {
+    text: '' + word + '\n' + wordb1 + '',
+    font: 'small-caps bold 10px Verdana',
+    textAlign: 'left',
+    offsetX: 152,
+    offsetY: 30,
+    fill: new ol.style.Fill({
+        color: word77
+    }),
+    padding: [0, 1, 0, 1]
+};
+
+if (typeof word76 !== 'undefined') {
+    textConfig.backgroundFill = new ol.style.Fill({
+        color: word76
+    });
+}
+
+var style70 = new ol.style.Style({
+    text: new ol.style.Text(textConfig),
+    stroke: stroke
+});
 					var style70b = new ol.style.Style({
 					text: new ol.style.Text({
 								text: ''+ word70b +'\n'+ word70b2 +'',
