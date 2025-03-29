@@ -2015,7 +2015,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word7
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word6
                         }),
@@ -2032,7 +2032,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word7
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word6
                         }),
@@ -2049,7 +2049,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word7
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word6
                         }),
@@ -2066,7 +2066,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word27
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word26
                         }),
@@ -2083,7 +2083,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word27
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word26
                         }),
@@ -2100,7 +2100,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word27
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word26
                         }),
@@ -2117,7 +2117,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word37
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word36
                         }),
@@ -2134,7 +2134,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word37
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word36
                         }),
@@ -2151,7 +2151,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word37
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word36
                         }),
@@ -2168,7 +2168,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word47
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word46
                         }),
@@ -2185,7 +2185,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word47
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word46
                         }),
@@ -2202,7 +2202,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word47
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word46
                         }),
@@ -2219,7 +2219,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word77
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word76
                         }),
@@ -2236,7 +2236,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word77
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word76
                         }),
@@ -2253,7 +2253,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word77
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word76
                         }),
@@ -2270,11 +2270,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word87
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word86
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word86
                         }),
@@ -2291,7 +2291,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word87
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word86
                         }),
@@ -2308,7 +2308,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word87
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word86
                         }),
@@ -2326,7 +2326,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word3
                         }),
@@ -2343,7 +2343,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word33
                         }),
@@ -2360,7 +2360,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word33b
                         }),
@@ -2377,7 +2377,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word33c
                         }),
@@ -2395,7 +2395,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word73
                         }),
@@ -2413,7 +2413,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word73b
                         }),
@@ -2431,7 +2431,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
-							padding: [0,0.0,0,0.0],
+							padding: [0,0.5,0,0.5],
 								backgroundFill: new ol.style.Fill({
                             color: word73c
                         }),
