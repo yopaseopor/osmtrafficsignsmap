@@ -2221,7 +2221,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word76 || 'rgba(255,255,255,1)'
+                            color: word76 || 'rgba(0,0,0,1)'
                         }),
 					}),
 					stroke: stroke
