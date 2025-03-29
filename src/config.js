@@ -2015,8 +2015,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word7
                         }),
-							}),
-					
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word6
+                        }),
+					}),
 					stroke: stroke
 				});
 								var styleb = new ol.style.Style({
@@ -2029,8 +2032,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word7
                         }),
-							}),
-					
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word6
+                        }),
+					}),
 					stroke: stroke
 				});
 				var stylec = new ol.style.Style({
@@ -2043,8 +2049,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word7
                         }),
-							}),
-					
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word6
+                        }),
+					}),
 					stroke: stroke
 				});
 				var style20 = new ol.style.Style({
@@ -2057,8 +2066,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word27
                         }),
-							}),
-					
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word26
+                        }),
+					}),
 					stroke: stroke
 				});
 				var style20b = new ol.style.Style({
@@ -2071,8 +2083,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word27
                         }),
-							}),
-					
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word26
+                        }),
+					}),
 					stroke: stroke
 				});
 				var style20c = new ol.style.Style({
@@ -2085,8 +2100,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word27
                         }),
-							}),
-					
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word26
+                        }),
+					}),
 					stroke: stroke
 				});
 				var style30 = new ol.style.Style({
@@ -2099,8 +2117,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word37
                         }),
-							}),
-					
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word36
+                        }),
+					}),
 					stroke: stroke
 				});
 								var style30b = new ol.style.Style({
@@ -2113,8 +2134,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word37
                         }),
-							}),
-					
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word36
+                        }),
+					}),
 					stroke: stroke
 				});
 				var style30c = new ol.style.Style({
@@ -2127,8 +2151,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word37
                         }),
-							}),
-					
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word36
+                        }),
+					}),
 					stroke: stroke
 				});
 				var style40 = new ol.style.Style({
@@ -2141,8 +2168,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word47
                         }),
-							}),
-					
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word46
+                        }),
+					}),
 					stroke: stroke
 				});
 								var style40b = new ol.style.Style({
@@ -2155,8 +2185,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word47
                         }),
-							}),
-					
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word46
+                        }),
+					}),
 					stroke: stroke
 				});
 				var style40c = new ol.style.Style({
@@ -2169,8 +2202,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word47
                         }),
-							}),
-					
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word46
+                        }),
+					}),
 					stroke: stroke
 				});
 				var style70 = new ol.style.Style({
@@ -2183,8 +2219,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word77
                         }),
-							}),
-					
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word76
+                        }),
+					}),
 					stroke: stroke
 				});
 					var style70b = new ol.style.Style({
@@ -2197,8 +2236,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word77
                         }),
-							}),
-					
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word76
+                        }),
+					}),
 					stroke: stroke
 				});
 				var style70c = new ol.style.Style({
@@ -2211,8 +2253,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word77
                         }),
-							}),
-					
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word76
+                        }),
+					}),
 					stroke: stroke
 				});
 				var style80 = new ol.style.Style({
@@ -2225,8 +2270,15 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word87
                         }),
-							}),
-					
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word86
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word86
+                        }),
+					}),
 					stroke: stroke
 				});
 								var style80b = new ol.style.Style({
@@ -2239,8 +2291,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word87
                         }),
-							}),
-					
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word86
+                        }),
+					}),
 					stroke: stroke
 				});
 				var style80c = new ol.style.Style({
@@ -2253,8 +2308,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word87
                         }),
-							}),
-					
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word86
+                        }),
+					}),
 					stroke: stroke
 				});
 				
@@ -2657,12 +2715,12 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var key_regex2 = /^destination:ref$/
 				var word_key2 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word2"
 				var word2 = feature.get(word_key2) || '';
-				var key_regex4 = /^turn:destination$/
-				var word_key4 = feature.getKeys().filter(function(t){return t.match(key_regex4)}).pop() || "word4"
-				var word4 = feature.get(word_key4) || '';
 				var key_regex3 = /^colour:ref$/
 				var word_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "word3"
 				var word3 = feature.get(word_key3) || '';
+				var key_regex4 = /^turn:destination$/
+				var word_key4 = feature.getKeys().filter(function(t){return t.match(key_regex4)}).pop() || "word4"
+				var word4 = feature.get(word_key4) || '';
 				var key_regex5 = /^destination:symbol$/
 				var word_key5 = feature.getKeys().filter(function(t){return t.match(key_regex5)}).pop() || "word5"
 				var word5 = feature.get(word_key5) || '';
@@ -2671,31 +2729,43 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var word6 = feature.get(word_key6) || '';
 				var key_regex7 = /^colour:text$/
 				var word_key7 = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "word7"
-				var word7 = feature.get(word_key7) || '';
-				var key_regex8 = /^colour:ref:2$/
-				var word_key8 = feature.getKeys().filter(function(t){return t.match(key_regex8)}).pop() || "word8"
-				var word8 = feature.get(word_key8) || '';
-				var key_regex9 = /^destination:ref:2$/
-				var word_key9 = feature.getKeys().filter(function(t){return t.match(key_regex9)}).pop() || "word9"
-				var word9 = feature.get(word_key9) || '';
-				var key_regex10 = /^colour:ref:3$/
+				var word7 = feature.get(word_key7) || '';		
+				var key_regex10 = /^destination:2$/
 				var word_key10 = feature.getKeys().filter(function(t){return t.match(key_regex10)}).pop() || "word10"
 				var word10 = feature.get(word_key10) || '';
-				var key_regex11 = /^destination:ref:3$/
+				var key_regex10b2 = /^destination:2b$/
+				var word_key10b2 = feature.getKeys().filter(function(t){return t.match(key_regex10b2)}).pop() || "word10b2"
+				var word10b2 = feature.get(word_key10b2) || '';
+				var key_regex11 = /^destination:symbol:2$/
 				var word_key11 = feature.getKeys().filter(function(t){return t.match(key_regex11)}).pop() || "word11"
 				var word11 = feature.get(word_key11) || '';
-				var key_regex13 = /^destination:2$/
+				var key_regex13 = /^colour:ref:2$/
 				var word_key13 = feature.getKeys().filter(function(t){return t.match(key_regex13)}).pop() || "word13"
 				var word13 = feature.get(word_key13) || '';
-				var key_regex14 = /^colour:symbol$/
-				var word_key14 = feature.getKeys().filter(function(t){return t.match(key_regex14)}).pop() || "word14"
-				var word14 = feature.get(word_key14) || '';
-				var key_regex15 = /^colour:symbol:2$/
-				var word_key15 = feature.getKeys().filter(function(t){return t.match(key_regex15)}).pop() || "word15"
-				var word15 = feature.get(word_key15) || '';
-				var key_regex16 = /^colour:symbol:3$/
+				var key_regex12 = /^destination:ref:2$/
+				var word_key12 = feature.getKeys().filter(function(t){return t.match(key_regex12)}).pop() || "word12"
+				var word12 = feature.get(word_key12) || '';
+				var key_regex16 = /^colour:back:2$/
 				var word_key16 = feature.getKeys().filter(function(t){return t.match(key_regex16)}).pop() || "word16"
 				var word16 = feature.get(word_key16) || '';
+				var key_regex20 = /^destination:3$/
+				var word_key20 = feature.getKeys().filter(function(t){return t.match(key_regex20)}).pop() || "word20"
+				var word20 = feature.get(word_key20) || '';
+				var key_regex20b2 = /^destination:3b$/
+				var word_key20b2 = feature.getKeys().filter(function(t){return t.match(key_regex20b2)}).pop() || "word20b2"
+				var word20b2 = feature.get(word_key20b2) || '';
+				var key_regex21 = /^destination:symbol:3$/
+				var word_key21 = feature.getKeys().filter(function(t){return t.match(key_regex21)}).pop() || "word21"
+				var word21 = feature.get(word_key11) || '';
+				var key_regex23 = /^colour:ref:3$/
+				var word_key23 = feature.getKeys().filter(function(t){return t.match(key_regex23)}).pop() || "word23"
+				var word23 = feature.get(word_key23) || '';
+				var key_regex22 = /^destination:ref:3$/
+				var word_key22 = feature.getKeys().filter(function(t){return t.match(key_regex22)}).pop() || "word22"
+				var word22 = feature.get(word_key22) || '';
+				var key_regex26 = /^colour:back:3$/
+				var word_key26 = feature.getKeys().filter(function(t){return t.match(key_regex26)}).pop() || "word26"
+				var word26 = feature.get(word_key26) || '';
 				
 				var canvas = document.createElement('canvas');
 				canvas.width = 310;
@@ -2717,7 +2787,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: ''+ word +'\n'+ wordb1 +'',
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 20,
+								offsetX : 13,
 								offsetY : 7,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
@@ -2727,13 +2797,28 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					
 					stroke: stroke
 				});
-				var style13 = new ol.style.Style({
+				var style10 = new ol.style.Style({
 					text: new ol.style.Text({
-								text: word13,
+								text: ''+ word10 +'\n'+ word10b2 +'',
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 20,
+								offsetX : 13,
 								offsetY : 27,
+								rotateWithView: false,
+								fill: new ol.style.Fill({
+                            color: word7
+                        }),
+							}),
+					
+					stroke: stroke
+				});
+				var style20 = new ol.style.Style({
+					text: new ol.style.Text({
+								text: ''+ word20 +'\n'+ word20b2 +'',
+								font: 'small-caps bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 13,
+								offsetY : 47,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
                             color: word7
@@ -2748,7 +2833,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : 60,
-								offsetY : -15,
+								offsetY : -22,
 								rotateWithView: false,
 								fill: new ol.style.Fill({
                             color: 'rgba(248,248,255,1)'
@@ -2757,9 +2842,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					
 					stroke: stroke
 				});
-				var style9 = new ol.style.Style({
+				var style12 = new ol.style.Style({
 												text: new ol.style.Text({
-								text: word9,
+								text: word12,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : 65,
@@ -2772,9 +2857,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					
 					stroke: stroke
 				});
-				var style11 = new ol.style.Style({
+				var style22 = new ol.style.Style({
 												text: new ol.style.Text({
-								text: word11,
+								text: word22,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : 135,
@@ -2792,16 +2877,16 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word3 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
-					anchor: [-35, 23],
+					anchor: [-35, 31],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
 					/*fill: fill,*/
 					stroke: stroke
 				});
-				var style8 = new ol.style.Style({
+				var style13 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word8 +'.png',
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word13 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
 					anchor: [-40, -20],
@@ -2811,9 +2896,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					/*fill: fill,*/
 					stroke: stroke
 				});
-				var style10 = new ol.style.Style({
+				var style23 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word10 +'.png',
+							src: imgSrc + 'ES/textures/content/rectangle_small_'+ word23 +'.png',
 					imgSize: [50, 15],
 					rotateWithView: false,
 					anchor: [-110, -20],
@@ -2826,8 +2911,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 
 				var style6 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/sign_'+ word14 +'_'+ word5 +'.png',
-							anchor: [-1150, 0],
+							src: imgSrc + 'ES/textures/content/sign_'+ word6 +'_'+ word5 +'.png',
+							anchor: [50, 50],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -2836,20 +2921,45 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 												
 					stroke: stroke
 				});
-				var style7 = new ol.style.Style({
+
+				var style16 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/ES_CAT_OR51_'+ word4 +'_empty.png',
-							imgSize: [942, 290],
-					anchor: [120, 30],
-					rotateWithView: false,
-					anchorXUnits: 'pixels',
-					anchorYUnits: 'pixels',
-							scale:0.25
+							src: imgSrc + 'ES/textures/content/sign_'+ word16 +'_'+ word11 +'.png',
+							anchor: [-1150, -200],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+					});
+				var style26 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_'+ word26 +'_'+ word21 +'.png',
+							anchor: [-1150, -400],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
 						}),
 												
 					stroke: stroke
 				});
-				return [style, style2, style9, style11, style7, style3, style8, style10, style6];
+				var style0 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/ES_CAT_OR52_empty_'+ word6 +'_'+ word4 +'.png',
+							imgSize: [500, 200],
+					anchor: [120, 30],
+					rotateWithView: false,
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels',
+							scale:0.50
+						}),
+												
+					stroke: stroke
+				});
+				return [style0, style, style10, style20, style2, style12, style22, style3, style13, style23, style20, style6, style16, style26];
 			}
 
 },
