@@ -3292,7 +3292,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style75b = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word75b +'.png',
-							anchor: [-1550, -1000],
+							anchor: [-1550, -900],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -3304,7 +3304,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style75c = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word75c +'.png',
-							anchor: [-2085, -1000],
+							anchor: [-1550, -1050],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
