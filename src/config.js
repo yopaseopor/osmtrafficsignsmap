@@ -1778,13 +1778,13 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word30 = feature.get(word_key30) || '';
 				var key_regex30b1 = /^destination:left:1b$/
 				var word_key30b1 = feature.getKeys().filter(function(t){return t.match(key_regex30b1)}).pop() || "word30b1"
-				var word30b1 = feature.get(word_key30b1) || 'undefined';
+				var word30b1 = feature.get(word_key30b1) || '';
 				var key_regex30b = /^destination:left:2$/
 				var word_key30b = feature.getKeys().filter(function(t){return t.match(key_regex30b)}).pop() || "word30b"
 				var word30b = feature.get(word_key30b) || '';
 				var key_regex30b2 = /^destination:left:2b$/
 				var word_key30b2 = feature.getKeys().filter(function(t){return t.match(key_regex30b2)}).pop() || "word30b2"
-				var word30b2 = feature.get(word_key30b2) || 'null';
+				var word30b2 = feature.get(word_key30b2) || '';
 				var key_regex30c = /^destination:left:3$/
 				var word_key30c = feature.getKeys().filter(function(t){return t.match(key_regex30c)}).pop() || "word30c"
 				var word30c = feature.get(word_key30c) || '';
@@ -2007,11 +2007,28 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style = new ol.style.Style({
 					text: new ol.style.Text({
-								text: ''+ word +'\n'+ wordb1 +'',
+								text: word,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 152,
 								offsetY : 30,
+								fill: new ol.style.Fill({
+                            color: word7
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word6 || 'rgba(248,248,255,1)'
+                        }),
+					}),
+					stroke: stroke
+				});
+				var styleb1 = new ol.style.Style({
+					text: new ol.style.Text({
+								text: wordb1,
+								font: 'small-caps bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 152,
+								offsetY : 45,
 								fill: new ol.style.Fill({
                             color: word7
                         }),
@@ -2028,7 +2045,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 152,
-								offsetY : 50,
+								offsetY : 60,
 								fill: new ol.style.Fill({
                             color: word7
                         }),
@@ -2694,7 +2711,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style17, style2, style32, style32b, style32c, style72, style72b, style72c, style6, style36, style76, style, styleb, stylec, style20, style20b, style20c, style30, style30b, style30c, style40, style40b, style40c, style70, style70b, style70c, style80, style80b, style80c, style5, style5b, style5c, style35, style35b, style35c, style75, style75b, style75c, style10];
+				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style17, style2, style32, style32b, style32c, style72, style72b, style72c, style6, style36, style76, style, styleb1, styleb, stylec, style20, style20b, style20c, style30, style30b, style30c, style40, style40b, style40c, style70, style70b, style70c, style80, style80b, style80c, style5, style5b, style5c, style35, style35b, style35c, style75, style75b, style75c, style10];
 			}
 
 },
