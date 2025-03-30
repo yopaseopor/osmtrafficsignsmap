@@ -1711,16 +1711,16 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word_key6b = feature.getKeys().filter(function(t){return t.match(key_regex6b)}).pop() || "word6b"
 				var word6b = feature.get(word_key6b) || '';
 				var key_regex6c = /^colour:back:through:3$/
-				var word_key6c = feature.getKeys().filter(function(t){return t.match(key_regex6)}).pop() || "word6c"
+				var word_key6c = feature.getKeys().filter(function(t){return t.match(key_regex6c)}).pop() || "word6c"
 				var word6c = feature.get(word_key6c) || '';
 				var key_regex7 = /^colour:text:through$/
 				var word_key7 = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "word7"
 				var word7 = feature.get(word_key7) || '';
 				var key_regex7b = /^colour:text:through:2$/
-				var word_key7b = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "word7b"
+				var word_key7b = feature.getKeys().filter(function(t){return t.match(key_regex7b)}).pop() || "word7b"
 				var word7b = feature.get(word_key7b) || '';
 				var key_regex7c = /^colour:text:through:3$/
-				var word_key7c = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "word7c"
+				var word_key7c = feature.getKeys().filter(function(t){return t.match(key_regex7c)}).pop() || "word7c"
 				var word7c = feature.get(word_key7c) || '';
 				var key_regex8 = /^colour:back$/
 				var word_key8 = feature.getKeys().filter(function(t){return t.match(key_regex8)}).pop() || "word8"
@@ -1783,7 +1783,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word_key26 = feature.getKeys().filter(function(t){return t.match(key_regex26)}).pop() || "word26"
 				var word26 = feature.get(word_key26) || '';
 				var key_regex26b = /^colour:back:slight_left:2$/
-				var word_key26b = feature.getKeys().filter(function(t){return t.match(key_regex26)}).pop() || "word26b"
+				var word_key26b = feature.getKeys().filter(function(t){return t.match(key_regex26b)}).pop() || "word26b"
 				var word26b = feature.get(word_key26b) || '';
 				var key_regex26c = /^colour:back:slight_left:3$/
 				var word_key26c = feature.getKeys().filter(function(t){return t.match(key_regex26c)}).pop() || "word26c"
@@ -1792,7 +1792,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word_key27 = feature.getKeys().filter(function(t){return t.match(key_regex27)}).pop() || "word27"
 				var word27 = feature.get(word_key27) || '';
 				var key_regex27b = /^colour:text:slight_left:2$/
-				var word_key27b = feature.getKeys().filter(function(t){return t.match(key_regex27)}).pop() || "word27b"
+				var word_key27b = feature.getKeys().filter(function(t){return t.match(key_regex27b)}).pop() || "word27b"
 				var word27b = feature.get(word_key27) || '';
 				var key_regex27c = /^colour:text:slight_left:3$/
 				var word_key27c = feature.getKeys().filter(function(t){return t.match(key_regex27c)}).pop() || "word27c"
@@ -1849,7 +1849,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word_key36b = feature.getKeys().filter(function(t){return t.match(key_regex36b)}).pop() || "word36b"
 				var word36b = feature.get(word_key36b) || '';
 				var key_regex36c = /^colour:back:left:3$/
-				var word_key36c = feature.getKeys().filter(function(t){return t.match(key_regex36)}).pop() || "word36c"
+				var word_key36c = feature.getKeys().filter(function(t){return t.match(key_regex36c)}).pop() || "word36c"
 				var word36c = feature.get(word_key36c) || '';
 				var key_regex37 = /^colour:text:left$/
 				var word_key37 = feature.getKeys().filter(function(t){return t.match(key_regex37)}).pop() || "word37"
