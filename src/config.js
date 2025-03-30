@@ -1707,9 +1707,21 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex6 = /^colour:back:through$/
 				var word_key6 = feature.getKeys().filter(function(t){return t.match(key_regex6)}).pop() || "word6"
 				var word6 = feature.get(word_key6) || '';
+				var key_regex6b = /^colour:back:through:2$/
+				var word_key6b = feature.getKeys().filter(function(t){return t.match(key_regex6b)}).pop() || "word6b"
+				var word6b = feature.get(word_key6b) || '';
+				var key_regex6c = /^colour:back:through:3$/
+				var word_key6c = feature.getKeys().filter(function(t){return t.match(key_regex6)}).pop() || "word6c"
+				var word6c = feature.get(word_key6c) || '';
 				var key_regex7 = /^colour:text:through$/
 				var word_key7 = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "word7"
 				var word7 = feature.get(word_key7) || '';
+				var key_regex7b = /^colour:text:through:2$/
+				var word_key7b = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "word7b"
+				var word7b = feature.get(word_key7b) || '';
+				var key_regex7c = /^colour:text:through:3$/
+				var word_key7c = feature.getKeys().filter(function(t){return t.match(key_regex7)}).pop() || "word7c"
+				var word7c = feature.get(word_key7c) || '';
 				var key_regex8 = /^colour:back$/
 				var word_key8 = feature.getKeys().filter(function(t){return t.match(key_regex8)}).pop() || "word8"
 				var word8 = feature.get(word_key8) || '';
@@ -1770,9 +1782,21 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex26 = /^colour:back:slight_left$/
 				var word_key26 = feature.getKeys().filter(function(t){return t.match(key_regex26)}).pop() || "word26"
 				var word26 = feature.get(word_key26) || '';
+				var key_regex26b = /^colour:back:slight_left:2$/
+				var word_key26b = feature.getKeys().filter(function(t){return t.match(key_regex26)}).pop() || "word26b"
+				var word26b = feature.get(word_key26b) || '';
+				var key_regex26c = /^colour:back:slight_left:3$/
+				var word_key26c = feature.getKeys().filter(function(t){return t.match(key_regex26c)}).pop() || "word26c"
+				var word26c = feature.get(word_key26c) || '';
 				var key_regex27 = /^colour:text:slight_left$/
 				var word_key27 = feature.getKeys().filter(function(t){return t.match(key_regex27)}).pop() || "word27"
 				var word27 = feature.get(word_key27) || '';
+				var key_regex27b = /^colour:text:slight_left:2$/
+				var word_key27b = feature.getKeys().filter(function(t){return t.match(key_regex27)}).pop() || "word27b"
+				var word27b = feature.get(word_key27) || '';
+				var key_regex27c = /^colour:text:slight_left:3$/
+				var word_key27c = feature.getKeys().filter(function(t){return t.match(key_regex27c)}).pop() || "word27c"
+				var word27c = feature.get(word_key27c) || '';
 				var key_regex30 = /^destination:left$/
 				var word_key30 = feature.getKeys().filter(function(t){return t.match(key_regex30)}).pop() || "word30"
 				var word30 = feature.get(word_key30) || '';
@@ -1821,6 +1845,12 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex36 = /^colour:back:left$/
 				var word_key36 = feature.getKeys().filter(function(t){return t.match(key_regex36)}).pop() || "word36"
 				var word36 = feature.get(word_key36) || '';
+				var key_regex36b = /^colour:back:left:2$/
+				var word_key36b = feature.getKeys().filter(function(t){return t.match(key_regex36b)}).pop() || "word36b"
+				var word36b = feature.get(word_key36b) || '';
+				var key_regex36c = /^colour:back:left:3$/
+				var word_key36c = feature.getKeys().filter(function(t){return t.match(key_regex36)}).pop() || "word36c"
+				var word36c = feature.get(word_key36c) || '';
 				var key_regex37 = /^colour:text:left$/
 				var word_key37 = feature.getKeys().filter(function(t){return t.match(key_regex37)}).pop() || "word37"
 				var word37 = feature.get(word_key37) || '';
@@ -2065,11 +2095,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 152,
 								offsetY : 50,
 								fill: new ol.style.Fill({
-                            color: word7
+                            color: word7b
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word6 || 'rgba(0,0,0,0)'
+                            color: word6b || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
@@ -2082,11 +2112,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 152,
 								offsetY : 60,
 								fill: new ol.style.Fill({
-                            color: word7
+                            color: word7b
                         }),
 							padding: [0,0,0,0],
 								backgroundFill: new ol.style.Fill({
-                            color: word6 || 'rgba(0,0,0,0)'
+                            color: word6b || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
@@ -2099,11 +2129,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 152,
 								offsetY : 70,
 								fill: new ol.style.Fill({
-                            color: word7
+                            color: word7c
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word6 || 'rgba(0,0,0,0)'
+                            color: word6c || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
@@ -2116,11 +2146,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 152,
 								offsetY : 80,
 								fill: new ol.style.Fill({
-                            color: word7
+                            color: word7c
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word6 || 'rgba(0,0,0,0)'
+                            color: word6c || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
@@ -2167,11 +2197,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 52,
 								offsetY : 50,
 								fill: new ol.style.Fill({
-                            color: word27
+                            color: word27b
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word26 || 'rgba(0,0,0,0)'
+                            color: word26b || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
@@ -2184,11 +2214,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 52,
 								offsetY : 60,
 								fill: new ol.style.Fill({
-                            color: word27
+                            color: word27b
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word26 || 'rgba(0,0,0,0)'
+                            color: word26b || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
@@ -2201,11 +2231,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 52,
 								offsetY : 70,
 								fill: new ol.style.Fill({
-                            color: word27
+                            color: word27c
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word26 || 'rgba(0,0,0,0)'
+                            color: word26c || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
@@ -2218,11 +2248,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 52,
 								offsetY : 80,
 								fill: new ol.style.Fill({
-                            color: word27
+                            color: word27c
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word26 || 'rgba(0,0,0,0)'
+                            color: word26c || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
@@ -2269,11 +2299,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 57,
 								offsetY : 140,
 								fill: new ol.style.Fill({
-                            color: word37
+                            color: word37b
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word36 || 'rgba(0,0,0,0)'
+                            color: word36b || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
@@ -2286,11 +2316,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 57,
 								offsetY : 150,
 								fill: new ol.style.Fill({
-                            color: word37
+                            color: word37b
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word36 || 'rgba(0,0,0,0)'
+                            color: word36b || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
@@ -2303,11 +2333,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 57,
 								offsetY : 160,
 								fill: new ol.style.Fill({
-                            color: word37
+                            color: word37c
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word36 || 'rgba(0,0,0,0)'
+                            color: word36c || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
@@ -2320,11 +2350,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 57,
 								offsetY : 170,
 								fill: new ol.style.Fill({
-                            color: word37
+                            color: word37c
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word36 || 'rgba(0,0,0,0)'
+                            color: word36c || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
