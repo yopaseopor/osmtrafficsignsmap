@@ -49407,9 +49407,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style6 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word6 +'.png',
-					imgSize: [117, 90],
+					imgSize: [130, 100],
 					rotateWithView: false,
-					anchor: [-115, -2],
+					anchor: [-130, -2],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
