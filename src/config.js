@@ -2829,7 +2829,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style0 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas2,
-					imgSize: [355, 250],
+					imgSize: [370, 270],
 					anchor: [0, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
