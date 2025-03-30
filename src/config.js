@@ -1991,8 +1991,8 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word87 = feature.get(word_key87) || '';
 				
 var canvas2 = document.createElement('canvas');
-canvas2.width = 355;
-canvas2.height = 250;
+canvas2.width = 370;
+canvas2.height = 270;
 var ctx2 = canvas2.getContext('2d');
 ctx2.fillStyle = word8;
 ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
@@ -2418,8 +2418,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: ''+ word70 +'\n'+ word70b1 +'',
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 232,
-								offsetY : 125,
+								offsetX : 250,
+								offsetY : 120,
 								fill: new ol.style.Fill({
                             color: word77
                         }),
@@ -2435,8 +2435,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: ''+ word70b +'\n'+ word70b2 +'',
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 232,
-								offsetY : 145,
+								offsetX : 250,
+								offsetY : 140,
 								fill: new ol.style.Fill({
                             color: word77
                         }),
@@ -2452,8 +2452,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: ''+ word70c +'\n'+ word70c2 +'',
 								font: 'small-caps bold 10px "Arial"',
 								textAlign:'left',
-								offsetX : 232,
-								offsetY : 165,
+								offsetX : 250,
+								offsetY : 160,
 								fill: new ol.style.Fill({
                             color: word77
                         }),
@@ -2469,14 +2469,10 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: ''+ word80 +'\n'+ word80b1 +'',
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 47,
-								offsetY : 175,
+								offsetX : 57,
+								offsetY : 210,
 								fill: new ol.style.Fill({
                             color: word87
-                        }),
-							padding: [0,1,0,1],
-								backgroundFill: new ol.style.Fill({
-                            color: word86
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
@@ -2491,7 +2487,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 57,
-								offsetY : 195,
+								offsetY : 230,
 								fill: new ol.style.Fill({
                             color: word87
                         }),
@@ -2508,7 +2504,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 57,
-								offsetY : 215,
+								offsetY : 250,
 								fill: new ol.style.Fill({
                             color: word87
                         }),
