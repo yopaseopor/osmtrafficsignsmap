@@ -2045,7 +2045,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word87 = feature.get(word_key87) || '';
 				
 var canvas2 = document.createElement('canvas');
-canvas2.width = 370;
+canvas2.width = 375;
 canvas2.height = 270;
 var ctx2 = canvas2.getContext('2d');
 ctx2.fillStyle = 'rgba(255,225,0,0.5)';
@@ -3279,7 +3279,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style75 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word75 +'.png',
-							anchor: [-1385, -700],
+							anchor: [-1485, -750],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
