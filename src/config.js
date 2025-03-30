@@ -1666,7 +1666,7 @@ return null;
   
 {
 			group: 'ES',
-			title: 'ES_S200',
+			title: 'ES_S200-1',
 query: '(nwr["traffic_sign:id"="ES:S200"]({{bbox}});node(w););out meta;',
 iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES/traffic_signs/ES/ES_S200.png',
 			iconStyle: 'background-color:#FFFFFF',
@@ -2015,9 +2015,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								fill: new ol.style.Fill({
                             color: word7
                         }),
-							padding: [0,1,0,1],
+							padding: [0,0,0,0],
 								backgroundFill: new ol.style.Fill({
-                            color: word6 || 'rgba(248,248,255,1)'
+                            color: word6 || 'rgba(248,248,255,0)'
                         }),
 					}),
 					stroke: stroke
@@ -2028,24 +2028,24 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 152,
-								offsetY : 45,
+								offsetY : 40,
 								fill: new ol.style.Fill({
                             color: word7
                         }),
-							padding: [0,1,0,1],
+							padding: [0,0,0,0],
 								backgroundFill: new ol.style.Fill({
-                            color: word6 || 'rgba(248,248,255,1)'
+                            color: word6 || 'rgba(248,248,255,0)'
                         }),
 					}),
 					stroke: stroke
 				});
 								var styleb = new ol.style.Style({
 					text: new ol.style.Text({
-								text: ''+ wordb +'\n'+ wordb2 +'',
+								text: wordb,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 152,
-								offsetY : 60,
+								offsetY : 50,
 								fill: new ol.style.Fill({
                             color: word7
                         }),
@@ -2056,9 +2056,43 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					}),
 					stroke: stroke
 				});
+								var styleb2 = new ol.style.Style({
+					text: new ol.style.Text({
+								text: wordb2,
+								font: 'small-caps bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 152,
+								offsetY : 60,
+								fill: new ol.style.Fill({
+                            color: word7
+                        }),
+							padding: [0,0,0,0],
+								backgroundFill: new ol.style.Fill({
+                            color: word6 || 'rgba(0,0,0,0)'
+                        }),
+					}),
+					stroke: stroke
+				});
 				var stylec = new ol.style.Style({
 					text: new ol.style.Text({
-								text: ''+ wordc +'\n'+ wordc2 +'',
+								text: wordc,
+								font: 'small-caps bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 152,
+								offsetY : 70,
+								fill: new ol.style.Fill({
+                            color: word7
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word6 || 'rgba(0,0,0,0)'
+                        }),
+					}),
+					stroke: stroke
+				});
+				var stylec2 = new ol.style.Style({
+					text: new ol.style.Text({
+								text: wordc2,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 152,
@@ -2711,7 +2745,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style17, style2, style32, style32b, style32c, style72, style72b, style72c, style6, style36, style76, style, styleb1, styleb, stylec, style20, style20b, style20c, style30, style30b, style30c, style40, style40b, style40c, style70, style70b, style70c, style80, style80b, style80c, style5, style5b, style5c, style35, style35b, style35c, style75, style75b, style75c, style10];
+				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style17, style2, style32, style32b, style32c, style72, style72b, style72c, style6, style36, style76, style, styleb1, styleb, styleb2, stylec, stylec2, style20, style20b, style20c, style30, style30b, style30c, style40, style40b, style40c, style70, style70b, style70c, style80, style80b, style80c, style5, style5b, style5c, style35, style35b, style35c, style75, style75b, style75c, style10];
 			}
 
 },
