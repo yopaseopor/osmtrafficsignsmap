@@ -2106,7 +2106,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 200,
+								offsetX : 185,
 								offsetY : 30,
 								fill: new ol.style.Fill({
                             color: word7
@@ -2123,7 +2123,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: wordb1,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 200,
+								offsetX : 185,
 								offsetY : 40,
 								fill: new ol.style.Fill({
                             color: word7
@@ -2140,7 +2140,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: wordb,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 200,
+								offsetX : 185,
 								offsetY : 50,
 								fill: new ol.style.Fill({
                             color: word7b
@@ -2157,7 +2157,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: wordb2,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 200,
+								offsetX : 185,
 								offsetY : 60,
 								fill: new ol.style.Fill({
                             color: word7b
@@ -2174,7 +2174,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: wordc,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 200,
+								offsetX : 185,
 								offsetY : 70,
 								fill: new ol.style.Fill({
                             color: word7c
@@ -2191,7 +2191,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: wordc2,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 200,
+								offsetX : 185,
 								offsetY : 80,
 								fill: new ol.style.Fill({
                             color: word7c
@@ -3235,7 +3235,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word6 +'.png',
 					imgSize: [137, 85],
 					rotateWithView: false,
-					anchor: [-145, -2],
+					anchor: [-140, -2],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -3283,7 +3283,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word56 +'.png',
 					imgSize: [137, 85],
 					rotateWithView: false,
-					anchor: [-130, -200],
+					anchor: [-140, -200],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -3295,7 +3295,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word66 +'.png',
 					imgSize: [137, 85],
 					rotateWithView: false,
-					anchor: [-230, -200],
+					anchor: [-245, -200],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -3307,7 +3307,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word76 +'.png',
 					imgSize: [137, 85],
 					rotateWithView: false,
-					anchor: [-230, -100],
+					anchor: [-245, -100],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -3319,7 +3319,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word86 +'.png',
 					imgSize: [137, 85],
 					rotateWithView: false,
-					anchor: [-230, -2],
+					anchor: [-245, -2],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
