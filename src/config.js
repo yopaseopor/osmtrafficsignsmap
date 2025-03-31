@@ -1779,6 +1779,12 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex25 = /^destination:symbol:slight_left$/
 				var word_key25 = feature.getKeys().filter(function(t){return t.match(key_regex25)}).pop() || "word25"
 				var word25 = feature.get(word_key25) || '';
+				var key_regex25b = /^destination:symbol:slight_left:2$/
+				var word_key25b = feature.getKeys().filter(function(t){return t.match(key_regex25b)}).pop() || "word25b"
+				var word25b = feature.get(word_key25b) || '';
+				var key_regex25c = /^destination:symbol:slight_left:3$/
+				var word_key25c = feature.getKeys().filter(function(t){return t.match(key_regex25c)}).pop() || "word25c"
+				var word25c = feature.get(word_key25b) || '';
 				var key_regex26 = /^colour:back:slight_left$/
 				var word_key26 = feature.getKeys().filter(function(t){return t.match(key_regex26)}).pop() || "word26"
 				var word26 = feature.get(word_key26) || '';
@@ -3239,6 +3245,45 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 												
 					stroke: stroke
 				});
+				var style25 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word25 +'.png',
+							anchor: [-200, -150],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+					
+				});
+				var style25b = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word25b +'.png',
+							anchor: [-200, -300],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+					
+				});
+				var style25c = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word25c +'.png',
+							anchor: [-200, -450],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+					
+				});
 				var style35 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word35 +'.png',
@@ -3255,7 +3300,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style35b = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word35b +'.png',
-							anchor: [-385, -900],
+							anchor: [-200, -900],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -3267,7 +3312,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style35c = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word35c +'.png',
-							anchor: [-585, -1050],
+							anchor: [-200, -1050],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -3314,7 +3359,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style17, style2, style32, style32b, style32c, style72, style72b, style72c, style6, style26, style36, style46, style56, style66, style76, style86, style, styleb1, styleb, styleb2, stylec, stylec2, style20, style20b1, style20b, style20b2, style20c, style20c2, style30, style30b1, style30b, style30b2, style30c, style30c2, style40, style40b1, style40b, style40b2, style40c, style40c2, style50, style50b1, style50b, style50b2, style50c, style50c2, style60, style60b1, style60b, style60b2, style60c, style60c2, style70, style70b1, style70b, style70b2, style70c, style70c2, style80, style80b1, style80b, style80b2, style80c, style80c2, style5, style5b, style5c, style35, style35b, style35c, style75, style75b, style75c, style10];
+				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style17, style2, style32, style32b, style32c, style72, style72b, style72c, style6, style26, style36, style46, style56, style66, style76, style86, style, styleb1, styleb, styleb2, stylec, stylec2, style20, style20b1, style20b, style20b2, style20c, style20c2, style30, style30b1, style30b, style30b2, style30c, style30c2, style40, style40b1, style40b, style40b2, style40c, style40c2, style50, style50b1, style50b, style50b2, style50c, style50c2, style60, style60b1, style60b, style60b2, style60c, style60c2, style70, style70b1, style70b, style70b2, style70c, style70c2, style80, style80b1, style80b, style80b2, style80c, style80c2, style5, style5b, style5c, style25, style25b, style25c, style35, style35b, style35c, style75, style75b, style75c, style10];
 			}
 
 },
