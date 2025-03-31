@@ -2174,7 +2174,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: wordc,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 172,
+								offsetX : 200,
 								offsetY : 70,
 								fill: new ol.style.Fill({
                             color: word7c
