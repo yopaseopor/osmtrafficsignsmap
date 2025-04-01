@@ -1762,7 +1762,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word_key11 = feature.getKeys().filter(function(t){return t.match(key_regex11)}).pop() || "word11"
 				var word11 = feature.get(word_key11) || '';
 				var key_regex4a = /^through$/
-				var word_key4a = feature.getKeys().filter(function(t){return t.match(key_regex4)}).pop() || "word4a"
+				var word_key4a = feature.getKeys().filter(function(t){return t.match(key_regex4a)}).pop() || "word4a"
 				var word4a = feature.get(word_key4a) || '';
 				var key_regex12 = /^slight_right$/
 				var word_key12 = feature.getKeys().filter(function(t){return t.match(key_regex12)}).pop() || "word12"
