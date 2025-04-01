@@ -1761,9 +1761,9 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex11 = /^slight_left$/
 				var word_key11 = feature.getKeys().filter(function(t){return t.match(key_regex11)}).pop() || "word11"
 				var word11 = feature.get(word_key11) || '';
-				var key_regex4 = /^through$/
-				var word_key4 = feature.getKeys().filter(function(t){return t.match(key_regex4)}).pop() || "word4"
-				var word4 = feature.get(word_key4) || '';
+				var key_regex4a = /^through$/
+				var word_key4a = feature.getKeys().filter(function(t){return t.match(key_regex4)}).pop() || "word4a"
+				var word4a = feature.get(word_key4a) || '';
 				var key_regex12 = /^slight_right$/
 				var word_key12 = feature.getKeys().filter(function(t){return t.match(key_regex12)}).pop() || "word12"
 				var word12 = feature.get(word_key12) || '';
@@ -3291,9 +3291,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 												
 					stroke: stroke
 				});
-				var style4 = new ol.style.Style({
+				var style4a = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/roundabout_through_'+ word4 +'.png',
+							src: imgSrc + 'ES/textures/content/roundabout_through_'+ word4a +'.png',
 							anchor: [-155, -100],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -3734,7 +3734,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style17, style2, style2b, style2c, style32, style32b, style32c, style72, style72b, style72c, style9, style9b, style9c, style6, style26, style36, style46, style56, style66, style76, style86, style, styleb1, styleb, styleb2, stylec, stylec2, style20, style20b1, style20b, style20b2, style20c, style20c2, style30, style30b1, style30b, style30b2, style30c, style30c2, style40, style40b1, style40b, style40b2, style40c, style40c2, style50, style50b1, style50b, style50b2, style50c, style50c2, style60, style60b1, style60b, style60b2, style60c, style60c2, style70, style70b1, style70b, style70b2, style70c, style70c2, style80, style80b1, style80b, style80b2, style80c, style80c2, style5, style5b, style5c, style25, style25b, style25c, style35, style35b, style35c, style45, style45b, style45c, style65, style65b, style65c,style75, style75b, style75c, style85, style85b, style85c, style10];
+				return [style0, style4, style10, style11, style12, style13, style14, style4a,  style15, style16, style17, style2, style2b, style2c, style32, style32b, style32c, style72, style72b, style72c, style9, style9b, style9c, style6, style26, style36, style46, style56, style66, style76, style86, style, styleb1, styleb, styleb2, stylec, stylec2, style20, style20b1, style20b, style20b2, style20c, style20c2, style30, style30b1, style30b, style30b2, style30c, style30c2, style40, style40b1, style40b, style40b2, style40c, style40c2, style50, style50b1, style50b, style50b2, style50c, style50c2, style60, style60b1, style60b, style60b2, style60c, style60c2, style70, style70b1, style70b, style70b2, style70c, style70c2, style80, style80b1, style80b, style80b2, style80c, style80c2, style5, style5b, style5c, style25, style25b, style25c, style35, style35b, style35c, style45, style45b, style45c, style65, style65b, style65c,style75, style75b, style75c, style85, style85b, style85c, style10];
 			}
 
 },
