@@ -3304,6 +3304,168 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					}),
 					stroke: stroke
 				});
+				
+				var style29 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word29,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 180,
+								offsetY : 13,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word24
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style29b = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word29b,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 155,
+								offsetY : 50,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word24b
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style29c = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word29c,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 155,
+								offsetY : 70,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word24c
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style39 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word39,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 180,
+								offsetY : 13,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word34
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style39b = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word39b,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 155,
+								offsetY : 50,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word34b
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style39c = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word39c,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 155,
+								offsetY : 70,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word34c
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style49 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word49,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 180,
+								offsetY : 13,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word44
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style49b = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word49b,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 155,
+								offsetY : 50,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word44b
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style49c = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word49c,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 155,
+								offsetY : 70,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word44c
+                        }),
+					}),
+					stroke: stroke
+				});
 
 				var style10 = new ol.style.Style({
 					image: new ol.style.Icon({
@@ -3770,7 +3932,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style0, style10, style11, style12, style13, style14, style4a, style15, style16, style17, style2, style2b, style2c, style32, style32b, style32c, style72, style72b, style72c, style9, style9b, style9c, style6, style26, style36, style46, style56, style66, style76, style86, style, styleb1, styleb, styleb2, stylec, stylec2, style20, style20b1, style20b, style20b2, style20c, style20c2, style30, style30b1, style30b, style30b2, style30c, style30c2, style40, style40b1, style40b, style40b2, style40c, style40c2, style50, style50b1, style50b, style50b2, style50c, style50c2, style60, style60b1, style60b, style60b2, style60c, style60c2, style70, style70b1, style70b, style70b2, style70c, style70c2, style80, style80b1, style80b, style80b2, style80c, style80c2, style5, style5b, style5c, style25, style25b, style25c, style35, style35b, style35c, style45, style45b, style45c, style65, style65b, style65c,style75, style75b, style75c, style85, style85b, style85c, style10];
+				return [style0, style10, style11, style12, style13, style14, style4a, style15, style16, style17, style2, style2b, style2c, style22, style22b, style22c, style32, style32b, style32c, style42, style42b, style42c, style72, style72b, style72c, style9, style9b, style9c, style29, style29b, style29c, style39, style39b, style39c, style49, style49b, style49c, style6, style26, style36, style46, style56, style66, style76, style86, style, styleb1, styleb, styleb2, stylec, stylec2, style20, style20b1, style20b, style20b2, style20c, style20c2, style30, style30b1, style30b, style30b2, style30c, style30c2, style40, style40b1, style40b, style40b2, style40c, style40c2, style50, style50b1, style50b, style50b2, style50c, style50c2, style60, style60b1, style60b, style60b2, style60c, style60c2, style70, style70b1, style70b, style70b2, style70c, style70c2, style80, style80b1, style80b, style80b2, style80c, style80c2, style5, style5b, style5c, style25, style25b, style25c, style35, style35b, style35c, style45, style45b, style45c, style65, style65b, style65c,style75, style75b, style75c, style85, style85b, style85c, style10];
 			}
 
 },
