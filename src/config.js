@@ -28209,7 +28209,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 				
-				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style17, style2, style32, style32b, style32c, style72, style72b, style72c, style6, style36, style76, style, styleb1, styleb, styleb2, stylec, stylec2, style20, style20b, style20c, style30, style30b, style30c, style40, style40b, style40c, style70, style70b, style70c, style80, style80b, style80c, style5, style5b, style5c, style35, style35b, style35c, style75, style75b, style75c, style10];
+				return [style0, style4, style10, style11, style12, style13, style14, style15, style16, style17, style2, style2b, style2c, style22, style22b, style22c, style32, style32b, style32c, style42, style42b, style42c, style52, style52b, style52c, style62, style62b, style62c, style72, style72b, style72c, style6, style26, style36, style46, style56, style66, style76, style, styleb1, styleb, styleb2, stylec, stylec2, style20, style20b, style20c, style30, style30b, style30c, style40, style40b, style40c, style50, style50b, style50c, style60, style60b, style60c, style70, style70b, style70c, style80, style80b, style80c, style5, style5b, style5c, style25, style25b, style25c, style35, style35b, style35c, style45, style45b, style45c, style55, style55b, style55c, style65, style65b, style65c, style75, style75b, style75c, style85, style85b, style85c];
 			}
 
 },
