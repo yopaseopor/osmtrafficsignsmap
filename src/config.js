@@ -3249,7 +3249,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style42 = new ol.style.Style({
 												text: new ol.style.Text({
-								text: word32,
+								text: word42,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : 100,
@@ -3266,7 +3266,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style42b = new ol.style.Style({
 												text: new ol.style.Text({
-								text: word32b,
+								text: word42b,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : 30,
