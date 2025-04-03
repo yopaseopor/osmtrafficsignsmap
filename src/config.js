@@ -3928,6 +3928,114 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					}),
 					stroke: stroke
 				});
+				
+				var style79 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word79,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 300,
+								offsetY : 108,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word74
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style79b = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word79b,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 300,
+								offsetY : 138,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word74b
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style79c = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word79c,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 300,
+								offsetY : 168,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word74c
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style89 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word89,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 300,
+								offsetY : 13,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word84
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style89b = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word89b,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 300,
+								offsetY : 48,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word84b
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style89c = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word89c,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 300,
+								offsetY : 78,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word84c
+                        }),
+					}),
+					stroke: stroke
+				});
 
 				var style10 = new ol.style.Style({
 					image: new ol.style.Icon({
@@ -4274,6 +4382,43 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word45c +'.png',
 							anchor: [-200, -1650],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+				});
+				var style55 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word45 +'.png',
+							anchor: [-900, -1350],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+					
+				});
+				var style55b = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word45b +'.png',
+							anchor: [-900, -1500],
+							rotateWithView: false,
+								anchorXUnits: 'pixels',
+								anchorYUnits: 'pixels',
+							scale:0.15
+						}),
+												
+					stroke: stroke
+				});
+				var style55c = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word45c +'.png',
+							anchor: [-900, -1650],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
