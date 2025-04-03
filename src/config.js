@@ -4392,7 +4392,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style55 = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/sign_white_'+ word45 +'.png',
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word55 +'.png',
 							anchor: [-900, -1350],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
@@ -4405,7 +4405,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style55b = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/sign_white_'+ word45b +'.png',
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word55b +'.png',
 							anchor: [-900, -1500],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
@@ -4417,7 +4417,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style55c = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/sign_white_'+ word45c +'.png',
+							src: imgSrc + 'ES/textures/content/sign_white_'+ word55c +'.png',
 							anchor: [-900, -1650],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
