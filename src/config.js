@@ -2089,7 +2089,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word_key55b = feature.getKeys().filter(function(t){return t.match(key_regex55b)}).pop() || "word55b"
 				var word55b = feature.get(word_key55b) || '';
 				var key_regex55c = /^destination:symbol:u_turn:3$/
-				var word_key55b = feature.getKeys().filter(function(t){return t.match(key_regex55c)}).pop() || "word55c"
+				var word_key55c = feature.getKeys().filter(function(t){return t.match(key_regex55c)}).pop() || "word55c"
 				var word55c = feature.get(word_key55c) || '';
 				var key_regex56 = /^colour:back:u_turn$/
 				var word_key56 = feature.getKeys().filter(function(t){return t.match(key_regex56)}).pop() || "word56"
