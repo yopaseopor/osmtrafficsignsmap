@@ -4247,7 +4247,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style5 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word5 +'.png',
-							anchor: [-900, -400],
+							anchor: [-850, -150],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:0.15
@@ -4258,7 +4258,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style5b = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word5b +'.png',
-							anchor: [-1100, -400],
+							anchor: [-850, -300],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:0.15
@@ -4269,7 +4269,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style5c = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word5c +'.png',
-							anchor: [-1300, -400],
+							anchor: [-850, -450],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:0.15
@@ -4393,7 +4393,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style55 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word55 +'.png',
-							anchor: [-900, -1350],
+							anchor: [-850, -1350],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -4406,7 +4406,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style55b = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word55b +'.png',
-							anchor: [-900, -1500],
+							anchor: [-850, -1500],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -4418,7 +4418,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style55c = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word55c +'.png',
-							anchor: [-900, -1650],
+							anchor: [-850, -1650],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
