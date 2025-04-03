@@ -2040,7 +2040,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex50c = /^destination:u_turn:3$/
 				var word_key50c = feature.getKeys().filter(function(t){return t.match(key_regex50c)}).pop() || "word50c"
 				var word50c = feature.get(word_key50c) || '';
-				var key_regex50c2 = /^destination:u_turn:3:b$/
+				var key_regex50c2 = /^destination:u_turn:3b$/
 				var word_key50c2 = feature.getKeys().filter(function(t){return t.match(key_regex50c2)}).pop() || "word50c2"
 				var word50c2 = feature.get(word_key50c2) || '';
 				var key_regex52 = /^destination:ref:u_turn$/
@@ -29104,7 +29104,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex50c = /^destination:u_turn:3$/
 				var word_key50c = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "word50c"
 				var word50c = feature.get(word_key50c) || '';
-				var key_regex50c2 = /^destination:u_turn:3:b$/
+				var key_regex50c2 = /^destination:u_turn:3b$/
 				var word_key50c2 = feature.getKeys().filter(function(t){return t.match(key_regex)}).pop() || "word50c2"
 				var word50c2 = feature.get(word_key50c2) || '';
 				var key_regex52 = /^destination:ref:u_turn$/
