@@ -3390,8 +3390,114 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
                         }),
 					}),
 					stroke: stroke
+});
+				
+				var style52 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word52,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 195,
+								offsetY : 208,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word53
+                        }),
+					}),
+					stroke: stroke
 				});
 				
+				var style52b = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word52b,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 170,
+								offsetY : 238,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word53b
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style52c = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word52c,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 170,
+								offsetY : 268,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word53c
+                        }),
+					}),
+					stroke: stroke
+});
+				var style62 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word62,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 310,
+								offsetY : 13,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word63
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style62b = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word62b,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 310,
+								offsetY : 48,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word63b
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style62c = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word62c,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 310,
+								offsetY : 78,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word63c
+                        }),
+					}),
+					stroke: stroke
+								});
 				var style72 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word72,
@@ -3430,7 +3536,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				
 				var style72c = new ol.style.Style({
 												text: new ol.style.Text({
-								text: word72b,
+								text: word72c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : 310,
@@ -3441,6 +3547,59 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
                             color: word73c
+                        }),
+					}),
+					stroke: stroke
+});
+				var style82 = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word82,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 310,
+								offsetY : 208,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word83
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style82b = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word82b,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 310,
+								offsetY : 238,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word83b
+                        }),
+					}),
+					stroke: stroke
+				});
+				
+				var style82c = new ol.style.Style({
+												text: new ol.style.Text({
+								text: word82c,
+								font: 'bolder 12px Arial',
+								textAlign:'center',
+								offsetX : 310,
+								offsetY : 268,
+								fill: new ol.style.Fill({
+                            color: 'rgba(255,255,255,1)'
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word83c
                         }),
 					}),
 					stroke: stroke
@@ -27720,6 +27879,108 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
                             color: word46 || 'rgba(0,0,0,0)'
+                        }),
+					}),
+					stroke: stroke
+				});
+				var style = new ol.style.Style({
+					text: new ol.style.Text({
+								text: word,
+								font: 'small-caps bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 152,
+								offsetY : 30,
+								fill: new ol.style.Fill({
+                            color: word7
+                        }),
+							padding: [0,0,0,0],
+								backgroundFill: new ol.style.Fill({
+                            color: word6 || 'rgba(248,248,255,0)'
+                        }),
+					}),
+					stroke: stroke
+				});
+				var styleb1 = new ol.style.Style({
+					text: new ol.style.Text({
+								text: wordb1,
+								font: 'small-caps bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 152,
+								offsetY : 40,
+								fill: new ol.style.Fill({
+                            color: word7
+                        }),
+							padding: [0,0,0,0],
+								backgroundFill: new ol.style.Fill({
+                            color: word6 || 'rgba(248,248,255,0)'
+                        }),
+					}),
+					stroke: stroke
+				});
+								var styleb = new ol.style.Style({
+					text: new ol.style.Text({
+								text: wordb,
+								font: 'small-caps bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 152,
+								offsetY : 50,
+								fill: new ol.style.Fill({
+                            color: word7
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word6 || 'rgba(0,0,0,0)'
+                        }),
+					}),
+					stroke: stroke
+				});
+								var styleb2 = new ol.style.Style({
+					text: new ol.style.Text({
+								text: wordb2,
+								font: 'small-caps bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 152,
+								offsetY : 60,
+								fill: new ol.style.Fill({
+                            color: word7
+                        }),
+							padding: [0,0,0,0],
+								backgroundFill: new ol.style.Fill({
+                            color: word6 || 'rgba(0,0,0,0)'
+                        }),
+					}),
+					stroke: stroke
+				});
+				var stylec = new ol.style.Style({
+					text: new ol.style.Text({
+								text: wordc,
+								font: 'small-caps bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 152,
+								offsetY : 70,
+								fill: new ol.style.Fill({
+                            color: word7
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word6 || 'rgba(0,0,0,0)'
+                        }),
+					}),
+					stroke: stroke
+				});
+				var stylec2 = new ol.style.Style({
+					text: new ol.style.Text({
+								text: wordc2,
+								font: 'small-caps bold 10px Verdana',
+								textAlign:'left',
+								offsetX : 152,
+								offsetY : 70,
+								fill: new ol.style.Fill({
+                            color: word7
+                        }),
+							padding: [0,1,0,1],
+								backgroundFill: new ol.style.Fill({
+                            color: word6 || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
