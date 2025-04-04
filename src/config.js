@@ -29416,7 +29416,7 @@ canvas2.width = 410;
 canvas2.height = 280;
 var ctx2 = canvas2.getContext('2d');
 ctx2.fillStyle = 'rgba(255,225,0,0.5)';
-ctx2.fillRect(10, -2, canvas2.width, canvas2.height);
+ctx2.fillRect(30, -2, canvas2.width, canvas2.height);
 				
 				var fill = new ol.style.Fill({
 					color: word3
@@ -31295,7 +31295,7 @@ ctx2.fillRect(10, -2, canvas2.width, canvas2.height);
 					image: new ol.style.Icon({
 					img: canvas2,
 					imgSize: [410, 280],
-					anchor: [10, -2],
+					anchor: [30, -2],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
