@@ -30938,8 +30938,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word69,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 325,
-								offsetY : 208,
+								offsetX : 305,
+								offsetY : 0,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30956,8 +30956,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word69b,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 325,
-								offsetY : 238,
+								offsetX : 305,
+								offsetY : 30,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30974,8 +30974,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word69c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 325,
-								offsetY : 268,
+								offsetX : 305,
+								offsetY : 60,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30992,8 +30992,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word79,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 325,
-								offsetY : 108,
+								offsetX : 305,
+								offsetY : 100,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -31010,8 +31010,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word79b,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 325,
-								offsetY : 138,
+								offsetX : 305,
+								offsetY : 130,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -31028,8 +31028,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word79c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 325,
-								offsetY : 168,
+								offsetX : 305,
+								offsetY : 170,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
