@@ -30938,7 +30938,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word69,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 300,
+								offsetX : 325,
 								offsetY : 208,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -30956,7 +30956,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word69b,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 300,
+								offsetX : 325,
 								offsetY : 238,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -30974,7 +30974,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word69c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 300,
+								offsetX : 325,
 								offsetY : 268,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -30992,7 +30992,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word79,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 300,
+								offsetX : 325,
 								offsetY : 108,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -31010,7 +31010,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word79b,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 300,
+								offsetX : 325,
 								offsetY : 138,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -31028,7 +31028,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word79c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 300,
+								offsetX : 325,
 								offsetY : 168,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -31046,7 +31046,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word89,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 300,
+								offsetX : 325,
 								offsetY : 13,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -31064,7 +31064,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word89b,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 300,
+								offsetX : 325,
 								offsetY : 48,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -31082,7 +31082,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word89c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 300,
+								offsetX : 325,
 								offsetY : 78,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -31197,9 +31197,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style6 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word6 +'.png',
-					imgSize: [137, 85],
+					imgSize: [150, 100],
 					rotateWithView: false,
-					anchor: [-140, -2],
+					anchor: [-150, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -31209,9 +31209,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style26 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word26 +'.png',
-					imgSize: [137, 85],
+					imgSize: [150, 100],
 					rotateWithView: false,
-					anchor: [0, -2],
+					anchor: [0, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -31221,7 +31221,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style36 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word36 +'.png',
-					imgSize: [137, 85],
+					imgSize: [150, 100],
 					rotateWithView: false,
 					anchor: [0, -100],
 					anchorXUnits: 'pixels',
@@ -31233,7 +31233,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style46 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word46 +'.png',
-					imgSize: [137, 85],
+					imgSize: [150, 100],
 					rotateWithView: false,
 					anchor: [0, -200],
 					anchorXUnits: 'pixels',
@@ -31245,9 +31245,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style56 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word56 +'.png',
-					imgSize: [137, 85],
+					imgSize: [150, 100],
 					rotateWithView: false,
-					anchor: [-140, -200],
+					anchor: [-150, -200],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -31257,9 +31257,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style66 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word66 +'.png',
-					imgSize: [137, 85],
+					imgSize: [150, 100],
 					rotateWithView: false,
-					anchor: [-260, -200],
+					anchor: [-300, -200],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -31269,9 +31269,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style76 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word76 +'.png',
-					imgSize: [137, 85],
+					imgSize: [150, 100],
 					rotateWithView: false,
-					anchor: [-260, -100],
+					anchor: [-300, -100],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -31281,9 +31281,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style86 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word86 +'.png',
-					imgSize: [137, 85],
+					imgSize: [150, 100],
 					rotateWithView: false,
-					anchor: [-260, -2],
+					anchor: [-300, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
