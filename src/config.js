@@ -29412,8 +29412,8 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word87c = feature.get(word_key87c) || '';
 				
 var canvas2 = document.createElement('canvas');
-canvas2.width = 410;
-canvas2.height = 280;
+canvas2.width = 450;
+canvas2.height = 300;
 var ctx2 = canvas2.getContext('2d');
 ctx2.fillStyle = 'rgba(255,225,0,0.5)';
 ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
@@ -31294,8 +31294,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style0 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas2,
-					imgSize: [410, 280],
-					anchor: [30, -2],
+					imgSize: [450, 300],
+					anchor: [0, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
