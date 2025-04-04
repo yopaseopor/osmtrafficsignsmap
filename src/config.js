@@ -31046,8 +31046,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word89,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 325,
-								offsetY : 13,
+								offsetX : 305,
+								offsetY : 210,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -31064,8 +31064,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word89b,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 325,
-								offsetY : 48,
+								offsetX : 305,
+								offsetY : 240,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -31082,8 +31082,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word89c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 325,
-								offsetY : 78,
+								offsetX : 305,
+								offsetY : 270,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -31098,7 +31098,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style10 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_left_'+ word10 +'.png',
-							anchor: [-155, -100],
+							anchor: [-182, -105],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -31109,7 +31109,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style11 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_slight_left_'+ word11 +'.png',
-							anchor: [-155, -100],
+							anchor: [-182, -105],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -31120,7 +31120,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style4a = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_through_'+ word4a +'.png',
-							anchor: [-155, -100],
+							anchor: [-182, -105],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -31131,7 +31131,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style12 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_slight_right_'+ word12 +'.png',
-							anchor: [-155, -100],
+							anchor: [-182, -105],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -31142,7 +31142,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style13 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_right_'+ word13 +'.png',
-							anchor: [-155, -100],
+							anchor: [-182, -105],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -31153,7 +31153,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style14 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_sharp_right_'+ word14 +'.png',
-							anchor: [-155, -100],
+							anchor: [-182, -105],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -31164,7 +31164,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style15 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_u_turn_'+ word15 +'.png',
-							anchor: [-155, -100],
+							anchor: [-182, -105],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -31175,7 +31175,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style16 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_sharp_left_'+ word16 +'.png',
-							anchor: [-155, -100],
+							anchor: [-182, -105],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
@@ -31186,7 +31186,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style17 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/roundabout_turbo_right_'+ word17 +'.png',
-							anchor: [-155, -100],
+							anchor: [-182, -105],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:1
