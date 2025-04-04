@@ -30722,8 +30722,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word29,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 0,
-								offsetY : 13,
+								offsetX : 2,
+								offsetY : 10,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30740,8 +30740,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word29b,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 0,
-								offsetY : 48,
+								offsetX : 2,
+								offsetY : 40,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30758,8 +30758,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word29c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 0,
-								offsetY : 78,
+								offsetX : 2,
+								offsetY : 70,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30776,8 +30776,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word39,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 0,
-								offsetY : 108,
+								offsetX : 2,
+								offsetY : 110,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30794,8 +30794,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word39b,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 0,
-								offsetY : 138,
+								offsetX : 2,
+								offsetY : 140,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30812,8 +30812,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word39c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 0,
-								offsetY : 168,
+								offsetX : 2,
+								offsetY : 170,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30830,8 +30830,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word49,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 0,
-								offsetY : 208,
+								offsetX : 2,
+								offsetY : 210,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30848,8 +30848,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word49b,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 0,
-								offsetY : 238,
+								offsetX : 2,
+								offsetY : 240,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30866,8 +30866,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word49c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 0,
-								offsetY : 268,
+								offsetX : 2,
+								offsetY : 270,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30885,7 +30885,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : 155,
-								offsetY : 208,
+								offsetY : 210,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30903,7 +30903,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : 155,
-								offsetY : 238,
+								offsetY : 240,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30921,7 +30921,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : 155,
-								offsetY : 268,
+								offsetY : 270,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30939,7 +30939,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : 305,
-								offsetY : 0,
+								offsetY : 2,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
