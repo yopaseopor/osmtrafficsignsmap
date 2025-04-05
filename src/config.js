@@ -1707,22 +1707,22 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex3c = /^colour:ref:through:3$/
 				var word_key3c = feature.getKeys().filter(function(t){return t.match(key_regex3c)}).pop() || "word3c"
 				var word3c = feature.get(word_key3c) || '';
-				var key_regex4 = /^colour:ref_int:through$/
+				var key_regex4 = /^colour:int_ref:through$/
 				var word_key4 = feature.getKeys().filter(function(t){return t.match(key_regex4)}).pop() || "word4"
 				var word4 = feature.get(word_key4) || '';
-				var key_regex4b = /^colour:ref_int:through:2$/
+				var key_regex4b = /^colour:int_ref:through:2$/
 				var word_key4b = feature.getKeys().filter(function(t){return t.match(key_regex4b)}).pop() || "word4b"
 				var word4b = feature.get(word_key4b) || '';
-				var key_regex4c = /^colour:ref_int:through:3$/
+				var key_regex4c = /^colour:int_ref:through:3$/
 				var word_key4c = feature.getKeys().filter(function(t){return t.match(key_regex4c)}).pop() || "word4c"
 				var word4c = feature.get(word_key4c) || '';
-				var key_regex9 = /^destination:ref_int:through$/
+				var key_regex9 = /^destination:int_ref:through$/
 				var word_key9 = feature.getKeys().filter(function(t){return t.match(key_regex9)}).pop() || "word9"
 				var word9 = feature.get(word_key9) || '';
-				var key_regex9b = /^destination:ref_int:through:2$/
+				var key_regex9b = /^destination:int_ref:through:2$/
 				var word_key9b = feature.getKeys().filter(function(t){return t.match(key_regex9b)}).pop() || "word9b"
 				var word9b = feature.get(word_key9b) || '';
-				var key_regex9c = /^destination:ref_int:through:3$/
+				var key_regex9c = /^destination:int_ref:through:3$/
 				var word_key9c = feature.getKeys().filter(function(t){return t.match(key_regex9b)}).pop() || "word9c"
 				var word9c = feature.get(word_key9c) || '';
 				var key_regex5 = /^destination:symbol:through$/
@@ -1818,22 +1818,22 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex23c = /^colour:ref:slight_left:3$/
 				var word_key23c = feature.getKeys().filter(function(t){return t.match(key_regex23c)}).pop() || "word23c"
 				var word23c = feature.get(word_key23c) || '';
-				var key_regex24 = /^colour:ref_int:slight_left$/
+				var key_regex24 = /^colour:int_ref:slight_left$/
 				var word_key24 = feature.getKeys().filter(function(t){return t.match(key_regex24)}).pop() || "word24"
 				var word24 = feature.get(word_key24) || '';
-				var key_regex24b = /^colour:ref_int:slight_left:2$/
+				var key_regex24b = /^colour:int_ref:slight_left:2$/
 				var word_key24b = feature.getKeys().filter(function(t){return t.match(key_regex24b)}).pop() || "word24b"
 				var word24b = feature.get(word_key24b) || '';
-				var key_regex24c = /^colour:ref_int:slight_left:3$/
+				var key_regex24c = /^colour:int_ref:slight_left:3$/
 				var word_key24c = feature.getKeys().filter(function(t){return t.match(key_regex24c)}).pop() || "word24c"
 				var word24c = feature.get(word_key24c) || '';
-				var key_regex29 = /^destination:ref_int:slight_left$/
+				var key_regex29 = /^destination:int_ref:slight_left$/
 				var word_key29 = feature.getKeys().filter(function(t){return t.match(key_regex29)}).pop() || "word29"
 				var word29 = feature.get(word_key29) || '';
-				var key_regex29b = /^destination:ref_int:slight_left:2$/
+				var key_regex29b = /^destination:int_ref:slight_left:2$/
 				var word_key29b = feature.getKeys().filter(function(t){return t.match(key_regex29b)}).pop() || "word29b"
 				var word29b = feature.get(word_key29b) || '';
-				var key_regex29c = /^destination:ref_int:slight_left:3$/
+				var key_regex29c = /^destination:int_ref:slight_left:3$/
 				var word_key29c = feature.getKeys().filter(function(t){return t.match(key_regex29b)}).pop() || "word29c"
 				var word29c = feature.get(word_key29c) || '';
 				var key_regex25 = /^destination:symbol:slight_left$/
@@ -1899,22 +1899,22 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex33c = /^colour:ref:left:3$/
 				var word_key33c = feature.getKeys().filter(function(t){return t.match(key_regex33c)}).pop() || "word33c"
 				var word33c = feature.get(word_key33c) || '';
-				var key_regex34 = /^colour:ref_int:left$/
+				var key_regex34 = /^colour:int_ref:left$/
 				var word_key34 = feature.getKeys().filter(function(t){return t.match(key_regex34)}).pop() || "word34"
 				var word34 = feature.get(word_key34) || '';
-				var key_regex34b = /^colour:ref_int:left:2$/
+				var key_regex34b = /^colour:int_ref:left:2$/
 				var word_key34b = feature.getKeys().filter(function(t){return t.match(key_regex34b)}).pop() || "word34b"
 				var word34b = feature.get(word_key34b) || '';
-				var key_regex34c = /^colour:ref_int:left:3$/
+				var key_regex34c = /^colour:int_ref:left:3$/
 				var word_key34c = feature.getKeys().filter(function(t){return t.match(key_regex34c)}).pop() || "word34c"
 				var word34c = feature.get(word_key34c) || '';
-				var key_regex39 = /^destination:ref_int:left$/
+				var key_regex39 = /^destination:int_ref:left$/
 				var word_key39 = feature.getKeys().filter(function(t){return t.match(key_regex39)}).pop() || "word39"
 				var word39 = feature.get(word_key39) || '';
-				var key_regex39b = /^destination:ref_int:left:2$/
+				var key_regex39b = /^destination:int_ref:left:2$/
 				var word_key39b = feature.getKeys().filter(function(t){return t.match(key_regex39b)}).pop() || "word39b"
 				var word39b = feature.get(word_key39b) || '';
-				var key_regex39c = /^destination:ref_int:left:3$/
+				var key_regex39c = /^destination:int_ref:left:3$/
 				var word_key39c = feature.getKeys().filter(function(t){return t.match(key_regex39c)}).pop() || "word39c"
 				var word39c = feature.get(word_key39c) || '';
 				var key_regex35 = /^destination:symbol:left$/
@@ -1980,22 +1980,22 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex43c = /^colour:ref:sharp_left:3$/
 				var word_key43c = feature.getKeys().filter(function(t){return t.match(key_regex43c)}).pop() || "word43c"
 				var word43c = feature.get(word_key43c) || '';
-				var key_regex44 = /^colour:ref_int:sharp_left$/
+				var key_regex44 = /^colour:int_ref:sharp_left$/
 				var word_key44 = feature.getKeys().filter(function(t){return t.match(key_regex44)}).pop() || "word44"
 				var word44 = feature.get(word_key44) || '';
-				var key_regex44b = /^colour:ref_int:sharp_left:2$/
+				var key_regex44b = /^colour:int_ref:sharp_left:2$/
 				var word_key44b = feature.getKeys().filter(function(t){return t.match(key_regex44b)}).pop() || "word44b"
 				var word44b = feature.get(word_key44b) || '';
-				var key_regex44c = /^colour:ref_int:sharp_left:3$/
+				var key_regex44c = /^colour:int_ref:sharp_left:3$/
 				var word_key44c = feature.getKeys().filter(function(t){return t.match(key_regex44c)}).pop() || "word44c"
 				var word44c = feature.get(word_key44c) || '';
-				var key_regex49 = /^destination:ref_int:sharp_left$/
+				var key_regex49 = /^destination:int_ref:sharp_left$/
 				var word_key49 = feature.getKeys().filter(function(t){return t.match(key_regex49)}).pop() || "word49"
 				var word49 = feature.get(word_key49) || '';
-				var key_regex49b = /^destination:ref_int:sharp_left:2$/
+				var key_regex49b = /^destination:int_ref:sharp_left:2$/
 				var word_key49b = feature.getKeys().filter(function(t){return t.match(key_regex49b)}).pop() || "word49b"
 				var word49b = feature.get(word_key49b) || '';
-				var key_regex49c = /^destination:ref_int:sharp_left:3$/
+				var key_regex49c = /^destination:int_ref:sharp_left:3$/
 				var word_key49c = feature.getKeys().filter(function(t){return t.match(key_regex49c)}).pop() || "word49c"
 				var word49c = feature.get(word_key49c) || '';
 				var key_regex45 = /^destination:symbol:sharp_left$/
@@ -2061,22 +2061,22 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex53c = /^colour:ref:u_turn:3$/
 				var word_key53c = feature.getKeys().filter(function(t){return t.match(key_regex53c)}).pop() || "word53c"
 				var word53c = feature.get(word_key53c) || '';
-				var key_regex54 = /^colour:ref_int:u_turn$/
+				var key_regex54 = /^colour:int_ref:u_turn$/
 				var word_key54 = feature.getKeys().filter(function(t){return t.match(key_regex54)}).pop() || "word54"
 				var word54 = feature.get(word_key54) || '';
-				var key_regex54b = /^colour:ref_int:u_turn:2$/
+				var key_regex54b = /^colour:int_ref:u_turn:2$/
 				var word_key54b = feature.getKeys().filter(function(t){return t.match(key_regex54b)}).pop() || "word54b"
 				var word54b = feature.get(word_key54b) || '';
-				var key_regex54c = /^colour:ref_int:u_turn:3$/
+				var key_regex54c = /^colour:int_ref:u_turn:3$/
 				var word_key54c = feature.getKeys().filter(function(t){return t.match(key_regex54c)}).pop() || "word54c"
 				var word54c = feature.get(word_key54c) || '';
-				var key_regex59 = /^destination:ref_int:u_turn$/
+				var key_regex59 = /^destination:int_ref:u_turn$/
 				var word_key59 = feature.getKeys().filter(function(t){return t.match(key_regex59)}).pop() || "word59"
 				var word59 = feature.get(word_key59) || '';
-				var key_regex59b = /^destination:ref_int:u_turn:2$/
+				var key_regex59b = /^destination:int_ref:u_turn:2$/
 				var word_key59b = feature.getKeys().filter(function(t){return t.match(key_regex59b)}).pop() || "word59b"
 				var word59b = feature.get(word_key59b) || '';
-				var key_regex59c = /^destination:ref_int:u_turn:3$/
+				var key_regex59c = /^destination:int_ref:u_turn:3$/
 				var word_key59c = feature.getKeys().filter(function(t){return t.match(key_regex59c)}).pop() || "word59c"
 				var word59c = feature.get(word_key59c) || '';
 				var key_regex55 = /^destination:symbol:u_turn$/
@@ -2142,22 +2142,22 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex63c = /^colour:ref:sharp_right:3$/
 				var word_key63c = feature.getKeys().filter(function(t){return t.match(key_regex63b)}).pop() || "word63c"
 				var word63c = feature.get(word_key63c) || '';
-				var key_regex64 = /^colour:ref_int:sharp_right$/
+				var key_regex64 = /^colour:int_ref:sharp_right$/
 				var word_key64 = feature.getKeys().filter(function(t){return t.match(key_regex64)}).pop() || "word64"
 				var word64 = feature.get(word_key64) || '';
-				var key_regex64b = /^colour:ref_int:sharp_right:2$/
+				var key_regex64b = /^colour:int_ref:sharp_right:2$/
 				var word_key64b = feature.getKeys().filter(function(t){return t.match(key_regex64b)}).pop() || "word64b"
 				var word64b = feature.get(word_key64b) || '';
-				var key_regex64c = /^colour:ref_int:sharp_right:3$/
+				var key_regex64c = /^colour:int_ref:sharp_right:3$/
 				var word_key64c = feature.getKeys().filter(function(t){return t.match(key_regex64c)}).pop() || "word64c"
 				var word64c = feature.get(word_key64c) || '';
-				var key_regex69 = /^destination:ref_int:sharp_right$/
+				var key_regex69 = /^destination:int_ref:sharp_right$/
 				var word_key69 = feature.getKeys().filter(function(t){return t.match(key_regex69)}).pop() || "word69"
 				var word69 = feature.get(word_key69) || '';
-				var key_regex69b = /^destination:ref_int:sharp_right:2$/
+				var key_regex69b = /^destination:int_ref:sharp_right:2$/
 				var word_key69b = feature.getKeys().filter(function(t){return t.match(key_regex69b)}).pop() || "word69b"
 				var word69b = feature.get(word_key69b) || '';
-				var key_regex69c = /^destination:ref_int:sharp_right:3$/
+				var key_regex69c = /^destination:int_ref:sharp_right:3$/
 				var word_key69c = feature.getKeys().filter(function(t){return t.match(key_regex69c)}).pop() || "word69c"
 				var word69c = feature.get(word_key69c) || '';
 				var key_regex65 = /^destination:symbol:sharp_right$/
@@ -2223,22 +2223,22 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex73c = /^colour:ref:right$/
 				var word_key73c = feature.getKeys().filter(function(t){return t.match(key_regex73c)}).pop() || "word73c"
 				var word73c = feature.get(word_key73c) || '';
-				var key_regex74 = /^colour:ref_int:right$/
+				var key_regex74 = /^colour:int_ref:right$/
 				var word_key74 = feature.getKeys().filter(function(t){return t.match(key_regex74)}).pop() || "word74"
 				var word74 = feature.get(word_key74) || '';
-				var key_regex74b = /^colour:ref_int:right:2$/
+				var key_regex74b = /^colour:int_ref:right:2$/
 				var word_key74b = feature.getKeys().filter(function(t){return t.match(key_regex74b)}).pop() || "word74b"
 				var word74b = feature.get(word_key74b) || '';
-				var key_regex74c = /^colour:ref_int:right:3$/
+				var key_regex74c = /^colour:int_ref:right:3$/
 				var word_key74c = feature.getKeys().filter(function(t){return t.match(key_regex74c)}).pop() || "word74c"
 				var word74c = feature.get(word_key74c) || '';
-				var key_regex79 = /^destination:ref_int:right$/
+				var key_regex79 = /^destination:int_ref:right$/
 				var word_key79 = feature.getKeys().filter(function(t){return t.match(key_regex79)}).pop() || "word79"
 				var word79 = feature.get(word_key79) || '';
-				var key_regex79b = /^destination:ref_int:right:2$/
+				var key_regex79b = /^destination:int_ref:right:2$/
 				var word_key79b = feature.getKeys().filter(function(t){return t.match(key_regex79b)}).pop() || "word79b"
 				var word79b = feature.get(word_key79b) || '';
-				var key_regex79c = /^destination:ref_int:right:3$/
+				var key_regex79c = /^destination:int_ref:right:3$/
 				var word_key79c = feature.getKeys().filter(function(t){return t.match(key_regex79c)}).pop() || "word79c"
 				var word79c = feature.get(word_key79c) || '';
 				var key_regex75 = /^destination:symbol:right$/
@@ -2304,22 +2304,22 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex83c = /^colour:ref:slight_right:3$/
 				var word_key83c = feature.getKeys().filter(function(t){return t.match(key_regex83)}).pop() || "word83c"
 				var word83c = feature.get(word_key83c) || '';
-				var key_regex84 = /^colour:ref_int:slight_right$/
+				var key_regex84 = /^colour:int_ref:slight_right$/
 				var word_key84 = feature.getKeys().filter(function(t){return t.match(key_regex84)}).pop() || "word84"
 				var word84 = feature.get(word_key84) || '';
-				var key_regex84b = /^colour:ref_int:slight_right:2$/
+				var key_regex84b = /^colour:int_ref:slight_right:2$/
 				var word_key84b = feature.getKeys().filter(function(t){return t.match(key_regex84b)}).pop() || "word84b"
 				var word84b = feature.get(word_key84b) || '';
-				var key_regex84c = /^colour:ref_int:slight_right:3$/
+				var key_regex84c = /^colour:int_ref:slight_right:3$/
 				var word_key84c = feature.getKeys().filter(function(t){return t.match(key_regex84c)}).pop() || "word84c"
 				var word84c = feature.get(word_key84c) || '';
-				var key_regex89 = /^destination:ref_int:slight_right$/
+				var key_regex89 = /^destination:int_ref:slight_right$/
 				var word_key89 = feature.getKeys().filter(function(t){return t.match(key_regex89)}).pop() || "word89"
 				var word89 = feature.get(word_key89) || '';
-				var key_regex89b = /^destination:ref_int:slight_right:2$/
+				var key_regex89b = /^destination:int_ref:slight_right:2$/
 				var word_key89b = feature.getKeys().filter(function(t){return t.match(key_regex89b)}).pop() || "word89b"
 				var word89b = feature.get(word_key89b) || '';
-				var key_regex89c = /^destination:ref_int:slight_right:3$/
+				var key_regex89c = /^destination:int_ref:slight_right:3$/
 				var word_key89c = feature.getKeys().filter(function(t){return t.match(key_regex89c)}).pop() || "word89c"
 				var word89c = feature.get(word_key89c) || '';
 				var key_regex85 = /^destination:symbol:slight_right$/
@@ -28768,22 +28768,22 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex3c = /^colour:ref:through:3$/
 				var word_key3c = feature.getKeys().filter(function(t){return t.match(key_regex3c)}).pop() || "word3c"
 				var word3c = feature.get(word_key3c) || '';
-				var key_regex4 = /^colour:ref_int:through$/
+				var key_regex4 = /^colour:int_ref:through$/
 				var word_key4 = feature.getKeys().filter(function(t){return t.match(key_regex4)}).pop() || "word4"
 				var word4 = feature.get(word_key4) || '';
-				var key_regex4b = /^colour:ref_int:through:2$/
+				var key_regex4b = /^colour:int_ref:through:2$/
 				var word_key4b = feature.getKeys().filter(function(t){return t.match(key_regex4b)}).pop() || "word4b"
 				var word4b = feature.get(word_key4b) || '';
-				var key_regex4c = /^colour:ref_int:through:3$/
+				var key_regex4c = /^colour:int_ref:through:3$/
 				var word_key4c = feature.getKeys().filter(function(t){return t.match(key_regex4c)}).pop() || "word4c"
 				var word4c = feature.get(word_key4c) || '';
-				var key_regex9 = /^destination:ref_int:through$/
+				var key_regex9 = /^destination:int_ref:through$/
 				var word_key9 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word9"
 				var word9 = feature.get(word_key9) || '';
-				var key_regex9b = /^destination:ref_int:through:2$/
+				var key_regex9b = /^destination:int_ref:through:2$/
 				var word_key9b = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word9b"
 				var word9b = feature.get(word_key9b) || '';
-				var key_regex9c = /^destination:ref_int:through:3$/
+				var key_regex9c = /^destination:int_ref:through:3$/
 				var word_key9c = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word9c"
 				var word9c = feature.get(word_key9c) || '';
 				var key_regex5 = /^destination:symbol:through$/
@@ -28879,22 +28879,22 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex23c = /^colour:ref:slight_left:3$/
 				var word_key23c = feature.getKeys().filter(function(t){return t.match(key_regex23c)}).pop() || "word23c"
 				var word23c = feature.get(word_key23c) || '';
-				var key_regex24 = /^colour:ref_int:slight_left$/
+				var key_regex24 = /^colour:int_ref:slight_left$/
 				var word_key24 = feature.getKeys().filter(function(t){return t.match(key_regex24)}).pop() || "word24"
 				var word24 = feature.get(word_key24) || '';
-				var key_regex24b = /^colour:ref_int:slight_left:2$/
+				var key_regex24b = /^colour:int_ref:slight_left:2$/
 				var word_key24b = feature.getKeys().filter(function(t){return t.match(key_regex24b)}).pop() || "word24b"
 				var word24b = feature.get(word_key24b) || '';
-				var key_regex24c = /^colour:ref_int:slight_left:3$/
+				var key_regex24c = /^colour:int_ref:slight_left:3$/
 				var word_key24c = feature.getKeys().filter(function(t){return t.match(key_regex24c)}).pop() || "word24c"
 				var word24c = feature.get(word_key24c) || '';
-				var key_regex29 = /^destination:ref_int:slight_left$/
+				var key_regex29 = /^destination:int_ref:slight_left$/
 				var word_key29 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word29"
 				var word29 = feature.get(word_key29) || '';
-				var key_regex29b = /^destination:ref_int:slight_left:2$/
+				var key_regex29b = /^destination:int_ref:slight_left:2$/
 				var word_key29b = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word29b"
 				var word29b = feature.get(word_key29b) || '';
-				var key_regex29c = /^destination:ref_int:slight_left:3$/
+				var key_regex29c = /^destination:int_ref:slight_left:3$/
 				var word_key29c = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word29c"
 				var word29c = feature.get(word_key29c) || '';
 				var key_regex25 = /^destination:symbol:slight_left$/
@@ -28960,22 +28960,22 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex33c = /^colour:ref:left:3$/
 				var word_key33c = feature.getKeys().filter(function(t){return t.match(key_regex33c)}).pop() || "word33c"
 				var word33c = feature.get(word_key33c) || '';
-				var key_regex34 = /^colour:ref_int:left$/
+				var key_regex34 = /^colour:int_ref:left$/
 				var word_key34 = feature.getKeys().filter(function(t){return t.match(key_regex34)}).pop() || "word34"
 				var word34 = feature.get(word_key34) || '';
-				var key_regex34b = /^colour:ref_int:left:2$/
+				var key_regex34b = /^colour:int_ref:left:2$/
 				var word_key34b = feature.getKeys().filter(function(t){return t.match(key_regex34b)}).pop() || "word34b"
 				var word34b = feature.get(word_key34b) || '';
-				var key_regex34c = /^colour:ref_int:left:3$/
+				var key_regex34c = /^colour:int_ref:left:3$/
 				var word_key34c = feature.getKeys().filter(function(t){return t.match(key_regex34c)}).pop() || "word34c"
 				var word34c = feature.get(word_key34c) || '';
-				var key_regex39 = /^destination:ref_int:left$/
+				var key_regex39 = /^destination:int_ref:left$/
 				var word_key39 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word39"
 				var word39 = feature.get(word_key39) || '';
-				var key_regex39b = /^destination:ref_int:left:2$/
+				var key_regex39b = /^destination:int_ref:left:2$/
 				var word_key39b = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word39b"
 				var word39b = feature.get(word_key39b) || '';
-				var key_regex39c = /^destination:ref_int:left:3$/
+				var key_regex39c = /^destination:int_ref:left:3$/
 				var word_key39c = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word39c"
 				var word39c = feature.get(word_key39c) || '';
 				var key_regex35 = /^destination:symbol:left$/
@@ -29041,22 +29041,22 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex43c = /^colour:ref:sharp_left:3$/
 				var word_key43c = feature.getKeys().filter(function(t){return t.match(key_regex43c)}).pop() || "word43c"
 				var word43c = feature.get(word_key43c) || '';
-				var key_regex44 = /^colour:ref_int:sharp_left$/
+				var key_regex44 = /^colour:int_ref:sharp_left$/
 				var word_key44 = feature.getKeys().filter(function(t){return t.match(key_regex24)}).pop() || "word44"
 				var word44 = feature.get(word_key44) || '';
-				var key_regex44b = /^colour:ref_int:sharp_left:2$/
+				var key_regex44b = /^colour:int_ref:sharp_left:2$/
 				var word_key44b = feature.getKeys().filter(function(t){return t.match(key_regex24b)}).pop() || "word44b"
 				var word44b = feature.get(word_key44b) || '';
-				var key_regex44c = /^colour:ref_int:sharp_left:3$/
+				var key_regex44c = /^colour:int_ref:sharp_left:3$/
 				var word_key44c = feature.getKeys().filter(function(t){return t.match(key_regex24c)}).pop() || "word44c"
 				var word44c = feature.get(word_key44c) || '';
-				var key_regex49 = /^destination:ref_int:sharp_left$/
+				var key_regex49 = /^destination:int_ref:sharp_left$/
 				var word_key49 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word49"
 				var word49 = feature.get(word_key49) || '';
-				var key_regex49b = /^destination:ref_int:sharp_left:2$/
+				var key_regex49b = /^destination:int_ref:sharp_left:2$/
 				var word_key49b = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word49b"
 				var word49b = feature.get(word_key49b) || '';
-				var key_regex49c = /^destination:ref_int:sharp_left:3$/
+				var key_regex49c = /^destination:int_ref:sharp_left:3$/
 				var word_key49c = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word49c"
 				var word49c = feature.get(word_key49c) || '';
 				var key_regex45 = /^destination:symbol:sharp_left$/
@@ -29122,22 +29122,22 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex53c = /^colour:ref:u_turn:3$/
 				var word_key53c = feature.getKeys().filter(function(t){return t.match(key_regex53c)}).pop() || "word53c"
 				var word53c = feature.get(word_key53c) || '';
-				var key_regex54 = /^colour:ref_int:u_turn$/
+				var key_regex54 = /^colour:int_ref:u_turn$/
 				var word_key54 = feature.getKeys().filter(function(t){return t.match(key_regex54)}).pop() || "word54"
 				var word54 = feature.get(word_key54) || '';
-				var key_regex54b = /^colour:ref_int:u_turn:2$/
+				var key_regex54b = /^colour:int_ref:u_turn:2$/
 				var word_key54b = feature.getKeys().filter(function(t){return t.match(key_regex54b)}).pop() || "word54b"
 				var word54b = feature.get(word_key54b) || '';
-				var key_regex54c = /^colour:ref_int:u_turn:3$/
+				var key_regex54c = /^colour:int_ref:u_turn:3$/
 				var word_key54c = feature.getKeys().filter(function(t){return t.match(key_regex54c)}).pop() || "word54c"
 				var word54c = feature.get(word_key54c) || '';
-				var key_regex59 = /^destination:ref_int:u_turn$/
+				var key_regex59 = /^destination:int_ref:u_turn$/
 				var word_key59 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word59"
 				var word59 = feature.get(word_key59) || '';
-				var key_regex59b = /^destination:ref_int:u_turn:2$/
+				var key_regex59b = /^destination:int_ref:u_turn:2$/
 				var word_key59b = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word59b"
 				var word59b = feature.get(word_key59b) || '';
-				var key_regex59c = /^destination:ref_int:u_turn:3$/
+				var key_regex59c = /^destination:int_ref:u_turn:3$/
 				var word_key59c = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word59c"
 				var word59c = feature.get(word_key59c) || '';
 				var key_regex55 = /^destination:symbol:u_turn$/
@@ -29203,22 +29203,22 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex63c = /^colour:ref:sharp_right:3$/
 				var word_key63c = feature.getKeys().filter(function(t){return t.match(key_regex63b)}).pop() || "word63c"
 				var word63c = feature.get(word_key63c) || '';
-				var key_regex64 = /^colour:ref_int:sharp_right$/
+				var key_regex64 = /^colour:int_ref:sharp_right$/
 				var word_key64 = feature.getKeys().filter(function(t){return t.match(key_regex64)}).pop() || "word64"
 				var word64 = feature.get(word_key64) || '';
-				var key_regex64b = /^colour:ref_int:sharp_right:2$/
+				var key_regex64b = /^colour:int_ref:sharp_right:2$/
 				var word_key64b = feature.getKeys().filter(function(t){return t.match(key_regex64b)}).pop() || "word64b"
 				var word64b = feature.get(word_key64b) || '';
-				var key_regex64c = /^colour:ref_int:sharp_right:3$/
+				var key_regex64c = /^colour:int_ref:sharp_right:3$/
 				var word_key64c = feature.getKeys().filter(function(t){return t.match(key_regex64c)}).pop() || "word64c"
 				var word64c = feature.get(word_key64c) || '';
-				var key_regex69 = /^destination:ref_int:sharp_right$/
+				var key_regex69 = /^destination:int_ref:sharp_right$/
 				var word_key69 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word69"
 				var word69 = feature.get(word_key69) || '';
-				var key_regex69b = /^destination:ref_int:sharp_right:2$/
+				var key_regex69b = /^destination:int_ref:sharp_right:2$/
 				var word_key69b = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word69b"
 				var word69b = feature.get(word_key69b) || '';
-				var key_regex69c = /^destination:ref_int:sharp_right:3$/
+				var key_regex69c = /^destination:int_ref:sharp_right:3$/
 				var word_key69c = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word69c"
 				var word69c = feature.get(word_key69c) || '';
 				var key_regex65 = /^destination:symbol:sharp_right$/
@@ -29284,22 +29284,22 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex73c = /^colour:ref:right$/
 				var word_key73c = feature.getKeys().filter(function(t){return t.match(key_regex73c)}).pop() || "word73c"
 				var word73c = feature.get(word_key73c) || '';
-				var key_regex74 = /^colour:ref_int:right$/
+				var key_regex74 = /^colour:int_ref:right$/
 				var word_key74 = feature.getKeys().filter(function(t){return t.match(key_regex74)}).pop() || "word74"
 				var word74 = feature.get(word_key74) || '';
-				var key_regex74b = /^colour:ref_int:right:2$/
+				var key_regex74b = /^colour:int_ref:right:2$/
 				var word_key74b = feature.getKeys().filter(function(t){return t.match(key_regex74b)}).pop() || "word74b"
 				var word74b = feature.get(word_key74b) || '';
-				var key_regex74c = /^colour:ref_int:right:3$/
+				var key_regex74c = /^colour:int_ref:right:3$/
 				var word_key74c = feature.getKeys().filter(function(t){return t.match(key_regex74c)}).pop() || "word74c"
 				var word74c = feature.get(word_key74c) || '';
-				var key_regex79 = /^destination:ref_int:right$/
+				var key_regex79 = /^destination:int_ref:right$/
 				var word_key79 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word79"
 				var word79 = feature.get(word_key79) || '';
-				var key_regex79b = /^destination:ref_int:right:2$/
+				var key_regex79b = /^destination:int_ref:right:2$/
 				var word_key79b = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word79b"
 				var word79b = feature.get(word_key79b) || '';
-				var key_regex79c = /^destination:ref_int:right:3$/
+				var key_regex79c = /^destination:int_ref:right:3$/
 				var word_key79c = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word79c"
 				var word79c = feature.get(word_key79c) || '';
 				var key_regex75 = /^destination:symbol:right$/
@@ -29365,22 +29365,22 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex83c = /^colour:ref:slight_right:3$/
 				var word_key83c = feature.getKeys().filter(function(t){return t.match(key_regex83)}).pop() || "word83c"
 				var word83c = feature.get(word_key83c) || '';
-				var key_regex84 = /^colour:ref_int:slight_right$/
+				var key_regex84 = /^colour:int_ref:slight_right$/
 				var word_key84 = feature.getKeys().filter(function(t){return t.match(key_regex84)}).pop() || "word84"
 				var word84 = feature.get(word_key84) || '';
-				var key_regex84b = /^colour:ref_int:slight_right:2$/
+				var key_regex84b = /^colour:int_ref:slight_right:2$/
 				var word_key84b = feature.getKeys().filter(function(t){return t.match(key_regex84b)}).pop() || "word84b"
 				var word84b = feature.get(word_key84b) || '';
-				var key_regex84c = /^colour:ref_int:slight_right:3$/
+				var key_regex84c = /^colour:int_ref:slight_right:3$/
 				var word_key84c = feature.getKeys().filter(function(t){return t.match(key_regex84c)}).pop() || "word84c"
 				var word84c = feature.get(word_key84c) || '';
-				var key_regex89 = /^destination:ref_int:slight_right$/
+				var key_regex89 = /^destination:int_ref:slight_right$/
 				var word_key89 = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word89"
 				var word89 = feature.get(word_key89) || '';
-				var key_regex89b = /^destination:ref_int:slight_right:2$/
+				var key_regex89b = /^destination:int_ref:slight_right:2$/
 				var word_key89b = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word89b"
 				var word89b = feature.get(word_key89b) || '';
-				var key_regex89c = /^destination:ref_int:slight_right:3$/
+				var key_regex89c = /^destination:int_ref:slight_right:3$/
 				var word_key89c = feature.getKeys().filter(function(t){return t.match(key_regex2)}).pop() || "word89c"
 				var word89c = feature.get(word_key89c) || '';
 				var key_regex85 = /^destination:symbol:slight_right$/
@@ -30248,8 +30248,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word2,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 195,
-								offsetY : 13,
+								offsetX : 190,
+								offsetY : 10,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30266,8 +30266,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word2b,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 170,
-								offsetY : 50,
+								offsetX : 190,
+								offsetY : 40,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30284,7 +30284,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word2c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 170,
+								offsetX : 190,
 								offsetY : 70,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
@@ -30301,8 +30301,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word22,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 30,
-								offsetY : 13,
+								offsetX : 40,
+								offsetY : 10,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30318,8 +30318,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word22b,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 30,
-								offsetY : 48,
+								offsetX : 40,
+								offsetY : 40,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30335,8 +30335,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word22c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 30,
-								offsetY : 78,
+								offsetX : 40,
+								offsetY : 70,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30352,8 +30352,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word32,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 100,
-								offsetY : 108,
+								offsetX : 40,
+								offsetY : 110,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30369,8 +30369,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word32b,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 30,
-								offsetY : 138,
+								offsetX : 40,
+								offsetY : 140,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30386,8 +30386,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word32c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 30,
-								offsetY : 168,
+								offsetX : 40,
+								offsetY : 170,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30403,8 +30403,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word42,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 100,
-								offsetY : 208,
+								offsetX : 40,
+								offsetY : 210,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30420,8 +30420,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word42b,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 30,
-								offsetY : 238,
+								offsetX : 40,
+								offsetY : 240,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30437,8 +30437,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word32c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 30,
-								offsetY : 268,
+								offsetX : 40,
+								offsetY : 270,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30455,8 +30455,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word52,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 195,
-								offsetY : 208,
+								offsetX : 190,
+								offsetY : 210,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30473,8 +30473,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word52b,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 170,
-								offsetY : 238,
+								offsetX : 190,
+								offsetY : 240,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30491,8 +30491,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word52c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 170,
-								offsetY : 268,
+								offsetX : 190,
+								offsetY : 270,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30508,8 +30508,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word62,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 310,
-								offsetY : 208,
+								offsetX : 340,
+								offsetY : 210,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30527,7 +30527,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bolder 12px Arial',
 								textAlign:'center',
 								offsetX : 310,
-								offsetY : 238,
+								offsetY : 240,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30544,8 +30544,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word62c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 310,
-								offsetY : 268,
+								offsetX : 340,
+								offsetY : 270,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30561,8 +30561,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word72,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 310,
-								offsetY : 108,
+								offsetX : 340,
+								offsetY : 110,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30579,8 +30579,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word72b,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 310,
-								offsetY : 138,
+								offsetX : 340,
+								offsetY : 140,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30597,8 +30597,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word72c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 310,
-								offsetY : 168,
+								offsetX : 340,
+								offsetY : 170,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30614,8 +30614,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word82,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 310,
-								offsetY : 13,
+								offsetX : 340,
+								offsetY : 10,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30632,8 +30632,8 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word82b,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 310,
-								offsetY : 50,
+								offsetX : 340,
+								offsetY : 40,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -30650,7 +30650,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word82c,
 								font: 'bolder 12px Arial',
 								textAlign:'center',
-								offsetX : 310,
+								offsetX : 340,
 								offsetY : 70,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
