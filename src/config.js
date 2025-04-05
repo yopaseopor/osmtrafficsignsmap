@@ -29533,7 +29533,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word20,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 90,
+								offsetX : 60,
 								offsetY : 30,
 								fill: new ol.style.Fill({
                             color: word27
@@ -29550,7 +29550,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word20b1,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 57,
+								offsetX : 60,
 								offsetY : 40,
 								fill: new ol.style.Fill({
                             color: word27
@@ -29567,7 +29567,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word20b,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 90,
+								offsetX : 60,
 								offsetY : 60,
 								fill: new ol.style.Fill({
                             color: word27b
@@ -29584,7 +29584,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word20b2,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 90,
+								offsetX : 60,
 								offsetY : 70,
 								fill: new ol.style.Fill({
                             color: word27b
@@ -29601,7 +29601,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word20c,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 90,
+								offsetX : 60,
 								offsetY : 90,
 								fill: new ol.style.Fill({
                             color: word27c
@@ -29618,7 +29618,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word20c2,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 90,
+								offsetX : 60,
 								offsetY : 100,
 								fill: new ol.style.Fill({
                             color: word27c
@@ -29635,7 +29635,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word30,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 90,
+								offsetX : 60,
 								offsetY : 120,
 								fill: new ol.style.Fill({
                             color: word37
@@ -29652,7 +29652,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word30b1,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 90,
+								offsetX : 60,
 								offsetY : 130,
 								fill: new ol.style.Fill({
                             color: word37
@@ -29669,7 +29669,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word30b,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 90,
+								offsetX : 60,
 								offsetY : 150,
 								fill: new ol.style.Fill({
                             color: word37b
@@ -29686,7 +29686,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word30b2,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 90,
+								offsetX : 60,
 								offsetY : 160,
 								fill: new ol.style.Fill({
                             color: word37b
@@ -29703,7 +29703,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word30c,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 90,
+								offsetX : 60,
 								offsetY : 180,
 								fill: new ol.style.Fill({
                             color: word37c
@@ -29720,7 +29720,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word30c2,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 90,
+								offsetX : 60,
 								offsetY : 190,
 								fill: new ol.style.Fill({
                             color: word37c
@@ -29737,7 +29737,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word40,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 90,
+								offsetX : 60,
 								offsetY : 210,
 								fill: new ol.style.Fill({
                             color: word47
@@ -29754,7 +29754,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word40b1,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 90,
+								offsetX : 60,
 								offsetY : 220,
 								fill: new ol.style.Fill({
                             color: word47
@@ -29771,7 +29771,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word40b,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 90,
+								offsetX : 60,
 								offsetY : 240,
 								fill: new ol.style.Fill({
                             color: word47
@@ -29788,7 +29788,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word40b2,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 90,
+								offsetX : 60,
 								offsetY : 250,
 								fill: new ol.style.Fill({
                             color: word47
@@ -29805,7 +29805,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word40c,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 90,
+								offsetX : 60,
 								offsetY : 270,
 								fill: new ol.style.Fill({
                             color: word47
@@ -29822,7 +29822,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word40c2,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 90,
+								offsetX : 60,
 								offsetY : 280,
 								fill: new ol.style.Fill({
                             color: word47
@@ -30246,7 +30246,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style2 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word2,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 190,
 								offsetY : 10,
@@ -30264,7 +30264,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style2b = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word2b,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 190,
 								offsetY : 40,
@@ -30282,7 +30282,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style2c = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word2c,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 190,
 								offsetY : 70,
@@ -30299,7 +30299,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style22 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word22,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 40,
 								offsetY : 10,
@@ -30316,7 +30316,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style22b = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word22b,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 40,
 								offsetY : 40,
@@ -30333,7 +30333,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style22c = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word22c,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 40,
 								offsetY : 70,
@@ -30350,7 +30350,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style32 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word32,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 40,
 								offsetY : 110,
@@ -30367,7 +30367,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style32b = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word32b,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 40,
 								offsetY : 140,
@@ -30384,7 +30384,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style32c = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word32c,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 40,
 								offsetY : 170,
@@ -30401,7 +30401,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style42 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word42,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 40,
 								offsetY : 210,
@@ -30418,7 +30418,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style42b = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word42b,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 40,
 								offsetY : 240,
@@ -30435,7 +30435,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style42c = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word32c,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 40,
 								offsetY : 270,
@@ -30453,7 +30453,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style52 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word52,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 190,
 								offsetY : 210,
@@ -30471,7 +30471,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style52b = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word52b,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 190,
 								offsetY : 240,
@@ -30489,7 +30489,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style52c = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word52c,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 190,
 								offsetY : 270,
@@ -30506,7 +30506,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style62 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word62,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 340,
 								offsetY : 210,
@@ -30524,7 +30524,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style62b = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word62b,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 340,
 								offsetY : 240,
@@ -30542,7 +30542,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style62c = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word62c,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 340,
 								offsetY : 270,
@@ -30559,7 +30559,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style72 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word72,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 340,
 								offsetY : 110,
@@ -30577,7 +30577,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style72b = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word72b,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 340,
 								offsetY : 140,
@@ -30595,7 +30595,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style72c = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word72c,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 340,
 								offsetY : 170,
@@ -30612,7 +30612,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style82 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word82,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 340,
 								offsetY : 10,
@@ -30630,7 +30630,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style82b = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word82b,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 340,
 								offsetY : 40,
@@ -30648,7 +30648,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style82c = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word82c,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 340,
 								offsetY : 70,
@@ -30666,7 +30666,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style9 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word9,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 180,
 								offsetY : 13,
@@ -30684,7 +30684,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style9b = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word9b,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 155,
 								offsetY : 48,
@@ -30702,7 +30702,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style9c = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word9c,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 155,
 								offsetY : 78,
@@ -30720,7 +30720,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style29 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word29,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 2,
 								offsetY : 10,
@@ -30738,7 +30738,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style29b = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word29b,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 2,
 								offsetY : 40,
@@ -30756,7 +30756,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style29c = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word29c,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 2,
 								offsetY : 70,
@@ -30774,7 +30774,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style39 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word39,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 2,
 								offsetY : 110,
@@ -30792,7 +30792,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style39b = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word39b,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 2,
 								offsetY : 140,
@@ -30810,7 +30810,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style39c = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word39c,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 2,
 								offsetY : 170,
@@ -30828,7 +30828,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style49 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word49,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 2,
 								offsetY : 210,
@@ -30846,7 +30846,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style49b = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word49b,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 2,
 								offsetY : 240,
@@ -30864,7 +30864,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style49c = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word49c,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 2,
 								offsetY : 270,
@@ -30882,7 +30882,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style59 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word59,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 155,
 								offsetY : 210,
@@ -30900,7 +30900,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style59b = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word59b,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 155,
 								offsetY : 240,
@@ -30918,7 +30918,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style59c = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word59c,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 155,
 								offsetY : 270,
@@ -30936,7 +30936,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style69 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word69,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 305,
 								offsetY : 210,
@@ -30954,7 +30954,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style69b = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word69b,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 305,
 								offsetY : 240,
@@ -30972,7 +30972,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style69c = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word69c,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 305,
 								offsetY : 270,
@@ -30990,7 +30990,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style79 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word79,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 305,
 								offsetY : 100,
@@ -31008,7 +31008,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style79b = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word79b,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 305,
 								offsetY : 130,
@@ -31026,7 +31026,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style79c = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word79c,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 305,
 								offsetY : 170,
@@ -31044,7 +31044,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style89 = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word89,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 305,
 								offsetY : 10,
@@ -31062,7 +31062,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style89b = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word89b,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 305,
 								offsetY : 40,
@@ -31080,7 +31080,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style89c = new ol.style.Style({
 												text: new ol.style.Text({
 								text: word89c,
-								font: 'bolder 12px Arial',
+								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 305,
 								offsetY : 70,
