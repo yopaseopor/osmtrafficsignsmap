@@ -29636,7 +29636,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 60,
-								offsetY : 120,
+								offsetY : 100,
 								fill: new ol.style.Fill({
                             color: word37
                         }),
@@ -29653,7 +29653,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 60,
-								offsetY : 130,
+								offsetY : 110,
 								fill: new ol.style.Fill({
                             color: word37
                         }),
@@ -29670,7 +29670,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 60,
-								offsetY : 150,
+								offsetY : 130,
 								fill: new ol.style.Fill({
                             color: word37b
                         }),
@@ -29687,7 +29687,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 60,
-								offsetY : 160,
+								offsetY : 140,
 								fill: new ol.style.Fill({
                             color: word37b
                         }),
@@ -29704,7 +29704,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 60,
-								offsetY : 180,
+								offsetY : 170,
 								fill: new ol.style.Fill({
                             color: word37c
                         }),
@@ -29721,7 +29721,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 60,
-								offsetY : 190,
+								offsetY : 180,
 								fill: new ol.style.Fill({
                             color: word37c
                         }),
@@ -30044,7 +30044,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 400,
-								offsetY : 120,
+								offsetY : 100,
 								fill: new ol.style.Fill({
                             color: word77
                         }),
@@ -30061,7 +30061,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 400,
-								offsetY : 130,
+								offsetY : 110,
 								fill: new ol.style.Fill({
                             color: word77
                         }),
@@ -30078,7 +30078,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 400,
-								offsetY : 140,
+								offsetY : 130,
 								fill: new ol.style.Fill({
                             color: word77
                         }),
@@ -30095,7 +30095,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
 								offsetX : 400,
-								offsetY : 150,
+								offsetY : 140,
 								fill: new ol.style.Fill({
                             color: word77
                         }),
@@ -30112,7 +30112,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'small-caps bold 10px "Arial"',
 								textAlign:'left',
 								offsetX : 400,
-								offsetY : 160,
+								offsetY : 170,
 								fill: new ol.style.Fill({
                             color: word77
                         }),
@@ -30129,7 +30129,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'small-caps bold 10px "Arial"',
 								textAlign:'left',
 								offsetX : 400,
-								offsetY : 170,
+								offsetY : 180,
 								fill: new ol.style.Fill({
                             color: word77
                         }),
