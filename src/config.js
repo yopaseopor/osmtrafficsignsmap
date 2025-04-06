@@ -4233,7 +4233,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					image: new ol.style.Icon({
 					img: canvas2,
 					imgSize: [500, 300],
-					anchor: [25, 0],
+					anchor: [20, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
