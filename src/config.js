@@ -2879,7 +2879,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word60,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 400,
+								offsetX : 395,
 								offsetY : 210,
 								fill: new ol.style.Fill({
                             color: word67
@@ -2896,7 +2896,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word60b1,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 400,
+								offsetX : 395,
 								offsetY : 220,
 								fill: new ol.style.Fill({
                             color: word67
@@ -2913,7 +2913,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word60b,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 400,
+								offsetX : 395,
 								offsetY : 240,
 								fill: new ol.style.Fill({
                             color: word67b
@@ -2930,7 +2930,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word60b2,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 400,
+								offsetX : 395,
 								offsetY : 250,
 								fill: new ol.style.Fill({
                             color: word67b
@@ -2947,7 +2947,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word60c,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 400,
+								offsetX : 395,
 								offsetY : 270,
 								fill: new ol.style.Fill({
                             color: word67c
@@ -2964,7 +2964,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word60c2,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 400,
+								offsetX : 395,
 								offsetY : 280,
 								fill: new ol.style.Fill({
                             color: word67c
@@ -2981,7 +2981,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word70,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 400,
+								offsetX : 395,
 								offsetY : 110,
 								fill: new ol.style.Fill({
                             color: word77
@@ -2998,7 +2998,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word70b1,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 400,
+								offsetX : 395,
 								offsetY : 120,
 								fill: new ol.style.Fill({
                             color: word77
@@ -3015,7 +3015,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word70b,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 400,
+								offsetX : 395,
 								offsetY : 140,
 								fill: new ol.style.Fill({
                             color: word77
@@ -3032,7 +3032,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word70b2,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 400,
+								offsetX : 395,
 								offsetY : 150,
 								fill: new ol.style.Fill({
                             color: word77
@@ -3049,7 +3049,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word70c,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 400,
+								offsetX : 395,
 								offsetY : 170,
 								fill: new ol.style.Fill({
                             color: word77
@@ -3066,7 +3066,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word70c2,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 400,
+								offsetX : 395,
 								offsetY : 180,
 								fill: new ol.style.Fill({
                             color: word77
@@ -3083,7 +3083,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word80,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 400,
+								offsetX : 395,
 								offsetY : 10,
 								fill: new ol.style.Fill({
                             color: word87
@@ -3100,7 +3100,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word80b1,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 400,
+								offsetX : 395,
 								offsetY : 20,
 								fill: new ol.style.Fill({
                             color: word87
@@ -3117,7 +3117,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word80b,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 400,
+								offsetX : 395,
 								offsetY : 40,
 								fill: new ol.style.Fill({
                             color: word87b
@@ -3134,7 +3134,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word80b2,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 400,
+								offsetX : 395,
 								offsetY : 50,
 								fill: new ol.style.Fill({
                             color: word87b
@@ -3151,7 +3151,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word80c,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 400,
+								offsetX : 395,
 								offsetY : 70,
 								fill: new ol.style.Fill({
                             color: word87c
@@ -3168,7 +3168,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								text: word80c2,
 								font: 'small-caps bold 10px Verdana',
 								textAlign:'left',
-								offsetX : 400,
+								offsetX : 395,
 								offsetY : 80,
 								fill: new ol.style.Fill({
                             color: word87c
@@ -4265,7 +4265,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style5c = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word5c +'.png',
-							anchor: [-850, -450],
+							anchor: [-950, -450],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:0.15
