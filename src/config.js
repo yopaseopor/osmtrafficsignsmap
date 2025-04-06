@@ -4137,7 +4137,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word6 +'.png',
 					imgSize: [180, 100],
 					rotateWithView: false,
-					anchor: [-178, 0],
+					anchor: [-150, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -4185,7 +4185,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word56 +'.png',
 					imgSize: [180, 100],
 					rotateWithView: false,
-					anchor: [-178, -200],
+					anchor: [-150, -200],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -4197,7 +4197,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word66 +'.png',
 					imgSize: [180, 100],
 					rotateWithView: false,
-					anchor: [-328, -200],
+					anchor: [-300, -200],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -4209,7 +4209,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word76 +'.png',
 					imgSize: [180, 100],
 					rotateWithView: false,
-					anchor: [-328, -100],
+					anchor: [-300, -100],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -31220,9 +31220,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style6 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word6 +'.png',
-					imgSize: [150, 100],
+					imgSize: [180, 100],
 					rotateWithView: false,
-					anchor: [-150, 0],
+					anchor: [-120, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -31232,7 +31232,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style36 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word36 +'.png',
-					imgSize: [150, 100],
+					imgSize: [180, 100],
 					rotateWithView: false,
 					anchor: [0, -100],
 					anchorXUnits: 'pixels',
@@ -31244,7 +31244,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style46 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word46 +'.png',
-					imgSize: [150, 100],
+					imgSize: [180, 100],
 					rotateWithView: false,
 					anchor: [0, -200],
 					anchorXUnits: 'pixels',
@@ -31256,9 +31256,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style56 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word56 +'.png',
-					imgSize: [150, 100],
+					imgSize: [180, 100],
 					rotateWithView: false,
-					anchor: [-150, -200],
+					anchor: [-120, -200],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -31270,7 +31270,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word66 +'.png',
 					imgSize: [150, 100],
 					rotateWithView: false,
-					anchor: [-300, -200],
+					anchor: [-270, -200],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -31280,9 +31280,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style76 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word76 +'.png',
-					imgSize: [150, 100],
+					imgSize: [180, 100],
 					rotateWithView: false,
-					anchor: [-300, -100],
+					anchor: [-270, -100],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -31292,9 +31292,9 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style86 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word86 +'.png',
-					imgSize: [150, 100],
+					imgSize: [180, 100],
 					rotateWithView: false,
-					anchor: [-300, 0],
+					anchor: [-270, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
