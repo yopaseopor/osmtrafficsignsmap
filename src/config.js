@@ -29412,7 +29412,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word87c = feature.get(word_key87c) || '';
 				
 var canvas2 = document.createElement('canvas');
-canvas2.width = 550;
+canvas2.width = 500;
 canvas2.height = 300;
 var ctx2 = canvas2.getContext('2d');
 ctx2.fillStyle = 'rgba(255,225,0,0.5)';
@@ -31294,7 +31294,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style0 = new ol.style.Style({
 					image: new ol.style.Icon({
 					img: canvas2,
-					imgSize: [550, 300],
+					imgSize: [500, 300],
 					anchor: [25, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
