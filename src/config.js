@@ -34093,18 +34093,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								}),
 					/*fill: fill,*/
 					stroke: stroke
-				});
-				var style26 = new ol.style.Style({
-					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word26 +'.png',
-					imgSize: [137, 85],
-					rotateWithView: false,
-					anchor: [0, -2],
-					anchorXUnits: 'pixels',
-					anchorYUnits: 'pixels'
-								}),
-					/*fill: fill,*/
-					stroke: stroke
+
 				});
 				var style36 = new ol.style.Style({
 					image: new ol.style.Icon({
