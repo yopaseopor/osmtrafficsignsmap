@@ -2353,7 +2353,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 canvas2.width = 500;
 canvas2.height = 300;
 var ctx2 = canvas2.getContext('2d');
-ctx2.fillStyle = 'rgba(255,225,0,0.5)';
+ctx2.fillStyle = 'rgba(255,255,255,0.75)';
 ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				
 				var fill = new ol.style.Fill({
