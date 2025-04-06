@@ -1696,7 +1696,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word_key2b = feature.getKeys().filter(function(t){return t.match(key_regex2b)}).pop() || "word2b"
 				var word2b = feature.get(word_key2b) || '';
 				var key_regex2c = /^destination:ref:through:3$/
-				var word_key2c = feature.getKeys().filter(function(t){return t.match(key_regex2b)}).pop() || "word2c"
+				var word_key2c = feature.getKeys().filter(function(t){return t.match(key_regex2c)}).pop() || "word2c"
 				var word2c = feature.get(word_key2c) || '';
 				var key_regex3 = /^colour:ref:through$/
 				var word_key3 = feature.getKeys().filter(function(t){return t.match(key_regex3)}).pop() || "word3"
@@ -2217,10 +2217,10 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var key_regex73 = /^colour:ref:right$/
 				var word_key73 = feature.getKeys().filter(function(t){return t.match(key_regex73)}).pop() || "word73"
 				var word73 = feature.get(word_key73) || '';
-				var key_regex73b = /^colour:ref:right$/
+				var key_regex73b = /^colour:ref:right:2$/
 				var word_key73b = feature.getKeys().filter(function(t){return t.match(key_regex73b)}).pop() || "word73b"
 				var word73b = feature.get(word_key73b) || '';
-				var key_regex73c = /^colour:ref:right$/
+				var key_regex73c = /^colour:ref:right:3$/
 				var word_key73c = feature.getKeys().filter(function(t){return t.match(key_regex73c)}).pop() || "word73c"
 				var word73c = feature.get(word_key73c) || '';
 				var key_regex74 = /^colour:int_ref:right$/
