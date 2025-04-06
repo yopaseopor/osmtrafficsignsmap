@@ -4265,7 +4265,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style5c = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word5c +'.png',
-							anchor: [-950, -450],
+							anchor: [-1150, -450],
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
 							scale:0.15
