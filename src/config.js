@@ -4135,7 +4135,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style6 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word6 +'.png',
-					imgSize: [150, 100],
+					imgSize: [180, 100],
 					rotateWithView: false,
 					anchor: [-178, 0],
 					anchorXUnits: 'pixels',
@@ -4147,7 +4147,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style26 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word26 +'.png',
-					imgSize: [150, 100],
+					imgSize: [180, 100],
 					rotateWithView: false,
 					anchor: [0, 0],
 					anchorXUnits: 'pixels',
@@ -4159,7 +4159,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style36 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word36 +'.png',
-					imgSize: [150, 100],
+					imgSize: [180, 100],
 					rotateWithView: false,
 					anchor: [0, -100],
 					anchorXUnits: 'pixels',
@@ -4171,7 +4171,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style46 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word46 +'.png',
-					imgSize: [150, 100],
+					imgSize: [180, 100],
 					rotateWithView: false,
 					anchor: [0, -200],
 					anchorXUnits: 'pixels',
@@ -4183,7 +4183,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style56 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word56 +'.png',
-					imgSize: [150, 100],
+					imgSize: [180, 100],
 					rotateWithView: false,
 					anchor: [-178, -200],
 					anchorXUnits: 'pixels',
@@ -4195,7 +4195,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style66 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word66 +'.png',
-					imgSize: [150, 100],
+					imgSize: [180, 100],
 					rotateWithView: false,
 					anchor: [-328, -200],
 					anchorXUnits: 'pixels',
@@ -4207,7 +4207,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style76 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word76 +'.png',
-					imgSize: [150, 100],
+					imgSize: [180, 100],
 					rotateWithView: false,
 					anchor: [-328, -100],
 					anchorXUnits: 'pixels',
@@ -4219,7 +4219,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style86 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word86 +'.png',
-					imgSize: [150, 100],
+					imgSize: [180, 100],
 					rotateWithView: false,
 					anchor: [-328, 0],
 					anchorXUnits: 'pixels',
@@ -28566,9 +28566,21 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style6 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word6 +'.png',
-					imgSize: [130, 100],
+					imgSize: [180, 100],
 					rotateWithView: false,
 					anchor: [-150, -2],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style26 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word26 +'.png',
+					imgSize: [180, 100],
+					rotateWithView: false,
+					anchor: [-15, -90],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
@@ -28578,7 +28590,19 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style36 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word36 +'.png',
-					imgSize: [117, 85],
+					imgSize: [180, 100],
+					rotateWithView: false,
+					anchor: [-15, -90],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
+				});
+				var style36 = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word36 +'.png',
+					imgSize: [180, 100],
 					rotateWithView: false,
 					anchor: [-15, -90],
 					anchorXUnits: 'pixels',
@@ -28590,7 +28614,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style76 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word76 +'.png',
-					imgSize: [117, 85],
+					imgSize: [180, 85],
 					rotateWithView: false,
 					anchor: [-225, -90],
 					anchorXUnits: 'pixels',
@@ -31199,18 +31223,6 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					imgSize: [150, 100],
 					rotateWithView: false,
 					anchor: [-150, 0],
-					anchorXUnits: 'pixels',
-					anchorYUnits: 'pixels'
-								}),
-					/*fill: fill,*/
-					stroke: stroke
-				});
-				var style26 = new ol.style.Style({
-					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/colour_back_medium_'+ word26 +'.png',
-					imgSize: [150, 100],
-					rotateWithView: false,
-					anchor: [0, 0],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
