@@ -3372,7 +3372,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				});
 				var style42c = new ol.style.Style({
 												text: new ol.style.Text({
-								text: word32c,
+								text: word42c,
 								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 40,
@@ -4340,7 +4340,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style35c = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word35c +'.png',
-							anchor: [-375, -1050],
+							anchor: [-375, -1100],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
