@@ -4149,7 +4149,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_small_'+ word6b +'.png',
 					imgSize: [180, 50],
 					rotateWithView: false,
-					anchor: [-150, -150],
+					anchor: [-150, -50],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
