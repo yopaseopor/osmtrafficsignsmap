@@ -4146,10 +4146,10 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								});
 				var style6b = new ol.style.Style({
 					image: new ol.style.Icon({
-							src: imgSrc + 'ES/textures/content/colour_back_small_'+ word6 +'.png',
+							src: imgSrc + 'ES/textures/content/colour_back_small_'+ word6b +'.png',
 					imgSize: [180, 50],
 					rotateWithView: false,
-					anchor: [-150, 50],
+					anchor: [-150, 150],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
