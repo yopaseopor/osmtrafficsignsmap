@@ -4204,6 +4204,18 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								}),
 					/*fill: fill,*/
 					stroke: stroke
+																});
+				var style36c = new ol.style.Style({
+					image: new ol.style.Icon({
+							src: imgSrc + 'ES/textures/content/colour_back_thin_'+ word36c +'.png',
+					imgSize: [-150, 33],
+					rotateWithView: false,
+					anchor: [-150, -160],
+					anchorXUnits: 'pixels',
+					anchorYUnits: 'pixels'
+								}),
+					/*fill: fill,*/
+					stroke: stroke
 				});
 				var style46 = new ol.style.Style({
 					image: new ol.style.Icon({
