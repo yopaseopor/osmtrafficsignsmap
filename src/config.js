@@ -4198,7 +4198,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 							src: imgSrc + 'ES/textures/content/colour_back_small_'+ word36b +'.png',
 					imgSize: [-150, 66],
 					rotateWithView: false,
-					anchor: [-150, -130],
+					anchor: [20, -130],
 					anchorXUnits: 'pixels',
 					anchorYUnits: 'pixels'
 								}),
