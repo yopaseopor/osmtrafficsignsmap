@@ -159,6 +159,32 @@ var config = {
 			visible: false
 		})
 	],
+	
+	// Utility function to zoom to a given feature (icon)
+function zoomToIcon(feature) {
+    var view = map.getView();
+    var geometry = feature.getGeometry();
+    if (geometry) {
+        var center = ol.extent.getCenter(geometry.getExtent());
+        view.animate({
+            center: center,
+            zoom: 16,      // Adjust zoom level as needed
+            duration: 1000 // Animation duration in milliseconds
+        });
+    }
+}
+
+// Example usage: Add a click event listener to the map so that when an icon is clicked, the map zooms to it.
+// In this example, we assume that your icon features have a property 'iconZoom' set to true.
+map.on('singleclick', function(evt) {
+    map.forEachFeatureAtPixel(evt.pixel, function(feature) {
+        // Check if this feature represents an icon you want to zoom to.
+        // Adjust the condition below as needed (e.g., checking a specific property or layer)
+        if (feature.get('iconZoom')) {
+            zoomToIcon(feature);
+        }
+    });
+});
 	/**
 	* @type Array
 	* Overlay
