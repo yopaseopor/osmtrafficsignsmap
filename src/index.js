@@ -570,4 +570,24 @@ function linearColorInterpolation(colorFrom, colorTo, weight) {
 		rgb = [Math.round(colorTo[0] * w1 + colorFrom[0] * w2), Math.round(colorTo[1] * w1 + colorFrom[1] * w2), Math.round(colorTo[2] * w1 + colorFrom[2] * w2)];
 	return rgb;
 }
+ // Instantiate with some options and add the Control
+  const geocoder = new Geocoder('nominatim', {
+    provider: 'osm',
+    targetType: 'text-input',
+    lang: 'en',
+    label: 'Find a location by name',
+    placeholder: 'Search for ...',
+    limit: 5,
+    keepOpen: false,
+  });
 
+  map.addControl(geocoder);
+  map.addOverlay(popup);
+
+  // Listen when an address is chosen
+  geocoder.on('addresschosen', (evt) => {
+    window.setTimeout(() => {
+      popup.show(evt.coordinate, evt.address.formatted);
+    }, 3000);
+  });
+})(window, document);
