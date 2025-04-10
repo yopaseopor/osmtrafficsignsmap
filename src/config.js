@@ -40,7 +40,7 @@ var config = {
 	
 		// Function to fetch Nominatim API
 	nominatimSearch: function(query) {
-		const url = `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}`;
+		const url = 'https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}';
 		return fetch(url)
 			.then(response => response.json())
 			.catch(error => console.error('Error fetching Nominatim data:', error));
