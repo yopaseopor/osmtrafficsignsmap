@@ -37,6 +37,14 @@ var config = {
 		}
 		return overpassApi;
 	},
+	
+		// Function to fetch Nominatim API
+	nominatimSearch: function(query) {
+		const url = `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}`;
+		return fetch(url)
+			.then(response => response.json())
+			.catch(error => console.error('Error fetching Nominatim data:', error));
+	},
 	// Base layers
 	layers: [
 		new ol.layer.Tile({
@@ -159,6 +167,42 @@ var config = {
 			visible: false
 		})
 	],
+	
+	// Function to create the search box UI
+	createSearchBox: function(containerId) {
+		const container = document.getElementById(containerId);
+		if (!container) {
+			console.error('Container for search box not found');
+			return;
+		}
+
+		const inputBox = document.createElement('input');
+		inputBox.type = 'text';
+		inputBox.placeholder = 'Search location...';
+		container.appendChild(inputBox);
+
+		const searchButton = document.createElement('button');
+		searchButton.textContent = 'Search';
+		container.appendChild(searchButton);
+
+		searchButton.addEventListener('click', () => {
+			const query = inputBox.value;
+			if (query) {
+				this.nominatimSearch(query).then(results => {
+					if (results.length > 0) {
+						console.log('Search results:', results);
+						// You can enhance this to handle displaying results on the map
+					} else {
+						console.log('No results found for the query');
+					}
+				});
+			}
+		});
+	}
+};
+
+// Example: Initialize the search box in a container with the ID 'search-container'
+config.createSearchBox('search-container');
 
 	/**
 	* @type Array
