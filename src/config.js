@@ -3932,7 +3932,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 305,
-								offsetY : 100,
+								offsetY : 110,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
@@ -3950,7 +3950,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								font: 'bolder 10px Arial',
 								textAlign:'center',
 								offsetX : 305,
-								offsetY : 130,
+								offsetY : 140,
 								fill: new ol.style.Fill({
                             color: 'rgba(255,255,255,1)'
                         }),
