@@ -2713,11 +2713,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 75,
 								offsetY : 240,
 								fill: new ol.style.Fill({
-                            color: word47
+                            color: word47b
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word46 || 'rgba(0,0,0,0)'
+                            color: word46b || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
@@ -2730,11 +2730,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 75,
 								offsetY : 250,
 								fill: new ol.style.Fill({
-                            color: word47
+                            color: word47b
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word46 || 'rgba(0,0,0,0)'
+                            color: word46b || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
@@ -2747,11 +2747,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 75,
 								offsetY : 270,
 								fill: new ol.style.Fill({
-                            color: word47
+                            color: word47c
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word46 || 'rgba(0,0,0,0)'
+                            color: word46c || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
@@ -2764,11 +2764,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 75,
 								offsetY : 280,
 								fill: new ol.style.Fill({
-                            color: word47
+                            color: word47c
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word46 || 'rgba(0,0,0,0)'
+                            color: word46c || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
@@ -3019,11 +3019,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 390,
 								offsetY : 140,
 								fill: new ol.style.Fill({
-                            color: word77
+                            color: word77b
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word76 || 'rgba(0,0,0,0)'
+                            color: word76b || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
@@ -3036,11 +3036,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 390,
 								offsetY : 150,
 								fill: new ol.style.Fill({
-                            color: word77
+                            color: word77b
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word76 || 'rgba(0,0,0,0)'
+                            color: word76b || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
@@ -3053,11 +3053,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 390,
 								offsetY : 170,
 								fill: new ol.style.Fill({
-                            color: word77
+                            color: word77c
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word76 || 'rgba(0,0,0,0)'
+                            color: word76c || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
@@ -3070,11 +3070,11 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 								offsetX : 390,
 								offsetY : 180,
 								fill: new ol.style.Fill({
-                            color: word77
+                            color: word77c
                         }),
 							padding: [0,1,0,1],
 								backgroundFill: new ol.style.Fill({
-                            color: word76 || 'rgba(0,0,0,0)'
+                            color: word76c || 'rgba(0,0,0,0)'
                         }),
 					}),
 					stroke: stroke
@@ -4644,7 +4644,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 					stroke: stroke
 				});
 
-				return [style0, style12, style13, style14, style4a, style10, style11, style15, style16, style17, style2, style2b, style2c, style22, style22b, style22c, style32, style32b, style32c, style42, style42b, style42c, style52, style52b, style52c, style62, style62b, style62c, style72, style72b, style72c, style82, style82b, style82c, style9, style9b, style9c, style29, style29b, style29c, style39, style39b, style39c, style49, style49b, style49c, style59, style59b, style59c, style69, style69b, style69c, style79, style79b, style79c, style89, style89b, style89c, style6, style6b, style26, style26b, style36, style36b, style36c, style46, style46b, style56, style56b, style66, style66b, style76, style76b, style86,style86b, style, styleb1, styleb, styleb2, stylec, stylec2, style20, style20b1, style20b, style20b2, style20c, style20c2, style30, style30b1, style30b, style30b2, style30c, style30c2, style40, style40b1, style40b, style40b2, style40c, style40c2, style50, style50b1, style50b, style50b2, style50c, style50c2, style60b1, style60, style60b, style60b2, style60c, style60c2, style70, style70b1, style70b, style70b2, style70c, style70c2, style80, style80b1, style80b, style80b2, style80c, style80c2, style5, style5b, style5c, style25, style25b, style25c, style35, style35b, style35c, style45, style45b, style45c, style55, style55b, style55c, style65, style65b, style65c,style75, style75b, style75c, style85, style85b, style85c];
+				return [style0, style12, style13, style14, style4a, style10, style11, style15, style16, style17, style2, style2b, style2c, style22, style22b, style22c, style32, style32b, style32c, style42, style42b, style42c, style52, style52b, style52c, style62, style62b, style62c, style72, style72b, style72c, style82, style82b, style82c, style9, style9b, style9c, style29, style29b, style29c, style39, style39b, style39c, style49, style49b, style49c, style59, style59b, style59c, style69, style69b, style69c, style79, style79b, style79c, style89, style89b, style89c, style6, style6b, style26, style26b, style36, style36b, style36c, style46, style46b, style56, style56b, style66, style66b, style76, style76b, style86, style86b, style, styleb1, styleb, styleb2, stylec, stylec2, style20, style20b1, style20b, style20b2, style20c, style20c2, style30, style30b1, style30b, style30b2, style30c, style30c2, style40, style40b1, style40b, style40b2, style40c, style40c2, style50, style50b1, style50b, style50b2, style50c, style50c2, style60b1, style60, style60b, style60b2, style60c, style60c2, style70, style70b1, style70b, style70b2, style70c, style70c2, style80, style80b1, style80b, style80b2, style80c, style80c2, style5, style5b, style5c, style25, style25b, style25c, style35, style35b, style35c, style45, style45b, style45c, style55, style55b, style55c, style65, style65b, style65c,style75, style75b, style75c, style85, style85b, style85c];
 			}
 
 },
