@@ -4385,7 +4385,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style25 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word25 +'.png',
-							anchor: [-375, -150],
+							anchor: [-375, -50],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -4398,7 +4398,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style25b = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word25b +'.png',
-							anchor: [-375, -300],
+							anchor: [-375, -250],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -4474,7 +4474,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style45b = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word45b +'.png',
-							anchor: [-375, -1500],
+							anchor: [-375, -1550],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -4486,7 +4486,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style45c = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word45c +'.png',
-							anchor: [-375, -1650],
+							anchor: [-375, -1750],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -4511,7 +4511,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style55b = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word55b +'.png',
-							anchor: [-1400, -1500],
+							anchor: [-1400, -1550],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -4523,7 +4523,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style55c = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word55c +'.png',
-							anchor: [-1400, -1650],
+							anchor: [-1400, -1750],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -4535,7 +4535,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style65 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word65 +'.png',
-							anchor: [-2400, -150],
+							anchor: [-2400, -1350],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -4548,7 +4548,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style65b = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word65b +'.png',
-							anchor: [-2400, -300],
+							anchor: [-2400, -1550],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -4560,7 +4560,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style65c = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word65c +'.png',
-							anchor: [-2400, -450],
+							anchor: [-2400, -1750],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -4609,7 +4609,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style85 = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word85 +'.png',
-							anchor: [-2400, -1200],
+							anchor: [-2400, -50],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -4622,7 +4622,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style85b = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word85b +'.png',
-							anchor: [-2400, -1400],
+							anchor: [-2400, -250],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
@@ -4634,7 +4634,7 @@ ctx2.fillRect(0, 0, canvas2.width, canvas2.height);
 				var style85c = new ol.style.Style({
 					image: new ol.style.Icon({
 							src: imgSrc + 'ES/textures/content/sign_white_'+ word85c +'.png',
-							anchor: [-2400, -1600],
+							anchor: [-2400, -450],
 							rotateWithView: false,
 								anchorXUnits: 'pixels',
 								anchorYUnits: 'pixels',
