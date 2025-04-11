@@ -1724,7 +1724,7 @@ iconSrc:'https://raw.githubusercontent.com/yopaseopor/beta_preset_josm/master/ES
 				var word_key9b = feature.getKeys().filter(function(t){return t.match(key_regex9b)}).pop() || "word9b"
 				var word9b = feature.get(word_key9b) || '';
 				var key_regex9c = /^destination:int_ref:through:3$/
-				var word_key9c = feature.getKeys().filter(function(t){return t.match(key_regex9b)}).pop() || "word9c"
+				var word_key9c = feature.getKeys().filter(function(t){return t.match(key_regex9c)}).pop() || "word9c"
 				var word9c = feature.get(word_key9c) || '';
 				var key_regex5 = /^destination:symbol:through$/
 				var word_key5 = feature.getKeys().filter(function(t){return t.match(key_regex5)}).pop() || "word5"
